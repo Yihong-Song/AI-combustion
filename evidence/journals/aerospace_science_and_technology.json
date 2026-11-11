@@ -1,0 +1,23 @@
+{
+  "journal": "Aerospace Science and Technology",
+  "retrieved_at": "2026-11-11T12:40:48.239221+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Aerospace+Science+and+Technology",
+  "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=295",
+  "journal_id": "295",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, AEROSPACE SCIE Q1 7/59",
+  "categories": [
+    {
+      "category": "ENGINEERING, AEROSPACE",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "7/59"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

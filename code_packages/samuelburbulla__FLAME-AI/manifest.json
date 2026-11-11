@@ -1,0 +1,33 @@
+{
+  "id": "samuelburbulla__FLAME-AI",
+  "repository": "samuelburbulla/FLAME-AI",
+  "url": "https://github.com/samuelburbulla/FLAME-AI",
+  "commit": "b2ba9e6773ae27d3250b9c8aa28cc4847208f627",
+  "retrieved_at": "2026-11-11T13:10:02.400943+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "流动超分辨率挑战；名称含 FLAME 不足以证明所有算例为反应流。作为相邻数据方法。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/samuelburbulla__FLAME-AI.json",
+  "license_url": "https://raw.githubusercontent.com/samuelburbulla/FLAME-AI/b2ba9e6773ae27d3250b9c8aa28cc4847208f627/LICENSE",
+  "license_sha256": "343d642b67ed6a6bd84894fe39dcf6cca4ddf158ae77aa5bb8177bdea1e10c53",
+  "pinned_url": "https://github.com/samuelburbulla/FLAME-AI/tree/b2ba9e6773ae27d3250b9c8aa28cc4847208f627",
+  "archive_url": "https://api.github.com/repos/samuelburbulla/FLAME-AI/tarball/b2ba9e6773ae27d3250b9c8aa28cc4847208f627",
+  "readme_source": "https://raw.githubusercontent.com/samuelburbulla/FLAME-AI/b2ba9e6773ae27d3250b9c8aa28cc4847208f627/README.md",
+  "archive": {
+    "repository": "samuelburbulla/FLAME-AI",
+    "commit": "b2ba9e6773ae27d3250b9c8aa28cc4847208f627",
+    "source_url": "https://api.github.com/repos/samuelburbulla/FLAME-AI/tarball/b2ba9e6773ae27d3250b9c8aa28cc4847208f627",
+    "retrieved_at": "2026-11-11T13:50:54.520725+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/samuelburbulla/FLAME-AI/legacy.tar.gz/b2ba9e6773ae27d3250b9c8aa28cc4847208f627",
+    "status": "downloaded",
+    "path": "code_packages/samuelburbulla__FLAME-AI/b2ba9e6773ae.tar.gz",
+    "bytes": 453460,
+    "sha256": "6446d783347fdaca6005cc53bccd75310d20d6f306eabb0dba2db9486f3701f8"
+  },
+  "collection_status": "source_archive_collected"
+}

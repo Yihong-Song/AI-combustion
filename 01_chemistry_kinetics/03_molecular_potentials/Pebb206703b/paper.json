@@ -1,0 +1,71 @@
+{
+  "id": "Pebb206703b",
+  "doi": "10.1021/acs.energyfuels.0c03211",
+  "title": "Exploring the Chemical Space of Linear Alkane Pyrolysis via Deep Potential GENerator",
+  "year": 2020,
+  "journal": "Energy & Fuels",
+  "authors": [
+    "Jinzhe Zeng",
+    "Linfeng Zhang",
+    "Han Wang",
+    "Tong Zhu"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "03_molecular_potentials",
+  "path": "01_chemistry_kinetics/03_molecular_potentials/Pebb206703b",
+  "doi_url": "https://doi.org/10.1021/acs.energyfuels.0c03211",
+  "metadata_source": "https://api.crossref.org/works/10.1021/acs.energyfuels.0c03211",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "73/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "45/183"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/2498",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "tongzhugroup/mddatasetbuilder",
+    "relationship": "author_supporting_component_readme_explicit",
+    "commit": "52e6edf860128e9624ec11a1cb8703327d014679",
+    "license": "LGPL-3.0 (inspect upstream terms)",
+    "package_id": "tongzhugroup__mddatasetbuilder",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/ebb206703b0d.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "tongzhugroup/mddatasetbuilder",
+    "category": "01_chemistry_kinetics",
+    "subcategory": "03_molecular_potentials",
+    "relationship": "author_supporting_component_readme_explicit",
+    "problem": "以自动化数据构建与并发学习推进燃烧神经网络势训练。",
+    "method": "README 将此 DOI 明确标为后续工作，说明 MDDatasetBuilder 已集成到 DP-GEN 的反应初始化流程；随后可继续并发学习。",
+    "entry": "dpgen init_reaction reaction.json machine.json；机器配置连接 LAMMPS、datasetbuilder 与 Gaussian，后续训练按 DP-GEN 文档执行。",
+    "dependencies": "需要单独固定 DP-GEN、DeePMD-kit、LAMMPS 与量子化学软件版本；本包归档不包含全部外部工具、轨迹或计算资源。",
+    "evaluation": "报告每轮新增标注构型、模型偏差准则、总量子化学成本与未见反应场景的独立测试；比较固定数据和主动学习预算。",
+    "limitations": "与 2020 Nature Communications 工作共用一个支撑包，只计一个包；该映射来自 README 后续工作说明，尚未复现本文图表。"
+  }
+}

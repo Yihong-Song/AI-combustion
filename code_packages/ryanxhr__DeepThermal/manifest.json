@@ -1,0 +1,18 @@
+{
+  "id": "ryanxhr__DeepThermal",
+  "repository": "ryanxhr/DeepThermal",
+  "url": "https://github.com/ryanxhr/DeepThermal",
+  "commit": "0e7ae8d44e1c56b9f3fc3c9db3895fa965def095",
+  "retrieved_at": "2026-11-11T13:10:01.961017+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "工业燃烧控制强化学习，AAAI 2022 会议工作，单列为会议工具而非 JCR 期刊。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/ryanxhr__DeepThermal.json",
+  "pinned_url": "https://github.com/ryanxhr/DeepThermal/tree/0e7ae8d44e1c56b9f3fc3c9db3895fa965def095",
+  "archive_url": "https://api.github.com/repos/ryanxhr/DeepThermal/tarball/0e7ae8d44e1c56b9f3fc3c9db3895fa965def095",
+  "readme_source": "https://raw.githubusercontent.com/ryanxhr/DeepThermal/0e7ae8d44e1c56b9f3fc3c9db3895fa965def095/README.md",
+  "collection_status": "link_only"
+}

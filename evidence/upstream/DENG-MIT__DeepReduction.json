@@ -1,0 +1,13 @@
+{
+  "repository": "DENG-MIT/DeepReduction",
+  "url": "https://github.com/DENG-MIT/DeepReduction",
+  "retrieved_at": "2026-11-11T12:38:31.812080+00:00",
+  "git_error": "fatal: unable to access 'https://github.com/DENG-MIT/DeepReduction.git/': Failed to connect to github.com:443 after 21047 ms: Could not connect to server\n",
+  "commit": "f739f4cb6c306d8a8c459488af6209e9046e7ea7",
+  "pin_source": "GitHub commits API (git ls-remote unavailable)",
+  "readme_url": "https://raw.githubusercontent.com/DENG-MIT/DeepReduction/f739f4cb6c306d8a8c459488af6209e9046e7ea7/README.md",
+  "readme_path": "evidence/upstream/DENG-MIT__DeepReduction.readme.txt",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/DeepReduction/f739f4cb6c306d8a8c459488af6209e9046e7ea7/LICENSE",
+  "license_path": "evidence/upstream/DENG-MIT__DeepReduction.license.txt",
+  "api_checked_at": "2026-11-11T13:09:42.681208+00:00"
+}

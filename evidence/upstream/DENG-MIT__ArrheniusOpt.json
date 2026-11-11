@@ -1,0 +1,12 @@
+{
+  "repository": "DENG-MIT/ArrheniusOpt",
+  "url": "https://github.com/DENG-MIT/ArrheniusOpt",
+  "retrieved_at": "2026-11-11T12:38:32.148878+00:00",
+  "git_error": "fatal: unable to access 'https://github.com/DENG-MIT/ArrheniusOpt.git/': Failed to connect to github.com:443 after 21048 ms: Could not connect to server\n",
+  "commit": "a28080937724899c51d05fe86a91e694f6d4860b",
+  "pin_source": "GitHub commits API (git ls-remote unavailable)",
+  "readme_url": "https://raw.githubusercontent.com/DENG-MIT/ArrheniusOpt/a28080937724899c51d05fe86a91e694f6d4860b/README.md",
+  "readme_path": "evidence/upstream/DENG-MIT__ArrheniusOpt.readme.txt",
+  "license_status": "not_found_via_api",
+  "api_checked_at": "2026-11-11T13:09:42.205010+00:00"
+}

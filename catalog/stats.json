@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-11",
+  "candidate_papers": 428,
+  "recent_2024_2026": 238,
+  "jcr_officially_verified": 0,
+  "quartile_status": {
+    "pending_jcr": 49,
+    "provisional_q1_q2": 368,
+    "adjacent_q3_q4": 11
+  },
+  "reviewed_paper_code_links": 27,
+  "code_packages": 52,
+  "licensed_for_collection": 29,
+  "archives_collected": 16,
+  "executed_independent_baselines": 2,
+  "published_paper_metrics_reproduced": 0,
+  "executed_author_demos": 1,
+  "partial_source_snapshots_collected": 13
+}

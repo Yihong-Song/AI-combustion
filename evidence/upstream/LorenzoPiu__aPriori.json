@@ -1,0 +1,14 @@
+{
+  "repository": "LorenzoPiu/aPriori",
+  "url": "https://github.com/LorenzoPiu/aPriori",
+  "retrieved_at": "2026-11-11T13:50:41.823805+00:00",
+  "commit": "19bb0fa13fb068c4bd74bed1f8deae35708514b6",
+  "readme_path": "evidence/upstream/LorenzoPiu__aPriori.readme.txt",
+  "readme_url": "https://github.com/LorenzoPiu/aPriori/blob/19bb0fa13fb068c4bd74bed1f8deae35708514b6/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/LorenzoPiu__aPriori.license.txt",
+  "license_url": "https://github.com/LorenzoPiu/aPriori/blob/19bb0fa13fb068c4bd74bed1f8deae35708514b6/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "GPL-3.0",
+  "api_checked_at": "2026-11-11T13:50:52.294621+00:00"
+}

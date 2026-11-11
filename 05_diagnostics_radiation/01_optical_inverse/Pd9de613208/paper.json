@@ -1,0 +1,70 @@
+{
+  "id": "Pd9de613208",
+  "doi": "10.1016/j.fuel.2022.125508",
+  "title": "Data-driven discovery of heat release rate markers for premixed NH3/H2/air flames using physics-informed machine learning",
+  "year": 2022,
+  "journal": "Fuel",
+  "authors": [
+    "Cheng Chi",
+    "Srijith Sreekumar",
+    "Dominique Thévenin"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "01_optical_inverse",
+  "path": "05_diagnostics_radiation/01_optical_inverse/Pd9de613208",
+  "doi_url": "https://doi.org/10.1016/j.fuel.2022.125508",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.fuel.2022.125508",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "51/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "31/183"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=2950",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "6ff2c190cce651be71999b80ee70ff37c645631e",
+    "license": "not_located",
+    "package_id": "SrijithSreekumar__Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/d9de613208f5.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network",
+    "category": "05_diagnostics_radiation",
+    "subcategory": "01_optical_inverse",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "寻找 NH3/H2/air 预混火焰中可用于推断热释放率的组分标记。",
+    "method": "README 明确给出本文 DOI，说明以物理信息机器学习建立组分标记与热释放率的非线性关系。不能把这种物理约束回归自动等同求解 PDE 的 PINN。",
+    "entry": "根目录含 Data_preprocessing、PIML_mass_fraction、PIML_molar_fraction、Gradient_output_to_input、Sensitivity_analysis、Evaluation 及重构误差分析目录。",
+    "dependencies": "分别核对质量/摩尔分数输入、数据预处理和模型框架版本；README 未提供完整的一键运行环境。",
+    "evaluation": "按温度、配比和火焰工况留出，比较源项幅值、峰位和积分热释放；加入测量噪声和可实际观测组分约束。",
+    "limitations": "未定位许可，仅固定链接；未执行。基于机理生成数据的相关性不能直接证明实验测量的标记鲁棒性。"
+  }
+}

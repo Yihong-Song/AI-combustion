@@ -1,0 +1,71 @@
+{
+  "id": "P677f3e7df2",
+  "doi": "10.1016/j.jaecs.2025.100455",
+  "title": "Machine learning enhanced time-resolved multi-particle tracking velocimetry in solid fuel particle group combustion",
+  "year": 2026,
+  "journal": "Applications in Energy and Combustion Science",
+  "authors": [
+    "Haowen Chen",
+    "Benjamin Böhm",
+    "Tao Li"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/P677f3e7df2",
+  "doi_url": "https://doi.org/10.1016/j.jaecs.2025.100455",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.jaecs.2025.100455",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "ESCI",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "ESCI",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "ESCI",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "ESCI",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=30136",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels. Secondary table has possible duplicated-category issue; kept pending."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/677f3e7df2df.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

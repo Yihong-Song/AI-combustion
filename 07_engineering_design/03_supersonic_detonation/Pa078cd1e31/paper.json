@@ -1,0 +1,56 @@
+{
+  "id": "Pa078cd1e31",
+  "doi": "10.1016/j.ast.2025.110169",
+  "title": "Supersonic combustion flow field reconstruction in a scramjet based on deep learning method",
+  "year": 2025,
+  "journal": "Aerospace Science and Technology",
+  "authors": [
+    "Shicai Huang",
+    "Ye Tian",
+    "Xue Deng",
+    "Maotao Yang",
+    "Erda Chen",
+    "Hua Zhang"
+  ],
+  "category": "07_engineering_design",
+  "subcategory": "03_supersonic_detonation",
+  "path": "07_engineering_design/03_supersonic_detonation/Pa078cd1e31",
+  "doi_url": "https://doi.org/10.1016/j.ast.2025.110169",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.ast.2025.110169",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENGINEERING, AEROSPACE",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "7/59"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=295",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/a078cd1e3143.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

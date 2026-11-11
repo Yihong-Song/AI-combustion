@@ -1,0 +1,848 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "LorenzoPiu/aPrioriDNS",
+  "commit": "19bb0fa13fb068c4bd74bed1f8deae35708514b6",
+  "date": "2026-11-11",
+  "path": "code_packages/LorenzoPiu__aPrioriDNS/19bb0fa13fb0-source-only.tar.gz",
+  "bytes": 132348,
+  "sha256": "9cadaabd1124f04c1ceb726915ab47366e7397526883315e980c8e37d5d28630",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": ".readthedocs.yaml",
+      "git_blob_sha": "642c3f28587e6301eb957f89e69fedc3d1b3de9f",
+      "sha256": "ab3b8ce1aa5032fad29e9526af4b0995b842141026ebb7a7c86b0604de6c3416",
+      "bytes": 1066
+    },
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "c0f2d9d53db9a64a0ba2f9b7597a96014368ed40",
+      "sha256": "77a8dac2b94742036c155aade644caa40549378ce682b5e04372704b17945db6",
+      "bytes": 35218
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "43fe35b00396cf1701f59465f103f85c864080d5",
+      "sha256": "36ad8ea1a1390a9e6429d4745dae35a0ac0afae6874ee5991643d28be9186145",
+      "bytes": 11451
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "git_blob_sha": "6576fbfc4e4c43d4f65f952d758552c3536a6033",
+      "sha256": "4eb6ef82c0e70e07c0f4ac38ae9357fc4b58160e570c55a2d439b3e769a4158c",
+      "bytes": 1710
+    },
+    {
+      "path": "docs/requirements.txt",
+      "git_blob_sha": "7a582d0d68acb2f9e864a05430bfd234042b9473",
+      "sha256": "1bb783f05e6e6c3d8e2c2140233ac33a8cd39d3b253331bed0109ea2733fa16d",
+      "bytes": 119
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/Field.rst",
+      "git_blob_sha": "f249ab1f87b2bbe15e8a1cc788ee3d3a576c0fe8",
+      "sha256": "51763aa2425d25e2c604cae219397bf1e531a2a55cefb381033b65dd60af2850",
+      "bytes": 47077
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/Mesh.rst",
+      "git_blob_sha": "59db27cbc921c756dc9ffc00f6ab7f7d00f6542f",
+      "sha256": "54d3caf72d5087dfd35426b7f4ea99b68ff14a96ea765cc82cffd4de12b2a576",
+      "bytes": 2517
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/Scalar.rst",
+      "git_blob_sha": "85dc32b4179967b570853c65fa2c640b2518ac3b",
+      "sha256": "6affaa12b78305567fb584ba0811b6312c19d03e4fe4cfafd916f92f29bf3243",
+      "bytes": 8324
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/add_variable.rst",
+      "git_blob_sha": "9491d1cb443a199a00a69473831c4010ef197376",
+      "sha256": "8f121f79a20db16b159997febb1600316ae23a69ce4a5cfc08a724ca13f43b0a",
+      "bytes": 195
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/build_meshgrid.rst",
+      "git_blob_sha": "6a98583ab784af524d16d52bfeffff201b8da9bd",
+      "sha256": "ea2d1c5d241aa6e5531be8122c53700048dfe84cf02d71044adc77f0a27cf58f",
+      "bytes": 874
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/check_input_string.rst",
+      "git_blob_sha": "16f77add98f98b9aea35fa64f055258f589cb3f3",
+      "sha256": "ca3d93a7c344cfa30935cb5a60445b3a2813a499e829889ef27ef590ae8627d0",
+      "bytes": 904
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/check_mesh_files.rst",
+      "git_blob_sha": "ebe5c69fbd553e1d41f329d5d51004741c4d2c3c",
+      "sha256": "aaed91777cedca4be2c7a0667b58d4fd14e10cd53e72155ec914072b69f6327b",
+      "bytes": 474
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/check_same_shape.rst",
+      "git_blob_sha": "4eee75feafba24da5fd4fa3b70f5d781ca68e2ca",
+      "sha256": "ff2c300b0a2c09240b527717011d29e11b558824d4088f69bbc9640db1d3f982",
+      "bytes": 287
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/compute_cell_volumes.rst",
+      "git_blob_sha": "fc4b1903716ceff4d8f167b1e65fb8f6462ce6e9",
+      "sha256": "98852d4d690997bd01fcd5ba8c3002eca0d2e48228486f367df1aac3f89457d2",
+      "bytes": 1412
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/delete_existing_files.rst",
+      "git_blob_sha": "f8ded3117f8db407c1794d266b44ba6900b343b0",
+      "sha256": "f4a0c9b598cb1861ee4f45d2d75a1746fc3cdbf1e24f9088001a636ca32c8bbf",
+      "bytes": 454
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/delete_file.rst",
+      "git_blob_sha": "4ff9376feb7c1a4cacb164a1e352af49c9051f72",
+      "sha256": "45b56075661b0b5ce6df72588b2dabca237a12b275964eacd815870dfb4df281",
+      "bytes": 733
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/download.rst",
+      "git_blob_sha": "2be49cbecc6b514929b62b8306d7802d32f045a1",
+      "sha256": "501c4c1b83e969bf5d8d2d546984a8c3f3ee1c4fa8833b7617c5db9cff8a2407",
+      "bytes": 539
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/downsample.rst",
+      "git_blob_sha": "7021ce20d2fec166324ea8a26fba2bf241ee26ad",
+      "sha256": "03b8c78c8d291846ac5ff7f3d7bbc5118055093499e0a65f86cdc0b1c6d4a559",
+      "bytes": 97
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/filter_3D.rst",
+      "git_blob_sha": "9a48d8c767962fcb9e4109d14efd374105c99939",
+      "sha256": "d8e2fdf1f3d77aa8ef33812d751f84bb3413d5b77a0eea5985cea8bc799c4d15",
+      "bytes": 2521
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/filter_box.rst",
+      "git_blob_sha": "f4503c56fecee10086dcaf6c65d2d70ebc1621ba",
+      "sha256": "215474a8a2fd4c36682dccdb9204269159b6d5bb35451b1f6a454b428b01d139",
+      "bytes": 2038
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/filter_gauss.rst",
+      "git_blob_sha": "6f59bd6e830eb93041f0c4c0e221522d8bf40b4f",
+      "sha256": "64bcacbb966047dec292be85911516f73705c95e3a60138f5dd9d4cc37edc6c3",
+      "bytes": 1183
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/generate_mask.rst",
+      "git_blob_sha": "c889d129c08eb06adf78abb7c6e57f7b911a4aad",
+      "sha256": "dfb19067adeed73ff6ba9a2ecbd46c81278b2d940f16e588557670d1e2231a76",
+      "bytes": 496
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/index.rst",
+      "git_blob_sha": "3996b7253e8dbd3d0e5fec9d9cb49b6a038ca55f",
+      "sha256": "8c37dd6a99d1155941fda2229d192e54a87bbae725ad41bbbd9b2df99820081f",
+      "bytes": 2175
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/plot_power_spectrum.rst",
+      "git_blob_sha": "e20ab4130df46da344b3c564235cff5f70daa8ed",
+      "sha256": "9431598b6581892ab59d9af95f1af8195bf73b6eca1a68268b7b41d256462db7",
+      "bytes": 756
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/process_chunk_LFR.rst",
+      "git_blob_sha": "0f2156f0124e8eaf449ef56bb91d42430ba882ab",
+      "sha256": "3b5481531a1792365d421c380b1be8af0653cacfa94f364415aa1683900fb84c",
+      "bytes": 157
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/process_chunk_PSR.rst",
+      "git_blob_sha": "b55f599eba74ec18b4ad3354d979aecf8ebc69c2",
+      "sha256": "4b05e8ab272c1e13868c4123e4148d79a514e91a1e5643c9433c72d7bdef4e20",
+      "bytes": 170
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/process_file.rst",
+      "git_blob_sha": "81bf697371a422a4dfb1f583cf96e3124dc868c9",
+      "sha256": "5335b30afc7b3fc7796779408a786285ae5b182da1cb4033450c52d29dcf10c3",
+      "bytes": 621
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/process_species_in_chunks.rst",
+      "git_blob_sha": "9b6d35f5d0017dd88497904f1149c3b81ec04320",
+      "sha256": "7132293930cb9b21f1db74ec9d4d2fbc0da9abf5050fb4ef0e1ce92bf0d441a8",
+      "bytes": 550
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/read_variable_in_chunks.rst",
+      "git_blob_sha": "29d4b5847d868fd9c177657926d7b3d6f2c653e9",
+      "sha256": "abba4d3000d74e4cea7755b8301dd413b4ea279fcb9011d15acd8df61a869e17",
+      "bytes": 429
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/save_file.rst",
+      "git_blob_sha": "46938955c967198d8dda830542bfc7208907a3b1",
+      "sha256": "af95330c554126378d051e4f52ce028c3b6c5204ee5f9563d4de2bcc74203059",
+      "bytes": 817
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/section_and_average.rst",
+      "git_blob_sha": "ebbca06a88a7c6365b04728f65855abc67ef92a6",
+      "sha256": "67a816230cbb5dd4e4f3ac04b3fd6b6289da7b8e42576152259f6ae35620052b",
+      "bytes": 519
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/x_midplane.rst",
+      "git_blob_sha": "2df7a59d7fdcbc0fac7534fb1cfc255501424c03",
+      "sha256": "282e87cd2f4e83e8edb657466dff34da78c8b579dc56d2faa5afb96ddfeb81fc",
+      "bytes": 94
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/y_midplane.rst",
+      "git_blob_sha": "ece83dfdc271553e4549c1e6f56190a2db0c23ba",
+      "sha256": "65b2cf9fa20d79f85de58c50da412f25419265df320ed9e6406aef6232181298",
+      "bytes": 94
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/DNS/z_midplane.rst",
+      "git_blob_sha": "10d9ec413674918ae5a30c69d0c2269d22d7d641",
+      "sha256": "6b31be3fb5b721c9f7c3c939fc28af2d32ceb898616b3c51d6d6884d94537fe6",
+      "bytes": 94
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/Field.rst",
+      "git_blob_sha": "e74ac8533c4726027db0abaaba8db27d3ba58f62",
+      "sha256": "1d3249ef44fda1c11b05f68eb68e773d4e3a7172a0c1b63896f7dc81ef74471b",
+      "bytes": 47065
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/Mesh.rst",
+      "git_blob_sha": "8617bbf29997e407f7962b51f37c4cf48de37aaa",
+      "sha256": "983450caec6469addd13bcb5c3b656c4d924f7e7d69aa4d7d6f3fadb9c92f080",
+      "bytes": 2505
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/NN/TrainingBuilder.rst",
+      "git_blob_sha": "80190de970ed1d8c86ae60aa66ca02f6ccbde965",
+      "sha256": "1f451317875f093a11f8bdaf8ba08ea69276b7da915285168c36c035cbff2c0d",
+      "bytes": 4110
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/NN/VectorScaler.rst",
+      "git_blob_sha": "280b9c5f7da6f7ad46087e5303777e004d2b7f7a",
+      "sha256": "c98dc0d8c2810418a2d28220381f96f455b09395a3e81006c95d6fb137c0c883",
+      "bytes": 4063
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/NN/index.rst",
+      "git_blob_sha": "db96d6f06d7596be73a0958616476f01b7535cca",
+      "sha256": "b5683a8d85997a6952f35bf842e81c9c7e225db134f971d363b45080afb63257",
+      "bytes": 465
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/NN/is_json_file.rst",
+      "git_blob_sha": "b4ada36eff73408a09b0b38d79a719603e67b6ea",
+      "sha256": "031646dc165db4d3312222a33ef5a3e30bd78adb83957c47a0531cb86d2fd64c",
+      "bytes": 366
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/Scalar.rst",
+      "git_blob_sha": "dbbd886298642b4729a358129a4a81ec510e48c0",
+      "sha256": "357141b744881f4b50b007c0f6e5ece0a412bacb361b835daf2f91768acbd981",
+      "bytes": 8312
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/add_variable.rst",
+      "git_blob_sha": "bad27c6daa3d9c805741ef021075db74fd18f2dc",
+      "sha256": "1b0d84d4bca5f882335d754023edd6b8297d7b1d49f35fcdf97a9f2a516bc38e",
+      "bytes": 183
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/cond_mean_plot.rst",
+      "git_blob_sha": "4e37ad6c054388f01c483788accc4edad5048868",
+      "sha256": "e016b8b07ac38e690766400dd16274628e3f4dc65f668b450afe4915a42f38cc",
+      "bytes": 557
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/contour_plot.rst",
+      "git_blob_sha": "35c29308db64fb54843ef7b92e4ff3432ffdfb43",
+      "sha256": "546d953396bc5fc6c94f09c17d74fd6120f00aae151bc6b31551ba7958ce3512",
+      "bytes": 523
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/delete_file.rst",
+      "git_blob_sha": "9152360f108b12fe6846285e0eaf3098ff1335f2",
+      "sha256": "76661ea8c352c1d4da5f9b611270e2e58b1e59f04543a255fe5d26647abffa4b",
+      "bytes": 721
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/derivatives/gradient_x.rst",
+      "git_blob_sha": "14891781f44244036bd04c40e28d9c6b5baeb736",
+      "sha256": "6a91f990fba8829807429adbb6610e884e2487b81e5dd467988f81de19d2ccdc",
+      "bytes": 814
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/derivatives/gradient_y.rst",
+      "git_blob_sha": "eb18eb9740ae4096e6197dc411009eb7195c58df",
+      "sha256": "f339a9d4503524ec1b554515b2e3aeab4d34676861f69906ba0811b02be93b2a",
+      "bytes": 251
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/derivatives/gradient_z.rst",
+      "git_blob_sha": "e1cd97e61c4fa8dd54fb558dcaa854731ba94d5f",
+      "sha256": "97052657b4f135f8efade2696177c8d70dab376f367feb5e677c6fccce66b263",
+      "bytes": 251
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/derivatives/index.rst",
+      "git_blob_sha": "b677a4729ddeca9ff2141ef26ad0bb6acc435f46",
+      "sha256": "19b6ec095dbf17c086e8116de9256b5155d26a50723a5c544f6964398b8942ad",
+      "bytes": 761
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/derivatives/laplacian.rst",
+      "git_blob_sha": "0a6f2c9cc308146ef699cb51afc364b30738249b",
+      "sha256": "2784636339945c625862ff48e7b4ab1ad126b189f2f20165cc4e61e7e46eb7ea",
+      "bytes": 523
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/derivatives/print_gradients_order.rst",
+      "git_blob_sha": "6be91f9174bee7c75802fe4f7419285bf06fedb5",
+      "sha256": "08625b25d83383efbf8311a9c9dfb6f1835529544f2e42e8c3d1d27d61708576",
+      "bytes": 156
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/derivatives/set_gradients_order.rst",
+      "git_blob_sha": "b7de154e6eb8d958341a48f0bef8142d4213bb35",
+      "sha256": "f482d58d17a9a2925cc1651b4431879f6f8dc0f316f46cdd85ee289e64fd4fe5",
+      "bytes": 158
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/download.rst",
+      "git_blob_sha": "f48306176a2844875c92238f6959d652e9b3892a",
+      "sha256": "7fb481847759518e1d90bb74271dff9b4eafddd4ee5328aac986a78b7587d721",
+      "bytes": 527
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/filter_3D.rst",
+      "git_blob_sha": "67197d1e02de23ebe712d54c2351726f5b0eae94",
+      "sha256": "df687d7a4ad2880209c7a28a6a30f124af6648694a6b2c896465c2c4dcb0ba65",
+      "bytes": 2509
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/filter_box.rst",
+      "git_blob_sha": "febec0cb330f4dddb8775dfa99098545edc697e1",
+      "sha256": "92f8f39b661d6527b3aaf137b229b11d6b3901976eac88bb8fcbd100f0114001",
+      "bytes": 2026
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/filter_gauss.rst",
+      "git_blob_sha": "7dc9454cd55f93127b17e4f2c2d2a05195350290",
+      "sha256": "fadd33b02275e85e8d14142c8e7a94e1e2d44ce738d3bbae57d5b56583c71f4f",
+      "bytes": 1171
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/gradient_x.rst",
+      "git_blob_sha": "139dcd4f0f27116a8569d55e499259a19ad0b4e1",
+      "sha256": "b84cda3cc235f8559c3063a77e2a3dca2dd945e9aa2124f4f0bdd9e4b36750b6",
+      "bytes": 778
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/gradient_y.rst",
+      "git_blob_sha": "a90a44bf083c89e7649ab2dca5edba80cc3cee6c",
+      "sha256": "2d7a146b58fb47b747a7aa234235a90bed0d9ab5c960138749ef4c6456a3d69d",
+      "bytes": 215
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/gradient_z.rst",
+      "git_blob_sha": "1bad59c2744a358dbf7fdef1d273e89bde50cd7a",
+      "sha256": "d06d6b51839bf80ae918ec0e308894834fb222f4326a602af3268541fc19f590",
+      "bytes": 215
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/index.rst",
+      "git_blob_sha": "ee54f4b51466943ea9e81a491e27342c9ef90603",
+      "sha256": "e837a25c7a6a14a43c4431499b381f1c37164638e68658a352677a134246b179",
+      "bytes": 1387
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/parity_plot.rst",
+      "git_blob_sha": "99899483aaa7d368df80f1f9229e4312e8815664",
+      "sha256": "bc92d272757be762d6dd920224107f015ac85a9204e20aad587a952829ba5773",
+      "bytes": 440
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/bins.rst",
+      "git_blob_sha": "0dfe5d44ad253e1e5b4809e8ff386242e3fe3937",
+      "sha256": "0fafb9db730e3394524932a04e5b417e739831df4c99512a2c8e433dea99b9db",
+      "bytes": 809
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/cond_mean_plot.rst",
+      "git_blob_sha": "c45261c70f0797b82b6ad2664ae8242bc4450a76",
+      "sha256": "fdfd4e4a90ada66ace5605ff22613d1892c3dbb7129b74cae7e9d460c3a5498e",
+      "bytes": 602
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/contour_plot.rst",
+      "git_blob_sha": "930ce063d7e7865681cd259c22fb3207a67b6456",
+      "sha256": "59e9fa083d902d38df2c02421ffda947b240c62de8840565db886c2464b8eb57",
+      "bytes": 568
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/generate_colors.rst",
+      "git_blob_sha": "701d4bdcbfe184eaa886a08db3490bce72df9162",
+      "sha256": "786faf211362b1a909fe3dd8956c91d6e6582980394e38c779b201abc4e57d76",
+      "bytes": 356
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/generate_lines.rst",
+      "git_blob_sha": "dd26e304e1775e62d83787aef30b1f29efabf23b",
+      "sha256": "ee3330d655b80aca12e7540595d52e088832fd46b62cb0388ed34901603485a0",
+      "bytes": 135
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/generate_markers.rst",
+      "git_blob_sha": "2b76991e02e69afed53ba8a3f53ae283596aebb4",
+      "sha256": "94617f6c31383fd6ad3dbcdf837c4b01025187496532ff62b80411301a075f84",
+      "bytes": 141
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/index.rst",
+      "git_blob_sha": "ad1060b25b43fc8dea649dca88a641444408c83e",
+      "sha256": "1b3ead7ba95970453089f8e5cc318275851b1b8ef127648c9746fcc247195e5d",
+      "bytes": 992
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/parity_plot.rst",
+      "git_blob_sha": "b136fac06f8602d7bbfab5f951342ee0571051d9",
+      "sha256": "79471a64261031dc741d7dbb999aab6ce5fefdfdf0c492626339233d12b148a5",
+      "bytes": 485
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/plot_multifield.rst",
+      "git_blob_sha": "1dbc9eaecec6cc7feb06d9330b64bc55272b328d",
+      "sha256": "ffed0a9cdcbd7eb2d7a75e860a55fc8ef9700bdcd866497f321fd4af0ae859db",
+      "bytes": 1439
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/plot_utilities/scatter.rst",
+      "git_blob_sha": "5b2692f31cf4737ad2c6ef01263ee0d7e8c8dd3a",
+      "sha256": "e186213a6583fbb559297cda0661902882f1383f64b510ae006e4073dab9e559",
+      "bytes": 488
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/process_file.rst",
+      "git_blob_sha": "38a3cac660bb19638a913daeb7f47407d993491e",
+      "sha256": "8a9e27530a7ffd0c450ed53a1b9f33edcd7bc4fca33b2952239fbd7a4087ae53",
+      "bytes": 609
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/save_file.rst",
+      "git_blob_sha": "2a3cfedfcbbc7dbb8bebcc166a2e25bd13901b76",
+      "sha256": "805721b086cf281466fc8b2157ac742980463ed84ed7f04e7cbc48a27ce06923",
+      "bytes": 805
+    },
+    {
+      "path": "docs/source/autoapi/aPriori/scatter.rst",
+      "git_blob_sha": "3a35748e338aba5d58e77dc35fbab94d5fc53756",
+      "sha256": "f76e68aee6aa8634fa1e035c69a716d749b4c835b5c12a274106b9133d83bd8b",
+      "bytes": 443
+    },
+    {
+      "path": "docs/source/bibliography.rst",
+      "git_blob_sha": "4ae0eacebc6673cba3ef391dac64c22cdd24f806",
+      "sha256": "c0bfd128e62031813bffd04b189a1eec3c022af6f05ad66af8007483710e4063",
+      "bytes": 88
+    },
+    {
+      "path": "docs/source/conf.py",
+      "git_blob_sha": "d59e58cbc87afba22f5e0e558ab868a3143e3964",
+      "sha256": "b48d7b82eb4f640b2c59c1bb92e780d2e8e823e230637c5bbd8859d8b1b41913",
+      "bytes": 4421
+    },
+    {
+      "path": "docs/source/conferences/CYPHER2025.rst",
+      "git_blob_sha": "1fd5916557b33edac1be368bb79b2137e4b3133c",
+      "sha256": "a530f9fdbcf1ea8e9a09c0487f9c914eaccb6d72d33a88f3ce634967cb76ed1b",
+      "bytes": 4944
+    },
+    {
+      "path": "docs/source/conferences/ML4Fluids2024.rst",
+      "git_blob_sha": "c19f8a7bde5341a89551e839212f61cba8febefd",
+      "sha256": "737172a110ba9c45a668ca68584bd4d10c90286fc871d474f7665009f791871f",
+      "bytes": 5893
+    },
+    {
+      "path": "docs/source/conferences/ML4Fluids2026.rst",
+      "git_blob_sha": "8b9f40eba9666f204395c40cd8689af882af66b3",
+      "sha256": "c278c6775371032ef237749d9dbb185660f78e1638eaa73376287f01d7271e33",
+      "bytes": 5724
+    },
+    {
+      "path": "docs/source/contribute.rst",
+      "git_blob_sha": "f666333cd692a28ed9bdd74102e921d8040dd305",
+      "sha256": "16d79f7fb6c1579faef7da8bb9daf1d74d4d8a35656d5dbb2ae68d8cfe232e0e",
+      "bytes": 6771
+    },
+    {
+      "path": "docs/source/fundamentals_and_usage.rst",
+      "git_blob_sha": "de04360f8fedd11badf66c4f3b2e973c8cc4a60d",
+      "sha256": "229191f67540742c3c0f794ab9d9acec078a73f0e45977b11222b32d0b5c3eb7",
+      "bytes": 147
+    },
+    {
+      "path": "docs/source/getting_started.rst",
+      "git_blob_sha": "71393a31549c3a0160afa096f4d0b105021623dd",
+      "sha256": "222fd730accd5e1d3d7312e10f1c5e3ff6a1170a3586cd1312f5c032954b0654",
+      "bytes": 140
+    },
+    {
+      "path": "docs/source/how_to_cite.rst",
+      "git_blob_sha": "3c0dde498129002dc2e998ae17951fbc95a4a40b",
+      "sha256": "76f553e22a9cb7ba5e6a611e9549c59e5a54495466e57a93a336e936cd8da18b",
+      "bytes": 2296
+    },
+    {
+      "path": "docs/source/index.rst",
+      "git_blob_sha": "6b1c98c0aa5f972d35b191cb74cf6537411dddc5",
+      "sha256": "ba1e742878fd360c5bd47883a9e8b91c667f6a3e6274d90629c9f1f8ad1a0e9c",
+      "bytes": 1160
+    },
+    {
+      "path": "docs/source/installation.rst",
+      "git_blob_sha": "28b99af0c2b41446e4a30df42853b4a5b387fd22",
+      "sha256": "e209f6d0fd1a9af492064474f5b399b76d255f1661f2bda983f81e5e3b7bcb08",
+      "bytes": 3348
+    },
+    {
+      "path": "docs/source/journal_article.rst",
+      "git_blob_sha": "a4771c732fd8159fabe2a8ca951895581d358223",
+      "sha256": "33ac732227fa0f74b9b399f5880124bd78ae28393df140fd1f40052d7fce5fb8",
+      "bytes": 956
+    },
+    {
+      "path": "docs/source/license.rst",
+      "git_blob_sha": "9ee6766d307590ccb88d99006cd1fd75ff3473dd",
+      "sha256": "b7be19ee2b91c182d3b0e21abfdd2072c5ff153d1605215def9b29871d7048b7",
+      "bytes": 37307
+    },
+    {
+      "path": "docs/source/publications.rst",
+      "git_blob_sha": "9d66dc351b2573976b5b22f5396281b99aaedad8",
+      "sha256": "c81e94f9c9dcffcd78d6d33b201547d6217b505ff7ae0651252dc10b83a33a90",
+      "bytes": 1272
+    },
+    {
+      "path": "docs/source/quickstart.rst",
+      "git_blob_sha": "a2baed7eff60881c18c2cc3bf85463d3a6d0f064",
+      "sha256": "0275fb226ca6e909afe2a676e7a00ea3b7a54a76b1a4ea2f0efc79a42544e43a",
+      "bytes": 14467
+    },
+    {
+      "path": "docs/source/tutorials/01_cut_scalar.rst",
+      "git_blob_sha": "3c78e2c8aad0ab3fc62b8dfedaccd5ed2eca773a",
+      "sha256": "ab6baa2b169d5abe37eba184480d43965f14d34f99bc957c579ff5bff127a03e",
+      "bytes": 4576
+    },
+    {
+      "path": "docs/source/tutorials/02_filter_scalar.rst",
+      "git_blob_sha": "f44124917a3007edb7a173e3384561788f6b95b3",
+      "sha256": "fe6e7f7befc52dac9969e286193e12c16c89a9e86f04edef48d359bb66c9e201",
+      "bytes": 3851
+    },
+    {
+      "path": "docs/source/tutorials/03_read_dataset.rst",
+      "git_blob_sha": "61b2f00e9f4a372ecac43f110af27e5b95e28690",
+      "sha256": "1607abff41de8cc59acbded653bab1f4531e92dc014b2e215c09beff5c3a6e30",
+      "bytes": 6169
+    },
+    {
+      "path": "docs/source/tutorials/04_data_visualization.rst",
+      "git_blob_sha": "72fb876a0c37c863ca792a4da7a63daeed6e2996",
+      "sha256": "1fb4b94ad8962a21d7ad1134d37aed6e8a3e208b7a97b125af491281e19dec58",
+      "bytes": 6161
+    },
+    {
+      "path": "docs/source/tutorials/05_cut_dns_field.rst",
+      "git_blob_sha": "1e640fd1cf40126bd740266adb8b86a5f3235826",
+      "sha256": "67b5fa3fd5152f33393e0c10dfa33f0e0612e8d0d99a519590e16604726b9c8f",
+      "bytes": 2301
+    },
+    {
+      "path": "docs/source/tutorials/06_filter_dns_field.rst",
+      "git_blob_sha": "e4034e17033aa7b6fd07520e00fec96836203bc9",
+      "sha256": "05e2ffe599db01ef688809f377371cb795c4e9264933768d10c8ced7fe6df325",
+      "bytes": 2987
+    },
+    {
+      "path": "docs/source/tutorials/07_data_driven_combustion.rst",
+      "git_blob_sha": "3f7ec6e3aaf68ac51c368820712bda973ec3ef7d",
+      "sha256": "35b434b6b88c2a9d923d05674e76bd574e302f362be8ca1851fc4da3724ad21d",
+      "bytes": 22656
+    },
+    {
+      "path": "docs/source/tutorials/08_csp_analysis.rst",
+      "git_blob_sha": "6c4077c24249f40ceaedf464b19794aa87ea8602",
+      "sha256": "1922fab52196248e610a64a3a87e8e8ead2a0abbacd1752dd2782f8f4a7ee4d8",
+      "bytes": 9837
+    },
+    {
+      "path": "docs/source/tutorials/index.rst",
+      "git_blob_sha": "32cb04f8c55a677d07612a0c571c045290fd811b",
+      "sha256": "f914e554b556bc1b7dd5a42c134a3714cab3703a5c626be780441c9b60f7c759",
+      "bytes": 504
+    },
+    {
+      "path": "docs/source/welcome.rst",
+      "git_blob_sha": "9669867e66400b1aa3aa4a9d2d6c5f42ff036aa2",
+      "sha256": "f6010ea8bacd9a27b65e3b02cf31306b2221d6b5b2434d1556b40369de689294",
+      "bytes": 3683
+    },
+    {
+      "path": "docs/source/what_is_apriori.rst",
+      "git_blob_sha": "10f17f58da3a8c06d649128183a3c99056fbbe1d",
+      "sha256": "652d0d8110ef762df794dbcf20e06141111b6f3efcbfbd4ea4bdd96d44ad00d2",
+      "bytes": 4968
+    },
+    {
+      "path": "pyproject.toml",
+      "git_blob_sha": "4c795eb78c04940d51431094ca12b7669f14f9e1",
+      "sha256": "243db110924e75f91df383c9ea74c6bc7d94ccd1442a904f23002f8ae57db097",
+      "bytes": 1062
+    },
+    {
+      "path": "src/aPriori/NN.py",
+      "git_blob_sha": "9e48cb1cecb21d1860143a0c59e9db8a5f6067e6",
+      "sha256": "577bad6f1f8766e01bf9ebcd776b2626e9522c2fed6c63f006841879b66c0df1",
+      "bytes": 18523
+    },
+    {
+      "path": "src/aPriori/__init__.py",
+      "git_blob_sha": "4b7c1c463c817a8702a45d88bda29651512a8d1b",
+      "sha256": "66ef05f0d41f858c94ac135fb6587f98799889e93182e509d3e15f2a1c9f56b4",
+      "bytes": 2114
+    },
+    {
+      "path": "src/aPriori/_data_struct.py",
+      "git_blob_sha": "fe4bc42e2b6add1987658456a0a6fe410b536f1b",
+      "sha256": "14565d1b72c97b2301d2120f94151e5899e23871256981bcb5d79122c7ebc82f",
+      "bytes": 235
+    },
+    {
+      "path": "src/aPriori/_gradients_numpy.py",
+      "git_blob_sha": "0725039256c7a169af22650d42adaa243798a123",
+      "sha256": "4d8de41bcc0662100ce4c0c334bdba05ddf15e3ed6b1e99ca347f969ccea8cbc",
+      "bytes": 4942
+    },
+    {
+      "path": "src/aPriori/_styles.py",
+      "git_blob_sha": "106ea4573a5c96521b23747de54f8f2dc800c442",
+      "sha256": "1d4795dac4ac7e131d82712c0e6487f99bc58f8970eb92f9b564a4dce6e2222f",
+      "bytes": 1104
+    },
+    {
+      "path": "src/aPriori/_utils.py",
+      "git_blob_sha": "deddfb045a30f7f3476e4bbb9817d15f9f3cf8e9",
+      "sha256": "8ae22539123521de939261fce461bfccf289f77c6e8320ebf810c06bfc85b910",
+      "bytes": 16051
+    },
+    {
+      "path": "src/aPriori/_variables.py",
+      "git_blob_sha": "28189f4fb86877be94a0b131f5ce8482d77f68be",
+      "sha256": "8979257979e51ad52476b3991607fd5dd7bd0a4d5d9092dadf011285fa2b232a",
+      "bytes": 11389
+    },
+    {
+      "path": "src/aPriori/derivatives.py",
+      "git_blob_sha": "906fa75a156939c940c81e143f98bd76cd027ddc",
+      "sha256": "57e0073a401923d5c85c47106c985d6eca3b55a4757c71508e54e2cb201610a9",
+      "bytes": 7020
+    },
+    {
+      "path": "src/aPriori/plot_utilities.py",
+      "git_blob_sha": "860c062b34e8e3dc5e19288f594bee49ebc1afe8",
+      "sha256": "b20e51c5be59a2574ace86a873121e9addbebac1b5e0df7f965d65420c8322a6",
+      "bytes": 28226
+    },
+    {
+      "path": "tests/conftest.py",
+      "git_blob_sha": "f706fa8f5f09303f0b05518b04f3d4ea120de596",
+      "sha256": "658a8eb34fde497ffc305ab5fd4721c3180fe9fa0d94a0b04ee16899a7d0a9ce",
+      "bytes": 877
+    },
+    {
+      "path": "tests/test_h2_nonprem_pipeline.py",
+      "git_blob_sha": "ea398d4a7547507ea88097db5087e443d8d2d665",
+      "sha256": "c21e851492e9d18ac15f02d27f907f3690aa7e40f47424c162c6db8ea7f37f88",
+      "bytes": 9529
+    },
+    {
+      "path": "third_party/Cantera/License.txt",
+      "git_blob_sha": "058baaae7020a1549e4b6593d133b13d3273a1eb",
+      "sha256": "bbc5f6cf1d641322843eb82d48b0e349caf12247a567bfd5def77222a673ad9d",
+      "bytes": 1795
+    },
+    {
+      "path": "third_party/PyCSP/LICENSE",
+      "git_blob_sha": "c2194f0fbd086a88bfa57431bd0dd0682b6ca068",
+      "sha256": "d45c1061e638d4e4b65c93b603aef8de39ddbb67a5dbfe778f61309b2ac34cf8",
+      "bytes": 1081
+    },
+    {
+      "path": "tutorials/01-cut_a_scalar.py",
+      "git_blob_sha": "9070adda60c9ea40e6cbcbabe2ecfe89c607369b",
+      "sha256": "0066e858dd184b7950b00d1e9155b89d89772b7d7b553400f82fd175dadccc60",
+      "bytes": 3881
+    },
+    {
+      "path": "tutorials/02-filter_scalar.py",
+      "git_blob_sha": "28db73bbf1abeef751b84b13d1a687f03d96a711",
+      "sha256": "c186c8d4a8093634c5efce999bc592bdcde2d3891d296e67f296a98594e1a85b",
+      "bytes": 1659
+    },
+    {
+      "path": "tutorials/03-initialize_DNS_field.py",
+      "git_blob_sha": "4db5eb77c9d0a6c38f5622ca10d00fcd4be9da8a",
+      "sha256": "98003b0492f1a418872186f2dfdf5e42afd622bf316e5ada8d771305659e492d",
+      "bytes": 1179
+    },
+    {
+      "path": "tutorials/04-data_visualization.py",
+      "git_blob_sha": "88eaeb03deceadc787af295878279f547955b03f",
+      "sha256": "20237e50a6a031b5847caae75cb400a4a6ea54626826d64ef42e6ac0448741e4",
+      "bytes": 2763
+    },
+    {
+      "path": "tutorials/05-cut_DNS_field.py",
+      "git_blob_sha": "1566109cfac1452e9f424b8c377bee03bcd172cd",
+      "sha256": "c59aaf8e428cf9e8b3c8fb691243bbe70f5ea7bc5d8b34132c4dacfb78540f1d",
+      "bytes": 1566
+    },
+    {
+      "path": "tutorials/06-filter_DNS_field.py",
+      "git_blob_sha": "54052d825073971631b6dc1f714a69fcc32e27e5",
+      "sha256": "1e55f7b02abc9b6eadf31f0a97c27f2bd6ffc1bc6edc960f5b9f4c9eeef47c8e",
+      "bytes": 2515
+    },
+    {
+      "path": "tutorials/08-csp_analysis.py",
+      "git_blob_sha": "e9aaab0eaf6ed12e337ed5ee800d4e8b252502ac",
+      "sha256": "f92d4cf738161b13c807d8cdd7ea91e02c3eb28ef62e6efa2a1b0205ae402947",
+      "bytes": 1853
+    },
+    {
+      "path": "tutorials/ML_closure_reaction_rates.py",
+      "git_blob_sha": "74f5715836f42fec905ebe60fd8bbf2fd65b2543",
+      "sha256": "4977966440b4fbb95f01dd658b203a72f6871f24c097dd5e56ffed6ccaf6824b",
+      "bytes": 8536
+    },
+    {
+      "path": "tutorials/Quickstart.py",
+      "git_blob_sha": "871d8634c1a9fd7ca86acfe63333e0b06a1e1677",
+      "sha256": "32a820144a56c1e0fc6375748ed2c55851a2561719b94c49a0e9458273d37285",
+      "bytes": 7156
+    }
+  ],
+  "excluded_paths": [
+    ".gitattributes",
+    ".gitignore",
+    "branding",
+    "branding/img",
+    "branding/img/Graphical_abstract.png",
+    "branding/img/Graphical_abstract_2.png",
+    "branding/img/Graphical_abstract_3.png",
+    "branding/logo",
+    "branding/logo/aPriori-logo-flame.png",
+    "branding/logo/aPriori-logo.png",
+    "branding/logo/aPriori-logo.svg",
+    "dev-requirements.txt",
+    "dist",
+    "dist/apriori-1.3.2-py3-none-any.whl",
+    "dist/apriori-1.3.2.tar.gz",
+    "docs",
+    "docs/Makefile",
+    "docs/README.txt",
+    "docs/make.bat",
+    "docs/source",
+    "docs/source/_static",
+    "docs/source/_static/custom.css",
+    "docs/source/_static/figures",
+    "docs/source/_static/figures/fundamentals_and_usage",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_01_h2o2_xy.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_01_h2o2_xz.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_04_fig1.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_04_fig2.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_04_fig3.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_05_fig1.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_05_fig2.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_06_fig1.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_07_fig2.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_07_fig3.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_07_fig4.avif",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_07_fig5.jpeg",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_08_oh_apis.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_08_physical_fields.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_08_tsr.png",
+    "docs/source/_static/figures/fundamentals_and_usage/tutorial_08_tsr_apis.png",
+    "docs/source/_static/figures/getting_started",
+    "docs/source/_static/figures/getting_started/Functionalities_dark.png",
+    "docs/source/_static/figures/getting_started/Functionalities_light.png",
+    "docs/source/_static/figures/getting_started/Graphical_abstract_dark.png",
+    "docs/source/_static/figures/getting_started/Graphical_abstract_light.png",
+    "docs/source/_static/figures/getting_started/Lifted_h2_subdomain.png",
+    "docs/source/_static/figures/getting_started/quickstart_Qdns.png",
+    "docs/source/_static/figures/getting_started/quickstart_Qdns_filt.png",
+    "docs/source/_static/figures/getting_started/quickstart_RH2O_zmid.png",
+    "docs/source/_static/figures/getting_started/quickstart_RH2_dns_filt.png",
+    "docs/source/_static/figures/getting_started/quickstart_RH2_lfr.png",
+    "docs/source/_static/figures/getting_started/quickstart_RH2_parity.png",
+    "docs/source/_static/figures/getting_started/quickstart_ROH_zmid.png",
+    "docs/source/_static/figures/getting_started/quickstart_T_xmid.png",
+    "docs/source/_static/figures/getting_started/quickstart_T_ymid.png",
+    "docs/source/_static/figures/getting_started/quickstart_T_zmid.png",
+    "docs/source/_static/figures/getting_started/quickstart_YOH_zmid.png",
+    "docs/source/_static/figures/getting_started/quickstart_Z_ROH.png",
+    "docs/source/_static/figures/getting_started/quickstart_Z_T.png",
+    "docs/source/_static/figures/getting_started/quickstart_f1.png",
+    "docs/source/_static/figures/getting_started/quickstart_f2.png",
+    "docs/source/_static/figures/getting_started/quickstart_f3.png",
+    "docs/source/_static/figures/getting_started/quickstart_f4.png",
+    "docs/source/_static/figures/getting_started/quickstart_f5.png",
+    "docs/source/_static/figures/logo",
+    "docs/source/_static/figures/logo/aPriori-logo-docs-dark.png",
+    "docs/source/_static/figures/logo/aPriori-logo-docs-light.png",
+    "docs/source/_static/figures/logo/aPriori-logo-docs-light_2.png",
+    "docs/source/_static/figures/logo/aPriori-logo-flame.ico",
+    "docs/source/_static/figures/logo/aPriori-logo-flame.png",
+    "docs/source/_static/figures/logo/aPriori-logo.png",
+    "docs/source/_static/figures/logo/aPriori-logo.svg",
+    "docs/source/_static/pdf",
+    "docs/source/_static/pdf/Cypher_workshop_apriori.pdf",
+    "docs/source/_static/pdf/ML4Fluids-2024.pdf",
+    "docs/source/_static/pdf/ML4Fluids-Cypher.pdf",
+    "docs/source/_static/pdf/apriori-paper-arxiv.pdf",
+    "docs/source/autoapi",
+    "docs/source/autoapi/aPriori",
+    "docs/source/autoapi/aPriori/DNS",
+    "docs/source/autoapi/aPriori/NN",
+    "docs/source/autoapi/aPriori/derivatives",
+    "docs/source/autoapi/aPriori/plot_utilities",
+    "docs/source/conferences",
+    "docs/source/references.bib",
+    "docs/source/tutorials",
+    "pytest.ini",
+    "src",
+    "src/aPriori",
+    "src/aPriori/DNS.py",
+    "tests",
+    "third_party",
+    "third_party/Cantera",
+    "third_party/PyCSP",
+    "tutorials"
+  ]
+}

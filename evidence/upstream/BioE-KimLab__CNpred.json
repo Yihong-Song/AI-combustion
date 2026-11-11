@@ -1,0 +1,14 @@
+{
+  "repository": "BioE-KimLab/CNpred",
+  "url": "https://github.com/BioE-KimLab/CNpred",
+  "retrieved_at": "2026-11-11T12:56:43.275077+00:00",
+  "commit": "a7c4d4eda5913f367ad84ac3c4f6b14b1dd30d7c",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "readme_path": "evidence/upstream/BioE-KimLab__CNpred.readme.txt",
+  "readme_url": "https://github.com/BioE-KimLab/CNpred/blob/a7c4d4eda5913f367ad84ac3c4f6b14b1dd30d7c/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api",
+  "api_checked_at": "2026-11-11T13:09:40.515645+00:00"
+}

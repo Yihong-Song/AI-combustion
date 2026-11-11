@@ -1,0 +1,36 @@
+{
+  "journal": "Energy Conversion and Management",
+  "retrieved_at": "2026-11-11T12:44:01.388178+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Energy+Conversion+and+Management",
+  "page_title": "LetPub - Scientific Journal Selector | ENERGY CONVERSION AND MANAGEMENT - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/2500",
+  "journal_id": "2500",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q1 22/191 Category: MECHANICS SCIE Q1 4/172 Category: THERMODYNAMICS SCIE Q1 2/78",
+  "categories": [
+    {
+      "category": "ENERGY & FUELS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "22/191"
+    },
+    {
+      "category": "MECHANICS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "4/172"
+    },
+    {
+      "category": "THERMODYNAMICS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "2/78"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

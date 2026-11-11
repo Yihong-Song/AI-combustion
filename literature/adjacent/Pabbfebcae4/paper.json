@@ -1,0 +1,73 @@
+{
+  "id": "Pabbfebcae4",
+  "doi": "10.1080/13647830.2022.2025908",
+  "title": "Neural network PID control for combustion instability",
+  "year": 2022,
+  "journal": "Combustion Theory and Modelling",
+  "authors": [
+    "Long Zhang",
+    "Shan Li",
+    "Yuan Xue",
+    "Hua Zhou",
+    "Zhuyin Ren"
+  ],
+  "category": "04_instability_control",
+  "subcategory": "02_control",
+  "path": "literature/adjacent/Pabbfebcae4",
+  "doi_url": "https://doi.org/10.1080/13647830.2022.2025908",
+  "metadata_source": "https://api.crossref.org/works/10.1080/13647830.2022.2025908",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "adjacent_q3_q4",
+    "reported_best_quartile": "Q3",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q4",
+        "rank": "167/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "134/183"
+      },
+      {
+        "category": "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "78/137"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "55/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/1904",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/abbfebcae4a2.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

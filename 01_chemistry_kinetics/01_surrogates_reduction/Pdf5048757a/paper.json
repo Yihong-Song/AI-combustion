@@ -1,0 +1,67 @@
+{
+  "id": "Pdf5048757a",
+  "doi": "10.1016/j.ijhydene.2020.08.081",
+  "title": "Artificial neural network based chemical mechanisms for computationally efficient modeling of hydrogen/carbon monoxide/kerosene combustion",
+  "year": 2020,
+  "journal": "International Journal of Hydrogen Energy",
+  "authors": [
+    "Jian An",
+    "Guoqiang He",
+    "Kaihong Luo",
+    "Fei Qin",
+    "Bing Liu"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/Pdf5048757a",
+  "doi_url": "https://doi.org/10.1016/j.ijhydene.2020.08.081",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.ijhydene.2020.08.081",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "CHEMISTRY, PHYSICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "39/191"
+      },
+      {
+        "category": "ELECTROCHEMISTRY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "6/44"
+      },
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "40/191"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/3771",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/df5048757a77.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

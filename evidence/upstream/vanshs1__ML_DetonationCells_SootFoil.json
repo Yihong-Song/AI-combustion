@@ -1,0 +1,14 @@
+{
+  "repository": "vanshs1/ML_DetonationCells_SootFoil",
+  "url": "https://github.com/vanshs1/ML_DetonationCells_SootFoil",
+  "retrieved_at": "2026-11-11T12:59:48.104034+00:00",
+  "commit": "4ad20d49d657d2c5f78de4d87c77e581fb446df7",
+  "readme_path": "evidence/upstream/vanshs1__ML_DetonationCells_SootFoil.readme.txt",
+  "readme_url": "https://github.com/vanshs1/ML_DetonationCells_SootFoil/blob/4ad20d49d657d2c5f78de4d87c77e581fb446df7/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/vanshs1__ML_DetonationCells_SootFoil.license.txt",
+  "license_url": "https://github.com/vanshs1/ML_DetonationCells_SootFoil/blob/4ad20d49d657d2c5f78de4d87c77e581fb446df7/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "LGPL-2.1",
+  "api_checked_at": "2026-11-11T13:10:17.039165+00:00"
+}

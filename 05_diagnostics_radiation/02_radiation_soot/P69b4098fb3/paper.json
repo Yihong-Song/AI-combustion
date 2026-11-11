@@ -1,0 +1,81 @@
+{
+  "id": "P69b4098fb3",
+  "doi": "10.1016/j.proci.2026.106476",
+  "title": "Physics-informed neural network WSGG model for radiative heat transfer in H2O–CO2–NH3 gas mixtures relevant to ammonia combustion",
+  "year": 2026,
+  "journal": "Proceedings of the Combustion Institute",
+  "authors": [
+    "Jiaxin Wang",
+    "Wei Chen",
+    "Tao Ren"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "02_radiation_soot",
+  "path": "05_diagnostics_radiation/02_radiation_soot/P69b4098fb3",
+  "doi_url": "https://doi.org/10.1016/j.proci.2026.106476",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.proci.2026.106476",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "104/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "65/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "37/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "18/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/6861",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "TaoRen-Rad/WSGG-H2O-CO2-NH3",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "0ed02920a2ea9dbea0c60db02fd51b4695cf6260",
+    "license": "MIT",
+    "package_id": "TaoRen-Rad__WSGG-H2O-CO2-NH3",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/69b4098fb3f7.json"
+  },
+  "reproduction": {
+    "status": "author_demo_executed_not_paper_metric_reproduction",
+    "paper_metrics_reproduced": false,
+    "evidence": "reproductions/C01_wsgg_author_demo/results/metrics.json"
+  },
+  "curated_note": {
+    "repository": "TaoRen-Rad/WSGG-H2O-CO2-NH3",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "为含 NH3 的 H2O–CO2 参与性气体建立 PINN-WSGG 辐射模型。",
+    "method": "README 说明使用预训练 wsgg.json，结合一维 RTE 求解器，将辐射热损失与逐线 LBL 参考比较。",
+    "entry": "python test.py；输入 data/profiles.npy、data/results.npy 和 PINN_WSGG/data/wsgg.json，输出 test_case.png。",
+    "dependencies": "先核对 requirements.txt；主要为 NumPy/SciPy/Matplotlib，实际以固定提交为准。README 的 your-username 克隆命令为占位符，应使用本库记录的真实仓库地址。",
+    "evaluation": "比较局部辐射源项、热流和积分能量误差；零附近相对误差会发散，需同时给绝对或整体归一化误差。",
+    "limitations": "明确 MIT 许可；本库已执行固定版本作者演示，实测与适配见 C01。仅验证预训练推理演示，尚未重训，也未复现原文目标表格；作者更广泛的验证结论仍不能当作本库实测。"
+  }
+}

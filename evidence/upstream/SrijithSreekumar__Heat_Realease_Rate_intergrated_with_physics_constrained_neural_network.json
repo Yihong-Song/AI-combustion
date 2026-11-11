@@ -1,0 +1,14 @@
+{
+  "repository": "SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network",
+  "url": "https://github.com/SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network",
+  "retrieved_at": "2026-11-11T13:05:08.733696+00:00",
+  "commit": "6ff2c190cce651be71999b80ee70ff37c645631e",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "readme_path": "evidence/upstream/SrijithSreekumar__Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network.readme.txt",
+  "readme_url": "https://github.com/SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network/blob/6ff2c190cce651be71999b80ee70ff37c645631e/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api",
+  "api_checked_at": "2026-11-11T13:50:50.337091+00:00"
+}

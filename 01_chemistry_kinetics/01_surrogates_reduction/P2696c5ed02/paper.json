@@ -1,0 +1,90 @@
+{
+  "id": "P2696c5ed02",
+  "doi": "10.1016/j.combustflame.2024.113375",
+  "title": "A machine learning method to predict rate constants for various reactions in combustion kinetic models",
+  "year": 2024,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Ning Li",
+    "Sanket Girhe",
+    "Mingzhi Zhang",
+    "Bingjie Chen",
+    "Yingjia Zhang",
+    "Shenghua Liu",
+    "Heinz Pitsch"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/P2696c5ed02",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2024.113375",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2024.113375",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "edwardning/ML_RateConstants",
+    "relationship": "title_match_repository_readme",
+    "commit": "ce8d0cdd6fc7dd8ff9018e80b72eaf089b7deaba",
+    "license": "not_located",
+    "package_id": "edwardning__ML_RateConstants",
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/2696c5ed0277.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "edwardning/ML_RateConstants",
+    "relationship": "title_match_repository_readme",
+    "problem": "利用反应表示学习预测燃烧反应速率常数。",
+    "method": "README 标题与论文相符，提供反应指纹生成与微调入口。这里的论文—仓库关系来自标题匹配，强度低于作者明确 DOI 声明。",
+    "entry": "rxnfp_schwaller/generate_rxnfp.py 和 fine_tune.py。",
+    "dependencies": "README 使用 Python 3.7；反应指纹相关依赖需隔离，避免直接混入当前基线环境。",
+    "evaluation": "按反应家族和化学结构留出，而非随机拆分相似反应；速率常数需明确温度、压力、单位及对数底。",
+    "limitations": "未发现许可，链接收纳。预测速率常数还需经过机理级点火/火焰速度验证。"
+  }
+}

@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+vendor/
+*.pyc
+*.part
+*.zip
+.DS_Store
+evidence/discovery/
+evidence/upstream/*.readme.txt
+evidence/upstream/*.license.txt
+evidence/journals/*.txt
+literature/screened_candidates.json
+evidence/archive_cache/
+evidence/screening_console.txt
+evidence/publication_inventory.json
+evidence/publication_result.json

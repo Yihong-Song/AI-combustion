@@ -1,0 +1,82 @@
+{
+  "id": "P2384b1472e",
+  "doi": "10.1016/j.proci.2024.105243",
+  "title": "Uncertain lithium-ion cathode kinetic decomposition modeling via Bayesian chemical reaction neural networks",
+  "year": 2024,
+  "journal": "Proceedings of the Combustion Institute",
+  "authors": [
+    "Benjamin C. Koenig",
+    "Huaibo Chen",
+    "Qiaofeng Li",
+    "Peng Zhao",
+    "Sili Deng"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "02_discovery_calibration",
+  "path": "01_chemistry_kinetics/02_discovery_calibration/P2384b1472e",
+  "doi_url": "https://doi.org/10.1016/j.proci.2024.105243",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.proci.2024.105243",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "104/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "65/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "37/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "18/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/6861",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "DENG-MIT/CRNN",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "4a17819c5bd4a65d6a9da9e72115b536d644350e",
+    "license": "MIT",
+    "package_id": "DENG-MIT__CRNN",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/2384b1472ecc.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "DENG-MIT/CRNN",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "用 Bayesian CRNN 表征锂电正极分解动力学的不确定性，属于燃烧安全交叉方向。",
+    "method": "CRNN README 将其列为 cathode UQ 研究，基于早期 DSC 正极热稳定性工作扩展。",
+    "entry": "选择 cathode UQ 对应子目录的 Julia 项目与数据，避免误跑通用 Case 1–5。",
+    "dependencies": "不同子项目 Julia 环境不同；上游 cathode 新环境与原 CRNN 环境不可混用。",
+    "evaluation": "除质量/热流误差，还需比较后验区间、预测区间覆盖率和多模态参数可辨识性。",
+    "limitations": "同一 CRNN 仓库关联多篇论文，按论文计数与按包计数需分开；未执行采样。"
+  }
+}

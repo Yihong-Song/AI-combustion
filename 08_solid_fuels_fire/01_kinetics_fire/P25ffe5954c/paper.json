@@ -1,0 +1,60 @@
+{
+  "id": "P25ffe5954c",
+  "doi": "10.1016/j.fuel.2022.127251",
+  "title": "Comparison of artificial neural network and response surface methodology for evaluation of the predictive capability of bio-oil yield from pyrolysis of Mangifera indica wood sawdust",
+  "year": 2023,
+  "journal": "Fuel",
+  "authors": [
+    "Ajay Sharma",
+    "Bhupendra Suryawanshi",
+    "Bikash Mohanty",
+    "Ashish N. Sawarkar"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/P25ffe5954c",
+  "doi_url": "https://doi.org/10.1016/j.fuel.2022.127251",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.fuel.2022.127251",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "51/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "31/183"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=2950",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/25ffe5954ce0.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

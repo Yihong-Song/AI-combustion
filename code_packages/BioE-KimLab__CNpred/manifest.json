@@ -1,0 +1,20 @@
+{
+  "id": "BioE-KimLab__CNpred",
+  "repository": "BioE-KimLab/CNpred",
+  "url": "https://github.com/BioE-KimLab/CNpred",
+  "commit": "a7c4d4eda5913f367ad84ac3c4f6b14b1dd30d7c",
+  "retrieved_at": "2026-11-11T13:09:40.515645+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.proci.2022.09.059"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/BioE-KimLab__CNpred.json",
+  "pinned_url": "https://github.com/BioE-KimLab/CNpred/tree/a7c4d4eda5913f367ad84ac3c4f6b14b1dd30d7c",
+  "archive_url": "https://api.github.com/repos/BioE-KimLab/CNpred/tarball/a7c4d4eda5913f367ad84ac3c4f6b14b1dd30d7c",
+  "readme_source": "https://github.com/BioE-KimLab/CNpred/blob/a7c4d4eda5913f367ad84ac3c4f6b14b1dd30d7c/README.md",
+  "collection_status": "link_only"
+}

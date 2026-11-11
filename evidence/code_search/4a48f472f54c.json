@@ -1,0 +1,43 @@
+{
+  "doi": "10.1038/s41467-020-19497-z",
+  "query": "\"10.1038/s41467-020-19497-z\" in:readme",
+  "search_type": "github_repository_readme_doi_exact",
+  "retrieved_at": "2026-11-11T13:01:19.109950+00:00",
+  "search_url": "https://api.github.com/search/repositories?q=%2210.1038%2Fs41467-020-19497-z%22+in%3Areadme&per_page=10",
+  "total_count": 3,
+  "items": [
+    {
+      "full_name": "tongzhugroup/mddatasetbuilder",
+      "html_url": "https://github.com/tongzhugroup/mddatasetbuilder",
+      "description": "A script to build reference datasets for training neural network potentials from given LAMMPS trajectories.",
+      "default_branch": "master",
+      "license": {
+        "key": "lgpl-3.0",
+        "name": "GNU Lesser General Public License v3.0",
+        "spdx_id": "LGPL-3.0",
+        "url": "https://api.github.com/licenses/lgpl-3.0",
+        "node_id": "MDc6TGljZW5zZTEy"
+      },
+      "size": 338,
+      "fork": false
+    },
+    {
+      "full_name": "njzjz/citation-badge",
+      "html_url": "https://github.com/njzjz/citation-badge",
+      "description": "Citation badges",
+      "default_branch": "master",
+      "license": null,
+      "size": 10,
+      "fork": false
+    },
+    {
+      "full_name": "njzjz/njzjz",
+      "html_url": "https://github.com/njzjz/njzjz",
+      "description": null,
+      "default_branch": "master",
+      "license": null,
+      "size": 31146,
+      "fork": false
+    }
+  ]
+}

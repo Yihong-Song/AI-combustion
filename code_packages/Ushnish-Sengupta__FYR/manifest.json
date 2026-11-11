@@ -1,0 +1,18 @@
+{
+  "id": "Ushnish-Sengupta__FYR",
+  "repository": "Ushnish-Sengupta/FYR",
+  "url": "https://github.com/Ushnish-Sengupta/FYR",
+  "commit": "d5f3a26b29983a0a7eb150681da8edf85c954183",
+  "retrieved_at": "2026-11-11T13:10:13.021848+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "ASME 会议相关燃烧工具，未定位许可。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/Ushnish-Sengupta__FYR.json",
+  "pinned_url": "https://github.com/Ushnish-Sengupta/FYR/tree/d5f3a26b29983a0a7eb150681da8edf85c954183",
+  "archive_url": "https://api.github.com/repos/Ushnish-Sengupta/FYR/tarball/d5f3a26b29983a0a7eb150681da8edf85c954183",
+  "readme_source": "https://raw.githubusercontent.com/Ushnish-Sengupta/FYR/d5f3a26b29983a0a7eb150681da8edf85c954183/README.md",
+  "collection_status": "link_only"
+}

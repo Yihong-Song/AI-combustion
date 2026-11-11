@@ -1,0 +1,56 @@
+{
+  "id": "P0afc85ab6a",
+  "doi": "10.1063/5.0167110",
+  "title": "Deep learning dynamical latencies for the analysis and reduction of combustion chemistry kinetics",
+  "year": 2023,
+  "journal": "Physics of Fluids",
+  "authors": [
+    "Luisa Castellanos",
+    "Rodolfo S. M. Freitas",
+    "Alessandro Parente",
+    "Francesco Contino"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/P0afc85ab6a",
+  "doi_url": "https://doi.org/10.1063/5.0167110",
+  "metadata_source": "https://api.crossref.org/works/10.1063/5.0167110",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": "https://www.letpub.com/journal-selector/journal/6673",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "lmcastellanos/Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics",
+    "relationship": "title_match_repository_readme",
+    "commit": "d37979971ffa7ceede3cccd5a15a52a9c209a51c",
+    "license": "not_located",
+    "package_id": "lmcastellanos__Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics",
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/0afc85ab6abb.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "lmcastellanos/Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics",
+    "relationship": "title_match_repository_readme",
+    "problem": "学习低维动力学潜变量，用于燃烧化学的分析和缩减。",
+    "method": "README 列出 optimization_process、training、manifold_characterization、PCA_comparison 和 extrapolation_cases，并给出 Zenodo 数据 DOI 10.5281/zenodo.10034264。",
+    "entry": "先读取数据及预处理说明，再依次核对训练、流形表征、PCA 比较和外推算例。",
+    "dependencies": "外部 Zenodo 数据需另取并保留版本；运行环境需从各目录核实。",
+    "evaluation": "比较重构误差、潜空间动力学和长期积分；PCA 对照需要相同潜维数和相同数据切分。",
+    "limitations": "未找到明确源码许可。Physics of Fluids 的 JCR 证据在本轮未核实，因此列入分区待核实。"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "P4a48f472f5",
+  "doi": "10.1038/s41467-020-19497-z",
+  "title": "Complex reaction processes in combustion unraveled by neural network-based molecular dynamics simulation",
+  "year": 2020,
+  "journal": "Nature Communications",
+  "authors": [
+    "Jinzhe Zeng",
+    "Liqun Cao",
+    "Mingyuan Xu",
+    "Tong Zhu",
+    "John Z. H. Zhang"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "03_molecular_potentials",
+  "path": "01_chemistry_kinetics/03_molecular_potentials/P4a48f472f5",
+  "doi_url": "https://doi.org/10.1038/s41467-020-19497-z",
+  "metadata_source": "https://api.crossref.org/works/10.1038/s41467-020-19497-z",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "tongzhugroup/mddatasetbuilder",
+    "relationship": "author_supporting_component_readme_explicit",
+    "commit": "52e6edf860128e9624ec11a1cb8703327d014679",
+    "license": "LGPL-3.0 (inspect upstream terms)",
+    "package_id": "tongzhugroup__mddatasetbuilder",
+    "search_hits": 3,
+    "search_evidence": "evidence/code_search/4a48f472f54c.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "tongzhugroup/mddatasetbuilder",
+    "category": "01_chemistry_kinetics",
+    "subcategory": "03_molecular_potentials",
+    "relationship": "author_supporting_component_readme_explicit",
+    "problem": "为燃烧反应分子动力学的神经网络势构建量子化学参考数据。",
+    "method": "README 明确列出 Nature Communications 本文；MDDatasetBuilder 从 LAMMPS 轨迹和可选键文件提取构型，生成量子化学输入，再准备 DeePMD 训练数据。该包是数据构建环节，不是论文全部反应 MD 工作流。",
+    "entry": "datasetbuilder → qmcalc → preparedeepmd → dp train train.json；具体参数见固定版本 README。",
+    "dependencies": "LAMMPS/ReaxFF 轨迹、Gaussian 16 量子化学计算、DeePMD-kit 及相应运行环境；Gaussian 使用权限与计算资源需单独解决。",
+    "evaluation": "按反应路径和构型分布留出，比较能量/原子力误差、域外构型、反应事件及产物统计，不能只看随机构型测试的力误差。",
+    "limitations": "本库未计算量子化学数据或训练势函数；README 的运行时描述不是实测。代码许可、Gaussian 与原始轨迹的数据许可分别记录。"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "repository": "nla-group/iCRNN",
+  "commit": "397ea855f121007b9b7995218d9ed8b84e2f54d6",
+  "source_url": "https://api.github.com/repos/nla-group/iCRNN/tarball/397ea855f121007b9b7995218d9ed8b84e2f54d6",
+  "retrieved_at": "2026-11-11T13:49:05.704744+00:00",
+  "license": "MIT",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/nla-group/iCRNN/legacy.tar.gz/397ea855f121007b9b7995218d9ed8b84e2f54d6",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

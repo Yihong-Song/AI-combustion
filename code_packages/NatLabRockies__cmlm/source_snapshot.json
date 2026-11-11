@@ -1,0 +1,356 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "NatLabRockies/cmlm",
+  "commit": "6b3f1da4065a96bdff30cd42638e43600c8dceb7",
+  "date": "2026-11-11",
+  "path": "code_packages/NatLabRockies__cmlm/6b3f1da4065a-source-only.tar.gz",
+  "bytes": 80911,
+  "sha256": "ca0cf1f4b721b58cab953e4fbe056db5f3614e5472b62ef5fd6b912abd18ea28",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": ".github/workflows/ci.yml",
+      "git_blob_sha": "4229bb18b62fcb43f1cff79bafe0c9e5fe283f95",
+      "sha256": "ac6e6ee5186e1367cc24654f3542f2967ed9ec5d15c6abc4173522bbd62fba47",
+      "bytes": 2389
+    },
+    {
+      "path": ".github/workflows/docs.yml",
+      "git_blob_sha": "8508d215202879bfcc4ac6f5047ad45d1794a315",
+      "sha256": "a612e50a31957f5e2dc116c113977b8867ee52b216110e2f987f147cfa5d947b",
+      "bytes": 1385
+    },
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "6e8ce8465988980ba7c73f35fa95555b2636a184",
+      "sha256": "f97f08e72fc157c5d92880db9f96f305907d2e479f76ca7e8d7491dafc75bb29",
+      "bytes": 1536
+    },
+    {
+      "path": "cmlm/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "cmlm/ctable_tools.py",
+      "git_blob_sha": "6945d5e50cae4dd738888a661686aabd5275451a",
+      "sha256": "dd20c1fcfe0c3be8f166eeda5d2a1958c931e0d33abbdc4acbf7df68fd77de88",
+      "bytes": 25396
+    },
+    {
+      "path": "cmlm/utils/__init__.py",
+      "git_blob_sha": "080a3302bee185cfd96ab4569159f3e96eef265e",
+      "sha256": "451f0466014f47e35cd118cc0105f6923f8fd183053bd846b77d3e36883326a7",
+      "bytes": 103
+    },
+    {
+      "path": "cmlm/utils/cantera_helpers.py",
+      "git_blob_sha": "52c4cffc5f77f8d310eca2bb9bb76c952bfef0e2",
+      "sha256": "72a8838f36c3ee60841dfe77d7e85f24f878bc888440a44bb7ff036ad171a4f6",
+      "bytes": 2246
+    },
+    {
+      "path": "cmlm/utils/input_file.py",
+      "git_blob_sha": "26a338938bdd249fb762233dd4eb1d0b89a4ccb9",
+      "sha256": "1972b245824bab586eac6ff9e9f3b8b290a14554cc6f074d25903e65c3e1c0f0",
+      "bytes": 19141
+    },
+    {
+      "path": "cmlm/utils/timer.py",
+      "git_blob_sha": "a4a011ed74a7f0436b79071f895713ebea5e8b5b",
+      "sha256": "fffc4c36eeae6e8cee6d8b3ca6f28727f7315c018c54bb6864f3dd0ae85e8df1",
+      "bytes": 4914
+    },
+    {
+      "path": "colors.py",
+      "git_blob_sha": "6c746ed3418909aa62cc165dc699251264beeee1",
+      "sha256": "7ec52443782fbbdef689b9902f244afcf8d0d96fbe34cae3d52ea853ae38a662",
+      "bytes": 4500
+    },
+    {
+      "path": "compile_2D_table.py",
+      "git_blob_sha": "7574843c21101ebf0868364b47be417c14634ed5",
+      "sha256": "187e00d14ed07c355e26f2b5f3308999211551a2d9f46494a45043e31bcd3306",
+      "bytes": 2228
+    },
+    {
+      "path": "compile_2D_table_nonpremixed.py",
+      "git_blob_sha": "81bd81afc9dc9a0f5af5e66419fc013fc4b6a2c3",
+      "sha256": "604f20af9ef4c8c083002888b851fa13e433c960efc95ac5b211f7c7ae2be414",
+      "bytes": 2859
+    },
+    {
+      "path": "compile_3D_table_nonpremixed.py",
+      "git_blob_sha": "e09012e8d2007254d877a104fed27453ee65b2d5",
+      "sha256": "c167dc427c838f8521762f6c5c625cfc01717fc41029eae146987c0acacb99e2",
+      "bytes": 8280
+    },
+    {
+      "path": "convert_net_format.py",
+      "git_blob_sha": "123429b79d293bb70babb270931d461f1914cd23",
+      "sha256": "992c187ee0e2f84924cec3b43810e5a3d9b1527170d4453513d0da545502d551",
+      "bytes": 3472
+    },
+    {
+      "path": "docs/citation.rst",
+      "git_blob_sha": "29121cbb59c7324b07798b4d649f54a0b42a5637",
+      "sha256": "9ab70ca7099bf1b87e784302ad64efde27d25e3aa55aad6b53a2cb492b04fd61",
+      "bytes": 1662
+    },
+    {
+      "path": "docs/command-line-tools.rst",
+      "git_blob_sha": "bdbf3a596a7ce330cf43853df498f018701c31da",
+      "sha256": "df7ed068344a10eca3abb81981df870bceb1aa40fd8970ed8df655f2507fb9b1",
+      "bytes": 2687
+    },
+    {
+      "path": "docs/conf.py",
+      "git_blob_sha": "1b224053d789f81ec5bf95c33d460c6f90262842",
+      "sha256": "c39af7fce85a2bfe0f7a53767edd25614731336ff7209f7fdb3e188815775f2a",
+      "bytes": 1967
+    },
+    {
+      "path": "docs/contributing.rst",
+      "git_blob_sha": "cb859f8945de68da1487356ed55ad190c57af4a1",
+      "sha256": "5f408852c35527bccc7d33b671f498725fb2e3eb24de1f15d5fd92ded05e31ec",
+      "bytes": 1788
+    },
+    {
+      "path": "docs/getting-started.rst",
+      "git_blob_sha": "421ffb5b7130994ede119e1e5b90e326fc088813",
+      "sha256": "e0d96636358f01d9aebb7ec10aaae9382b8461a7f0f30752e696dcf409ff65aa",
+      "bytes": 3436
+    },
+    {
+      "path": "docs/index.rst",
+      "git_blob_sha": "cd8c2162bfc41b4e067559dfd2c36286993bf637",
+      "sha256": "95b3bf33a480f8fdc4f03447183f9f9a9aed0d2f3541f873920448eccee17416",
+      "bytes": 1593
+    },
+    {
+      "path": "docs/library-api.rst",
+      "git_blob_sha": "903fbc681a02c2b168b554a5733d5f4fb86ae517",
+      "sha256": "e4c1995a369daee1a58fd71adbf9a00decd27281087df2f4c939e2f030930d2b",
+      "bytes": 346
+    },
+    {
+      "path": "docs/run-scripts.rst",
+      "git_blob_sha": "160567d65aff0c926f3f5e28130c24a53635c90f",
+      "sha256": "2738de3d1300cf8d93fa0901578f5946b090ae8a50c8b71dae2761e2b8867197",
+      "bytes": 2161
+    },
+    {
+      "path": "docs/tutorials.rst",
+      "git_blob_sha": "c0555344be878a7c78c79ee80e7c13a4e5cd06da",
+      "sha256": "33bc47434939a4634867b17be9fcacce0f0697c4f76ad79d8d5f5edfbacf96d9",
+      "bytes": 50
+    },
+    {
+      "path": "drm19.yaml",
+      "git_blob_sha": "c013836b8bc2998014fd06a9713015cf628fc6a8",
+      "sha256": "6449c06a07dd5c966726583929ab6be3fdf0016987101b7aeada17aeabf9c512",
+      "bytes": 21912
+    },
+    {
+      "path": "gen_trn_tst_data.py",
+      "git_blob_sha": "c3f2dd4f28d4dfe5e54bea8144509824854caa93",
+      "sha256": "ed717ce4d07c0f739f5d561232222ba814269f49f6c39d546ea3419167655ffd",
+      "bytes": 9920
+    },
+    {
+      "path": "get_autoignition_data.py",
+      "git_blob_sha": "960930eded0c6916b991e781af7b69fc812aa114",
+      "sha256": "41770dc789d627aef7b79a5ae23e9bfafbd194d2718a3b14d442c895dcc8498d",
+      "bytes": 3206
+    },
+    {
+      "path": "get_flamesheet_data.py",
+      "git_blob_sha": "78e67057a4f8dfd5a5f93c6a2e6215d7621995c1",
+      "sha256": "919e46273757fab81eb2425586009010c4265166d18af8a651e30e9a91153592",
+      "bytes": 2834
+    },
+    {
+      "path": "get_nonpremixed_flamelets.py",
+      "git_blob_sha": "79ea49c5c2fa064be17d7e0858794e37d44a13ae",
+      "sha256": "39e7feed02f54a2f5e86a5f15fad535a23efb151e9f964076564788fbc06ec9a",
+      "bytes": 13242
+    },
+    {
+      "path": "get_pmfdat_and_ctable.py",
+      "git_blob_sha": "465240d62c5c62d0e485a00d9c8ed63356e80f6d",
+      "sha256": "f71574d2fe488a1519baa0c0ea1011b331996c081cfa8242674d6532db001bd8",
+      "bytes": 6705
+    },
+    {
+      "path": "get_pmfdat_and_ctable_withvar.py",
+      "git_blob_sha": "aba82e083ef0ec7f6f812e9459da49b417acac74",
+      "sha256": "36d218279fee33d4da9a1788292e9a5c27912ea007cc2e4797f77995232e2fe3",
+      "bytes": 8524
+    },
+    {
+      "path": "get_strained_data.py",
+      "git_blob_sha": "a0efeb2a5ca42ee8d777a149bcd93007c37e3580",
+      "sha256": "c5f31b1e2aeb588fd9dd75fd8d5b7f35ffa8e017e7edac081c80a3a524fe9978",
+      "bytes": 7288
+    },
+    {
+      "path": "layer_converters.py",
+      "git_blob_sha": "4a83424110d2e260e64083b883be3a4c45a2b41e",
+      "sha256": "ed884c68000a5888e03f83bf7302bad3cb4c3311bf51bd909c13b84e711d1b6a",
+      "bytes": 5429
+    },
+    {
+      "path": "manifold_reduction_nets.py",
+      "git_blob_sha": "76ed442559984e7d5a755b19337947198f3cf2ed",
+      "sha256": "d9cb791a044f3b2d78678c65f573d69eaf33da6919321de026e455ad598771d2",
+      "bytes": 31572
+    },
+    {
+      "path": "net_array.py",
+      "git_blob_sha": "fd01f73819f18c7130451f26fcd80587b6aaeb3a",
+      "sha256": "18d03e2c36ab01f3e47403d907b9f0df22d4f793e18cd83394bcf0b7e991e0b5",
+      "bytes": 10177
+    },
+    {
+      "path": "net_helper.py",
+      "git_blob_sha": "2180ad6419229271ec62403f5b95b9de0466045b",
+      "sha256": "472ac8b4e8ffb286f688a2acb8069465a240a7828784ec8f77d29589f3a8527f",
+      "bytes": 24434
+    },
+    {
+      "path": "plot_autoignition.py",
+      "git_blob_sha": "dec8b7a68e410fa7c39a0d15394bbd2aee20ce7e",
+      "sha256": "26cb93c9224f490e3d1b5b9447906c60f9daca3489d1047307a3d24e33a37744",
+      "bytes": 3467
+    },
+    {
+      "path": "plot_strained.py",
+      "git_blob_sha": "90e4eaa4d7d629f8794e2477092a5b64edd65e9c",
+      "sha256": "ad9b5a7a7930e87b79d112863bedf0c0517425d22cfe2ad49a9a81ef9e5cd5b2",
+      "bytes": 6743
+    },
+    {
+      "path": "pyproject.toml",
+      "git_blob_sha": "dfc9ad4f952096200b2cc97fb94af3a93307bd5a",
+      "sha256": "b723df422c9df0332680487ef6d8dacf4197ad6a84ecd540e5bac38e6f983eaf",
+      "bytes": 1248
+    },
+    {
+      "path": "quickplot_nonpremixed.py",
+      "git_blob_sha": "5b97ea60fd580a5702d27b6576180f42de33ccb1",
+      "sha256": "74921deb0055a1f2eb19d8e200363ef3335807f5ecac89ea680ac49bd47a92da",
+      "bytes": 497
+    },
+    {
+      "path": "run_scripts/cantera/compute_nonpremixed_flamelets.py",
+      "git_blob_sha": "0bdf1501e69e0018363b9a325a3e428f7dea51df",
+      "sha256": "43cd4ecde6515435e064603961c8435b033c896bd0ca9c3240116768590090b3",
+      "bytes": 19112
+    },
+    {
+      "path": "run_scripts/cantera/compute_nonpremixed_flamelets.toml",
+      "git_blob_sha": "061ecf478f8b5d6763547ef45a3c4389bc788d06",
+      "sha256": "90a94d6623cd19beb410bbdb343f8c431dbef03ef0117ae5e6d06b5c2f28c478",
+      "bytes": 3974
+    },
+    {
+      "path": "run_scripts/cantera/compute_premixed_flamelets.py",
+      "git_blob_sha": "6371bf3ec75b522a5ccf5d22f075575565b05c0f",
+      "sha256": "047ab8959de00149bf1c3f2814aa5f3c9a0996c74bfaa22c3e91a4c93bca2c11",
+      "bytes": 8320
+    },
+    {
+      "path": "run_scripts/cantera/compute_premixed_flamelets.toml",
+      "git_blob_sha": "d29910478e4a18d90c495863a69f521fa9791045",
+      "sha256": "e07f5bd0d574de915a1efcce6671e656ac2f0ce28dd3f8c47b72d41aebed4a28",
+      "bytes": 2420
+    },
+    {
+      "path": "run_scripts/ctable/create_dummy_table_nd.py",
+      "git_blob_sha": "7254378cf2e37c84ca932bc1eff4febed3a27495",
+      "sha256": "4773bdabff468c4978e91cf075d6f0e19959e988a8d7cfaf64230368f2646772",
+      "bytes": 2243
+    },
+    {
+      "path": "run_scripts/ctable/create_dummy_table_nd.toml",
+      "git_blob_sha": "20310603b7a7f2c42dd3d123b476eaa7c72efa6b",
+      "sha256": "3057946359685b6b0f861de5228e7010e8cbed755ed2aaab78ad7fd1ef552297",
+      "bytes": 260
+    },
+    {
+      "path": "run_scripts/ctable/create_spray_table_nd.py",
+      "git_blob_sha": "89bd6455feb4e306869ab5c6fda57feebb670bb1",
+      "sha256": "6bc7ae5c7faeedfb84cc52622e2639dec350579d1e4daa13f2e0984d27c56289",
+      "bytes": 7190
+    },
+    {
+      "path": "run_scripts/ctable/create_spray_table_nd.toml",
+      "git_blob_sha": "522b40e8665cee2e8a714da02e523bf19bf76327",
+      "sha256": "f3d3830668172a11c3f058a24ead969479afae7065f63862152000e9adde846c",
+      "bytes": 1280
+    },
+    {
+      "path": "tests/test_tpp.py",
+      "git_blob_sha": "56ce595ffa688e8ee520a51e5623c244218e5005",
+      "sha256": "f82fa4e4621a9d92fe796d6d780727815445c1ac4da019761fa0cc3ffaa0bc6a",
+      "bytes": 2564
+    },
+    {
+      "path": "train_models_autoignition.py",
+      "git_blob_sha": "ead3d8eec44d90acbe38c60e6558b90d0e1624c1",
+      "sha256": "767925ecf8ba3d07c858ef3731b57a95b5a38bc5918035ee96eb256dd36630c1",
+      "bytes": 9447
+    },
+    {
+      "path": "train_models_autoignition_netarray.py",
+      "git_blob_sha": "043ecfcb42c7a11775ec86107f6bd223607d2fc3",
+      "sha256": "c1a5c78a44fd118d246cafe36bdc03264dcae1cfa569eca0f2773aa91bb93da7",
+      "bytes": 12145
+    },
+    {
+      "path": "train_models_autoignition_srcloss.py",
+      "git_blob_sha": "9d8bce216ec9ddcc656de4db1c0d635754e371d4",
+      "sha256": "187d4e1a4be718f59e01b6e0db51dbe020399bfff406bb57ceacd680fb0618d5",
+      "bytes": 10120
+    },
+    {
+      "path": "train_models_flamesheet.py",
+      "git_blob_sha": "002761c81dc3ef20793c771fffc3b0cae6e6b682",
+      "sha256": "5c23ba0bb69dc396792c6b91ddcd86c99eaf4aaad1d2998881d3878a76793f50",
+      "bytes": 8391
+    },
+    {
+      "path": "train_models_premixed.py",
+      "git_blob_sha": "2fa828f66b902b69783554221030f11a20b57d83",
+      "sha256": "bc24f71046b1af6affae609a7d8ae0b10e67add53ca4462bdc635336dbcb376b",
+      "bytes": 10074
+    },
+    {
+      "path": "train_models_strained_flames_raw.py",
+      "git_blob_sha": "5ea353074bd6b8004a79ce1136e066cda5fac20c",
+      "sha256": "d7661c8a0dc5a72462cf6ff7d4d1a9cadf53ce41290160888efadea79c55ef56",
+      "bytes": 8966
+    }
+  ],
+  "excluded_paths": [
+    ".flake8",
+    ".github",
+    ".github/workflows",
+    "README",
+    "cmlm",
+    "cmlm/utils",
+    "data",
+    "data/test_strained_data.npz",
+    "docs",
+    "docs/Makefile",
+    "docs/images",
+    "docs/images/cmlm-net.pdf",
+    "docs/refs.bib",
+    "run_scripts",
+    "run_scripts/cantera",
+    "run_scripts/ctable",
+    "tests"
+  ]
+}

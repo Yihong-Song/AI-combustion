@@ -1,0 +1,46 @@
+{
+  "journal": "Combustion and Flame",
+  "retrieved_at": "2026-11-11T12:40:56.475029+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+  "journal_id": "1901",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q2 77/191 Category: ENGINEERING, CHEMICAL SCIE Q2 48/183 Category: ENGINEERING, MECHANICAL SCIE Q1 23/184 Category: ENGINEERING, MULTIDISCIPLINARY SCIE Q1 20/179 Category: THERMODYNAMICS SCIE Q1 12/78",
+  "categories": [
+    {
+      "category": "ENERGY & FUELS",
+      "collection": "SCIE",
+      "quartile": "Q2",
+      "rank": "77/191"
+    },
+    {
+      "category": "ENGINEERING, CHEMICAL",
+      "collection": "SCIE",
+      "quartile": "Q2",
+      "rank": "48/183"
+    },
+    {
+      "category": "ENGINEERING, MECHANICAL",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "23/184"
+    },
+    {
+      "category": "ENGINEERING, MULTIDISCIPLINARY",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "20/179"
+    },
+    {
+      "category": "THERMODYNAMICS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "12/78"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

@@ -1,0 +1,1565 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "STFS-TUDa/oxysim-129",
+  "commit": "16bc7fcfb59d096d79ed73a992543de994383e24",
+  "date": "2026-11-11",
+  "path": "code_packages/STFS-TUDa__oxysim-129/16bc7fcfb59d-source-only.tar.gz",
+  "bytes": 165537,
+  "sha256": "9033e0c2ccf44a4101828b2f79c44ce3e0243bbea61be7a86d33363827937d7c",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": ".gitlab-ci.yml",
+      "git_blob_sha": "ea0708414ee89ea07a00cf500257df279ab0f719",
+      "sha256": "fa4841eda8b17f7c527c3ee4d4329b80551ebc964332386906a127766b6f9113",
+      "bytes": 5606
+    },
+    {
+      "path": ".pre-commit-config.yaml",
+      "git_blob_sha": "ae583349ec5c1fcd59fe48f003ccb123a71a8c30",
+      "sha256": "bea19b54733980ac41f0d3ffea6db4abd0cebaa3b3e9ecfaa409a75daf8ff1fb",
+      "bytes": 163
+    },
+    {
+      "path": "LICENSE.txt",
+      "git_blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "1b5d98a18ee4c6925c4ab38740e812486fcb3bab",
+      "sha256": "020e1b6f877baab59495fc44798ab3ca416cc528e774f1cd93923ccc2e8b0acd",
+      "bytes": 18359
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/README.md",
+      "git_blob_sha": "022eb7f14ccaa73cc1d600e15d676e8f242b635f",
+      "sha256": "7d465fcb5a0c85eebe3bee91c00ed11f45beec71e1c7860ce0955e7d93dbea83",
+      "bytes": 7547
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/UEqn.H",
+      "git_blob_sha": "dfd8a0e3a6a456f3594535133cbfbe2ed5e95e84",
+      "sha256": "7f3a08bca174b3fa585eb6c96ecc625645affd2d1793a9f282de8d2bd40699f1",
+      "bytes": 472
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/createClouds.H",
+      "git_blob_sha": "ceb0f6e7d8bdf6e4ff2c8d69e9bc1313cf9d63c3",
+      "sha256": "d42341661adc0525e3b4ac3805a2c6d7a0df947918c9ec1f6181993b7c51105a",
+      "bytes": 638
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/createFields.H",
+      "git_blob_sha": "457824fcbb199da34be17939b2a76c8ed3ee9b73",
+      "sha256": "26d9d14f368ebd6d5d6cb199adb551d265d7813a388d5be154538f4441fdf50c",
+      "bytes": 5140
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/createInputVariableEquations.H",
+      "git_blob_sha": "44d24a1005c03b61c71e0c59614e3788b878180f",
+      "sha256": "033b942b06b5fc722870075e7626ba7a5e37d5b4ee18c06aa87b31a31ce3079c",
+      "bytes": 463
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/flameletCloudFoam.C",
+      "git_blob_sha": "72da1ccfd379d3cb1b0820ce9152d221c12fa6d4",
+      "sha256": "ba852a536ac4ce5303293c6b04a1a77a098d759041f3c35762ca5ca9df232092",
+      "bytes": 5986
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/lowMachContinuityErrs.H",
+      "git_blob_sha": "5c8d95ce6f4561c1e33668267efbf8d71efc8498",
+      "sha256": "4e60aea342ffb69c8733ae23f580fc4d24e39f45eda589949f8db36105f56a30",
+      "bytes": 747
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/pEqn.H",
+      "git_blob_sha": "13f3f922d6209b52d272752b6a8f93ae9cf7a289",
+      "sha256": "f365858556bb407ee6d2cc1e2a47cf57b5a5061460859b394a91dd7841ef91c6",
+      "bytes": 2328
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/pcEqn.H",
+      "git_blob_sha": "e8a59fab299c9804a8e4d88a91daad629d409120",
+      "sha256": "0d0b1703fe432edf466bbd9284849eaf5d08ce31a172e4762e2cdfa1a2206fbf",
+      "bytes": 3026
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/pdEqn.H",
+      "git_blob_sha": "5659162b9efd6af92fb24240b249b68942a0b745",
+      "sha256": "2f872627b0cad8045fa9b73924556788b9d0eddbedad4633bc29e064d3cd915d",
+      "bytes": 1708
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/rhoEqn.H",
+      "git_blob_sha": "c72edfbfb5b3e00c1becb547061576ee56d66391",
+      "sha256": "ed55935ffd9e37aca8271251244ff9f9d563d03d86b4acac3cf47b357e9bd70a",
+      "bytes": 1615
+    },
+    {
+      "path": "applications/solvers/flameletCloudFoam/setRDeltaT.H",
+      "git_blob_sha": "8a92fb974185fb7a7295f795948b0f1a68968236",
+      "sha256": "dea1e22f44dae00d40bb918fcec73e588db098afc38e4f5c7bed024f549846a0",
+      "bytes": 5497
+    },
+    {
+      "path": "applications/solvers/flameletFoam/UEqn.H",
+      "git_blob_sha": "f698f3ed96354cb20ce0140bc6db5691b50a73ae",
+      "sha256": "4f42cb7c7afe6b0d0aa5e131738c27f2487402b8379ab15c70b591c1cf500cfb",
+      "bytes": 780
+    },
+    {
+      "path": "applications/solvers/flameletFoam/createFields.H",
+      "git_blob_sha": "1407b70a07d0049a5e9e25ad09720e096f20c597",
+      "sha256": "e7ccc38b0db5a71de6f4414aba5da6dd854f4a0f34c0c413fbf0bf8de24a7901",
+      "bytes": 2446
+    },
+    {
+      "path": "applications/solvers/flameletFoam/createInputVariableEquations.H",
+      "git_blob_sha": "789aaf6a1ce2e61205b642b290541f78fcef3450",
+      "sha256": "19b3ba106d5ebd59ab66a0a38c5d3a6fb8082b000bd5e3154ffd1c9cba617fe7",
+      "bytes": 103
+    },
+    {
+      "path": "applications/solvers/flameletFoam/flameletFoam.C",
+      "git_blob_sha": "2e5a32cf923e9516073b0131904b0daa90a73f05",
+      "sha256": "4372dbeb4dabfb29b755e1a9529420167b5a51b0f2c6d21f07d8eba084948be1",
+      "bytes": 5235
+    },
+    {
+      "path": "applications/solvers/flameletFoam/lowMachContinuityErrs.H",
+      "git_blob_sha": "5c8d95ce6f4561c1e33668267efbf8d71efc8498",
+      "sha256": "4e60aea342ffb69c8733ae23f580fc4d24e39f45eda589949f8db36105f56a30",
+      "bytes": 747
+    },
+    {
+      "path": "applications/solvers/flameletFoam/pcEqn.H",
+      "git_blob_sha": "817039e8aa01cdc7c09ec1e27a39d03c511cd724",
+      "sha256": "0bdb73410d14ddeeef591ecb9cd18ca27ee50e40a0d35f0365bcae66657957ad",
+      "bytes": 2918
+    },
+    {
+      "path": "applications/solvers/flameletFoam/pdEqn.H",
+      "git_blob_sha": "4250aadaf5354339c7bd490558d772e66d935131",
+      "sha256": "55bdc795f4174e102313380e1709c64a2596fd1ed382cec6fb066df88f0fc2f4",
+      "bytes": 1674
+    },
+    {
+      "path": "applications/solvers/flameletFoam/setRDeltaT.H",
+      "git_blob_sha": "8a92fb974185fb7a7295f795948b0f1a68968236",
+      "sha256": "dea1e22f44dae00d40bb918fcec73e588db098afc38e4f5c7bed024f549846a0",
+      "bytes": 5497
+    },
+    {
+      "path": "applications/utilities/directionalAverage/directionalAverage.C",
+      "git_blob_sha": "b8d5a17c1c47a39c909c78e0bfb64d327a6a4731",
+      "sha256": "13b6e2cc974a8a88c7053638ac289c922f9a065da8e6c7cb8a1913cc75bd8e3b",
+      "bytes": 9387
+    },
+    {
+      "path": "src/CloudHandler/CloudHandler.C",
+      "git_blob_sha": "e54dcf4879969c27dc100cd94cd06c438825c663",
+      "sha256": "fb16b119c3c7f6bf999a1cc0bbb8bf57153fd58594eac5fc8fe3d6d49348d012",
+      "bytes": 12989
+    },
+    {
+      "path": "src/CloudHandler/CloudHandler.H",
+      "git_blob_sha": "991c317b134234b6739eec92eb3da8c798a363c5",
+      "sha256": "fb5a0e36bfc49688ad6f79990f6de85f17f8ce68c6fe40c4c71d67c3bd5f9847",
+      "bytes": 4236
+    },
+    {
+      "path": "src/CloudHandler/README.md",
+      "git_blob_sha": "6917cb7f08a69f49122127084c44dd178437d52d",
+      "sha256": "00bacb2eb336f5019daa94783a056137056b9aa16408ad51b3fac1f205eb6fd9",
+      "bytes": 3099
+    },
+    {
+      "path": "src/benchmarkUtility/README.md",
+      "git_blob_sha": "0876bbea658ad59adcd0a1a4f399481ac3155bf1",
+      "sha256": "fec13b355ac1b2b32a76a0d45b7e02c43ba65b98ad2db099e7ea38ab97d20993",
+      "bytes": 919
+    },
+    {
+      "path": "src/benchmarkUtility/benchmarkUtility.C",
+      "git_blob_sha": "5a934a248dd18f701f70bc5fafe1e05792d3f4b6",
+      "sha256": "b2515663d7a265b0f83dd8fe3563f8528740bbe435a9ea4dab51264632f361b7",
+      "bytes": 4803
+    },
+    {
+      "path": "src/benchmarkUtility/benchmarkUtility.H",
+      "git_blob_sha": "41cf6d8132eff49f58314f85535fc3c803a47ed8",
+      "sha256": "7564d5f166037d941502e270d160c982d699226348710065986c01245855a9f8",
+      "bytes": 2607
+    },
+    {
+      "path": "src/flamelet/flameletBCs/README.md",
+      "git_blob_sha": "7fe985ad31c05442cb49a2d2b73ffba7821b548b",
+      "sha256": "8d856aa9aea175ae48edf9428a16e65d137d9cd684db4412702a146dd4798e10",
+      "bytes": 1012
+    },
+    {
+      "path": "src/flamelet/flameletBCs/boundaryLookUp/boundaryLookUpFvPatchScalarField.C",
+      "git_blob_sha": "b17cc81ec76f14cc46edd9223979e998fc2b88f4",
+      "sha256": "3dee481362dca7a276fcd5df875aee558d9f9e8e9f83271d673f22d0f5dec0cc",
+      "bytes": 3522
+    },
+    {
+      "path": "src/flamelet/flameletBCs/boundaryLookUp/boundaryLookUpFvPatchScalarField.H",
+      "git_blob_sha": "974b0069257f9e42b479ba81567412031d65fc4d",
+      "sha256": "fe3d4a2dbec2bd0c5572c9d5a79e51e9e24360d175b7201060fd44e90f80ab1f",
+      "bytes": 4083
+    },
+    {
+      "path": "src/flamelet/flameletEquations/EquationHandler.C",
+      "git_blob_sha": "a0b96c47f213d655363c9b691c9c2484d13b8779",
+      "sha256": "4ae42f028c275c800ed82e0cd20d014b60f98121ed8b86bba795c335678ec1ba",
+      "bytes": 7106
+    },
+    {
+      "path": "src/flamelet/flameletEquations/EquationHandler.H",
+      "git_blob_sha": "d231de9f9dfb4799281d64a0b1d7c32c2b83e48f",
+      "sha256": "af263cecada3a68642b750619b634bc868eaa84897090f6da4d3a8cd62724b00",
+      "bytes": 1956
+    },
+    {
+      "path": "src/flamelet/flameletEquations/README.md",
+      "git_blob_sha": "48a18bb9d26529e53fc4e33b88c45dd7963a107e",
+      "sha256": "40b5a60564fcb0946484e36fa1f46a0e7c52450aed4f022f250b096ed8691079",
+      "bytes": 4409
+    },
+    {
+      "path": "src/flamelet/flameletEquations/flameletTypeDefs.H",
+      "git_blob_sha": "8c4ddb40820785fa89fda0e31d79cdc258adb6b7",
+      "sha256": "a12f1d359f756fc2365bfeb7e5ab3ca082a1d8656dd5ef4388a06f087e3a67eb",
+      "bytes": 608
+    },
+    {
+      "path": "src/flamelet/flameletEquations/inputVariableEquations.C",
+      "git_blob_sha": "1936523f167590d83d673806f5452e82c03bb826",
+      "sha256": "1cde049331fdfd453eb58ef1b9e624176ce6952a051367eb1930dcbb69dfa592",
+      "bytes": 11792
+    },
+    {
+      "path": "src/flamelet/flameletEquations/inputVariableEquations.H",
+      "git_blob_sha": "c64b08c4aa7d2f6a76ac27aeb1e0c7ddfa62cfb3",
+      "sha256": "8e34fc601822e5c7be8dd05626bb94619daf99751c773e7f874b473c18431371",
+      "bytes": 3553
+    },
+    {
+      "path": "src/flamelet/flameletThermo/README.md",
+      "git_blob_sha": "75c32ab07c0b46f2d682c391cf919b41a53feef3",
+      "sha256": "4b3c3294ad2fa83170010a2def140d66783d17d7bdb1b9925cb2b3c85bb7b95f",
+      "bytes": 5821
+    },
+    {
+      "path": "src/flamelet/flameletThermo/flameletThermo.C",
+      "git_blob_sha": "8b1f4e1c7ff7eacee4335f94224763451a807e71",
+      "sha256": "da2dbd34966cba0b160d0c1bfaad3f6ef0bccd3a9a8a799be3cbe001c069ed23",
+      "bytes": 22283
+    },
+    {
+      "path": "src/flamelet/flameletThermo/flameletThermo.H",
+      "git_blob_sha": "37f442689dd95ee84c9e3326898c2af3e83b22c8",
+      "sha256": "16cca71525218a0b5c081e00088b790bb7455cfafd62e407f166a7f027a91ada",
+      "bytes": 12019
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/README.md",
+      "git_blob_sha": "7befbd3d67e472bb9367ed22e9c8f48fe1078869",
+      "sha256": "5c3b7f649fd2c126dd09e4bfd5867d240b6baef210f9e5cf655b9f22ec745cbb",
+      "bytes": 1640
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/CarbonaceousCloud/CarbonaceousCloud.C",
+      "git_blob_sha": "de91695c643efdf552c5b4b6e7f0a071f8d7fbfa",
+      "sha256": "0b7a51a24952343c9f057227d73a3a0fe870e8e577c527124c15ecff18ca656a",
+      "bytes": 6937
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/CarbonaceousCloud/CarbonaceousCloud.H",
+      "git_blob_sha": "5f02154693e2cee1da9dc5290a80c05658b21072",
+      "sha256": "6853cd11cddbf55723bc12a5a62b0955f9f647ef2e865a91c8cf4bd2bd79f54b",
+      "bytes": 8682
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/CarbonaceousCloud/CarbonaceousCloudI.H",
+      "git_blob_sha": "ed8d72b3e85541e391d820a0908fa8d4d45095e1",
+      "sha256": "2c4de12ebc87d7b05fd67557d90a4853bc525d0857fcde2812bdd924c0684865",
+      "bytes": 2768
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingCloudSTFS/ReactingCloudSTFS.C",
+      "git_blob_sha": "5cb835af6db35511cf04a00fc1c868ed0b1b55cf",
+      "sha256": "628fb0a54df71274217ed81726e515e4edfd0ef708169449c347597fac4062d3",
+      "bytes": 10838
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingCloudSTFS/ReactingCloudSTFS.H",
+      "git_blob_sha": "48968a785b17c270eb86da71a97d94131bcf605a",
+      "sha256": "08d360bbec52bd1e1bb9b56baa3dfd986f08961b4b1a208b4c5bcd8b9a7eb212",
+      "bytes": 9988
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingCloudSTFS/ReactingCloudSTFSI.H",
+      "git_blob_sha": "47cabf348ff103cc2080a608de86b7e7ab3d0467",
+      "sha256": "e5ca1ad041d3d6950fd5e65a54ab7d6b05b5ea978cd0b162208dc6f97723e2ea",
+      "bytes": 11823
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingMultiphaseCloudSTFS/ReactingMultiphaseCloudSTFS.C",
+      "git_blob_sha": "caf9280d82fd6244a59e4fe5b45467bf41624a30",
+      "sha256": "44333032d812da94dbe6f231339730da59a1257ee1a25740083a2e2e47f20b31",
+      "bytes": 7936
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingMultiphaseCloudSTFS/ReactingMultiphaseCloudSTFS.H",
+      "git_blob_sha": "f9091529d59c11ed0beebafd5aa4be1dafe2c8a7",
+      "sha256": "76ee06338a8c910cbbdf8255a29341f3080f4b75850f1a5ca4ec776b1a214585",
+      "bytes": 7919
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingMultiphaseCloudSTFS/ReactingMultiphaseCloudSTFSI.H",
+      "git_blob_sha": "34a3fded97b93be9cc63739fb67c6d59bbf38932",
+      "sha256": "5e72fb7cc2b56093b69de3c62173c23bfc2fc3c8de640c92dc4a58a3d46db9d6",
+      "bytes": 4145
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ThermoCloudSTFS/ThermoCloudSTFS.C",
+      "git_blob_sha": "4903b9adc2f050dba9b92fc73ae5ba9059c9f526",
+      "sha256": "a769908ce84f9e3151151878e1244d7015febd80fb8a239a981bcba78099590c",
+      "bytes": 11006
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ThermoCloudSTFS/ThermoCloudSTFS.H",
+      "git_blob_sha": "e40310552d7329266844fd34d768b21bca7657af",
+      "sha256": "988bc7da82f59e5cd8f8d85b62c375ef3bc0ae8b9715629dbc72840ebf54a965",
+      "bytes": 10052
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ThermoCloudSTFS/ThermoCloudSTFSI.H",
+      "git_blob_sha": "63659e16f2797f9e1c68f100c62817ea801d52a5",
+      "sha256": "5bc0180cd266a92795b0a740367243980d4f14ceef7d006fd6859f2ad3d3a467",
+      "bytes": 10485
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/carbonaceousCloud/carbonaceousCloud.C",
+      "git_blob_sha": "d515d709fafe59f71e802703f45723959cd085d0",
+      "sha256": "b5e735ca21a5980f7a3a63adfc5d17b8e8ced32d7a0eff2dbfcec21d2e5d34ff",
+      "bytes": 1519
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/carbonaceousCloud/carbonaceousCloud.H",
+      "git_blob_sha": "fdb20b13d2bde6a8d872502337d059f52a066ad0",
+      "sha256": "da8418d6790f893444cf898e0a2a6c9f82f301bb633dc64d6c1abb9b232547ab",
+      "bytes": 2280
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicCarbonaceousCloud/basicCarbonaceousCloud.H",
+      "git_blob_sha": "f4aa34dfa4d3bc0e411000256db51fe4000c5d5b",
+      "sha256": "45be93f284a4fad33067a358a0cd14d87730a7b9da53455ca44d0e417fdaf519",
+      "bytes": 2106
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicReactingCloudSTFS/basicReactingCloudSTFS.H",
+      "git_blob_sha": "39abc0bcc7419aeb28cee6c217da117551ba0ba2",
+      "sha256": "127282cb5552bb6ba525706c2ad4bdc2a9154664cae2f410aa19c2ec72411f83",
+      "bytes": 1936
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicReactingMultiphaseCloudSTFS/basicReactingMultiphaseCloudSTFS.H",
+      "git_blob_sha": "a37a4a9a5db3a71bfcf6c07cfd0289f5239a8b86",
+      "sha256": "640430b07cd29e344d3fc1d97b169695714bd2eb924789a271f141f30502a9ba",
+      "bytes": 2079
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicThermoCloudSTFS/basicThermoCloudSTFS.H",
+      "git_blob_sha": "e453dcc84535943da0c735497b1f7d8f05946ea8",
+      "sha256": "f5f238f677523d240d62a4a4924e2fddeddd49cf9b1b7452268300d61d25f56d",
+      "bytes": 1867
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CarbonaceousParcel/CarbonaceousParcel.C",
+      "git_blob_sha": "8052e7ab0200bc5565ca5528e87fb05847b3ad9f",
+      "sha256": "73cb07629853bf7b33540012eca432e5b12b433f2e35496760347d956e112963",
+      "bytes": 26353
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CarbonaceousParcel/CarbonaceousParcel.H",
+      "git_blob_sha": "ebadf1e2063fedafb5e0675db454a875d63b2282",
+      "sha256": "ec3394bfb3c3ae22de67380e61f1a94b608745efaa874fc27f4374a94d3d42f1",
+      "bytes": 16488
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CarbonaceousParcel/CarbonaceousParcelI.H",
+      "git_blob_sha": "37d22a1a038daf9454e5c766711e6f4e4b803b2f",
+      "sha256": "c8b734902ad7aff864d528b1e2bb1e3641cba70915094ba6326930b71d3cab2f",
+      "bytes": 5745
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CarbonaceousParcel/CarbonaceousParcelIO.C",
+      "git_blob_sha": "4fc7d5219214d888fe2f4d8fa7a8f0403d8ff8be",
+      "sha256": "afa417e4f7e2618476f2b4b4f3afc5c29da9b25346f8d0149eeed0ba5ffb3eaf",
+      "bytes": 14846
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CarbonaceousParcel/README.md",
+      "git_blob_sha": "2f359520655855c8682aa54ad937026b13ca2d2b",
+      "sha256": "489eaeee5380340ce12a8f688c0d3327decd7301e5dbdef39b38edd40225998b",
+      "bytes": 1861
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcelSTFS/ReactingMultiphaseParcelSTFS.C",
+      "git_blob_sha": "3a8fe951a4df2ef07d0e4ece452a5e44b9139f48",
+      "sha256": "05cb464deb90a8cb94daee62f921eed880d8112a4eb50d2a0bddafae0fc47913",
+      "bytes": 21464
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcelSTFS/ReactingMultiphaseParcelSTFS.H",
+      "git_blob_sha": "9b0fafb0a6101ae81a9c71885721c07820bc2b12",
+      "sha256": "2e6d34de3ec56d50fbf741cef418a425b4e4f837ff667c64802bcb9cb8204ee1",
+      "bytes": 15175
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcelSTFS/ReactingMultiphaseParcelSTFSI.H",
+      "git_blob_sha": "de0846b79e90081c44a3b43a1f8edf265532b733",
+      "sha256": "2ccebe961249183d1d9423834101db39ab6a914bf29b98c77a10dd5f129f4478",
+      "bytes": 5943
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcelSTFS/ReactingMultiphaseParcelSTFSIO.C",
+      "git_blob_sha": "b27703042478f19efdfceeea49ad8ed677d18898",
+      "sha256": "8a490dc85e539a5af8e18869f234f3f621bc24a578853ce60e72a05be22ae6a5",
+      "bytes": 13194
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcelSTFS/ReactingParcelSTFS.C",
+      "git_blob_sha": "5fe5442ebf74636ade80d709dba90d4dce7a5a51",
+      "sha256": "8d972a4ee5bf7e0617e304e4ed411475b644778f0147b1ccc8bce46a8807a5c3",
+      "bytes": 19022
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcelSTFS/ReactingParcelSTFS.H",
+      "git_blob_sha": "29b0ed29196d9aef7e3cdd03f19314f9216ab385",
+      "sha256": "d6f48796838b3f2f7a6ce74778cf18f0005f28104916970a375b1bbe2c698050",
+      "bytes": 14023
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcelSTFS/ReactingParcelSTFSI.H",
+      "git_blob_sha": "43953cda1b40db9195dcc79080f8ba27f560fce6",
+      "sha256": "767c9a3d611a486fec85f9d7d3c081eed06564d29cf68734bad4bf1e562b1f0e",
+      "bytes": 6886
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcelSTFS/ReactingParcelSTFSIO.C",
+      "git_blob_sha": "abd5d7d218851d9c4253ea9bee0c1d6c1608df27",
+      "sha256": "691378444b47341c8f15df3d1d3dacad745cb3287dc9ec35c862558fdc1905e3",
+      "bytes": 10351
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcelSTFS/ReactingParcelSTFSTrackingDataI.H",
+      "git_blob_sha": "2d865b6c3287a7f86e7ce15c788b6026cd627918",
+      "sha256": "2ae7a0060fdc34e78b0d3a816bdfd43640cbd457e2bead16b6a9de79102ff908",
+      "bytes": 2132
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcelSTFS/ThermoParcelSTFS.C",
+      "git_blob_sha": "e74f83e9c2ed2e0af373cda9cd9b09be46a3f50b",
+      "sha256": "28182105d54848f82b5037864c6e24dffe4fe3845daecd487d232f0d7f61ced8",
+      "bytes": 9552
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcelSTFS/ThermoParcelSTFS.H",
+      "git_blob_sha": "d7a2155fd846254e8410684b78cede9b51e13849",
+      "sha256": "80548a85f29416460c3e1e8e7700157ec6cd549e1d1216bd4155ade27f7d6be7",
+      "bytes": 13241
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcelSTFS/ThermoParcelSTFSI.H",
+      "git_blob_sha": "69d01a5204bad72a99465e0246bbb942ceafbedc",
+      "sha256": "04bdef46813ab8a150e87fda0e000b5cdf5c87afd2aeb54416ab3000abc94be1",
+      "bytes": 5500
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcelSTFS/ThermoParcelSTFSIO.C",
+      "git_blob_sha": "9038a15e830b03c7da38592adcbc6b44a3cad4e1",
+      "sha256": "376598c2da08f7f30c4428a186b6d5d194750169ed20ccbda5f014e5d7c292f1",
+      "bytes": 5591
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcelSTFS/ThermoParcelSTFSTrackingDataI.H",
+      "git_blob_sha": "78448fb1982b412067fda1fb4586ed125a8893e7",
+      "sha256": "ff274ad52be7b872488e86cddfc4cfa10ed00c8007ad4c3818e55e1d4a874a72",
+      "bytes": 4010
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicCarbonaceousParcel/basicCarbonaceousParcel.H",
+      "git_blob_sha": "b42ddb13138ab5c9b2d422b731b3d61452b1f339",
+      "sha256": "298a9dc42cf53fb286e28de2c8f82af08995bcaacbce6bf580273fd9bb6f4935",
+      "bytes": 2359
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicCarbonaceousParcel/defineBasicCarbonaceousParcel.C",
+      "git_blob_sha": "f78b3b8faddef219d95c05ea0ba1048f394e0b3a",
+      "sha256": "d5f1cd0a32a33c1b1d4f2ba36f6b1308d3e2c697a183f2c606df906c5393ccca",
+      "bytes": 1620
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicCarbonaceousParcel/makeBasicCarbonaceousParcelSubmodels.C",
+      "git_blob_sha": "6ed2b21f14b2150f092f8988b2a564b2e660e1f3",
+      "sha256": "1c4d443f63495bc4cfa0549bf8a460192d6ce739a4ceab5cd99e5f43e47fefbb",
+      "bytes": 4515
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingMultiphaseParcelSTFS/basicReactingMultiphaseParcelSTFS.H",
+      "git_blob_sha": "953aaf0ba9bf1b767a098609f3053ed5c7ecc154",
+      "sha256": "d1c57611ee2f098197cccb923671a17d56f1692a1af07656fd4cc53dd91cdb9c",
+      "bytes": 2283
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingMultiphaseParcelSTFS/defineBasicReactingMultiphaseParcelSTFS.C",
+      "git_blob_sha": "ea4ec1d6d784a4d6b320103a8a84ea42906db241",
+      "sha256": "ddbea9b8f4d332a7638d58abb6602b02dc189e486f32976b1bbb5a88933aec41",
+      "bytes": 1650
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingMultiphaseParcelSTFS/makeBasicReactingMultiphaseParcelSTFSSubmodels.C",
+      "git_blob_sha": "79e5f0b579683d443f748b9200562e2155c671f4",
+      "sha256": "6c6ce723e7f25163099cab30538fbbdc7bb94207f5c5c4cbb2f7be93bbaa793c",
+      "bytes": 4251
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingParcelSTFS/basicReactingParcelSTFS.H",
+      "git_blob_sha": "6677d973aa45596d1adebdf6cc9955ad411430ad",
+      "sha256": "913048a5845871757fb08f785dd9b708ff7fbff8d9468b3a06e395781dafec04",
+      "bytes": 2079
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingParcelSTFS/defineBasicReactingParcelSTFS.C",
+      "git_blob_sha": "8be6e625ff11be1e58a84d53c8f8f6f5a2ad17a8",
+      "sha256": "2c82e74e867091d59df204b332ec3e488a9105b6c36c61a1d04a9c54a131aecc",
+      "bytes": 1620
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingParcelSTFS/makeBasicReactingParcelSTFSSubmodels.C",
+      "git_blob_sha": "48ab31c92398d6008fed56b74591e6de7ad05161",
+      "sha256": "08a80f45d3affa7327b488dcfb25db794ff5d7f3fd0da2aea24f4aae9d058cf9",
+      "bytes": 3818
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicThermoParcelSTFS/basicThermoParcelSTFS.H",
+      "git_blob_sha": "4961f92dd5e238b579ecb44efd147bd0e8393b59",
+      "sha256": "313f24ee861a4639f017d211a0dd704cf5822f6133cba0aaf9f9ab68300c2386",
+      "bytes": 2006
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicThermoParcelSTFS/defineBasicThermoParcelSTFS.C",
+      "git_blob_sha": "d0061e4b49dbb747715eb19cb91cf57251242a41",
+      "sha256": "18b04d58f09d5370a044e8d7cc7591603f8d94459fa8108673b3c84cba373372",
+      "bytes": 1618
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicThermoParcelSTFS/makeBasicThermoParcelSTFSSubmodels.C",
+      "git_blob_sha": "d615ed04c7cf3066e9d736220f56e42528b887a9",
+      "sha256": "bad7161298f030f9a923a181f571f632bf0028ec693631c203dbc638b8b3b033",
+      "bytes": 2815
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/include/makeCarbonaceousParcelDevolatilisationModels.H",
+      "git_blob_sha": "307c6aa8f528bdf2ec5ca6ef4b55105a48c55395",
+      "sha256": "a60ca7fbd2dd85383b06187e13afdfec351325e72afc3eae3a5ca9bde3695020",
+      "bytes": 1966
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/include/makeCarbonaceousParcelHeatCapacityModels.H",
+      "git_blob_sha": "eb25d364cf1d15c977a4d5143e7870fc61d67924",
+      "sha256": "7d3f54cac7a4267fb77ae87d19bf8a1573c6f12d4c15add9f3cbe2a69099739d",
+      "bytes": 2102
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/include/makeCarbonaceousParcelSurfaceReactionModels.H",
+      "git_blob_sha": "08c776aa74aa102b619fd4587351302fba68a9a0",
+      "sha256": "dea21b4eb54a2c91d6209dbe2253297665ec39c02cf72689f42239abb9d8aa93",
+      "bytes": 1871
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/include/makeParcelSTFSHeatTransferModels.H",
+      "git_blob_sha": "1fb779a60c278baf1068e0328655fb766df06d11",
+      "sha256": "7543b547df5cd13c3c89234e3e78684c0b94c217a04ecee9e6f160e5072976d3",
+      "bytes": 1487
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/include/makeReactingMultiphaseParcelSTFSInjectionModels.H",
+      "git_blob_sha": "621a3489c63b0c9b90eb473880ff5fbe732472ca",
+      "sha256": "86b681852b656a7fefa99af8c693e1e7fd7905fa147b4c2a758a1a47ba4df285",
+      "bytes": 1665
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/include/makeReactingParcelSTFSCloudFunctionObjects.H",
+      "git_blob_sha": "c8fe1a30b0873a160d510f7e0f6b4038ba31b8e8",
+      "sha256": "57643fc852cb7da311fe6cc292b7bfe69e157eccef273c11ef8cd057ce7ab111",
+      "bytes": 2065
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/include/makeReactingParcelSTFSPhaseChangeModels.H",
+      "git_blob_sha": "67a6a81cf71ae0970b958eac8f9d505217f5a25c",
+      "sha256": "139e62eaacca9a8b7758c015f6bb15f19a9e3abeb80d07be728cfc9bfffff528",
+      "bytes": 184
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/C2SM/C2SM.C",
+      "git_blob_sha": "e2e0da6f274a36d0887336919a8bba2d70d55252",
+      "sha256": "b5603c3d35d5c0cd8a416dfec903c8b7e5f56a6d925fce867bf3365f8e555c39",
+      "bytes": 4468
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/C2SM/C2SM.H",
+      "git_blob_sha": "4cc04b85e5c7fb651d7b995e5c5856a68a9984a3",
+      "sha256": "9526bdd04c5c8f839d7bb08f4c8d4311f162280ea5a1706d7c74d8e57bb09a15",
+      "bytes": 7315
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/DevolatilisationModelSTFS/DevolatilisationModelNewSTFS.C",
+      "git_blob_sha": "d81d5a9c76e32c8bf40b68834c7043ece4ad1f4c",
+      "sha256": "c25011ff6cf67ed994fa6b4d5aae9bc43f81dd42969f3c59aa4bbb5a152f6e0a",
+      "bytes": 2214
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/DevolatilisationModelSTFS/DevolatilisationModelSTFS.C",
+      "git_blob_sha": "d1423cbea4901d292c547e93c1b41b69a800b568",
+      "sha256": "2c6315d2837f251cd14753a11e52a2e22e294181710a222257032aad9e933d12",
+      "bytes": 3077
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/DevolatilisationModelSTFS/DevolatilisationModelSTFS.H",
+      "git_blob_sha": "06cf172c09db490a758b30c4e83bbe1b23dac72e",
+      "sha256": "ce615be0f70bba046044f77bf5350bd5ff8e34c4e9fb9a16a714714c1a79ff7a",
+      "bytes": 5780
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/NoDevolatilisationSTFS/NoDevolatilisationSTFS.C",
+      "git_blob_sha": "e230510b6e62ad5aba0dbfca2ec2b8d8c6cf514f",
+      "sha256": "066c156a32bdccb44ba75101e7624f51cfabb059f7e55e2c44cf86ed83925a0d",
+      "bytes": 2603
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/NoDevolatilisationSTFS/NoDevolatilisationSTFS.H",
+      "git_blob_sha": "4c1abd06718d9e94b254e86dda51112a8fe6cd98",
+      "sha256": "3b7a6c6f31fef6fe0cd02c013cfa90153721fa3c6aa7250f909cf0c08bcef457",
+      "bytes": 3416
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/ConstantHeatCapacity/ConstantHeatCapacity.C",
+      "git_blob_sha": "2312285c09f295d1cc0373d789427a34eec4ab55",
+      "sha256": "6f72cf22264fe6f1e3aa41425d18f8045385a4e94460df477d66b11b2a4bdebb",
+      "bytes": 2095
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/ConstantHeatCapacity/ConstantHeatCapacity.H",
+      "git_blob_sha": "fa96efdf3c0da324567dc8779fe1034c07eb8df3",
+      "sha256": "9fba43a13cf2f081ff4b9a91fe141752f75ff9bf2c5911f0c64c2ffe2407eab8",
+      "bytes": 3167
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/HeatCapacityFit/HeatCapacityFit.C",
+      "git_blob_sha": "93d72f2070558524b5c9953837559ac2ab1f8a95",
+      "sha256": "e9d47bd4859edf9b2d5c7447189f04f6c185f3c4154e810da926e5ea61d4c699",
+      "bytes": 2178
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/HeatCapacityFit/HeatCapacityFit.H",
+      "git_blob_sha": "e37de32d181eade76a0ea3f6044677bd97169964",
+      "sha256": "f2292875b214a1ecdc09b6f0602fa9bc85df6a96db6acf86b007aaf03fc57921",
+      "bytes": 3399
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/HeatCapacityModelSTFS/HeatCapacityModelNewSTFS.C",
+      "git_blob_sha": "0751d183b11a7c52a775abd35c8ef35206a33986",
+      "sha256": "4918464f8b5380b63e159dc32ad563a3e0054fe7d61d586893dc3123e054c64f",
+      "bytes": 2187
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/HeatCapacityModelSTFS/HeatCapacityModelSTFS.C",
+      "git_blob_sha": "ffff73a556977ae81242a0b00bfcbc7459d3a66c",
+      "sha256": "1e572e5983452fe8b76191c2dedeaf651a3ef597cb8d63b2936c928f87b10cdd",
+      "bytes": 2217
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/HeatCapacityModelSTFS/HeatCapacityModelSTFS.H",
+      "git_blob_sha": "ff9606e48fa142c8e808afc9bc267a091b89e157",
+      "sha256": "94e3910451ed2321dedf596444b12318bcbc08702e1f26b647b75f45f97ad28c",
+      "bytes": 5248
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/NoHeatCapacityModel/NoHeatCapacity.C",
+      "git_blob_sha": "319d6701e639e06c13686d5ab59da74cad12d037",
+      "sha256": "38dd871d227ac0648e085d545a92019fe70dac45212807de2bd95355bc308321",
+      "bytes": 2293
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/NoHeatCapacityModel/NoHeatCapacity.H",
+      "git_blob_sha": "fbba6f9708a551de66c4b68f8fe84c07476c31ae",
+      "sha256": "39c1fb317fbb34e44dc82f40f67be48c88fff78191ad98848de2973422ed9ae9",
+      "bytes": 3084
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/SurfaceReactionModelSTFS/COxidationKineticDiffusionLimitedRateSTFS/COxidationKineticDiffusionLimitedRateSTFS.C",
+      "git_blob_sha": "32b6452d95794854f0d57254a8ddefa81327ee2a",
+      "sha256": "4dac5d444765b151a2727bfc19857d18140f5f95618eb3fc3e5e91a181ea990e",
+      "bytes": 5850
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/Carbonaceous/SurfaceReactionModelSTFS/COxidationKineticDiffusionLimitedRateSTFS/COxidationKineticDiffusionLimitedRateSTFS.H",
+      "git_blob_sha": "0769381abb427786369df2cf32652a7abfd5f684",
+      "sha256": "478e87bacc58c5cc060807385e85e69adcd0c8d2bd3d85d7a688c9bf165d3929",
+      "bytes": 5337
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/CloudFunctionObjects/ParticleVelocityField/ParticleVelocityField.C",
+      "git_blob_sha": "4f74c3ba1a23c6d585b5e14d6c9bb0c812ac5c7e",
+      "sha256": "9c7702d5e4202752787b1d48ebff4c1a9088b1929727fef78d57cb172e3aa641",
+      "bytes": 9145
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/CloudFunctionObjects/ParticleVelocityField/ParticleVelocityField.H",
+      "git_blob_sha": "bd0ea66e1027d9fa915359862e52962a75b5b8a9",
+      "sha256": "976fbaea13e6f8e6d73538297781d5fe5b873f6a418681b0fc72994fedff1604",
+      "bytes": 4451
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/CloudFunctionObjects/SuperheatedIndex/SuperheatedIndex.C",
+      "git_blob_sha": "c05e53ed6a84ea83bceef7a59af1ddd2e1b66a62",
+      "sha256": "b4891041ee9106750c1f5b681291ec9c5010f9c8722c6d9c1691b69d91f0f035",
+      "bytes": 3749
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/CloudFunctionObjects/SuperheatedIndex/SuperheatedIndex.H",
+      "git_blob_sha": "61d96b55e2537e2607e3b92d7f70a3bbae65d8c8",
+      "sha256": "71d320377b1bc804bb7d92a6ba2ec3819179d55736905a4b0820503e65c96c3f",
+      "bytes": 3235
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/CloudFunctionObjects/VoidMassFraction/VoidMassFraction.C",
+      "git_blob_sha": "67bf52c581df7a973f4f705fe48389e367a98abe",
+      "sha256": "6abf21a16a6ef99e9d15a241a70ec4988538a240ce9be6e745c3922db5592bcb",
+      "bytes": 3585
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/CloudFunctionObjects/VoidMassFraction/VoidMassFraction.H",
+      "git_blob_sha": "16ce369300f093987afcba5dd546844fa8a9c141",
+      "sha256": "ea4c024f6340e93d153ef8e822efc82a5e82912005e9c74e7ac953b346ea6134",
+      "bytes": 3780
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/CloudRadiation/wsggGreyCloudAbsorptionEmission/wsggGreyCloudAbsorptionEmission.C",
+      "git_blob_sha": "7fd2842d5ee2d071929286a969b8b27ba9ca86ed",
+      "sha256": "3f4b9d32994ff3c1b53bfec9e72a461564af08592d6355521f29996e14e0c614",
+      "bytes": 9888
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/CloudRadiation/wsggGreyCloudAbsorptionEmission/wsggGreyCloudAbsorptionEmission.H",
+      "git_blob_sha": "2bdd56fc5e1badf3c1d3838830ee63c3ab1c4dca",
+      "sha256": "c429f63b8ab0473840bf95a31147ad09a59c632f5fbc5bc4b77c0fee6baff5dc",
+      "bytes": 5657
+    },
+    {
+      "path": "src/lagrangian/intermediate/submodels/README.md",
+      "git_blob_sha": "c92db2c6abf704ab38df90a060d5466d40bdc3e4",
+      "sha256": "5062fb150fc9877c5c5b066979cef3c4b3a67f8479e2492a6d34ed0dae447296",
+      "bytes": 6173
+    },
+    {
+      "path": "src/radiation/README.md",
+      "git_blob_sha": "a2cab47e74c5a3ca9c237e2372d577bf9a2fb600",
+      "sha256": "b2fbcf3e7b8eef0376904ca3856681f1d27e7bfb17622d349850c93427da6442",
+      "bytes": 6316
+    },
+    {
+      "path": "src/radiation/derivedFvPatchFields/wideBandDiffusiveRadiationwsgg/wideBandDiffusiveRadiationMixedFvPatchScalarFieldwsgg.C",
+      "git_blob_sha": "c36b6539e75b6fef2cb86e2d13640580906a4ede",
+      "sha256": "295732a3aef8ad6d31b4e17e95890524d5e79a101ff588c2fa480e73c5dce719",
+      "bytes": 10485
+    },
+    {
+      "path": "src/radiation/derivedFvPatchFields/wideBandDiffusiveRadiationwsgg/wideBandDiffusiveRadiationMixedFvPatchScalarFieldwsgg.H",
+      "git_blob_sha": "84b7291ffa70cc15e7d38545bac66b9fe8cc202e",
+      "sha256": "8abfd34b49b0f55f017fe3e715b44cd640c1180bd7ca6206940b7aee6203f5fe",
+      "bytes": 5125
+    },
+    {
+      "path": "src/radiation/radiationModel/fvDOMwsgg/fvDOMwsgg/fvDOMwsgg.C",
+      "git_blob_sha": "b6a26d3358af1960523df2ec57de908ec69a573d",
+      "sha256": "71937758d13f0750afbba48f9b849645bf3c3bb6636cf07a4d20616e33b669c7",
+      "bytes": 21170
+    },
+    {
+      "path": "src/radiation/radiationModel/fvDOMwsgg/fvDOMwsgg/fvDOMwsgg.H",
+      "git_blob_sha": "d99c0ff2c698b702be7e222043152facf79701dc",
+      "sha256": "57d461236b9f6cf2ebddd886ba3cf73d1396df5cd20d4cb8099ca045d04b9a45",
+      "bytes": 9625
+    },
+    {
+      "path": "src/radiation/radiationModel/fvDOMwsgg/fvDOMwsgg/fvDOMwsggI.H",
+      "git_blob_sha": "68f3d7f1065ef15aefc690f5b06edbff76df34b5",
+      "sha256": "a5b06affda1ec354943b8e7bfdcb27730d52bfcc9956d11d025dfa2eb786ef26",
+      "bytes": 3546
+    },
+    {
+      "path": "src/radiation/radiationModel/fvDOMwsgg/radiativeIntensityRaywsgg/radiativeIntensityRaywsgg.C",
+      "git_blob_sha": "cbff88bafc25ea1e57fa1e9a8f5d5d4f11f87c31",
+      "sha256": "297a2f5b4a8821c6ba9e24456ae95e55164e8b33b5e52a3d1e2d8364014ea1bf",
+      "bytes": 9875
+    },
+    {
+      "path": "src/radiation/radiationModel/fvDOMwsgg/radiativeIntensityRaywsgg/radiativeIntensityRaywsgg.H",
+      "git_blob_sha": "5f3ea38aa7c50bb022dc68d0e81452cd40b79eed",
+      "sha256": "5b6580ea13402abcdfe67030db679d380d830439508d14c92d90963f1f0f304e",
+      "bytes": 6213
+    },
+    {
+      "path": "src/radiation/radiationModel/fvDOMwsgg/radiativeIntensityRaywsgg/radiativeIntensityRaywsggI.H",
+      "git_blob_sha": "ffa364bd56010f58f7c74d6369bedb05cfb9899a",
+      "sha256": "cbee983bcaa8132173ae5834c18e6c415ea1ea58e70376b7dce4cab03116976c",
+      "bytes": 3173
+    },
+    {
+      "path": "src/radiation/radiationModel/radiationModelSTFS/radiationModelSTFS.C",
+      "git_blob_sha": "51244a4704bf0f11c5843abd8bf542e0f655d2af",
+      "sha256": "a710d40cf6b5d550a6c7e7fbbcf9b3124265a6f966304be59c243e207b2d26ff",
+      "bytes": 5845
+    },
+    {
+      "path": "src/radiation/radiationModel/radiationModelSTFS/radiationModelSTFS.H",
+      "git_blob_sha": "ead32cdfffaeb5ce42b0d2ef6325d4ad31f6d118",
+      "sha256": "25d41c94ae63a053f247a6bf24c3b99ed926cc2ece71ea98ad1f7f7819e0ee31",
+      "bytes": 4577
+    },
+    {
+      "path": "src/radiation/submodels/wsggAbsorptionEmission/wsggAbsorptionEmission.C",
+      "git_blob_sha": "24ab3b3296862ee927e46c609ce65a7e48736b78",
+      "sha256": "a678c9c8f5ed36658ef178addec94753370f8b03d536f4a2de59ef5f470661f0",
+      "bytes": 2482
+    },
+    {
+      "path": "src/radiation/submodels/wsggAbsorptionEmission/wsggAbsorptionEmission.H",
+      "git_blob_sha": "3f595da9a9175b8cb05abb4d7e76caf5aa7540b2",
+      "sha256": "1b7c97128b8bb27cd90407813a7ae294c33ae5ae2cbd2ea5a57ec92f4f3a3656",
+      "bytes": 3119
+    },
+    {
+      "path": "src/radiation/submodels/wsggBinaryAbsorptionEmission/wsggBinaryAbsorptionEmission.C",
+      "git_blob_sha": "b235d1d70131d1a084fb77819af74f194ba62931",
+      "sha256": "3217e9270726d75a280970daf9e6bfc6c07025f5bf282c74e9de074ad702719c",
+      "bytes": 5337
+    },
+    {
+      "path": "src/radiation/submodels/wsggBinaryAbsorptionEmission/wsggBinaryAbsorptionEmission.H",
+      "git_blob_sha": "8da77d349f215a75411ec318289d9760d67d04e1",
+      "sha256": "7c83fca90b940ce3c835b10f5b71f57248dcd9e9afd6332318a72e71267c819f",
+      "bytes": 4450
+    },
+    {
+      "path": "src/radiation/submodels/wsggBordbarAbsorptionEmission/wsggBordbarAbsorptionEmission.C",
+      "git_blob_sha": "aab895ee31f8fc8e6fa2e9d3dddc2470674d7efd",
+      "sha256": "b8a8fc912001bf04eb775b0721f5e31d1760f11b8e2ae644387f85f1a874f400",
+      "bytes": 8907
+    },
+    {
+      "path": "src/radiation/submodels/wsggBordbarAbsorptionEmission/wsggBordbarAbsorptionEmission.H",
+      "git_blob_sha": "1eca23daf661b85ba890f6a310841aa57bc4b6c5",
+      "sha256": "2a534007c504a8d13ee24409d697fd7b9a4880902b9b92aef7283b103f811c9e",
+      "bytes": 7136
+    },
+    {
+      "path": "src/radiation/submodels/wsggDorigonAbsorptionEmission/wsggDorigonAbsorptionEmission.C",
+      "git_blob_sha": "f1fd8d60612b59b91c7d70cf8bcc97ab90db101e",
+      "sha256": "38f4c12cdb158a11658060dcabfaee1848788956141ed384d2a6816455bbbdb1",
+      "bytes": 7681
+    },
+    {
+      "path": "src/radiation/submodels/wsggDorigonAbsorptionEmission/wsggDorigonAbsorptionEmission.H",
+      "git_blob_sha": "310b6a5e576d1e68b39314f2f8372b80969598cf",
+      "sha256": "85ddda192adf5898ccf21788af00b1845158dde41069eb041d27252f608958df",
+      "bytes": 5056
+    },
+    {
+      "path": "src/thermo/basicThermoSTFS/README.md",
+      "git_blob_sha": "498acf11f5a66e32fe997e0bc917c8c4780b17db",
+      "sha256": "393f6c7a55d1476009a40bc9b177e06f1c6298a1afd41c25988b66cfc683d007",
+      "bytes": 1081
+    },
+    {
+      "path": "src/thermo/basicThermoSTFS/basicThermoSTFS.C",
+      "git_blob_sha": "1e1d7ab406deffbab0fdd47e2a13853427235efd",
+      "sha256": "9a7c7dfb0871288ea681e36d5b689a28efe7814941a3867eb2418383a0676171",
+      "bytes": 4831
+    },
+    {
+      "path": "src/thermo/basicThermoSTFS/basicThermoSTFS.H",
+      "git_blob_sha": "596a65ca7f6a31bdb501b1b212b7d3351e06e81f",
+      "sha256": "e183c45ad7c8cf86a4a9265683a93110237a1faedd42e82e57af42bcb23d1d1d",
+      "bytes": 12762
+    },
+    {
+      "path": "src/thermo/canteraThermo/README.md",
+      "git_blob_sha": "c1c64c8812b4fe658e25ef1f1de15b72d25a3ac2",
+      "sha256": "da54a76797a4140447903d4e78270f9afe6acba90ed611fb9e71683a437c77c7",
+      "bytes": 2013
+    },
+    {
+      "path": "src/thermo/canteraThermo/canteraSpecieMixture.C",
+      "git_blob_sha": "0e8dead011b018aacaac9ac86e8768117ffc15b5",
+      "sha256": "c1a29fe1864df355e8580b8e3b5639d4018d7f14b485f880f1e5d2f3d46235ed",
+      "bytes": 8027
+    },
+    {
+      "path": "src/thermo/canteraThermo/canteraSpecieMixture.H",
+      "git_blob_sha": "5c83b69aa6c740d56dc9c454901f2942f05e5924",
+      "sha256": "66fa63c592fc407e2bbe08ed4fa40c53c753c74bef174daec60f7f4c259ce2e7",
+      "bytes": 6101
+    },
+    {
+      "path": "src/thermo/canteraThermo/canteraThermo.C",
+      "git_blob_sha": "80df9224627e081ab0eab2e681700cbf69ecae73",
+      "sha256": "4bb4845e5e052cdc5375cae8946afd6b8ee80646c090699f318710fdd2fc13ec",
+      "bytes": 47279
+    },
+    {
+      "path": "src/thermo/canteraThermo/canteraThermo.H",
+      "git_blob_sha": "35d4da3616f8d3a3b471055e3c24181f5d3917d5",
+      "sha256": "c75ec794cfd8ed3731cde36a928a29a040af5b85fa5359ae9d4d6618f5e350ad",
+      "bytes": 14812
+    },
+    {
+      "path": "tests/conftest.py",
+      "git_blob_sha": "aac2dea6e2982fea4432464ac7ffa22c6a35f55b",
+      "sha256": "92168d6b993dd1df090d999945e5b2c423e5a4df6ae58e34fddd327bb392552d",
+      "bytes": 8923
+    },
+    {
+      "path": "tests/integration/test_C2SM/README.md",
+      "git_blob_sha": "5ca64e7a1f0c3cdab886179b848444c5e1bf6c93",
+      "sha256": "0ef7f7a20f612ffcefe395602b7d10682282a18547cb00a1696299c0fe39e872",
+      "bytes": 1974
+    },
+    {
+      "path": "tests/integration/test_C2SM/ch4_smooke_EKT.yaml",
+      "git_blob_sha": "e93bc2bfddd36b151024db1cd18abb1f7f760dec",
+      "sha256": "f032436b91b00fb36cc6a7f3394c9bef157eb24fa43790dc5767af260bd2e80b",
+      "bytes": 12179
+    },
+    {
+      "path": "tests/integration/test_C2SM/foam_template/constant/ch4_smooke_EKT.yaml",
+      "git_blob_sha": "d59e5302e43fb3367ae33fc4c7e2e3e17edd917e",
+      "sha256": "b45cb0966428dc57a33ecda1d897362a574f9bb6a9ca2c5d66df66434f05673c",
+      "bytes": 12207
+    },
+    {
+      "path": "tests/integration/test_C2SM/test_C2SM.py",
+      "git_blob_sha": "d24ab532010ba66db9e453f669ba128bf9373e52",
+      "sha256": "a2f86be4bdb6df540b8727b05e11dd898cb1db10ba7db1d3b52ed626b08b8728",
+      "bytes": 4075
+    },
+    {
+      "path": "tests/integration/test_flamelet_particle_gas_phase_coupling/README.md",
+      "git_blob_sha": "418d362d50dc4d231afe29a7801cd7de972bb6dc",
+      "sha256": "98c3ce72757127bc01408e18be00436b1b463991afef18bd25f0d61abb1492bb",
+      "bytes": 2514
+    }
+  ],
+  "excluded_paths": [
+    ".clang-format",
+    ".gitattributes",
+    ".gitignore",
+    ".gitmodules",
+    "Alltest",
+    "CITATION.cff",
+    "CMakeLists.txt",
+    "CMakePresets.json",
+    "applications",
+    "applications/CMakeLists.txt",
+    "applications/solvers",
+    "applications/solvers/CMakeLists.txt",
+    "applications/solvers/flameletCloudFoam",
+    "applications/solvers/flameletCloudFoam/CMakeLists.txt",
+    "applications/solvers/flameletFoam",
+    "applications/solvers/flameletFoam/CMakeLists.txt",
+    "applications/utilities",
+    "applications/utilities/CMakeLists.txt",
+    "applications/utilities/directionalAverage",
+    "applications/utilities/directionalAverage/CMakeLists.txt",
+    "bin",
+    "bin/tools",
+    "bin/tools/STFSRunFunctions",
+    "cmake",
+    "cmake/OpenFOAM.cmake",
+    "cmake/customMacros.cmake",
+    "extern",
+    "extern/flut-reader",
+    "pytest.ini",
+    "scripts",
+    "scripts/bash_functions.sh",
+    "scripts/source_template.sh",
+    "src",
+    "src/CMakeLists.txt",
+    "src/CloudHandler",
+    "src/CloudHandler/CMakeLists.txt",
+    "src/benchmarkUtility",
+    "src/benchmarkUtility/CMakeLists.txt",
+    "src/flamelet",
+    "src/flamelet/flameletBCs",
+    "src/flamelet/flameletBCs/CMakeLists.txt",
+    "src/flamelet/flameletBCs/boundaryLookUp",
+    "src/flamelet/flameletEquations",
+    "src/flamelet/flameletEquations/CMakeLists.txt",
+    "src/flamelet/flameletThermo",
+    "src/flamelet/flameletThermo/CMakeLists.txt",
+    "src/lagrangian",
+    "src/lagrangian/CMakeLists.txt",
+    "src/lagrangian/intermediate",
+    "src/lagrangian/intermediate/CMakeLists.txt",
+    "src/lagrangian/intermediate/clouds",
+    "src/lagrangian/intermediate/clouds/Templates",
+    "src/lagrangian/intermediate/clouds/Templates/CarbonaceousCloud",
+    "src/lagrangian/intermediate/clouds/Templates/ReactingCloudSTFS",
+    "src/lagrangian/intermediate/clouds/Templates/ReactingMultiphaseCloudSTFS",
+    "src/lagrangian/intermediate/clouds/Templates/ThermoCloudSTFS",
+    "src/lagrangian/intermediate/clouds/baseClasses",
+    "src/lagrangian/intermediate/clouds/baseClasses/carbonaceousCloud",
+    "src/lagrangian/intermediate/clouds/derived",
+    "src/lagrangian/intermediate/clouds/derived/basicCarbonaceousCloud",
+    "src/lagrangian/intermediate/clouds/derived/basicReactingCloudSTFS",
+    "src/lagrangian/intermediate/clouds/derived/basicReactingMultiphaseCloudSTFS",
+    "src/lagrangian/intermediate/clouds/derived/basicThermoCloudSTFS",
+    "src/lagrangian/intermediate/parcels",
+    "src/lagrangian/intermediate/parcels/Templates",
+    "src/lagrangian/intermediate/parcels/Templates/CarbonaceousParcel",
+    "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcelSTFS",
+    "src/lagrangian/intermediate/parcels/Templates/ReactingParcelSTFS",
+    "src/lagrangian/intermediate/parcels/Templates/ThermoParcelSTFS",
+    "src/lagrangian/intermediate/parcels/derived",
+    "src/lagrangian/intermediate/parcels/derived/basicCarbonaceousParcel",
+    "src/lagrangian/intermediate/parcels/derived/basicReactingMultiphaseParcelSTFS",
+    "src/lagrangian/intermediate/parcels/derived/basicReactingParcelSTFS",
+    "src/lagrangian/intermediate/parcels/derived/basicThermoParcelSTFS",
+    "src/lagrangian/intermediate/parcels/include",
+    "src/lagrangian/intermediate/submodels",
+    "src/lagrangian/intermediate/submodels/Carbonaceous",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/C2SM",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/DevolatilisationModelSTFS",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/DevolatilizationModelSTFS/NoDevolatilisationSTFS",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/ConstantHeatCapacity",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/HeatCapacityFit",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/HeatCapacityModelSTFS",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/HeatCapacityModelSTFS/NoHeatCapacityModel",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/SurfaceReactionModelSTFS",
+    "src/lagrangian/intermediate/submodels/Carbonaceous/SurfaceReactionModelSTFS/COxidationKineticDiffusionLimitedRateSTFS",
+    "src/lagrangian/intermediate/submodels/CloudFunctionObjects",
+    "src/lagrangian/intermediate/submodels/CloudFunctionObjects/ParticleVelocityField",
+    "src/lagrangian/intermediate/submodels/CloudFunctionObjects/SuperheatedIndex",
+    "src/lagrangian/intermediate/submodels/CloudFunctionObjects/VoidMassFraction",
+    "src/lagrangian/intermediate/submodels/CloudRadiation",
+    "src/lagrangian/intermediate/submodels/CloudRadiation/wsggGreyCloudAbsorptionEmission",
+    "src/radiation",
+    "src/radiation/CMakeLists.txt",
+    "src/radiation/derivedFvPatchFields",
+    "src/radiation/derivedFvPatchFields/wideBandDiffusiveRadiationwsgg",
+    "src/radiation/radiationModel",
+    "src/radiation/radiationModel/fvDOMwsgg",
+    "src/radiation/radiationModel/fvDOMwsgg/fvDOMwsgg",
+    "src/radiation/radiationModel/fvDOMwsgg/radiativeIntensityRaywsgg",
+    "src/radiation/radiationModel/radiationModelSTFS",
+    "src/radiation/submodels",
+    "src/radiation/submodels/wsggAbsorptionEmission",
+    "src/radiation/submodels/wsggBinaryAbsorptionEmission",
+    "src/radiation/submodels/wsggBordbarAbsorptionEmission",
+    "src/radiation/submodels/wsggDorigonAbsorptionEmission",
+    "src/thermo",
+    "src/thermo/basicThermoSTFS",
+    "src/thermo/basicThermoSTFS/CMakeLists.txt",
+    "src/thermo/canteraThermo",
+    "src/thermo/canteraThermo/CMakeLists.txt",
+    "tests",
+    "tests/CMakeLists.txt",
+    "tests/integration",
+    "tests/integration/test_C2SM",
+    "tests/integration/test_C2SM/create_flut.ipynb",
+    "tests/integration/test_C2SM/foam_template",
+    "tests/integration/test_C2SM/foam_template/0.org",
+    "tests/integration/test_C2SM/foam_template/0.org/U",
+    "tests/integration/test_C2SM/foam_template/0.org/Ydefault",
+    "tests/integration/test_C2SM/foam_template/0.org/Z",
+    "tests/integration/test_C2SM/foam_template/0.org/ha",
+    "tests/integration/test_C2SM/foam_template/0.org/p",
+    "tests/integration/test_C2SM/foam_template/Allclean",
+    "tests/integration/test_C2SM/foam_template/Allrun",
+    "tests/integration/test_C2SM/foam_template/constant",
+    "tests/integration/test_C2SM/foam_template/constant/carbCloudProperties",
+    "tests/integration/test_C2SM/foam_template/constant/flameletProperties",
+    "tests/integration/test_C2SM/foam_template/constant/g",
+    "tests/integration/test_C2SM/foam_template/constant/particlePositions",
+    "tests/integration/test_C2SM/foam_template/constant/thermophysicalProperties",
+    "tests/integration/test_C2SM/foam_template/constant/turbulenceProperties",
+    "tests/integration/test_C2SM/foam_template/non_reactive_N2_CH4.h5",
+    "tests/integration/test_C2SM/foam_template/system",
+    "tests/integration/test_C2SM/foam_template/system/blockMeshDict",
+    "tests/integration/test_C2SM/foam_template/system/controlDict",
+    "tests/integration/test_C2SM/foam_template/system/decomposeParDict",
+    "tests/integration/test_C2SM/foam_template/system/fvSchemes",
+    "tests/integration/test_C2SM/foam_template/system/fvSolution",
+    "tests/integration/test_C2SM/generate_reference_data.ipynb",
+    "tests/integration/test_C2SM/non_reactive_N2_CH4.h5",
+    "tests/integration/test_C2SM/reference",
+    "tests/integration/test_C2SM/reference/figures",
+    "tests/integration/test_C2SM/reference/figures/C2SM_openfoam.png",
+    "tests/integration/test_C2SM/reference/figures/C2SM_python.png",
+    "tests/integration/test_C2SM/reference/figures/comparison.png",
+    "tests/integration/test_C2SM/reference/foam",
+    "tests/integration/test_C2SM/reference/foam/final.csv",
+    "tests/integration/test_C2SM/reference/foam/profiles.csv",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/OF_settings.csv",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/Z_Y_YY_hanorm_non_reactive.h5",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/ch4_smooke_EKT.yaml",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/create_flut.ipynb",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org/T",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org/U",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org/Ydefault",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org/fuel1",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org/fuel2",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org/fuel3",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org/ha",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org/p",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/0.org/rho",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/Allclean",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/Allrun",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/constant",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/constant/carbCloudProperties",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/constant/ch4_smooke_EKT.yaml",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/constant/chemistryProperties",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/constant/flameletProperties",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/constant/g",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/constant/particlePositions",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/constant/thermophysicalProperties",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/constant/turbulenceProperties",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/system",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/system/blockMeshDict",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/system/controlDict",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/system/decomposeParDict",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/system/fvSchemes",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/foam_template/system/fvSolution",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/generate_reference_data.ipynb",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/reference",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/reference/data",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/reference/data/reference_data.csv",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/reference/figures",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/reference/figures/mesh_particle_gas_phase_coupling.png",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/reference/figures/plots.png",
+    "tests/integration/test_flamelet_particle_gas_phase_coupling/test_flamelet_particle_gas_phase_coupling.py",
+    "tests/integration/test_flamelet_particle_heating",
+    "tests/integration/test_flamelet_particle_heating/README.md",
+    "tests/integration/test_flamelet_particle_heating/ch4_smooke_EKT.yaml",
+    "tests/integration/test_flamelet_particle_heating/create_flut.ipynb",
+    "tests/integration/test_flamelet_particle_heating/foam_template",
+    "tests/integration/test_flamelet_particle_heating/foam_template/0.org",
+    "tests/integration/test_flamelet_particle_heating/foam_template/0.org/U",
+    "tests/integration/test_flamelet_particle_heating/foam_template/0.org/Ydefault",
+    "tests/integration/test_flamelet_particle_heating/foam_template/0.org/ha",
+    "tests/integration/test_flamelet_particle_heating/foam_template/0.org/p",
+    "tests/integration/test_flamelet_particle_heating/foam_template/Allclean",
+    "tests/integration/test_flamelet_particle_heating/foam_template/Allrun",
+    "tests/integration/test_flamelet_particle_heating/foam_template/constant",
+    "tests/integration/test_flamelet_particle_heating/foam_template/constant/carbCloudProperties",
+    "tests/integration/test_flamelet_particle_heating/foam_template/constant/ch4_smooke_EKT.yaml",
+    "tests/integration/test_flamelet_particle_heating/foam_template/constant/flameletProperties",
+    "tests/integration/test_flamelet_particle_heating/foam_template/constant/g",
+    "tests/integration/test_flamelet_particle_heating/foam_template/constant/particlePositions",
+    "tests/integration/test_flamelet_particle_heating/foam_template/constant/thermophysicalProperties",
+    "tests/integration/test_flamelet_particle_heating/foam_template/constant/turbulenceProperties",
+    "tests/integration/test_flamelet_particle_heating/foam_template/single_species_Tnorm_flut.h5",
+    "tests/integration/test_flamelet_particle_heating/foam_template/system",
+    "tests/integration/test_flamelet_particle_heating/foam_template/system/blockMeshDict",
+    "tests/integration/test_flamelet_particle_heating/foam_template/system/controlDict",
+    "tests/integration/test_flamelet_particle_heating/foam_template/system/decomposeParDict",
+    "tests/integration/test_flamelet_particle_heating/foam_template/system/fvSchemes",
+    "tests/integration/test_flamelet_particle_heating/foam_template/system/fvSolution",
+    "tests/integration/test_flamelet_particle_heating/generate_reference_data.ipynb",
+    "tests/integration/test_flamelet_particle_heating/reference",
+    "tests/integration/test_flamelet_particle_heating/reference/figures",
+    "tests/integration/test_flamelet_particle_heating/reference/figures/mesh_heat_transfer_test.png",
+    "tests/integration/test_flamelet_particle_heating/reference/figures/reference_profiles.png",
+    "tests/integration/test_flamelet_particle_heating/reference/foam",
+    "tests/integration/test_flamelet_particle_heating/reference/foam/reference_data.csv",
+    "tests/integration/test_flamelet_particle_heating/single_species_Tnorm_flut.h5",
+    "tests/integration/test_flamelet_particle_heating/test_flamelet_particle_heating.py",
+    "tests/integration/test_fp",
+    "tests/integration/test_fp/Allwclean",
+    "tests/integration/test_fp/README.md",
+    "tests/integration/test_fp/create_and_validate_reference_solutions.ipynb",
+    "tests/integration/test_fp/foam_template",
+    "tests/integration/test_fp/foam_template/0.org",
+    "tests/integration/test_fp/foam_template/0.org/U",
+    "tests/integration/test_fp/foam_template/0.org/Z",
+    "tests/integration/test_fp/foam_template/0.org/p",
+    "tests/integration/test_fp/foam_template/0.org/pd",
+    "tests/integration/test_fp/foam_template/0.org/yc",
+    "tests/integration/test_fp/foam_template/Allclean",
+    "tests/integration/test_fp/foam_template/Allrun",
+    "tests/integration/test_fp/foam_template/FLUT.h5",
+    "tests/integration/test_fp/foam_template/constant",
+    "tests/integration/test_fp/foam_template/constant/flameletProperties",
+    "tests/integration/test_fp/foam_template/constant/g",
+    "tests/integration/test_fp/foam_template/constant/turbulenceProperties",
+    "tests/integration/test_fp/foam_template/initialize.py",
+    "tests/integration/test_fp/foam_template/settings",
+    "tests/integration/test_fp/foam_template/submit.slm",
+    "tests/integration/test_fp/foam_template/system",
+    "tests/integration/test_fp/foam_template/system/blockMeshDict",
+    "tests/integration/test_fp/foam_template/system/controlDict",
+    "tests/integration/test_fp/foam_template/system/decomposeParDict",
+    "tests/integration/test_fp/foam_template/system/fvSchemes",
+    "tests/integration/test_fp/foam_template/system/fvSolution",
+    "tests/integration/test_fp/reactingFoam",
+    "tests/integration/test_fp/reactingFoam/0.org",
+    "tests/integration/test_fp/reactingFoam/0.org/CH2O",
+    "tests/integration/test_fp/reactingFoam/0.org/CH3",
+    "tests/integration/test_fp/reactingFoam/0.org/CH3O",
+    "tests/integration/test_fp/reactingFoam/0.org/CH4",
+    "tests/integration/test_fp/reactingFoam/0.org/CO",
+    "tests/integration/test_fp/reactingFoam/0.org/CO2",
+    "tests/integration/test_fp/reactingFoam/0.org/H",
+    "tests/integration/test_fp/reactingFoam/0.org/H2",
+    "tests/integration/test_fp/reactingFoam/0.org/H2O",
+    "tests/integration/test_fp/reactingFoam/0.org/H2O2",
+    "tests/integration/test_fp/reactingFoam/0.org/HCO",
+    "tests/integration/test_fp/reactingFoam/0.org/HO2",
+    "tests/integration/test_fp/reactingFoam/0.org/N2",
+    "tests/integration/test_fp/reactingFoam/0.org/O",
+    "tests/integration/test_fp/reactingFoam/0.org/O2",
+    "tests/integration/test_fp/reactingFoam/0.org/OH",
+    "tests/integration/test_fp/reactingFoam/0.org/T",
+    "tests/integration/test_fp/reactingFoam/0.org/U",
+    "tests/integration/test_fp/reactingFoam/0.org/Ydefault",
+    "tests/integration/test_fp/reactingFoam/0.org/p",
+    "tests/integration/test_fp/reactingFoam/Allclean",
+    "tests/integration/test_fp/reactingFoam/Allrun",
+    "tests/integration/test_fp/reactingFoam/README.md",
+    "tests/integration/test_fp/reactingFoam/chemkin",
+    "tests/integration/test_fp/reactingFoam/chemkin/chem.inp",
+    "tests/integration/test_fp/reactingFoam/chemkin/therm.dat",
+    "tests/integration/test_fp/reactingFoam/chemkin/transportProperties",
+    "tests/integration/test_fp/reactingFoam/constant",
+    "tests/integration/test_fp/reactingFoam/constant/chemistryProperties",
+    "tests/integration/test_fp/reactingFoam/constant/combustionProperties",
+    "tests/integration/test_fp/reactingFoam/constant/thermophysicalProperties",
+    "tests/integration/test_fp/reactingFoam/constant/turbulenceProperties",
+    "tests/integration/test_fp/reactingFoam/initialize.py",
+    "tests/integration/test_fp/reactingFoam/system",
+    "tests/integration/test_fp/reactingFoam/system/blockMeshDict",
+    "tests/integration/test_fp/reactingFoam/system/controlDict",
+    "tests/integration/test_fp/reactingFoam/system/decomposeParDict",
+    "tests/integration/test_fp/reactingFoam/system/fvSchemes",
+    "tests/integration/test_fp/reactingFoam/system/fvSolution",
+    "tests/integration/test_fp/reference",
+    "tests/integration/test_fp/reference/cantera",
+    "tests/integration/test_fp/reference/cantera/fp_Z0.05000.ct",
+    "tests/integration/test_fp/reference/cantera/fp_Z0.05000.parq",
+    "tests/integration/test_fp/reference/figures",
+    "tests/integration/test_fp/reference/figures/compare_openfoam_cantera.png",
+    "tests/integration/test_fp/reference/figures/init_profiles.png",
+    "tests/integration/test_fp/reference/figures/t_0.01_physicalSpace.png",
+    "tests/integration/test_fp/reference/figures/t_0.01_stateSpace.png",
+    "tests/integration/test_fp/reference/foam",
+    "tests/integration/test_fp/reference/foam/reactingFoam_t_0.010.parq",
+    "tests/integration/test_fp/reference/foam/t_0.010.parq",
+    "tests/integration/test_fp/test_simulation_run_fp.py",
+    "tests/integration/test_multiphaseRadiation_bordbar",
+    "tests/integration/test_multiphaseRadiation_bordbar/README.md",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/G",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/IDefault",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/U",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/Ydefault",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/ha",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/Cp",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/T",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/U",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/UCorrect",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/UTurb",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/YC(s)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/YC2H2(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/YCH4(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/YCO(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/YCO2(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/YH2(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/YH2O(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/Yash(s)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/Ygas",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/Yliquid",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/Ysolid",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/active",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/age",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/coordinates.gz",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/d",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/dTarget",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/mass0",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/nParticle",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/origId",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/origProcId",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/positions.gz",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/rho",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/tTurb",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/ashCloud/typeId",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/Cp",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/T",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/U",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/UCorrect",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/UTurb",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/YC(s)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/YC2H2(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/YCH4(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/YCO(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/YCO2(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/YH2(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/YH2O(g)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/Yash(s)",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/Ygas",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/Yliquid",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/Ysolid",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/active",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/age",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/coordinates.gz",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/d",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/dTarget",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/mass0",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/nParticle",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/nParticle_ashAndCoal",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/origId",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/origProcId",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/positions.gz",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/rho",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/tTurb",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/lagrangian/coalCloud/typeId",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/0.org/p",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/Allrun",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/case.foam",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/ashCloudProperties",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/boundaryRadiationProperties",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/chemistryProperties",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/coalCloud1Positions.gz",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/coalCloudProperties",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/flameletProperties",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/g",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/radiationProperties",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/thermophysicalProperties",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/constant/turbulenceProperties",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/gri30_nonreactive.yaml",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/non_reactive_09CO2_01H2O_ha_norm.h5",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/system",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/system/blockMeshDict",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/system/controlDict",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/system/fvSchemes",
+    "tests/integration/test_multiphaseRadiation_bordbar/foam_template/system/fvSolution",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/Gronarz",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/Gronarz/Ap025.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/Gronarz/Ap4.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/Gronarz/deltaT0.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/Gronarz/deltaT200.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/Gronarz/epsi_coal0.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/Gronarz/epsi_coal029.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/Gronarz/epsi_coal1.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/figures",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/figures/Ap.png",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/figures/deltaT.png",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/figures/epsi_coal.png",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/foam",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/foam/Ap025.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/foam/Ap4.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/foam/deltaT0.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/foam/deltaT200.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/foam/epsi_coal0.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/foam/epsi_coal029.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/reference/foam/epsi_coal1.parq",
+    "tests/integration/test_multiphaseRadiation_bordbar/test_multiphaseRadiation_bordbar.py",
+    "tests/integration/test_multiphaseRadiation_dorigon",
+    "tests/integration/test_multiphaseRadiation_dorigon/README.md",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/G",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/IDefault",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/U",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/Ydefault",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/ha",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/Cp",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/T",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/U",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/UCorrect",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/UTurb",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/YC(s)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/YC2H2(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/YCH4(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/YCO(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/YCO2(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/YH2(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/YH2O(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/Yash(s)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/Ygas",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/Yliquid",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/Ysolid",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/active",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/age",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/coordinates.gz",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/d",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/dTarget",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/mass0",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/nParticle",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/origId",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/origProcId",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/positions.gz",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/rho",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/tTurb",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/ashCloud/typeId",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/Cp",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/T",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/U",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/UCorrect",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/UTurb",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/YC(s)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/YC2H2(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/YCH4(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/YCO(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/YCO2(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/YH2(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/YH2O(g)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/Yash(s)",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/Ygas",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/Yliquid",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/Ysolid",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/active",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/age",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/coordinates.gz",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/d",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/dTarget",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/mass0",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/nParticle",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/nParticle_ashAndCoal",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/origId",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/origProcId",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/positions.gz",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/rho",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/tTurb",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/lagrangian/coalCloud/typeId",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/0.org/p",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/Allrun",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/case.foam",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/ashCloudProperties",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/boundaryRadiationProperties",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/chemistryProperties",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/coalCloud1Positions.gz",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/coalCloudProperties",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/flameletProperties",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/g",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/radiationProperties",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/thermophysicalProperties",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/constant/turbulenceProperties",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/gri30_nonreactive.yaml",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/non_reactive_09CO2_01H2O_ha_norm.h5",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/system",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/system/blockMeshDict",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/system/controlDict",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/system/fvSchemes",
+    "tests/integration/test_multiphaseRadiation_dorigon/foam_template/system/fvSolution",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/Gronarz",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/Gronarz/epsi_coal0.parq",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/Gronarz/epsi_coal029.parq",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/Gronarz/epsi_coal1.parq",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/figures",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/figures/epsi_coal.png",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/foam",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/foam/epsi_coal0.parq",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/foam/epsi_coal029.parq",
+    "tests/integration/test_multiphaseRadiation_dorigon/reference/foam/epsi_coal1.parq",
+    "tests/integration/test_multiphaseRadiation_dorigon/test_multiphaseRadiation_dorigon.py",
+    "tests/integration/test_standard_BC_lookup",
+    "tests/integration/test_standard_BC_lookup/FLUT.h5",
+    "tests/integration/test_standard_BC_lookup/FLUT_BC.h5",
+    "tests/integration/test_standard_BC_lookup/README.md",
+    "tests/integration/test_standard_BC_lookup/ch4_smooke_EKT.yaml",
+    "tests/integration/test_standard_BC_lookup/create_flut.ipynb",
+    "tests/integration/test_standard_BC_lookup/foam_template",
+    "tests/integration/test_standard_BC_lookup/foam_template/0.org",
+    "tests/integration/test_standard_BC_lookup/foam_template/0.org/T_BC",
+    "tests/integration/test_standard_BC_lookup/foam_template/0.org/U",
+    "tests/integration/test_standard_BC_lookup/foam_template/0.org/Z",
+    "tests/integration/test_standard_BC_lookup/foam_template/0.org/ha",
+    "tests/integration/test_standard_BC_lookup/foam_template/0.org/p",
+    "tests/integration/test_standard_BC_lookup/foam_template/0.org/pd",
+    "tests/integration/test_standard_BC_lookup/foam_template/0.org/yc",
+    "tests/integration/test_standard_BC_lookup/foam_template/Allclean",
+    "tests/integration/test_standard_BC_lookup/foam_template/Allrun",
+    "tests/integration/test_standard_BC_lookup/foam_template/constant",
+    "tests/integration/test_standard_BC_lookup/foam_template/constant/flameletProperties",
+    "tests/integration/test_standard_BC_lookup/foam_template/constant/g",
+    "tests/integration/test_standard_BC_lookup/foam_template/constant/turbulenceProperties",
+    "tests/integration/test_standard_BC_lookup/foam_template/system",
+    "tests/integration/test_standard_BC_lookup/foam_template/system/blockMeshDict",
+    "tests/integration/test_standard_BC_lookup/foam_template/system/controlDict",
+    "tests/integration/test_standard_BC_lookup/foam_template/system/decomposeParDict",
+    "tests/integration/test_standard_BC_lookup/foam_template/system/fvSchemes",
+    "tests/integration/test_standard_BC_lookup/foam_template/system/fvSolution",
+    "tests/integration/test_standard_BC_lookup/test_standard_BC_lookup.py",
+    "tests/python_utils",
+    "tests/python_utils/foam_utils.py",
+    "tests/python_utils/requirements.txt",
+    "tests/unit",
+    "tests/unit/CMakeLists.txt",
+    "tests/unit/testFlameletThermo",
+    "tests/unit/testFlameletThermo/Alltest",
+    "tests/unit/testFlameletThermo/CMakeLists.txt",
+    "tests/unit/testFlameletThermo/case",
+    "tests/unit/testFlameletThermo/case/0.BC",
+    "tests/unit/testFlameletThermo/case/0.BC/T",
+    "tests/unit/testFlameletThermo/case/0.BC/TemperatureBC",
+    "tests/unit/testFlameletThermo/case/0.BC/Z",
+    "tests/unit/testFlameletThermo/case/0.BC/ha",
+    "tests/unit/testFlameletThermo/case/0.BC/p",
+    "tests/unit/testFlameletThermo/case/0.BC/yc",
+    "tests/unit/testFlameletThermo/case/0.normal",
+    "tests/unit/testFlameletThermo/case/0.normal/T",
+    "tests/unit/testFlameletThermo/case/0.normal/Z",
+    "tests/unit/testFlameletThermo/case/0.normal/ha",
+    "tests/unit/testFlameletThermo/case/0.normal/p",
+    "tests/unit/testFlameletThermo/case/0.normal/yc",
+    "tests/unit/testFlameletThermo/case/Allclean",
+    "tests/unit/testFlameletThermo/case/Allrun",
+    "tests/unit/testFlameletThermo/case/FLUT.h5",
+    "tests/unit/testFlameletThermo/case/FLUT_BC.h5",
+    "tests/unit/testFlameletThermo/case/constant",
+    "tests/unit/testFlameletThermo/case/constant/flameletProperties.org",
+    "tests/unit/testFlameletThermo/case/constant/turbulenceProperties",
+    "tests/unit/testFlameletThermo/case/system",
+    "tests/unit/testFlameletThermo/case/system/blockMeshDict",
+    "tests/unit/testFlameletThermo/case/system/controlDict",
+    "tests/unit/testFlameletThermo/case/system/fvSchemes",
+    "tests/unit/testFlameletThermo/case/system/fvSolution",
+    "tests/unit/testFlameletThermo/testFlameletThermo.C"
+  ]
+}

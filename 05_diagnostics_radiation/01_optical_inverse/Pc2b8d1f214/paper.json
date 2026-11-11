@@ -1,0 +1,89 @@
+{
+  "id": "Pc2b8d1f214",
+  "doi": "10.1016/j.combustflame.2026.115082",
+  "title": "Neural refractive index primitives for flame field reconstruction using background-oriented schlieren",
+  "year": 2026,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Xinyi Lu",
+    "Wei Hu",
+    "Zizhou Liao",
+    "Zheng Wang",
+    "Yue Zhang",
+    "Jingxuan Li"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "01_optical_inverse",
+  "path": "05_diagnostics_radiation/01_optical_inverse/Pc2b8d1f214",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2026.115082",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2026.115082",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "Weihu22/Neural-Implicit-Reconstruction-for-BOS",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "344ccaf19b5fcecb9494e75e125d137682feb4a9",
+    "license": "PolyForm-Noncommercial-1.0.0",
+    "package_id": "Weihu22__Neural-Implicit-Reconstruction-for-BOS",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/c2b8d1f214fd.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "Weihu22/Neural-Implicit-Reconstruction-for-BOS",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "利用神经隐式表示从背景纹影观测重建三维折射率及火焰场。",
+    "method": "上游描述 MATLAB 几何/合成数据、Python NIR-BOS 训练、自定义 CUDA 射线积分及 hash/Fourier 编码。",
+    "entry": "step1_InitBOSLAB.m → step2_Compile.m → step3_generate_phantom1_synthetic_data.m → PYTHON/NIR-BOS/main_BOS.py。",
+    "dependencies": "MATLAB、NVIDIA GPU/CUDA、environment.yml；当前上游明确不支持纯 CPU。",
+    "evaluation": "检验相机几何、噪声、有限视角和非径向布置；分别比较观测重投影误差和三维场误差。",
+    "limitations": "PolyForm Noncommercial 属可见源代码且限制商业使用，不能标为 OSI 开源。作者警告 CGLS 参考实现正反投影不匹配；该警告不等同于 NIR-BOS 本身有同一问题。本库仅提供链接。"
+  }
+}

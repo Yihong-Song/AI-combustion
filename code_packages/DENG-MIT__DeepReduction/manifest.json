@@ -1,0 +1,33 @@
+{
+  "id": "DENG-MIT__DeepReduction",
+  "repository": "DENG-MIT/DeepReduction",
+  "url": "https://github.com/DENG-MIT/DeepReduction",
+  "commit": "f739f4cb6c306d8a8c459488af6209e9046e7ea7",
+  "retrieved_at": "2026-11-11T13:09:42.681208+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "神经 ODE 化学缩减线索，README 对应预印本/会议，不能预设 JCR。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/DENG-MIT__DeepReduction.json",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/DeepReduction/f739f4cb6c306d8a8c459488af6209e9046e7ea7/LICENSE",
+  "license_sha256": "247f6a8951167713c80cdcbd961743ebeebcd07495225874cbb3887bef545c6d",
+  "pinned_url": "https://github.com/DENG-MIT/DeepReduction/tree/f739f4cb6c306d8a8c459488af6209e9046e7ea7",
+  "archive_url": "https://api.github.com/repos/DENG-MIT/DeepReduction/tarball/f739f4cb6c306d8a8c459488af6209e9046e7ea7",
+  "readme_source": "https://raw.githubusercontent.com/DENG-MIT/DeepReduction/f739f4cb6c306d8a8c459488af6209e9046e7ea7/README.md",
+  "archive": {
+    "repository": "DENG-MIT/DeepReduction",
+    "commit": "f739f4cb6c306d8a8c459488af6209e9046e7ea7",
+    "source_url": "https://api.github.com/repos/DENG-MIT/DeepReduction/tarball/f739f4cb6c306d8a8c459488af6209e9046e7ea7",
+    "retrieved_at": "2026-11-11T13:46:30.385531+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/DENG-MIT/DeepReduction/legacy.tar.gz/f739f4cb6c306d8a8c459488af6209e9046e7ea7",
+    "status": "downloaded",
+    "path": "code_packages/DENG-MIT__DeepReduction/f739f4cb6c30.tar.gz",
+    "bytes": 465527,
+    "sha256": "34c1a9c2f5329ccf9d5459f42b72659dd1304df000e24098d59e55fd214c2919"
+  },
+  "collection_status": "source_archive_collected"
+}

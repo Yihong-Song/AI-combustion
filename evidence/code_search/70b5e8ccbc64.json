@@ -1,0 +1,19 @@
+{
+  "doi": "10.1016/j.proci.2022.07.062",
+  "query": "\"10.1016/j.proci.2022.07.062\" in:readme",
+  "search_type": "github_repository_readme_doi_exact",
+  "retrieved_at": "2026-11-11T12:55:06.671578+00:00",
+  "search_url": "https://api.github.com/search/repositories?q=%2210.1016%2Fj.proci.2022.07.062%22+in%3Areadme&per_page=10",
+  "total_count": 1,
+  "items": [
+    {
+      "full_name": "Sadrian69/DeepLearningFire",
+      "html_url": "https://github.com/Sadrian69/DeepLearningFire",
+      "description": null,
+      "default_branch": "main",
+      "license": null,
+      "size": 19145,
+      "fork": false
+    }
+  ]
+}

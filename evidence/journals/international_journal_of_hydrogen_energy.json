@@ -1,0 +1,36 @@
+{
+  "journal": "International Journal of Hydrogen Energy",
+  "retrieved_at": "2026-11-11T12:44:05.568893+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=International+Journal+of+Hydrogen+Energy",
+  "page_title": "LetPub - Scientific Journal Selector | INTERNATIONAL JOURNAL OF HYDROGEN ENERGY - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/3771",
+  "journal_id": "3771",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: CHEMISTRY, PHYSICAL SCIE Q1 39/191 Category: ELECTROCHEMISTRY SCIE Q1 6/44 Category: ENERGY & FUELS SCIE Q1 40/191",
+  "categories": [
+    {
+      "category": "CHEMISTRY, PHYSICAL",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "39/191"
+    },
+    {
+      "category": "ELECTROCHEMISTRY",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "6/44"
+    },
+    {
+      "category": "ENERGY & FUELS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "40/191"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

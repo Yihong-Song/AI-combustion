@@ -1,0 +1,30 @@
+{
+  "journal": "Experiments in Fluids",
+  "retrieved_at": "2026-11-11T12:44:02.269623+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Experiments+in+Fluids",
+  "page_title": "LetPub - Scientific Journal Selector | EXPERIMENTS IN FLUIDS - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/2778",
+  "journal_id": "2778",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, MECHANICAL SCIE Q2 78/184 Category: MECHANICS SCIE Q2 82/172",
+  "categories": [
+    {
+      "category": "ENGINEERING, MECHANICAL",
+      "collection": "SCIE",
+      "quartile": "Q2",
+      "rank": "78/184"
+    },
+    {
+      "category": "MECHANICS",
+      "collection": "SCIE",
+      "quartile": "Q2",
+      "rank": "82/172"
+    }
+  ],
+  "reported_best_quartile": "Q2"
+}

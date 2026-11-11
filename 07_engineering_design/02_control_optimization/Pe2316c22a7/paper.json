@@ -1,0 +1,48 @@
+{
+  "id": "Pe2316c22a7",
+  "doi": "10.1016/j.energy.2025.136173",
+  "title": "Research on multi-objective optimization control of diesel engine combustion process based on model predictive control-guided reinforcement learning method",
+  "year": 2025,
+  "journal": "Energy",
+  "authors": [
+    "Ziqiang Chen",
+    "Peng Ju",
+    "Zhe Wang",
+    "Lei Shi",
+    "Kangyao Deng"
+  ],
+  "category": "07_engineering_design",
+  "subcategory": "02_control_optimization",
+  "path": "07_engineering_design/02_control_optimization/Pe2316c22a7",
+  "doi_url": "https://doi.org/10.1016/j.energy.2025.136173",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.energy.2025.136173",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/e2316c22a709.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

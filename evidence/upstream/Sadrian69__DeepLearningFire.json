@@ -1,0 +1,14 @@
+{
+  "repository": "Sadrian69/DeepLearningFire",
+  "url": "https://github.com/Sadrian69/DeepLearningFire",
+  "retrieved_at": "2026-11-11T12:58:50.492325+00:00",
+  "commit": "3b5a6875b0246f6a2ea7f6de193119637eb12f8b",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Sadrian69/DeepLearningFire/3b5a6875b0246f6a2ea7f6de193119637eb12f8b/README.md (Caused by NewConnectionError(\"HTTPSConnection(host='raw.githubusercontent.com', port=443): Failed to establish a new connection: [WinError 10051] 向一个无法连接的网络尝试了一个套接字操作。\"))",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Sadrian69/DeepLearningFire/3b5a6875b0246f6a2ea7f6de193119637eb12f8b/LICENSE (Caused by NameResolutionError(\"HTTPSConnection(host='raw.githubusercontent.com', port=443): Failed to resolve 'raw.githubusercontent.com' ([Errno 11001] getaddrinfo failed)\"))",
+  "readme_path": "evidence/upstream/Sadrian69__DeepLearningFire.readme.txt",
+  "readme_url": "https://github.com/Sadrian69/DeepLearningFire/blob/3b5a6875b0246f6a2ea7f6de193119637eb12f8b/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api",
+  "api_checked_at": "2026-11-11T13:10:04.559476+00:00"
+}

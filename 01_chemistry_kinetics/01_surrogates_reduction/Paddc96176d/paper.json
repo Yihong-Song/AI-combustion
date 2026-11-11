@@ -1,0 +1,65 @@
+{
+  "id": "Paddc96176d",
+  "doi": "10.1021/acs.energyfuels.8b00223",
+  "title": "Investigation on Kinetic Parameters of Combustion and Oxy-Combustion of Calcined Pet Coke Employing Thermogravimetric Analysis Coupled to Artificial Neural Network Modeling",
+  "year": 2018,
+  "journal": "Energy & Fuels",
+  "authors": [
+    "Bhuvaneswari Govindan",
+    "Sarat Chandra Babu Jakka",
+    "T. K. Radhakrishnan",
+    "Anil K. Tiwari",
+    "T. M. Sudhakar",
+    "P. Shanmugavelu",
+    "A. K. Kalburgi",
+    "A. Sanyal",
+    "S. Sarkar"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/Paddc96176d",
+  "doi_url": "https://doi.org/10.1021/acs.energyfuels.8b00223",
+  "metadata_source": "https://api.crossref.org/works/10.1021/acs.energyfuels.8b00223",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "73/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "45/183"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/2498",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/addc96176d47.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

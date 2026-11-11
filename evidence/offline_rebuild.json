@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "checked_at": "2026-11-11T14:03:37.021357+00:00",
+  "files_compared": 1712,
+  "scope": "Copy only Git-listed distributable files to temporary directory without ignored discovery/readme/license caches; rebuild catalog and overview; compare all original file bytes. No network, model training or original-paper verification.",
+  "differences": []
+}

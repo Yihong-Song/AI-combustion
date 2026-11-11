@@ -1,0 +1,20 @@
+{
+  "id": "LitaoZhu201703__Machine-learning-aided-optimization-of-polyethylene-pyrolysis",
+  "repository": "LitaoZhu201703/Machine-learning-aided-optimization-of-polyethylene-pyrolysis",
+  "url": "https://github.com/LitaoZhu201703/Machine-learning-aided-optimization-of-polyethylene-pyrolysis",
+  "commit": "01a6b60c669e321a02eb7b04441734d0152ed48b",
+  "retrieved_at": "2026-11-11T13:33:00.976627+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.fuel.2026.138977"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/LitaoZhu201703__Machine-learning-aided-optimization-of-polyethylene-pyrolysis.json",
+  "pinned_url": "https://github.com/LitaoZhu201703/Machine-learning-aided-optimization-of-polyethylene-pyrolysis/tree/01a6b60c669e321a02eb7b04441734d0152ed48b",
+  "archive_url": "https://api.github.com/repos/LitaoZhu201703/Machine-learning-aided-optimization-of-polyethylene-pyrolysis/tarball/01a6b60c669e321a02eb7b04441734d0152ed48b",
+  "readme_source": "https://github.com/LitaoZhu201703/Machine-learning-aided-optimization-of-polyethylene-pyrolysis/blob/01a6b60c669e321a02eb7b04441734d0152ed48b/README.md",
+  "collection_status": "link_only"
+}

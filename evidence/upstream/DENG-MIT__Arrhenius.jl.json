@@ -1,0 +1,13 @@
+{
+  "repository": "DENG-MIT/Arrhenius.jl",
+  "url": "https://github.com/DENG-MIT/Arrhenius.jl",
+  "retrieved_at": "2026-11-11T12:38:07.414962+00:00",
+  "git_error": "fatal: unable to access 'https://github.com/DENG-MIT/Arrhenius.jl.git/': Failed to connect to github.com:443 after 21098 ms: Could not connect to server\n",
+  "commit": "babf896238e809402c7341e38fe2ae532fc2ebca",
+  "pin_source": "GitHub commits API (git ls-remote unavailable)",
+  "readme_url": "https://raw.githubusercontent.com/DENG-MIT/Arrhenius.jl/babf896238e809402c7341e38fe2ae532fc2ebca/README.md",
+  "readme_path": "evidence/upstream/DENG-MIT__Arrhenius.jl.readme.txt",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/Arrhenius.jl/babf896238e809402c7341e38fe2ae532fc2ebca/LICENSE",
+  "license_path": "evidence/upstream/DENG-MIT__Arrhenius.jl.license.txt",
+  "api_checked_at": "2026-11-11T13:09:39.702323+00:00"
+}

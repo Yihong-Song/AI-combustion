@@ -1,0 +1,33 @@
+{
+  "status": "executed_independent_equation_benchmark",
+  "paper_result_reproduced": false,
+  "equation": "u_xx + exp(u) = 0; x in [0,1]; u(0)=u(1)=0",
+  "branch": "lower branch, theta in (0.01,2)",
+  "lambda": 1.0,
+  "theta": 0.7585822995253771,
+  "network": [
+    1,
+    24,
+    24,
+    1
+  ],
+  "activation": "tanh",
+  "hard_boundary_transform": "x*(1-x)*NN(x)",
+  "training_points": 100,
+  "test_points": 501,
+  "adam_steps": 1500,
+  "lbfgs_max_iterations": 300,
+  "seed": 42,
+  "max_absolute_error": 2.520790151061547e-06,
+  "relative_L2_error": 1.4015494270554102e-05,
+  "residual_mse_training_points": 7.113753506714167e-08,
+  "boundary_max_absolute_error": 0.0,
+  "elapsed_seconds": 4.822506399999838,
+  "python": "3.13.9",
+  "environment": {
+    "torch": "2.13.0",
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.1"
+  }
+}

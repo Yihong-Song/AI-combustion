@@ -1,0 +1,60 @@
+{
+  "id": "P8badc7f206",
+  "doi": "10.1007/s10494-024-00626-3",
+  "title": "A Data-Driven Approach to Refine the Partially Stirred Reactor Closure for Turbulent Premixed Flames",
+  "year": 2025,
+  "journal": "Flow, Turbulence and Combustion",
+  "authors": [
+    "Lorenzo Piu",
+    "Arthur Péquin",
+    "Rodolfo S. M. Freitas",
+    "Salvatore Iavarone",
+    "Heinz Pitsch",
+    "Alessandro Parente"
+  ],
+  "category": "02_turbulence_closure",
+  "subcategory": "01_closures_manifolds",
+  "path": "02_turbulence_closure/01_closures_manifolds/P8badc7f206",
+  "doi_url": "https://doi.org/10.1007/s10494-024-00626-3",
+  "metadata_source": "https://api.crossref.org/works/10.1007/s10494-024-00626-3",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "LorenzoPiu/aPrioriDNS",
+    "relationship": "author_supporting_tool_readme_explicit",
+    "commit": "19bb0fa13fb068c4bd74bed1f8deae35708514b6",
+    "license": "GPL-3.0 (inspect upstream terms)",
+    "package_id": "LorenzoPiu__aPrioriDNS",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/8badc7f20693.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "LorenzoPiu/aPrioriDNS",
+    "category": "02_turbulence_closure",
+    "subcategory": "01_closures_manifolds",
+    "relationship": "author_supporting_tool_readme_explicit",
+    "problem": "基于 DNS 数据改进预混湍流火焰的 PaSR 闭合，并为数据处理提供可追溯工具。",
+    "method": "固定 README 显式链接本文 DOI，说明 Field3D/Scalar3D、滤波、源项计算和可视化等功能。当前软件是通用工具，不能据此断言论文所有训练和优化设置都已打包。",
+    "entry": "从 Field3D 的数据读取、滤波和 compute_reaction_rates 示例开始，核对普通/Favre 滤波与 LFR 源项定义。",
+    "dependencies": "README 给出 NumPy、SciPy、Matplotlib、Cantera、PyCSP、findiff 等；旧发行名 aPrioriDNS、新名 apriori，需固定提交与对应文档。",
+    "evaluation": "比较条件源项误差、未见滤波尺度与物理工况；先验 DNS 拟合之后还需要后验 LES 稳定性评价。",
+    "limitations": "GPL-3.0；未执行论文实验。aPriori/aPrioriDNS 为更名相关入口，按已收纳的固定仓库卡计一次，避免重复计包。"
+  }
+}

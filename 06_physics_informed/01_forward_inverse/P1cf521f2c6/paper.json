@@ -1,0 +1,91 @@
+{
+  "id": "P1cf521f2c6",
+  "doi": "10.1016/j.combustflame.2025.113964",
+  "title": "FlamePINN-1D: Physics-informed neural networks to solve forward and inverse problems of 1D laminar flames",
+  "year": 2025,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Jiahao Wu",
+    "Su Zhang",
+    "Yuxin Wu",
+    "Guihua Zhang",
+    "Xin Li",
+    "Hai Zhang"
+  ],
+  "category": "06_physics_informed",
+  "subcategory": "01_forward_inverse",
+  "path": "06_physics_informed/01_forward_inverse/P1cf521f2c6",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2025.113964",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2025.113964",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "CAME-THU/FlamePINN-1D",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "f7c0c0c3dc9b75d41d0bb090d265650a67999c45",
+    "license": "MIT",
+    "package_id": "CAME-THU__FlamePINN-1D",
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/1cf521f2c6b4.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "CAME-THU/FlamePINN-1D",
+    "category": "06_physics_informed",
+    "subcategory": "01_forward_inverse",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "用物理信息神经网络求解一维层流火焰正问题和逆问题。阅读时应区分简化化学与详细化学，以及自由传播与对冲火焰的边界条件。",
+    "method": "上游 README 明确列出三组算例：简化自由传播预混火焰、详细自由传播预混火焰、详细对冲预混火焰。PINN 将控制方程残差和边界约束引入训练；具体损失权重、无量纲化与逆参数需逐项对照论文和脚本。",
+    "entry": "先从 Case 1 开始，核对 1S_CH4_MP.yaml；再推进至 Case 2 和 Case 3。使用固定提交中的实际目录名。",
+    "dependencies": "需 Cantera 和上游各算例的神经网络依赖；README 未提供统一完整环境锁。机理应通过本地数据路径加载，避免覆盖系统安装中的 Cantera 数据。",
+    "evaluation": "先用同机理 Cantera 一维火焰作参考，比较温度/组分剖面、层流火焰速度、边界误差；逆问题还须报告参数误差与观测噪声敏感性。",
+    "limitations": "已核实论文—仓库关系、提交和 MIT 许可，尚未执行原始训练。不能把下游 Bratu 示例当作本论文复现。"
+  }
+}

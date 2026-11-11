@@ -1,0 +1,48 @@
+{
+  "id": "P875b452f79",
+  "doi": "10.1016/j.energy.2024.130824",
+  "title": "A spatio-temporal temperature prediction model for coal spontaneous combustion based on back propagation neural network",
+  "year": 2024,
+  "journal": "Energy",
+  "authors": [
+    "Kai Wang",
+    "Hao Huang",
+    "Jun Deng",
+    "Yanni Zhang",
+    "Qun Wang"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/P875b452f79",
+  "doi_url": "https://doi.org/10.1016/j.energy.2024.130824",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.energy.2024.130824",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/875b452f79a4.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

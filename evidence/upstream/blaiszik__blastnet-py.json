@@ -1,0 +1,15 @@
+{
+  "repository": "blaiszik/blastnet-py",
+  "url": "https://github.com/blaiszik/blastnet-py",
+  "retrieved_at": "2026-11-11T13:06:54.839037+00:00",
+  "commit": "e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6",
+  "pin_source": "GitHub commits API",
+  "readme_url": "https://raw.githubusercontent.com/blaiszik/blastnet-py/e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6/README.md",
+  "readme_path": "evidence/upstream/blaiszik__blastnet-py.readme.txt",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_path": "evidence/upstream/blaiszik__blastnet-py.license.txt",
+  "license_url": "https://github.com/blaiszik/blastnet-py/blob/e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "NOASSERTION",
+  "api_checked_at": "2026-11-11T13:09:40.133258+00:00"
+}

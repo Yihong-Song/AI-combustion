@@ -1,0 +1,83 @@
+{
+  "id": "P42e1959567",
+  "doi": "10.1016/j.jaecs.2022.100087",
+  "title": "BLASTNet: A call for community-involved big data in combustion machine learning",
+  "year": 2022,
+  "journal": "Applications in Energy and Combustion Science",
+  "authors": [
+    "Wai Tong Chung",
+    "Ki Sung Jung",
+    "Jacqueline H. Chen",
+    "Matthias Ihme"
+  ],
+  "category": "10_reviews_methods",
+  "subcategory": "01_reviews_datasets",
+  "path": "10_reviews_methods/01_reviews_datasets/P42e1959567",
+  "doi_url": "https://doi.org/10.1016/j.jaecs.2022.100087",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.jaecs.2022.100087",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "ESCI",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "ESCI",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "ESCI",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "ESCI",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=30136",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels. Secondary table has possible duplicated-category issue; kept pending."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "blastnet/kaggle_tutorials",
+    "relationship": "author_supporting_tutorial_readme_explicit",
+    "commit": "1618a463475a82f49674f6fd2614672b173f80e5",
+    "license": "not_located",
+    "package_id": "blastnet__kaggle_tutorials",
+    "search_hits": 2,
+    "search_evidence": "evidence/code_search/42e1959567fc.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "blastnet/kaggle_tutorials",
+    "category": "10_reviews_methods",
+    "subcategory": "01_reviews_datasets",
+    "relationship": "author_supporting_tutorial_readme_explicit",
+    "problem": "让研究者能读取、理解并利用 BLASTNet 的三维可压缩反应流数据。",
+    "method": "BLASTNet 教程 README 明确要求引用本文，提供 Kaggle notebook 入口；这是数据教程和使用支撑，不是某个目标模型的完整复现。",
+    "entry": "按上游 Open on Kaggle 入口定位 notebook，检查数据集版本后才运行；也可从本库 BLASTNet Python 客户端卡定位数据访问工具。",
+    "dependencies": "Kaggle 运行环境、对应 BLASTNet 数据与各自许可；未登录运行，也未下载大规模 DNS 数据。",
+    "evaluation": "记录数据版本、物理单位、网格和时间采样；模型评估按独立模拟或时间块留出，不能随机拆相邻体素。",
+    "limitations": "教程未定位明确源码许可，仅保留固定链接。该期刊的二级分区表存在疑点，分区继续待核实。"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "SrijithSreekumar__Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network",
+  "repository": "SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network",
+  "url": "https://github.com/SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network",
+  "commit": "6ff2c190cce651be71999b80ee70ff37c645631e",
+  "retrieved_at": "2026-11-11T13:50:50.337091+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.fuel.2022.125508"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/SrijithSreekumar__Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network.json",
+  "pinned_url": "https://github.com/SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network/tree/6ff2c190cce651be71999b80ee70ff37c645631e",
+  "archive_url": "https://api.github.com/repos/SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network/tarball/6ff2c190cce651be71999b80ee70ff37c645631e",
+  "readme_source": "https://github.com/SrijithSreekumar/Heat_Realease_Rate_intergrated_with_physics_constrained_neural_network/blob/6ff2c190cce651be71999b80ee70ff37c645631e/README.md",
+  "collection_status": "link_only"
+}

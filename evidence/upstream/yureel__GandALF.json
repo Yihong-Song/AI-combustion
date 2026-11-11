@@ -1,0 +1,14 @@
+{
+  "repository": "yureel/GandALF",
+  "url": "https://github.com/yureel/GandALF",
+  "retrieved_at": "2026-11-11T13:32:48.960550+00:00",
+  "commit": "8acf416139af0247da1080dcfbb930826ccb4125",
+  "readme_path": "evidence/upstream/yureel__GandALF.readme.txt",
+  "readme_url": "https://github.com/yureel/GandALF/blob/8acf416139af0247da1080dcfbb930826ccb4125/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/yureel__GandALF.license.txt",
+  "license_url": "https://github.com/yureel/GandALF/blob/8acf416139af0247da1080dcfbb930826ccb4125/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T13:32:57.098031+00:00"
+}

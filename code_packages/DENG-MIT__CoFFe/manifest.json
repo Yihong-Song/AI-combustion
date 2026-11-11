@@ -1,0 +1,33 @@
+{
+  "id": "DENG-MIT__CoFFe",
+  "repository": "DENG-MIT/CoFFe",
+  "url": "https://github.com/DENG-MIT/CoFFe",
+  "commit": "27574db5213575e1908625ce038766d0632022f8",
+  "retrieved_at": "2026-11-11T13:09:41.397075+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "稀疏多模态场重建与算子解码工具，论文对应与燃烧范围待核实。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/DENG-MIT__CoFFe.json",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/CoFFe/27574db5213575e1908625ce038766d0632022f8/LICENSE",
+  "license_sha256": "65ebc392fc69a2f1917b6bf08ad77981352d2fb27d992c3d27d43ea2abe715cb",
+  "pinned_url": "https://github.com/DENG-MIT/CoFFe/tree/27574db5213575e1908625ce038766d0632022f8",
+  "archive_url": "https://api.github.com/repos/DENG-MIT/CoFFe/tarball/27574db5213575e1908625ce038766d0632022f8",
+  "readme_source": "https://raw.githubusercontent.com/DENG-MIT/CoFFe/27574db5213575e1908625ce038766d0632022f8/README.md",
+  "archive": {
+    "repository": "DENG-MIT/CoFFe",
+    "commit": "27574db5213575e1908625ce038766d0632022f8",
+    "source_url": "https://api.github.com/repos/DENG-MIT/CoFFe/tarball/27574db5213575e1908625ce038766d0632022f8",
+    "retrieved_at": "2026-11-11T13:25:11.976899+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/DENG-MIT/CoFFe/legacy.tar.gz/27574db5213575e1908625ce038766d0632022f8",
+    "status": "downloaded",
+    "path": "code_packages/DENG-MIT__CoFFe/27574db52135.tar.gz",
+    "bytes": 223108,
+    "sha256": "8e8956523030167971c566ed3528d8ca57f8622caf56756e2a4aab68180355c2"
+  },
+  "collection_status": "source_archive_collected"
+}

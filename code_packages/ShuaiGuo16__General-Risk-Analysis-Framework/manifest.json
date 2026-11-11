@@ -1,0 +1,18 @@
+{
+  "id": "ShuaiGuo16__General-Risk-Analysis-Framework",
+  "repository": "ShuaiGuo16/General-Risk-Analysis-Framework",
+  "url": "https://github.com/ShuaiGuo16/General-Risk-Analysis-Framework",
+  "commit": "ecb370729a2808be43b34f54cf984753ff564c5a",
+  "retrieved_at": "2026-11-11T13:10:06.898816+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "MATLAB/UQLab 风险分析框架；论文对应和数据要求另核实。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/ShuaiGuo16__General-Risk-Analysis-Framework.json",
+  "pinned_url": "https://github.com/ShuaiGuo16/General-Risk-Analysis-Framework/tree/ecb370729a2808be43b34f54cf984753ff564c5a",
+  "archive_url": "https://api.github.com/repos/ShuaiGuo16/General-Risk-Analysis-Framework/tarball/ecb370729a2808be43b34f54cf984753ff564c5a",
+  "readme_source": "https://raw.githubusercontent.com/ShuaiGuo16/General-Risk-Analysis-Framework/ecb370729a2808be43b34f54cf984753ff564c5a/README.md",
+  "collection_status": "link_only"
+}

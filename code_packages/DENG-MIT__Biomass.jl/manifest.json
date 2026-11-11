@@ -1,0 +1,35 @@
+{
+  "id": "DENG-MIT__Biomass.jl",
+  "repository": "DENG-MIT/Biomass.jl",
+  "url": "https://github.com/DENG-MIT/Biomass.jl",
+  "commit": "d4909dfc750d2a063ba5e4a851bf5dffd4021e23",
+  "retrieved_at": "2026-11-11T13:09:40.966983+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.combustflame.2022.111992"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/DENG-MIT__Biomass.jl.json",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/Biomass.jl/d4909dfc750d2a063ba5e4a851bf5dffd4021e23/LICENSE",
+  "license_sha256": "4cdb5b7daeb9cf02b2ba0222d71967a21eadeef35a854463e6fe22aaf514a91a",
+  "pinned_url": "https://github.com/DENG-MIT/Biomass.jl/tree/d4909dfc750d2a063ba5e4a851bf5dffd4021e23",
+  "archive_url": "https://api.github.com/repos/DENG-MIT/Biomass.jl/tarball/d4909dfc750d2a063ba5e4a851bf5dffd4021e23",
+  "readme_source": "https://raw.githubusercontent.com/DENG-MIT/Biomass.jl/d4909dfc750d2a063ba5e4a851bf5dffd4021e23/README.md",
+  "archive": {
+    "repository": "DENG-MIT/Biomass.jl",
+    "commit": "d4909dfc750d2a063ba5e4a851bf5dffd4021e23",
+    "source_url": "https://api.github.com/repos/DENG-MIT/Biomass.jl/tarball/d4909dfc750d2a063ba5e4a851bf5dffd4021e23",
+    "retrieved_at": "2026-11-11T13:25:06.764216+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/DENG-MIT/Biomass.jl/legacy.tar.gz/d4909dfc750d2a063ba5e4a851bf5dffd4021e23",
+    "status": "downloaded",
+    "path": "code_packages/DENG-MIT__Biomass.jl/d4909dfc750d.tar.gz",
+    "bytes": 29887,
+    "sha256": "fcb10cbe67c092bf07c1858ccebf86bd6a9640bde3ab91d41fe7241c29a4b2b6"
+  },
+  "collection_status": "source_archive_collected"
+}

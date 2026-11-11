@@ -1,0 +1,41 @@
+{
+  "journal": "Combustion Theory and Modelling",
+  "retrieved_at": "2026-11-11T12:43:58.883990+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "page_title": "LetPub - Scientific Journal Selector | COMBUSTION THEORY AND MODELLING - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/1904",
+  "journal_id": "1904",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q4 167/191 Category: ENGINEERING, CHEMICAL SCIE Q3 134/183 Category: MATHEMATICS, INTERDISCIPLINARY APPLICATIONS SCIE Q3 78/137 Category: THERMODYNAMICS SCIE Q3 55/78",
+  "categories": [
+    {
+      "category": "ENERGY & FUELS",
+      "collection": "SCIE",
+      "quartile": "Q4",
+      "rank": "167/191"
+    },
+    {
+      "category": "ENGINEERING, CHEMICAL",
+      "collection": "SCIE",
+      "quartile": "Q3",
+      "rank": "134/183"
+    },
+    {
+      "category": "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS",
+      "collection": "SCIE",
+      "quartile": "Q3",
+      "rank": "78/137"
+    },
+    {
+      "category": "THERMODYNAMICS",
+      "collection": "SCIE",
+      "quartile": "Q3",
+      "rank": "55/78"
+    }
+  ],
+  "reported_best_quartile": "Q3"
+}

@@ -1,0 +1,28 @@
+{
+  "journal": "Fuel",
+  "retrieved_at": "2026-11-11T12:41:01.607334+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=2950",
+  "journal_id": "2950",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q2 51/191 Category: ENGINEERING, CHEMICAL SCIE Q1 31/183",
+  "categories": [
+    {
+      "category": "ENERGY & FUELS",
+      "collection": "SCIE",
+      "quartile": "Q2",
+      "rank": "51/191"
+    },
+    {
+      "category": "ENGINEERING, CHEMICAL",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "31/183"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

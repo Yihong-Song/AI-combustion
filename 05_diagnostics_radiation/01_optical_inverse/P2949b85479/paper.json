@@ -1,0 +1,89 @@
+{
+  "id": "P2949b85479",
+  "doi": "10.1016/j.combustflame.2022.112583",
+  "title": "Deep learning-based denoising for fast time-resolved flame emission spectroscopy in high-pressure combustion environment",
+  "year": 2023,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Taekeun Yoon",
+    "Seon Woong Kim",
+    "Hosung Byun",
+    "Younsik Kim",
+    "Campbell D. Carter",
+    "Hyungrok Do"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "01_optical_inverse",
+  "path": "05_diagnostics_radiation/01_optical_inverse/P2949b85479",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2022.112583",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2022.112583",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "ytg7146/DU_CNN",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "b1024dfb9d61decad1e58e643cc9418715ff47f1",
+    "license": "not_located",
+    "package_id": "ytg7146__DU_CNN",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/2949b854793f.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "ytg7146/DU_CNN",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "对高压燃烧环境中的快速时间分辨火焰发射光谱进行深度学习去噪。",
+    "method": "上游包含 environment.yaml、config.yaml 和 main.py，并在 README 链接 rawdataM.mat 外部数据。比较去噪效果时必须检查谱线峰位、峰面积以及后续反演偏差。",
+    "entry": "按 environment.yaml 单独创建环境，取得 rawdataM.mat 后调整 config.yaml，再审查 main.py。",
+    "dependencies": "README 使用 Windows Python 3.10.4；数据位于外部 Google Drive，未下载核验。",
+    "evaluation": "按实验批次/压力分组留出，比较 SNR、谱线面积、温度或浓度偏差；仅有 PSNR 提升不足以证明测量准确。",
+    "limitations": "未找到明确许可，保留版本链接和说明，不镜像源代码。外部数据可访问性与许可另行核实。"
+  }
+}

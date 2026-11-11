@@ -1,0 +1,12 @@
+{
+  "repository": "DENG-MIT/CRNN_HyChem",
+  "url": "https://github.com/DENG-MIT/CRNN_HyChem",
+  "retrieved_at": "2026-11-11T12:40:59.343672+00:00",
+  "git_error": "fatal: unable to access 'https://github.com/DENG-MIT/CRNN_HyChem.git/': Failed to connect to github.com:443 after 21102 ms: Could not connect to server\n",
+  "commit": "d14e71fe7cd8d086cac9c1520ea047799ff432e9",
+  "pin_source": "GitHub commits API (git ls-remote unavailable)",
+  "readme_url": "https://raw.githubusercontent.com/DENG-MIT/CRNN_HyChem/d14e71fe7cd8d086cac9c1520ea047799ff432e9/README.md",
+  "readme_path": "evidence/upstream/DENG-MIT__CRNN_HyChem.readme.txt",
+  "license_status": "not_found_via_api",
+  "api_checked_at": "2026-11-11T13:09:44.592823+00:00"
+}

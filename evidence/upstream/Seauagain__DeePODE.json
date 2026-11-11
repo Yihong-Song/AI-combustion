@@ -1,0 +1,17 @@
+{
+  "repository": "Seauagain/DeePODE",
+  "url": "https://github.com/Seauagain/DeePODE",
+  "retrieved_at": "2026-11-11T12:58:50.507840+00:00",
+  "commit": "3ef423405f6d0d76e62d4f3a162e99a5e679ba82",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Seauagain/DeePODE/3ef423405f6d0d76e62d4f3a162e99a5e679ba82/README.md (Caused by NewConnectionError(\"HTTPSConnection(host='raw.githubusercontent.com', port=443): Failed to establish a new connection: [WinError 10051] 向一个无法连接的网络尝试了一个套接字操作。\"))",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /Seauagain/DeePODE/3ef423405f6d0d76e62d4f3a162e99a5e679ba82/LICENSE (Caused by NameResolutionError(\"HTTPSConnection(host='raw.githubusercontent.com', port=443): Failed to resolve 'raw.githubusercontent.com' ([Errno 11001] getaddrinfo failed)\"))",
+  "readme_path": "evidence/upstream/Seauagain__DeePODE.readme.txt",
+  "readme_url": "https://github.com/Seauagain/DeePODE/blob/3ef423405f6d0d76e62d4f3a162e99a5e679ba82/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/Seauagain__DeePODE.license.txt",
+  "license_url": "https://github.com/Seauagain/DeePODE/blob/3ef423405f6d0d76e62d4f3a162e99a5e679ba82/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "Apache-2.0",
+  "api_checked_at": "2026-11-11T13:10:05.802609+00:00"
+}

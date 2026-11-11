@@ -1,0 +1,90 @@
+{
+  "id": "P88f8a69095",
+  "doi": "10.1016/j.combustflame.2022.112319",
+  "title": "A multi-scale sampling method for accurate and robust deep neural network to predict combustion chemical kinetics",
+  "year": 2022,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Tianhan Zhang",
+    "Yuxiao Yi",
+    "Yifan Xu",
+    "Zhi X. Chen",
+    "Yaoyu Zhang",
+    "Weinan E",
+    "Zhi-Qin John Xu"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/P88f8a69095",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2022.112319",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2022.112319",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "tianhanz/DNN-Models-for-Chemical-Kinetics",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "bc07e5a210ba357b8a5350b460a751a68a002174",
+    "license": "Apache-2.0",
+    "package_id": "tianhanz__DNN-Models-for-Chemical-Kinetics",
+    "search_hits": 2,
+    "search_evidence": "evidence/code_search/88f8a69095aa.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "tianhanz/DNN-Models-for-Chemical-Kinetics",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "通过多尺度采样提升详细化学神经网络代理对热化学状态空间的覆盖。",
+    "method": "README 提供 Python 和 Fortran 推理实现、自燃测试及 DME 数据说明。DME 输入输出各为 350 万 × 41，输出对应 1e-6 s 时间推进；这里记录的是作者 README 的说明，未实测数据完整性。",
+    "entry": "ZeroDAutognition.py、modelclass.py、FortranDNN_Module.F、Chem/、Model/。",
+    "dependencies": "需逐脚本检查 Python/Fortran、Cantera、网络框架和模型文件；大数据不自动下载。",
+    "evaluation": "比较单步误差和多步滚动的点火延迟、组分守恒；用未参与采样的完整温压当量比条件测试。",
+    "limitations": "与 2025 年守恒论文共用一个仓库，包数只计一次。当前提交同时包含多篇工作的演化内容，不能自动视为 2022 原始版本。"
+  }
+}

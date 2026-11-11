@@ -1,0 +1,36 @@
+{
+  "id": "tongzhugroup__mddatasetbuilder",
+  "repository": "tongzhugroup/mddatasetbuilder",
+  "url": "https://github.com/tongzhugroup/mddatasetbuilder",
+  "commit": "52e6edf860128e9624ec11a1cb8703327d014679",
+  "retrieved_at": "2026-11-11T13:52:49.220589+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1021/acs.energyfuels.0c03211",
+    "10.1038/s41467-020-19497-z"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "LGPL-3.0 (inspect upstream terms)",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/tongzhugroup__mddatasetbuilder.json",
+  "license_url": "https://raw.githubusercontent.com/tongzhugroup/mddatasetbuilder/52e6edf860128e9624ec11a1cb8703327d014679/LICENSE",
+  "license_sha256": "7d3a95e5e06978064ed3f8e2b7c8f845e7fd8a405294727cc708f94cb83b8059",
+  "pinned_url": "https://github.com/tongzhugroup/mddatasetbuilder/tree/52e6edf860128e9624ec11a1cb8703327d014679",
+  "archive_url": "https://api.github.com/repos/tongzhugroup/mddatasetbuilder/tarball/52e6edf860128e9624ec11a1cb8703327d014679",
+  "readme_source": "https://github.com/tongzhugroup/mddatasetbuilder/blob/52e6edf860128e9624ec11a1cb8703327d014679/docs/README.md",
+  "archive": {
+    "repository": "tongzhugroup/mddatasetbuilder",
+    "commit": "52e6edf860128e9624ec11a1cb8703327d014679",
+    "source_url": "https://api.github.com/repos/tongzhugroup/mddatasetbuilder/tarball/52e6edf860128e9624ec11a1cb8703327d014679",
+    "retrieved_at": "2026-11-11T13:55:27.804596+00:00",
+    "license": "LGPL-3.0 (inspect upstream terms)",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/tongzhugroup/mddatasetbuilder/legacy.tar.gz/52e6edf860128e9624ec11a1cb8703327d014679",
+    "status": "downloaded",
+    "path": "code_packages/tongzhugroup__mddatasetbuilder/52e6edf86012.tar.gz",
+    "bytes": 25322,
+    "sha256": "f09d1ea2afe78cd445f89fe37a4f0a528cfbc216c3b4e1cd7e4bdbe9669ad06b"
+  },
+  "collection_status": "source_archive_collected"
+}

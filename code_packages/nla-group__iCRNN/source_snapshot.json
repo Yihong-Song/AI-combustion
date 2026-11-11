@@ -1,0 +1,70 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "nla-group/iCRNN",
+  "commit": "397ea855f121007b9b7995218d9ed8b84e2f54d6",
+  "date": "2026-11-11",
+  "path": "code_packages/nla-group__iCRNN/397ea855f121-source-only.tar.gz",
+  "bytes": 4685,
+  "sha256": "8bb52e7dbce66c4a8c4fd666e358a0b696ea60b782437fb3bb7915cb465fc312",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": "Experiment 1 (M1 mechanism)/M1_NODE-training_MAE.jl",
+      "git_blob_sha": "a5a4618769a611450d7eab1237abe330cb3b9d91",
+      "sha256": "b018f6bb5f05e5ed5b0c5c34e5eb136b0dda8358a6c3f6e4a0d8187c0d4b8c42",
+      "bytes": 13024
+    },
+    {
+      "path": "Experiment 1 (M1 mechanism)/M1_NODE-training_MSE.jl",
+      "git_blob_sha": "4755e4e9265d19a334d2faeead92582fa1a9e2c0",
+      "sha256": "eb9aa5b81f0537d97483d057dbe3b3f68ea2b62ea5b027a1ce7731d5983be117",
+      "bytes": 12968
+    },
+    {
+      "path": "Experiment 2/EM_NODE-training_MAE.jl",
+      "git_blob_sha": "02040ce8220e51d22cd87422dff5cdf1bead49e0",
+      "sha256": "7909746d3647d9a4b4a1cf3fff4dea16727941f679841d49f985dc31dbb56651",
+      "bytes": 12969
+    },
+    {
+      "path": "Experiment 2/EM_NODE-training_MSE.jl",
+      "git_blob_sha": "f96245137c983af79e5db9f7d6cdd94d77f3b3a2",
+      "sha256": "9753c01f77afcbca43f50f9e68e1b358eaad0003942128a2f0c395c854ad2abf",
+      "bytes": 12969
+    },
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "d93d8b41af4d1e2167e9c480570547fb37bf177d",
+      "sha256": "81e3b6b345a00a81e369bfcb707fa33d3b7bf51244c33497e6460eb6e7c453ab",
+      "bytes": 1066
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "6de6d729622710fb54e79b179459a6840cebccbb",
+      "sha256": "bf440b7f4be27bce92a84bb374fae86aff4528f21a930b0e21dde35897ff3742",
+      "bytes": 128
+    }
+  ],
+  "excluded_paths": [
+    "Experiment 1 (M1 mechanism)",
+    "Experiment 1 (M1 mechanism)/Experiment 1 results plotter.ipynb",
+    "Experiment 1 (M1 mechanism)/M1_CRNN_training_results_MAE.npz",
+    "Experiment 1 (M1 mechanism)/M1_CRNN_training_results_MSE.npz",
+    "Experiment 1 (M1 mechanism)/M1_MAE_vs_time.pdf",
+    "Experiment 1 (M1 mechanism)/M1_MSE_vs_time.pdf",
+    "Experiment 1 (M1 mechanism)/M1_iCRNN_training_results_MAE.npz",
+    "Experiment 1 (M1 mechanism)/M1_iCRNN_training_results_MSE.npz",
+    "Experiment 1 (M1 mechanism)/M1_training_data.npz",
+    "Experiment 2",
+    "Experiment 2/.DS_Store",
+    "Experiment 2/EM_CRNN_training_results_MAE.npz",
+    "Experiment 2/EM_CRNN_training_results_MSE.npz",
+    "Experiment 2/EM_MAE_vs_time.pdf",
+    "Experiment 2/EM_MSE_vs_time.pdf",
+    "Experiment 2/EM_iCRNN_training_results_MAE.npz",
+    "Experiment 2/EM_iCRNN_training_results_MSE.npz",
+    "Experiment 2/EM_training_data.npz",
+    "Experiment 2/Experiment 2 results plotter.ipynb"
+  ]
+}

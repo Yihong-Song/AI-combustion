@@ -1,0 +1,13 @@
+{
+  "repository": "DENG-MIT/reactorch",
+  "url": "https://github.com/DENG-MIT/reactorch",
+  "retrieved_at": "2026-11-11T12:38:07.414874+00:00",
+  "git_error": "fatal: unable to access 'https://github.com/DENG-MIT/reactorch.git/': Failed to connect to github.com:443 after 21095 ms: Could not connect to server\n",
+  "commit": "a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7",
+  "pin_source": "GitHub commits API (git ls-remote unavailable)",
+  "readme_url": "https://raw.githubusercontent.com/DENG-MIT/reactorch/a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7/README.md",
+  "readme_path": "evidence/upstream/DENG-MIT__reactorch.readme.txt",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/reactorch/a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7/LICENSE",
+  "license_path": "evidence/upstream/DENG-MIT__reactorch.license.txt",
+  "api_checked_at": "2026-11-11T13:09:43.093293+00:00"
+}

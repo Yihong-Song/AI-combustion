@@ -1,0 +1,715 @@
+[
+  {
+    "journal": "Aerospace Science and Technology",
+    "retrieved_at": "2026-11-11T12:40:48.239221+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Aerospace+Science+and+Technology",
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=295",
+    "journal_id": "295",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, AEROSPACE SCIE Q1 7/59",
+    "categories": [
+      {
+        "category": "ENGINEERING, AEROSPACE",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "7/59"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Applications in Energy and Combustion Science",
+    "retrieved_at": "2026-11-11T12:40:48.239757+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Applications+in+Energy+and+Combustion+Science",
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=30136",
+    "journal_id": "30136",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS ESCI Q2 77/191 Category: ENGINEERING, CHEMICAL ESCI Q2 48/183 Category: ENGINEERING, MECHANICAL ESCI Q1 23/184 Category: THERMODYNAMICS ESCI Q1 12/78",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "ESCI",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "ESCI",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "ESCI",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "ESCI",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Applied Energy",
+    "retrieved_at": "2026-11-11T12:40:48.240147+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=729",
+    "journal_id": "729",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q1 19/191 Category: ENGINEERING, CHEMICAL SCIE Q1 14/183",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "19/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "14/183"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Applied Thermal Engineering",
+    "retrieved_at": "2026-11-11T12:40:52.506613+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Applied+Thermal+Engineering",
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=766",
+    "journal_id": "766",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q2 54/191 Category: ENGINEERING, MECHANICAL SCIE Q1 11/184 Category: MECHANICS SCIE Q1 10/172 Category: THERMODYNAMICS SCIE Q1 5/78",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "54/191"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "11/184"
+      },
+      {
+        "category": "MECHANICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "10/172"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "5/78"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Chemical Engineering Journal",
+    "retrieved_at": "2026-11-11T12:40:52.780562+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1639",
+    "journal_id": "1639",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, CHEMICAL SCIE Q1 13/183 Category: ENGINEERING, ENVIRONMENTAL SCIE Q1 4/88",
+    "categories": [
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "13/183"
+      },
+      {
+        "category": "ENGINEERING, ENVIRONMENTAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "4/88"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Combustion and Flame",
+    "retrieved_at": "2026-11-11T12:40:56.475029+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "journal_id": "1901",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q2 77/191 Category: ENGINEERING, CHEMICAL SCIE Q2 48/183 Category: ENGINEERING, MECHANICAL SCIE Q1 23/184 Category: ENGINEERING, MULTIDISCIPLINARY SCIE Q1 20/179 Category: THERMODYNAMICS SCIE Q1 12/78",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Combustion Science and Technology",
+    "retrieved_at": "2026-11-11T12:40:53.501538+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Combustion+Science+and+Technology",
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1903",
+    "journal_id": "1903",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q4 167/191 Category: ENGINEERING, CHEMICAL SCIE Q3 134/183 Category: ENGINEERING, MULTIDISCIPLINARY SCIE Q3 95/179 Category: THERMODYNAMICS SCIE Q3 55/78",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q4",
+        "rank": "167/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "134/183"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "95/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "55/78"
+      }
+    ],
+    "reported_best_quartile": "Q3"
+  },
+  {
+    "journal": "Combustion Theory and Modelling",
+    "retrieved_at": "2026-11-11T12:43:58.883990+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "page_title": "LetPub - Scientific Journal Selector | COMBUSTION THEORY AND MODELLING - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/1904",
+    "journal_id": "1904",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q4 167/191 Category: ENGINEERING, CHEMICAL SCIE Q3 134/183 Category: MATHEMATICS, INTERDISCIPLINARY APPLICATIONS SCIE Q3 78/137 Category: THERMODYNAMICS SCIE Q3 55/78",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q4",
+        "rank": "167/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "134/183"
+      },
+      {
+        "category": "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "78/137"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "55/78"
+      }
+    ],
+    "reported_best_quartile": "Q3"
+  },
+  {
+    "journal": "Computers & Chemical Engineering",
+    "retrieved_at": "2026-11-11T12:40:56.527061+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Computers+%26+Chemical+Engineering",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Energy",
+    "retrieved_at": "2026-11-11T12:43:58.884427+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Energy",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Energy Conversion and Management",
+    "retrieved_at": "2026-11-11T12:44:01.388178+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Energy+Conversion+and+Management",
+    "page_title": "LetPub - Scientific Journal Selector | ENERGY CONVERSION AND MANAGEMENT - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/2500",
+    "journal_id": "2500",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q1 22/191 Category: MECHANICS SCIE Q1 4/172 Category: THERMODYNAMICS SCIE Q1 2/78",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "22/191"
+      },
+      {
+        "category": "MECHANICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "4/172"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "2/78"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Energy & Fuels",
+    "retrieved_at": "2026-11-11T12:43:58.884610+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Energy+%26+Fuels",
+    "page_title": "LetPub - Scientific Journal Selector | ENERGY & FUELS - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/2498",
+    "journal_id": "2498",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q2 73/191 Category: ENGINEERING, CHEMICAL SCIE Q1 45/183",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "73/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "45/183"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Experimental Thermal and Fluid Science",
+    "retrieved_at": "2026-11-11T12:44:02.008331+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Experimental+Thermal+and+Fluid+Science",
+    "page_title": "LetPub - Scientific Journal Selector | EXPERIMENTAL THERMAL AND FLUID SCIENCE - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/2777",
+    "journal_id": "2777",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, MECHANICAL SCIE Q2 50/184 Category: PHYSICS, FLUIDS & PLASMAS SCIE Q1 7/43 Category: THERMODYNAMICS SCIE Q2 28/78",
+    "categories": [
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "50/184"
+      },
+      {
+        "category": "PHYSICS, FLUIDS & PLASMAS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "7/43"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "28/78"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Experiments in Fluids",
+    "retrieved_at": "2026-11-11T12:44:02.269623+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Experiments+in+Fluids",
+    "page_title": "LetPub - Scientific Journal Selector | EXPERIMENTS IN FLUIDS - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/2778",
+    "journal_id": "2778",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, MECHANICAL SCIE Q2 78/184 Category: MECHANICS SCIE Q2 82/172",
+    "categories": [
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "78/184"
+      },
+      {
+        "category": "MECHANICS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "82/172"
+      }
+    ],
+    "reported_best_quartile": "Q2"
+  },
+  {
+    "journal": "Flow, Turbulence and Combustion",
+    "retrieved_at": "2026-11-11T12:44:05.120702+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Flow%2C+Turbulence+and+Combustion",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Fuel",
+    "retrieved_at": "2026-11-11T12:41:01.607334+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=2950",
+    "journal_id": "2950",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q2 51/191 Category: ENGINEERING, CHEMICAL SCIE Q1 31/183",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "51/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "31/183"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "International Journal of Hydrogen Energy",
+    "retrieved_at": "2026-11-11T12:44:05.568893+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=International+Journal+of+Hydrogen+Energy",
+    "page_title": "LetPub - Scientific Journal Selector | INTERNATIONAL JOURNAL OF HYDROGEN ENERGY - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/3771",
+    "journal_id": "3771",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: CHEMISTRY, PHYSICAL SCIE Q1 39/191 Category: ELECTROCHEMISTRY SCIE Q1 6/44 Category: ENERGY & FUELS SCIE Q1 40/191",
+    "categories": [
+      {
+        "category": "CHEMISTRY, PHYSICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "39/191"
+      },
+      {
+        "category": "ELECTROCHEMISTRY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "6/44"
+      },
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "40/191"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Journal of Computational Physics",
+    "retrieved_at": "2026-11-11T12:44:06.199418+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Journal+of+Computational+Physics",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+    "retrieved_at": "2026-11-11T12:44:11.287077+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Journal+of+Quantitative+Spectroscopy+and+Radiative+Transfer",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Measurement",
+    "retrieved_at": "2026-11-11T12:44:11.689371+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Measurement",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Mechanical Systems and Signal Processing",
+    "retrieved_at": "2026-11-11T12:44:12.304129+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Mechanical+Systems+and+Signal+Processing",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Nature Communications",
+    "retrieved_at": "2026-11-11T12:44:13.334707+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Nature+Communications",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Optics Express",
+    "retrieved_at": "2026-11-11T12:44:13.361590+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Optics+Express",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Physics of Fluids",
+    "retrieved_at": "2026-11-11T12:44:14.909373+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "page_title": "Your IP address request too fast",
+    "source_url": "https://www.letpub.com/journal-selector/journal/6673",
+    "journal_id": "6673",
+    "identity_in_page": false,
+    "jif_evidence_text": "",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
+    "journal": "Proceedings of the Combustion Institute",
+    "retrieved_at": "2026-11-11T12:44:15.085255+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "page_title": "LetPub - Scientific Journal Selector | PROCEEDINGS OF THE COMBUSTION INSTITUTE - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/6861",
+    "journal_id": "6861",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q3 104/191 Category: ENGINEERING, CHEMICAL SCIE Q2 65/183 Category: ENGINEERING, MECHANICAL SCIE Q1 37/184 Category: THERMODYNAMICS SCIE Q1 18/78",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "104/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "65/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "37/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "18/78"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Progress in Energy and Combustion Science",
+    "retrieved_at": "2026-11-11T12:44:16.595996+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "page_title": "LetPub - Scientific Journal Selector | PROGRESS IN ENERGY AND COMBUSTION SCIENCE - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/6930",
+    "journal_id": "6930",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q1 2/191 Category: ENGINEERING, CHEMICAL SCIE Q1 1/183 Category: ENGINEERING, MECHANICAL SCIE Q1 1/184 Category: THERMODYNAMICS SCIE Q1 1/78",
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "2/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "1/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "1/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "1/78"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Scientific Reports",
+    "retrieved_at": "2026-11-11T12:44:16.885725+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Scientific+Reports",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  }
+]

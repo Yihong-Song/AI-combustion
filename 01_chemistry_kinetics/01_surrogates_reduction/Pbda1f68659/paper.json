@@ -1,0 +1,58 @@
+{
+  "id": "Pbda1f68659",
+  "doi": "10.1016/j.cej.2024.151492",
+  "title": "Neural network potential-based molecular investigation of pollutant formation of ammonia and ammonia-hydrogen combustion",
+  "year": 2024,
+  "journal": "Chemical Engineering Journal",
+  "authors": [
+    "Zhihao Xing",
+    "Xi Jiang"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/Pbda1f68659",
+  "doi_url": "https://doi.org/10.1016/j.cej.2024.151492",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.cej.2024.151492",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "13/183"
+      },
+      {
+        "category": "ENGINEERING, ENVIRONMENTAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "4/88"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1639",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/bda1f68659e5.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

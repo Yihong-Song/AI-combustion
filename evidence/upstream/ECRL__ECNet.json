@@ -1,0 +1,17 @@
+{
+  "repository": "ECRL/ECNet",
+  "url": "https://github.com/ECRL/ECNet",
+  "retrieved_at": "2026-11-11T12:56:43.275446+00:00",
+  "commit": "96ee90820550fad79f96a260a0373ab1098870bb",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "readme_path": "evidence/upstream/ECRL__ECNet.readme.txt",
+  "readme_url": "https://github.com/ecrl/ecnet/blob/96ee90820550fad79f96a260a0373ab1098870bb/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/ECRL__ECNet.license.txt",
+  "license_url": "https://github.com/ecrl/ecnet/blob/96ee90820550fad79f96a260a0373ab1098870bb/LICENSE.txt",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T13:09:47.626473+00:00"
+}

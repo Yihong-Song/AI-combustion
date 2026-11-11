@@ -1,0 +1,86 @@
+{
+  "id": "Peb8f5d8782",
+  "doi": "10.1016/j.combustflame.2025.114026",
+  "title": "A machine learning based approach for statistical analysis of detonation cells from soot foils",
+  "year": 2025,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Vansh Sharma",
+    "Michael Ullman",
+    "Venkat Raman"
+  ],
+  "category": "07_engineering_design",
+  "subcategory": "03_supersonic_detonation",
+  "path": "07_engineering_design/03_supersonic_detonation/Peb8f5d8782",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2025.114026",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2025.114026",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "vanshs1/ML_DetonationCells_SootFoil",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "4ad20d49d657d2c5f78de4d87c77e581fb446df7",
+    "license": "LGPL-2.1 (inspect upstream terms)",
+    "package_id": "vanshs1__ML_DetonationCells_SootFoil",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/eb8f5d8782a8.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "vanshs1/ML_DetonationCells_SootFoil",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "从烟膜图像自动分割爆轰胞格并统计尺寸与面积，减少人工量取。",
+    "method": "README 说明利用 CellPose 类分割工具，比较预处理前后结果；这是爆轰图像计量任务，区别于直接预测爆轰流场。",
+    "entry": "package.list、config.py、main_sootFoilSeg.py；example/ 含 case 10a。",
+    "dependencies": "上游建议 Python 3.9+；CellPose 预训练权重和图像数据的许可也应单独记录。",
+    "evaluation": "与盲法人工标注比较胞格宽度、分布和漏检；以整张烟膜作为独立样本，避免图块泄漏。",
+    "limitations": "LGPL-2.1 许可已定位；未执行分割。预处理改善不能只靠一张示例图判断。"
+  }
+}

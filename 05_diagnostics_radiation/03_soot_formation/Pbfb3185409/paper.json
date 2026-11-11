@@ -1,0 +1,49 @@
+{
+  "id": "Pbfb3185409",
+  "doi": "10.1364/oe.413100",
+  "title": "Machine learning-assisted soot temperature and volume fraction fields predictions in the ethylene laminar diffusion flames",
+  "year": 2021,
+  "journal": "Optics Express",
+  "authors": [
+    "Tao Ren",
+    "Ya Zhou",
+    "Qianlong Wang",
+    "Haifeng Liu",
+    "Zhen Li",
+    "Changying Zhao"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "03_soot_formation",
+  "path": "05_diagnostics_radiation/03_soot_formation/Pbfb3185409",
+  "doi_url": "https://doi.org/10.1364/oe.413100",
+  "metadata_source": "https://api.crossref.org/works/10.1364/oe.413100",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/bfb31854095e.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

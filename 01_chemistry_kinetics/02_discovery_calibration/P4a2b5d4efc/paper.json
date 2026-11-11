@@ -1,0 +1,86 @@
+{
+  "id": "P4a2b5d4efc",
+  "doi": "10.1016/j.combustflame.2022.112279",
+  "title": "Adaptive global pathway selection using artificial neural networks: A-priori study",
+  "year": 2022,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Rohit Mishra",
+    "Aaron Nelson",
+    "Dorrin Jarrahbashi"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "02_discovery_calibration",
+  "path": "01_chemistry_kinetics/02_discovery_calibration/P4a2b5d4efc",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2022.112279",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2022.112279",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "ctftamu/SL-GPS",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "647aee6b92ff45c9a9b0d57ea3ed49d272ec4083",
+    "license": "GPL-3.0 (inspect upstream terms)",
+    "package_id": "ctftamu__SL-GPS",
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/4a2b5d4efc4e.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "ctftamu/SL-GPS",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "以 ANN 近似全局路径选择结果，实现随热化学状态变化的动态机理缩减。",
+    "method": "先在零维自燃轨迹上运行自适应 GPS 生成标签，再训练物种选择网络。README 默认两隐层宽度 16 和 8，训练后输出 .h5，并提供转冻结图的路线。",
+    "entry": "tests/ 与 src/slgps/mech_train.py；converth5ToPb.ipynb 面向 OpenFOAM 集成。运行前检查当前目录与相对机理路径。",
+    "dependencies": "Cantera 3、TensorFlow 2、networkx、pandas、scikit-learn、NumPy。旧 h5 模型与当前 Keras 之间可能需要版本适配。",
+    "evaluation": "比较缩减物种数、点火延迟、重要组分和总体时间；物种选择准确率不足以证明动力学准确。需按整条轨迹留出。",
+    "limitations": "论文标题明确为 a priori。不能仅凭分类或离线测试声称任意 CFD 中已验证；继承 GPS 的第三方许可亦需保留。"
+  }
+}

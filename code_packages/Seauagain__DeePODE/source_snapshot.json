@@ -1,0 +1,294 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "Seauagain/DeePODE",
+  "commit": "3ef423405f6d0d76e62d4f3a162e99a5e679ba82",
+  "date": "2026-11-11",
+  "path": "code_packages/Seauagain__DeePODE/3ef423405f6d-source-only.tar.gz",
+  "bytes": 175536,
+  "sha256": "4cbb32edb6e089366d73967d248a519c362510dd6348d12d45106b96cc9caaef",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "e24468b3c5f6ea7cd07828fb4e282dbbe60f2f0e",
+      "sha256": "a4e6688f6637de618a07f450558af0e7c9eb60914c27c8fc6a432c946905e051",
+      "bytes": 10826
+    },
+    {
+      "path": "deepode/__init__.py",
+      "git_blob_sha": "7301f64c729ce0bef4aac6ae82d98ad04267c309",
+      "sha256": "a50495d8cadcfe6b5e9e87ff7af2cd0178fd39fbb9b598c9e0175a4fcb13532c",
+      "bytes": 96
+    },
+    {
+      "path": "deepode/__version__.py",
+      "git_blob_sha": "708e7436e3946a60132b1bc34fd87a59742d26b9",
+      "sha256": "d2995a87f05ded4ec5e183c9dd964c30407d5ce83c4fa295d7a1f943b2d929a0",
+      "bytes": 161
+    },
+    {
+      "path": "deepode/nn/__init__.py",
+      "git_blob_sha": "3276376f525754bc743fb184f711e5c8a119122e",
+      "sha256": "a73e03d85513f6d976c67cce7896adc3381ebece7dda6788980214492b80e816",
+      "bytes": 110
+    },
+    {
+      "path": "deepode/nn/config.py",
+      "git_blob_sha": "d9847607821d7f2e838cf4e40f964196e453721c",
+      "sha256": "c0942b2e78f8e45207297f3b5e6f357a5b7aec8d95124253afebaa078d014d31",
+      "bytes": 5939
+    },
+    {
+      "path": "deepode/nn/data_processor.py",
+      "git_blob_sha": "c029936ce2e1b6b5d91cbf1be5b1af026ccafddd",
+      "sha256": "5c10b4053bdf37b508d5999bbd4e4becfea0640a51a058b5052ea2d3b8dd1c78",
+      "bytes": 2103
+    },
+    {
+      "path": "deepode/nn/dataloader.py",
+      "git_blob_sha": "21a57e8322144c6f6ed56972da1d1169c4e968ae",
+      "sha256": "13f0d4efb91ccd6917a5dba4c63eae1e1c4a51a0ac2de97273219b4d2e7b46b8",
+      "bytes": 8003
+    },
+    {
+      "path": "deepode/nn/networks.py",
+      "git_blob_sha": "0aa61aaaeda94ae4dd2a135d7876b2133fb1451e",
+      "sha256": "66d79012ac72f291cb907014fb7844fbc5f5f418de0340768abc2ef219a723a0",
+      "bytes": 4425
+    },
+    {
+      "path": "deepode/nn/predictor.py",
+      "git_blob_sha": "16f4e8251f43cd13975394c77fd1a7aac3e83f46",
+      "sha256": "5ef59184be563fd784f4b2e6cc8948852a1d35c1be60d384754d101bd4112be2",
+      "bytes": 33803
+    },
+    {
+      "path": "deepode/nn/trainer.py",
+      "git_blob_sha": "cbdfd4a91698ec1cd73cec527cfd22cf6b874eab",
+      "sha256": "66714e2e01cdc36a5c7cbcb7764cb4419d283131c1801a703474c9add9785f80",
+      "bytes": 21797
+    },
+    {
+      "path": "deepode/nn/utils.py",
+      "git_blob_sha": "fb2e1b6eb75d166ef34d3ba0ff04690286b57bb3",
+      "sha256": "aa7ad57264220a3b5f37177820cb938e2a0cf6246e1ebb769b0514fb9815e7b5",
+      "bytes": 3643
+    },
+    {
+      "path": "deepode/setup.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "deepode/tools/__init__.py",
+      "git_blob_sha": "fa569b5825eb6b7092eccdd17f53724c3521a437",
+      "sha256": "898d9150debfca59fe18475ceafa0e8c48df8067e46a618f54bdbf505d70dc5b",
+      "bytes": 66
+    },
+    {
+      "path": "deepode/tools/adiabatic_flame.py",
+      "git_blob_sha": "7eed64964fe6cab29fc92cf72a6613a3cb358ec5",
+      "sha256": "63b7850087bbe9758fb3c29709a83f6e25c430972952e50465cb14560d1cd98b",
+      "bytes": 16962
+    },
+    {
+      "path": "deepode/tools/ct2foam.py",
+      "git_blob_sha": "19478ba07564bd07f16f49dced9512d6346ca199",
+      "sha256": "73a185c8ae56f4ee7d2227731b06f669a7686a93d7e0724bdf4f746ff0be010e",
+      "bytes": 3230
+    },
+    {
+      "path": "deepode/tools/mechanism_convert.py",
+      "git_blob_sha": "d31444dd13d987e41f2666328b7518a0dc058a6c",
+      "sha256": "9edf39c26ae31d2506887b9fff97d15b8ec499dad00bf004dd129753b2584b0e",
+      "bytes": 17205
+    },
+    {
+      "path": "deepode/tools/yaml2ck.py",
+      "git_blob_sha": "dc683071e8a00f1f66ab120e4e1ecd9257dc1ff5",
+      "sha256": "65d6df2569d683d8ad10288f31bd5494a6dca73a0909b1bf484ed976041b45ae",
+      "bytes": 3061
+    },
+    {
+      "path": "deepode/tools/yaml2xml.py",
+      "git_blob_sha": "74a5eb9663484a8762dc19fd5df94478f53a824a",
+      "sha256": "4d0da71a91f3266d294be3e8aa484809ef5301433845663b259c25b7d5e8a22e",
+      "bytes": 3162
+    },
+    {
+      "path": "mechanism/DME39_ct26.yaml",
+      "git_blob_sha": "35fe2c28eedb8f70c6a49b98899503e0d62658f8",
+      "sha256": "3516ea53db6e855da28ee3fb5b8d42656ed466c2daadd02522a0bdc6ea93d82b",
+      "bytes": 43078
+    },
+    {
+      "path": "mechanism/DRM19.yaml",
+      "git_blob_sha": "7efcd3edd42b667e8b5632c57c0fca380b7d2651",
+      "sha256": "2a617d9abc678d920d47c157e54957b81931c52a81a92ce3f11d27c125fd71f6",
+      "bytes": 20479
+    },
+    {
+      "path": "mechanism/ES80_H2-7-16.yaml",
+      "git_blob_sha": "9ffb7c04087eddf6c95dab1deb83de0f3eafa671",
+      "sha256": "36d753efd81ded22b27a9eaa26f7129b816942281087ffd513767c231dac6709",
+      "bytes": 6090
+    },
+    {
+      "path": "mechanism/ESH2.yaml",
+      "git_blob_sha": "f40c4e84aecb767b350d523768b67af750658e11",
+      "sha256": "38e0960f867004ef04ce0ad1b0a03b77af0b5b5edb5c02fca094a90723997bf3",
+      "bytes": 6197
+    },
+    {
+      "path": "mechanism/HyChem41s.yaml",
+      "git_blob_sha": "8f3c25af8be5e882eaaef9532125551f62f377bc",
+      "sha256": "f04923874736519094563f0deff095c39169adf53e501277938131d46cac677b",
+      "bytes": 47491
+    },
+    {
+      "path": "mechanism/JMH2-for-Euler.yaml",
+      "git_blob_sha": "7ee9d783a20d6b3aa83bd598c09e6ddc714160ab",
+      "sha256": "5ac4329213255801d7de9add8611b88a4e1cb6cfb1f02b8e2de545ac57d9360d",
+      "bytes": 7966
+    },
+    {
+      "path": "mechanism/JMH2.yaml",
+      "git_blob_sha": "3b829a2ffad959e04b287fe06c5be1e6a3fefc4c",
+      "sha256": "52f6663de83e3d745f4563e945683480e885f0bbb1d3c9dab4f5d6354c8ace28",
+      "bytes": 7220
+    },
+    {
+      "path": "mechanism/dmc_chem.yaml",
+      "git_blob_sha": "dd79297d3d5d8e302e6af1878f77581f20bd10a3",
+      "sha256": "a4f6f54cc4b298e36167b0d50d30541177d93c622cf28a6b3264b03b961e842b",
+      "bytes": 153095
+    },
+    {
+      "path": "mechanism/dme.yaml",
+      "git_blob_sha": "5ee0bd1d88b3f32ab38a1b66cac372f7a7176fd0",
+      "sha256": "4bec770239a6165c0251a75cb4725ea64ae25a60a21d6ae736e2d1b34b2fd76a",
+      "bytes": 86635
+    },
+    {
+      "path": "mechanism/drm19.yaml",
+      "git_blob_sha": "321c72c1490ccae0b32d80421d91f28d5af64fc1",
+      "sha256": "7659705d4f83de131f5d62d47bad9a0da23851a7649229bebafc0c132a1d0c66",
+      "bytes": 22010
+    },
+    {
+      "path": "mechanism/gri.yaml",
+      "git_blob_sha": "86386f0a50970221dd40edf05ce2f4c0003c0be7",
+      "sha256": "02517db5f3495fa118d63db6886a1c13c972712513061dbf1a3af85ea9f7e4ea",
+      "bytes": 67713
+    },
+    {
+      "path": "mechanism/n-heptane.yaml",
+      "git_blob_sha": "91eaaf71da816e1fd10d6a92f005939a2b08d7e1",
+      "sha256": "eb563ad065e0db019ec9e6f5359d42ab20401bee3ebc2596559dce37d1b530ee",
+      "bytes": 181298
+    },
+    {
+      "path": "mechanism/n-heptane_DeePMR34.yaml",
+      "git_blob_sha": "e26a6a42ac1248c1077c43b92ea5375d268e319c",
+      "sha256": "cc936fe0c8d5d0d6779c7aa9adbbf8f2026f6dbc9da2b74d6a60520196f6dc47",
+      "bytes": 52402
+    },
+    {
+      "path": "pred.py",
+      "git_blob_sha": "c5d6fa2df4b22d8d6ae19e9732e254c187428cf4",
+      "sha256": "dfafb61e232f27c1d6053719c5d5a3ddc49bfa7d8422d5a81fe8ba525b42b443",
+      "bytes": 12026
+    },
+    {
+      "path": "train.py",
+      "git_blob_sha": "494d2a43a2da105953d98f7d3536b4ae8f3c44ea",
+      "sha256": "382ee280ea3a0e977e53d71c87fffc643dac733b843fe9cead202123b3c3847e",
+      "bytes": 1306
+    }
+  ],
+  "excluded_paths": [
+    ".gitignore",
+    "assets",
+    "assets/img",
+    "assets/img/analysis-timescale.png",
+    "assets/img/efficiency.png",
+    "assets/img/method.png",
+    "assets/img/result-1.png",
+    "assets/img/result-2.png",
+    "container",
+    "container/deepck-cpu.dockerfile",
+    "container/deepck-cuda.dockerfile",
+    "container/deepck-cuda_arm.dockerfile",
+    "container/ebi-dnn_1.1.1-libtorch1.12-op5.x.dockerfile",
+    "container/ebi-dnn_1.1.1-libtorch1.13-cuda11.6-op5.x.dockerfile",
+    "container/ebi-dnn_1.1.1-libtorch1.13-cuda11.6-op5.x.singularity",
+    "deepode",
+    "deepode/nn",
+    "deepode/setup.cfg",
+    "deepode/tools",
+    "mechanism",
+    "mechanism/DME39_ct26.xml",
+    "mechanism/DRM19.cti",
+    "mechanism/DRM19_22Sp.xml",
+    "mechanism/ESH2.inp",
+    "mechanism/JMH2.xml",
+    "mechanism/gri.xml",
+    "mechanism/n-heptane-LLNL.yaml",
+    "mechanism/n-heptane-NUI.yaml",
+    "mechanism/n-heptane_DeePMR34.xml",
+    "models",
+    "models/DRM19-test",
+    "models/DRM19-test-gbct",
+    "models/DRM19-test-gbct/checkpoint",
+    "models/DRM19-test-gbct/checkpoint/model5000.pt",
+    "models/DRM19-test-gbct/checkpoint/norm.json",
+    "models/DRM19-test-gbct/checkpoint/settings.json",
+    "models/DRM19-test-gbct/pic",
+    "models/DRM19-test-gbct/pic/OneStepPred",
+    "models/DRM19-test-gbct/pic/OneStepPred/DRM19_0d_manifold",
+    "models/DRM19-test-gbct/pic/OneStepPred/DRM19_0d_manifold/DRM19-test-gbct_epoch5000_OneStepPred_on_DRM19_0d_manifold_dim=0.png",
+    "models/DRM19-test-gbct/pic/OneStepPred/DRM19_0d_manifold/DRM19-test-gbct_epoch5000_OneStepPred_on_DRM19_0d_manifold_dim=1.png",
+    "models/DRM19-test-gbct/pic/OneStepPred/DRM19_0d_manifold/DRM19-test-gbct_epoch5000_OneStepPred_on_DRM19_0d_manifold_dim=2.png",
+    "models/DRM19-test-gbct/pic/OneStepPred/DRM19_0d_manifold/DRM19-test-gbct_epoch5000_OneStepPred_on_DRM19_0d_manifold_dim=3.png",
+    "models/DRM19-test-gbct/pic/OneStepPred/DRM19_0d_manifold/DRM19-test-gbct_epoch5000_OneStepPred_on_DRM19_0d_manifold_dim=4.png",
+    "models/DRM19-test-gbct/pic/TemporalEvolution",
+    "models/DRM19-test-gbct/pic/TemporalEvolution/pics5000",
+    "models/DRM19-test-gbct/pic/TemporalEvolution/pics5000/DRM19-test-gbct_Phi=1.0_T=1400.0_P=1.0_epoch=5000_all1.png",
+    "models/DRM19-test-gbct/pic/TemporalEvolution/pics5000/DRM19-test-gbct_Phi=1.0_T=1400.0_P=1.0_epoch=5000_all2.png",
+    "models/DRM19-test-gbct/pic/TemporalEvolution/pics5000/DRM19-test-gbct_Phi=1.0_T=1400.0_P=1.0_epoch=5000_all3.png",
+    "models/DRM19-test-gbct/pic/TemporalEvolution/pics5000/DRM19-test-gbct_Phi=1.0_T=1650.0_P=1.0_epoch=5000_all1.png",
+    "models/DRM19-test-gbct/pic/TemporalEvolution/pics5000/DRM19-test-gbct_Phi=1.0_T=1650.0_P=1.0_epoch=5000_all2.png",
+    "models/DRM19-test-gbct/pic/TemporalEvolution/pics5000/DRM19-test-gbct_Phi=1.0_T=1650.0_P=1.0_epoch=5000_all3.png",
+    "models/DRM19-test-gbct/torch_scripts",
+    "models/DRM19-test-gbct/torch_scripts/DRM19-test-gbct",
+    "models/DRM19-test-gbct/torch_scripts/DRM19-test-gbct/norm.json",
+    "models/DRM19-test-gbct/torch_scripts/DRM19-test-gbct/script_model5000.pt",
+    "models/DRM19-test-gbct/torch_scripts/DRM19-test-gbct/settings.json",
+    "models/DRM19-test/checkpoint",
+    "models/DRM19-test/checkpoint/model5000.pt",
+    "models/DRM19-test/checkpoint/norm.json",
+    "models/DRM19-test/checkpoint/settings.json",
+    "models/DRM19-test/pic",
+    "models/DRM19-test/pic/TemporalEvolution",
+    "models/DRM19-test/pic/TemporalEvolution/pics5000",
+    "models/DRM19-test/pic/TemporalEvolution/pics5000/DRM19-test_Phi=1.0_T=1400.0_P=1.0_epoch=5000_all1.png",
+    "models/DRM19-test/pic/TemporalEvolution/pics5000/DRM19-test_Phi=1.0_T=1400.0_P=1.0_epoch=5000_all2.png",
+    "models/DRM19-test/pic/TemporalEvolution/pics5000/DRM19-test_Phi=1.0_T=1400.0_P=1.0_epoch=5000_all3.png",
+    "models/DRM19-test/pic/TemporalEvolution/pics5000/DRM19-test_Phi=1.0_T=1650.0_P=1.0_epoch=5000_all1.png",
+    "models/DRM19-test/pic/TemporalEvolution/pics5000/DRM19-test_Phi=1.0_T=1650.0_P=1.0_epoch=5000_all2.png",
+    "models/DRM19-test/pic/TemporalEvolution/pics5000/DRM19-test_Phi=1.0_T=1650.0_P=1.0_epoch=5000_all3.png",
+    "models/DRM19-test/torch_scripts",
+    "models/DRM19-test/torch_scripts/DRM19-test",
+    "models/DRM19-test/torch_scripts/DRM19-test/norm.json",
+    "models/DRM19-test/torch_scripts/DRM19-test/script_model5000.pt",
+    "models/DRM19-test/torch_scripts/DRM19-test/settings.json"
+  ]
+}

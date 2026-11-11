@@ -1,0 +1,78 @@
+{
+  "id": "Pc11b176f24",
+  "doi": "10.1016/j.combustflame.2019.08.014",
+  "title": "Direct mapping from LES resolved scales to filtered-flame generated manifolds using convolutional neural networks",
+  "year": 2019,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Andrea Seltz",
+    "Pascale Domingo",
+    "Luc Vervisch",
+    "Zacharias M. Nikolaou"
+  ],
+  "category": "03_operators_reconstruction",
+  "subcategory": "01_operators_rom",
+  "path": "03_operators_reconstruction/01_operators_rom/Pc11b176f24",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2019.08.014",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2019.08.014",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/c11b176f24c5.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

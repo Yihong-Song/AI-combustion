@@ -1,0 +1,50 @@
+{
+  "id": "P7ee84c5222",
+  "doi": "10.1364/oe.27.027308",
+  "title": "Three-dimensional rapid flame chemiluminescence tomography via deep learning",
+  "year": 2019,
+  "journal": "Optics Express",
+  "authors": [
+    "Ying Jin",
+    "Wanqing Zhang",
+    "Yang Song",
+    "Xiangju Qu",
+    "Zhenhua Li",
+    "Yunjing Ji",
+    "Anzhi He"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "01_optical_inverse",
+  "path": "05_diagnostics_radiation/01_optical_inverse/P7ee84c5222",
+  "doi_url": "https://doi.org/10.1364/oe.27.027308",
+  "metadata_source": "https://api.crossref.org/works/10.1364/oe.27.027308",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/7ee84c52223e.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

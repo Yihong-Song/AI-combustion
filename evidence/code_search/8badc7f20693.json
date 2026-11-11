@@ -1,0 +1,25 @@
+{
+  "doi": "10.1007/s10494-024-00626-3",
+  "query": "\"10.1007/s10494-024-00626-3\" in:readme",
+  "search_type": "github_repository_readme_doi_exact",
+  "retrieved_at": "2026-11-11T13:24:12.064273+00:00",
+  "search_url": "https://api.github.com/search/repositories?q=%2210.1007%2Fs10494-024-00626-3%22+in%3Areadme&per_page=10",
+  "total_count": 1,
+  "items": [
+    {
+      "full_name": "LorenzoPiu/aPriori",
+      "html_url": "https://github.com/LorenzoPiu/aPriori",
+      "description": "A python package to process Direct Numerical Simulations",
+      "default_branch": "main",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 2677524,
+      "fork": false
+    }
+  ]
+}

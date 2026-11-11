@@ -1,0 +1,46 @@
+{
+  "id": "Pe94377b2b8",
+  "doi": "10.1038/s41598-025-20692-5",
+  "title": "Cross domain fault diagnosis in internal combustion engines using multisensor data with transfer federated and transformer based federated transfer learning",
+  "year": 2025,
+  "journal": "Scientific Reports",
+  "authors": [
+    "A. Srinivaas",
+    "N. R. Sakthivel",
+    "Binoy B. Nair"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "01_optical_inverse",
+  "path": "05_diagnostics_radiation/01_optical_inverse/Pe94377b2b8",
+  "doi_url": "https://doi.org/10.1038/s41598-025-20692-5",
+  "metadata_source": "https://api.crossref.org/works/10.1038/s41598-025-20692-5",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/e94377b2b8be.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

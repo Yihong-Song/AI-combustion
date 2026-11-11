@@ -1,0 +1,72 @@
+{
+  "id": "Pd715d789f0",
+  "doi": "10.1016/j.fuel.2026.138977",
+  "title": "CFD analysis of operating parameters and machine learning-aided optimization of reactor performance in a polyethylene pyrolysis fluidized bed",
+  "year": 2026,
+  "journal": "Fuel",
+  "authors": [
+    "Ling Qin",
+    "Lianyong Zhou",
+    "Zhongmei Li",
+    "He Lei",
+    "Li-Tao Zhu"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/Pd715d789f0",
+  "doi_url": "https://doi.org/10.1016/j.fuel.2026.138977",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.fuel.2026.138977",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "51/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "31/183"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=2950",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "LitaoZhu201703/Machine-learning-aided-optimization-of-polyethylene-pyrolysis",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "01a6b60c669e321a02eb7b04441734d0152ed48b",
+    "license": "not_located",
+    "package_id": "LitaoZhu201703__Machine-learning-aided-optimization-of-polyethylene-pyrolysis",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/d715d789f0d4.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "LitaoZhu201703/Machine-learning-aided-optimization-of-polyethylene-pyrolysis",
+    "category": "08_solid_fuels_fire",
+    "subcategory": "01_kinetics_fire",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "用机器学习辅助优化聚乙烯热解过程，属于燃烧上游热转化的相邻应用。",
+    "method": "固定版本 README 给出题名和明确 DOI；没有足够实现说明支持具体架构、数据切分或定量结论的转述。",
+    "entry": "先检查仓库文件与论文补充材料，确定训练入口、输入工况、目标产物及评价协议。",
+    "dependencies": "README 未给出完整可复现环境；依赖和数据要求待逐文件核实。",
+    "evaluation": "按实验批次与未见工况留出，比较代理误差和独立物理实验验证；优化建议与实测改进分开记录。",
+    "limitations": "未定位许可，仅固定链接；尚未执行，也不能仅凭仓库题名声称训练数据和权重齐备。"
+  }
+}

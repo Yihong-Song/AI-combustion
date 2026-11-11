@@ -1,0 +1,65 @@
+{
+  "id": "P02a7acbe36",
+  "doi": "10.1016/j.expthermflusci.2026.111793",
+  "title": "Upscaling very low-resolution chemiluminescence images for predicting a marker of the thermoacoustic source term using machine learning",
+  "year": 2026,
+  "journal": "Experimental Thermal and Fluid Science",
+  "authors": [
+    "Adam Atoom",
+    "Anas Chaaban",
+    "Sina Kheirkhah"
+  ],
+  "category": "04_instability_control",
+  "subcategory": "01_prediction_identification",
+  "path": "04_instability_control/01_prediction_identification/P02a7acbe36",
+  "doi_url": "https://doi.org/10.1016/j.expthermflusci.2026.111793",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.expthermflusci.2026.111793",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "50/184"
+      },
+      {
+        "category": "PHYSICS, FLUIDS & PLASMAS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "7/43"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "28/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/2777",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/02a7acbe360b.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

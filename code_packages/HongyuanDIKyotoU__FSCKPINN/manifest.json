@@ -1,0 +1,18 @@
+{
+  "id": "HongyuanDIKyotoU__FSCKPINN",
+  "repository": "HongyuanDIKyotoU/FSCKPINN",
+  "url": "https://github.com/HongyuanDIKyotoU/FSCKPINN",
+  "commit": "5e251dfed42730eee3ae439f723a7b53cfc73956",
+  "retrieved_at": "2026-11-11T13:09:51.012372+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "辐射 PINN 工具线索；固定提交缺少根 README 和许可。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/HongyuanDIKyotoU__FSCKPINN.json",
+  "pinned_url": "https://github.com/HongyuanDIKyotoU/FSCKPINN/tree/5e251dfed42730eee3ae439f723a7b53cfc73956",
+  "archive_url": "https://api.github.com/repos/HongyuanDIKyotoU/FSCKPINN/tarball/5e251dfed42730eee3ae439f723a7b53cfc73956",
+  "readme_source": null,
+  "collection_status": "link_only"
+}

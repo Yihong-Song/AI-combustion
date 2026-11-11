@@ -1,0 +1,35 @@
+{
+  "id": "yureel__GandALF",
+  "repository": "yureel/GandALF",
+  "url": "https://github.com/yureel/GandALF",
+  "commit": "8acf416139af0247da1080dcfbb930826ccb4125",
+  "retrieved_at": "2026-11-11T13:32:57.098031+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.fuel.2022.125340"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/yureel__GandALF.json",
+  "license_url": "https://github.com/yureel/GandALF/blob/8acf416139af0247da1080dcfbb930826ccb4125/LICENSE",
+  "license_sha256": "fd7efa735cd03a445cf93b831437621b1337f575044ca84a3126518e2f817a4b",
+  "pinned_url": "https://github.com/yureel/GandALF/tree/8acf416139af0247da1080dcfbb930826ccb4125",
+  "archive_url": "https://api.github.com/repos/yureel/GandALF/tarball/8acf416139af0247da1080dcfbb930826ccb4125",
+  "readme_source": "https://github.com/yureel/GandALF/blob/8acf416139af0247da1080dcfbb930826ccb4125/README.md",
+  "archive": {
+    "repository": "yureel/GandALF",
+    "commit": "8acf416139af0247da1080dcfbb930826ccb4125",
+    "source_url": "https://api.github.com/repos/yureel/GandALF/tarball/8acf416139af0247da1080dcfbb930826ccb4125",
+    "retrieved_at": "2026-11-11T13:54:14.075448+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/yureel/GandALF/legacy.tar.gz/8acf416139af0247da1080dcfbb930826ccb4125",
+    "status": "downloaded",
+    "path": "code_packages/yureel__GandALF/8acf416139af.tar.gz",
+    "bytes": 37283,
+    "sha256": "0db2d826d1cf278b1fa750a8076cf2482fb644a971359662273228310fc5390a"
+  },
+  "collection_status": "source_archive_collected"
+}

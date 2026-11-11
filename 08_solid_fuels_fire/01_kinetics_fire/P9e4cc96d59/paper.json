@@ -1,0 +1,55 @@
+{
+  "id": "P9e4cc96d59",
+  "doi": "10.1016/j.energy.2025.134804",
+  "title": "BoilerNet: Deep reinforcement learning-based combustion optimization network for pulverized coal boiler",
+  "year": 2025,
+  "journal": "Energy",
+  "authors": [
+    "Zhi Wang",
+    "Yongbo Yin",
+    "Guojia Yao",
+    "Kuangyu Li",
+    "Yang Liu",
+    "Xuanqi Liu",
+    "Zhenhao Tang",
+    "Fan Zhang",
+    "Xianyong Peng",
+    "Jinxing Lin",
+    "Hang Zhu",
+    "Huaichun Zhou"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/P9e4cc96d59",
+  "doi_url": "https://doi.org/10.1016/j.energy.2025.134804",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.energy.2025.134804",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/9e4cc96d59c8.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

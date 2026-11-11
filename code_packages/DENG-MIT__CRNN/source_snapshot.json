@@ -1,0 +1,358 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "DENG-MIT/CRNN",
+  "commit": "4a17819c5bd4a65d6a9da9e72115b536d644350e",
+  "date": "2026-11-11",
+  "path": "code_packages/DENG-MIT__CRNN/4a17819c5bd4-source-only.tar.gz",
+  "bytes": 100646,
+  "sha256": "ade9cf24507eba88f4ec366e8b1fa30cfa9a47e0020130d5f3d4142e36195889",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": "Cathode/Manifest.toml",
+      "git_blob_sha": "a3a27e2198829d037797a788fb1c37cdd8a8a204",
+      "sha256": "eacc0e137da34de7167b4977e6cf1112a6691772d2f4fa9142c742b36e2965d5",
+      "bytes": 108334
+    },
+    {
+      "path": "Cathode/Project.toml",
+      "git_blob_sha": "d6161508af96fc9db79de16faac98b82df8e957d",
+      "sha256": "e6e71a87923a13d89a0e8bf6ca1a6ff226ca7760dc096359d8c2b1c4c31ac363",
+      "bytes": 662
+    },
+    {
+      "path": "Cathode/config.yaml",
+      "git_blob_sha": "95b9bb1762ab2ff8e5fa74d79c9a1e6fb10edd35",
+      "sha256": "20fd36abd5edfde035816581b8fb93ea394a93042c7051592d847627192bdf86",
+      "bytes": 315
+    },
+    {
+      "path": "Cathode/results/4s8r-01/config.yaml",
+      "git_blob_sha": "95b9bb1762ab2ff8e5fa74d79c9a1e6fb10edd35",
+      "sha256": "20fd36abd5edfde035816581b8fb93ea394a93042c7051592d847627192bdf86",
+      "bytes": 315
+    },
+    {
+      "path": "Cathode/src/callback.jl",
+      "git_blob_sha": "37d94a056e4291a57fb6b76163c358c9ec2354a7",
+      "sha256": "378a23dc2a72dbece7c1e7459158a99e17f2e6a4f96eb637993b7a8d78f9b2b8",
+      "bytes": 4382
+    },
+    {
+      "path": "Cathode/src/crnn_cathode.jl",
+      "git_blob_sha": "6769afb4b60090d6aba88612825f6f33e184ad19",
+      "sha256": "0172aea5f5c213af0a08393fbb822d262e8a710dad18bb946ff8fb15db61d896",
+      "bytes": 1469
+    },
+    {
+      "path": "Cathode/src/dataset.jl",
+      "git_blob_sha": "d26112eab82d045e0f2a6cd577d5f7d9f16e0ba8",
+      "sha256": "e921314d7da3bc96d3c2beeac717e7744a52cd2526f7797d1861876bbcdb309d",
+      "bytes": 729
+    },
+    {
+      "path": "Cathode/src/header.jl",
+      "git_blob_sha": "aede8141a18a271f9b25abe06a8c656920b64ee6",
+      "sha256": "219003baefe1001263300168c15a8a390feca00ba0549b7dda338168b9bbb30f",
+      "bytes": 1816
+    },
+    {
+      "path": "Cathode/src/network.jl",
+      "git_blob_sha": "ba0ea85b2312eaf5de24e683d0fd1c1f298b5175",
+      "sha256": "bed86e7e73330b54cdc3528565f779619f7b939cc03fd7409aecdb4585f91f09",
+      "bytes": 4362
+    },
+    {
+      "path": "Cathode_NCM333_UQ/Manifest.toml",
+      "git_blob_sha": "62c29beddd52f1ca07278c3d1da94c51d3937975",
+      "sha256": "c1ebcee4bcbde01d27da51c11102beb2bca0a9f3d06a3b1efdda7523ef260004",
+      "bytes": 116660
+    },
+    {
+      "path": "Cathode_NCM333_UQ/Project.toml",
+      "git_blob_sha": "438dc9abb6354fbdfd429346dda48ddfee595658",
+      "sha256": "d409f7b817dcfb099a3741c3440f63c36f3f7ce0942500d38a9c7548f3b81f68",
+      "bytes": 1093
+    },
+    {
+      "path": "Cathode_NCM333_UQ/config.yaml",
+      "git_blob_sha": "a5409f3df79d2a6cb113d56e522e59fcb302d2f4",
+      "sha256": "0ac7737c33bbd58976dc3c9ee27e9cbc22c296fa7eb2e4c8687be9317c408174",
+      "bytes": 844
+    },
+    {
+      "path": "Cathode_NCM333_UQ/results/NCM333/config.yaml",
+      "git_blob_sha": "a5409f3df79d2a6cb113d56e522e59fcb302d2f4",
+      "sha256": "0ac7737c33bbd58976dc3c9ee27e9cbc22c296fa7eb2e4c8687be9317c408174",
+      "bytes": 844
+    },
+    {
+      "path": "Cathode_NCM333_UQ/src_333/callback.jl",
+      "git_blob_sha": "962e785b82498b1db13eb97b14ec420a908f9301",
+      "sha256": "2253fde7821f6c7b4ed473273620e45fb5fe402bfb257cf6862caeda8d8fb8d2",
+      "bytes": 5178
+    },
+    {
+      "path": "Cathode_NCM333_UQ/src_333/crnn_cathode.jl",
+      "git_blob_sha": "001a6c50d0ae3a935e07633d4b591b436180d718",
+      "sha256": "c09cbebffa462568ff3b31624ffe90711452854fbc962bbb90b76adb19305e7f",
+      "bytes": 2640
+    },
+    {
+      "path": "Cathode_NCM333_UQ/src_333/dataset.jl",
+      "git_blob_sha": "dd357fcb3cd76084b06a414d5ef9e117786eb218",
+      "sha256": "29ab1101082a63a743fdfdb8ac4dc43c26b683f604701d28fce3f627f854ae22",
+      "bytes": 1134
+    },
+    {
+      "path": "Cathode_NCM333_UQ/src_333/header.jl",
+      "git_blob_sha": "d046b6c49bc9b71062f53d1f3e958c5d4d2478f9",
+      "sha256": "9c3a3e6b579d3f5003d9743f7500e2c09374a97dc73b4ce85c17fef418f865ca",
+      "bytes": 2537
+    },
+    {
+      "path": "Cathode_NCM333_UQ/src_333/network.jl",
+      "git_blob_sha": "fb84c5e0ebc654689cc68856304635f4585517b9",
+      "sha256": "39050a6a8d892b5e3cb2b5fcc13d5b7a01c3c7aad916b83a773e23d806205f68",
+      "bytes": 9135
+    },
+    {
+      "path": "Cathode_NCM333_UQ/src_333/post_Plotting.jl",
+      "git_blob_sha": "c322990eaa970677e66e497c3c4666b6d509449f",
+      "sha256": "6b1059fa1ba9db45383b8dca5cafff0617426d79160ae167b4c2da4d2332fc05",
+      "bytes": 8893
+    },
+    {
+      "path": "HyChem/ReadMe.md",
+      "git_blob_sha": "8f916436f523b87b75ca0f3cc07c7b90cbcfb205",
+      "sha256": "31253eaf550f6a786c3a70a8ae2c881c3cf5b4b6a2a3d983e88d6fd6b809c2b3",
+      "bytes": 1356
+    },
+    {
+      "path": "HyChem/crnn_pyrolysis_mass.jl",
+      "git_blob_sha": "1324205076c825cb5eac76b3308f03602b69ab29",
+      "sha256": "44fe3bc8b87815a30e0f36d488ea98f41a840db88beda315e7fb4d8d7b0e35aa",
+      "bytes": 5860
+    },
+    {
+      "path": "HyChem/gen_data_pyrolysis.py",
+      "git_blob_sha": "ea761fc822b26aed597911cdd284dc6aa629484a",
+      "sha256": "5bbd6d34a81533c442d219d6013cc87c3e5b655ed61da6d3f350fde5c6e32759",
+      "bytes": 2152
+    },
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "32df883e9bc5dd3cc953d3624332adc34b503f73",
+      "sha256": "3b4ba119cf8c528840be74dea7f984f31faaa917e3889b1a4f6d1cb35da1cc59",
+      "bytes": 1093
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "8cc880628fadf3921649bf2740b6e53d78d00c0d",
+      "sha256": "4ed4e66fdae49699707aa83b124369bbffb3427c7244f3e445c842890103f0a5",
+      "bytes": 4867
+    },
+    {
+      "path": "case1 rev/case1.jl",
+      "git_blob_sha": "ac6c5802af67faf60c285e39022eceafbdf9f941",
+      "sha256": "e5a0e2ea79eee025f5a284b9183aee5fe88af0b057041a6156d6c4f356b0494d",
+      "bytes": 5096
+    },
+    {
+      "path": "case1/case1.jl",
+      "git_blob_sha": "dd81ee2e0957a393b57bcff86de04e39a9e73833",
+      "sha256": "3a74f565c64d1a8256355e16628c93fe5be2e69ecbd6cbacd6e9bb082acc2653",
+      "bytes": 5408
+    },
+    {
+      "path": "case1/case1_hardthreshhold.jl",
+      "git_blob_sha": "61145efa7ad6e8d278b4ddd0fada987da7a4622a",
+      "sha256": "96a3f0cb5b7bf78a7404643663fdb5b9d42161919a3d9b02f994385f394952e7",
+      "bytes": 6095
+    },
+    {
+      "path": "case2/case2.jl",
+      "git_blob_sha": "f77d6dda49f76446d9f5d85f3e769b9058924ab7",
+      "sha256": "b707064bcd16353ecbe1ea9b569969b621f44a89b1cfa9504d620d52fa0dd49c",
+      "bytes": 6130
+    },
+    {
+      "path": "case2/case2_missing.jl",
+      "git_blob_sha": "13452da7c2615db50d43e883aaf9a9fafca61867",
+      "sha256": "93cbdfee121940815fbe647e4f24bfbbd6f7e2f11f4da8a767a90203c086ab97",
+      "bytes": 7394
+    },
+    {
+      "path": "case2/case2_pruning.jl",
+      "git_blob_sha": "d60c595e3c29f04293661dcac9ec03e013cfa155",
+      "sha256": "ba7979c49ca77037706b596345153a1dc3b3853c64261f72a2e80e3e1901fd37",
+      "bytes": 7475
+    },
+    {
+      "path": "case3/case3.jl",
+      "git_blob_sha": "db8fa04fe5a1814a5db206ed3c1181fbed8a0f17",
+      "sha256": "7683977bc8adcecbdaa7b8734f3e6b9b093a67d1a78880903e9727545f6c36c2",
+      "bytes": 8091
+    },
+    {
+      "path": "case3/case3_pruning.jl",
+      "git_blob_sha": "c657d5298f31e6595aabd2f85abff260638e73a1",
+      "sha256": "a38fff0ffd19032175b196fc3338d6692e5ee9256c930754db0fe526c1b16930",
+      "bytes": 7800
+    },
+    {
+      "path": "gene-regulatory-network/ReadMe.md",
+      "git_blob_sha": "687dd904a8e225dd586192dfa060ca8cc5822a89",
+      "sha256": "9439051817457edbfac88a5e34550ecb27ec7872df0e5e0fb15438688c80df4d",
+      "bytes": 314
+    },
+    {
+      "path": "gene-regulatory-network/gene-regulatory-pruning.jl",
+      "git_blob_sha": "c657d5298f31e6595aabd2f85abff260638e73a1",
+      "sha256": "a38fff0ffd19032175b196fc3338d6692e5ee9256c930754db0fe526c1b16930",
+      "bytes": 7800
+    },
+    {
+      "path": "gene-regulatory-network/gene-regulatory.jl",
+      "git_blob_sha": "e988a723455c9a7f6fed06cf88feffa8d2995384",
+      "sha256": "46406bf1992d6ae88f7f90c48555fdfa9d3da1988a6f6a5a0be590a380cb1a95",
+      "bytes": 7178
+    },
+    {
+      "path": "robertson/ReadMe.md",
+      "git_blob_sha": "ad572867764556413a5ef8956ede68891a5c19aa",
+      "sha256": "0fac64a929518059dcb06ddced8a2c0015eb98415d6acfabc0e18a2344876014",
+      "bytes": 2309
+    },
+    {
+      "path": "robertson/rober_crnn.jl",
+      "git_blob_sha": "a42bc8dd7ecc75e5819c59ae73093f9d74b293e2",
+      "sha256": "7a17d3850b65fc5f136d8093dd5f1c233d4f0e686729064c43d58c0f40eeb8ab",
+      "bytes": 6798
+    },
+    {
+      "path": "robertson/rober_crnn_lm.jl",
+      "git_blob_sha": "8b22649b7ff143cd41ce53c07a6bb560b68c1fa0",
+      "sha256": "13ef8a4482de7e981fa2683e7eb2ddd3cdb3f86f961ef70d5ebc4b219df97c57",
+      "bytes": 7136
+    },
+    {
+      "path": "robertson/rober_crnn_qssa.jl",
+      "git_blob_sha": "b8489c7361954c57cd1435cddb778d1d5ef109ba",
+      "sha256": "191172c56c6f436760cba84bbfda87be5f9001051256d964e93ead5be88f56f5",
+      "bytes": 6774
+    },
+    {
+      "path": "yeast-glycolysis/readme.md",
+      "git_blob_sha": "75a860e1286dd006a596fda1fad2bee518fedecf",
+      "sha256": "4689927b3553ee4b3e39ded49c7df307600704f6420844b11165a172aa2fadc0",
+      "bytes": 2496
+    },
+    {
+      "path": "yeast-glycolysis/yeast_glycolysis.jl",
+      "git_blob_sha": "54e64abccb545bfe6e567545fb7e9a756f6e0bc8",
+      "sha256": "4841d9422757fef947f0979b3e291b57b193f1bf2637c72b002a1c20590df7c6",
+      "bytes": 7291
+    }
+  ],
+  "excluded_paths": [
+    ".gitignore",
+    "Cathode",
+    "Cathode/exp_data",
+    "Cathode/exp_data/cath_1_10.csv",
+    "Cathode/exp_data/cath_1_15.csv",
+    "Cathode/exp_data/cath_1_2.csv",
+    "Cathode/exp_data/cath_1_20.csv",
+    "Cathode/exp_data/cath_1_5.csv",
+    "Cathode/results",
+    "Cathode/results/4s8r-01",
+    "Cathode/results/4s8r-01/figs",
+    "Cathode/results/4s8r-01/figs/conditions",
+    "Cathode/results/4s8r-01/figs/conditions/pred_exp_1.png",
+    "Cathode/results/4s8r-01/figs/conditions/pred_exp_2.png",
+    "Cathode/results/4s8r-01/figs/conditions/pred_exp_3.png",
+    "Cathode/results/4s8r-01/figs/conditions/pred_exp_4.png",
+    "Cathode/results/4s8r-01/figs/conditions/pred_exp_5.png",
+    "Cathode/results/4s8r-01/figs/loss_grad.png",
+    "Cathode/src",
+    "Cathode_NCM333_UQ",
+    "Cathode_NCM333_UQ/exp_data",
+    "Cathode_NCM333_UQ/exp_data/UNCERT_cath_1_10.csv",
+    "Cathode_NCM333_UQ/exp_data/UNCERT_cath_1_15.csv",
+    "Cathode_NCM333_UQ/exp_data/UNCERT_cath_1_2.csv",
+    "Cathode_NCM333_UQ/exp_data/UNCERT_cath_1_20.csv",
+    "Cathode_NCM333_UQ/exp_data/UNCERT_cath_1_5.csv",
+    "Cathode_NCM333_UQ/results",
+    "Cathode_NCM333_UQ/results/NCM333",
+    "Cathode_NCM333_UQ/results/NCM333/figs",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/Rxn1_A_Ea.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/Rxn2_A_Ea.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/UQ_pred_exp_1.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/UQ_pred_exp_2.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/UQ_pred_exp_3.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/UQ_pred_exp_4.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/UQ_pred_exp_5.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/mp4_A_Ea_rxn1.mp4",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/mp4_A_Ea_rxn2.mp4",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/mp4_A_Ea_rxn3.mp4",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/mp4_H1_H2.mp4",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/parameter_correlation.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/pred_exp_1.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/pred_exp_2.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/pred_exp_3.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/pred_exp_4.png",
+    "Cathode_NCM333_UQ/results/NCM333/figs/conditions/pred_exp_5.png",
+    "Cathode_NCM333_UQ/src_333",
+    "HyChem",
+    "README.md.backup",
+    "assets",
+    "assets/CRNN_TOC.png",
+    "case1",
+    "case1 rev",
+    "case1/figs",
+    "case1/figs/i_exp_1.png",
+    "case1/figs/i_exp_30.png",
+    "case1/figs/loss.png",
+    "case2",
+    "case2/checkpoint",
+    "case2/checkpoint/mymodel.bson",
+    "case2/figs",
+    "case2/figs/i_exp_1.png",
+    "case2/figs/i_exp_30.png",
+    "case2/figs/loss.png",
+    "case3",
+    "case3/figs",
+    "case3/figs/grad.png",
+    "case3/figs/i_exp_1.png",
+    "case3/figs/i_exp_100.png",
+    "case3/figs/loss.png",
+    "gene-regulatory-network",
+    "gene-regulatory-network/checkpoint",
+    "gene-regulatory-network/checkpoint/mymodel.bson",
+    "gene-regulatory-network/figs",
+    "gene-regulatory-network/figs/grad.png",
+    "gene-regulatory-network/figs/i_exp_1.png",
+    "gene-regulatory-network/figs/i_exp_2.png",
+    "gene-regulatory-network/figs/i_exp_3.png",
+    "gene-regulatory-network/figs/i_exp_4.png",
+    "gene-regulatory-network/figs/i_exp_5.png",
+    "gene-regulatory-network/figs/loss.png",
+    "gene-regulatory-network/gene-reg.jpeg",
+    "gene-regulatory-network/sample_CRNN_weights.png",
+    "robertson",
+    "robertson/checkpoint",
+    "robertson/checkpoint/mymodel.bson",
+    "robertson/figs",
+    "robertson/figs/loss_grad.png",
+    "yeast-glycolysis",
+    "yeast-glycolysis/checkpoint",
+    "yeast-glycolysis/checkpoint/mymodel.bson",
+    "yeast-glycolysis/figs",
+    "yeast-glycolysis/figs/i_exp_1.png",
+    "yeast-glycolysis/figs/i_exp_30.png",
+    "yeast-glycolysis/figs/loss_grad.png",
+    "yeast-glycolysis/yeast_eqs.png"
+  ]
+}

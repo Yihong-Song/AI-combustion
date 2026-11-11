@@ -1,0 +1,20 @@
+{
+  "id": "ytg7146__DU_CNN",
+  "repository": "ytg7146/DU_CNN",
+  "url": "https://github.com/ytg7146/DU_CNN",
+  "commit": "b1024dfb9d61decad1e58e643cc9418715ff47f1",
+  "retrieved_at": "2026-11-11T13:10:16.220345+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.combustflame.2022.112583"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/ytg7146__DU_CNN.json",
+  "pinned_url": "https://github.com/ytg7146/DU_CNN/tree/b1024dfb9d61decad1e58e643cc9418715ff47f1",
+  "archive_url": "https://api.github.com/repos/ytg7146/DU_CNN/tarball/b1024dfb9d61decad1e58e643cc9418715ff47f1",
+  "readme_source": "https://raw.githubusercontent.com/ytg7146/DU_CNN/b1024dfb9d61decad1e58e643cc9418715ff47f1/README.md",
+  "collection_status": "link_only"
+}

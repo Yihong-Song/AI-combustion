@@ -1,0 +1,37 @@
+{
+  "status": "author_demo_executed",
+  "paper_metrics_reproduced": false,
+  "repository": "TaoRen-Rad/WSGG-H2O-CO2-NH3",
+  "commit": "0ed02920a2ea9dbea0c60db02fd51b4695cf6260",
+  "source_archive_sha256": "fd6c69d779fd67e763e8ea2041f99386cc80b4222178e68db3ea0dfe61279bdd",
+  "date": "2026-11-11",
+  "command": "python reproductions/C01_wsgg_author_demo/run.py",
+  "upstream_entry": "test.py",
+  "adaptations": [
+    "Agg plotting backend",
+    "text.usetex=False to avoid external LaTeX; numerical model and data unchanged",
+    "torch CPU threads=1",
+    "additional evaluation pass using same upstream functions"
+  ],
+  "n_points": 100,
+  "reference": "upstream data/results.npy last column, README labels LBL; LBL not independently recomputed",
+  "reference_range_W_m3": 517990.8194722326,
+  "mean_absolute_error_W_m3": 15268.499645027412,
+  "mae_divided_by_reference_range": 0.029476390451444855,
+  "relative_L2_error": 0.08106870292116042,
+  "max_absolute_error_W_m3": 43116.58201168163,
+  "python": "3.13.9",
+  "environment": {
+    "torch": "2.13.0",
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.1",
+    "tqdm": "4.70.0"
+  },
+  "input_hashes": {
+    "data/profiles.npy": "61ebaedeefd51196654f044bc548973c3883f0e66eedec429e5df8b542545074",
+    "data/results.npy": "157f50a31cbb9218b231a7f6d2d6d2b43d5542254905983c0447b3b5ec9aea05",
+    "PINN_WSGG/data/wsgg.json": "4063fd1cc5be1c012c1b19f5ca0dde0bda266264db77f6673e256426f668b211"
+  },
+  "elapsed_seconds": 1.0680194000015035
+}

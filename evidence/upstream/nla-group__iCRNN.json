@@ -1,0 +1,11 @@
+{
+  "repository": "nla-group/iCRNN",
+  "url": "https://github.com/nla-group/iCRNN",
+  "retrieved_at": "2026-11-11T12:35:08.330675+00:00",
+  "commit": "397ea855f121007b9b7995218d9ed8b84e2f54d6",
+  "readme_url": "https://raw.githubusercontent.com/nla-group/iCRNN/397ea855f121007b9b7995218d9ed8b84e2f54d6/README.md",
+  "readme_path": "evidence/upstream/nla-group__iCRNN.readme.txt",
+  "license_url": "https://raw.githubusercontent.com/nla-group/iCRNN/397ea855f121007b9b7995218d9ed8b84e2f54d6/LICENSE",
+  "license_path": "evidence/upstream/nla-group__iCRNN.license.txt",
+  "api_checked_at": "2026-11-11T13:09:56.456815+00:00"
+}

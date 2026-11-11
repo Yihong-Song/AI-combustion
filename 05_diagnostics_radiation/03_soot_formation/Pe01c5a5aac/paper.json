@@ -1,0 +1,47 @@
+{
+  "id": "Pe01c5a5aac",
+  "doi": "10.1016/j.jqsrt.2021.107628",
+  "title": "A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures",
+  "year": 2021,
+  "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+  "authors": [
+    "Ya Zhou",
+    "Chaojun Wang",
+    "Tao Ren",
+    "Changying Zhao"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "03_soot_formation",
+  "path": "05_diagnostics_radiation/03_soot_formation/Pe01c5a5aac",
+  "doi_url": "https://doi.org/10.1016/j.jqsrt.2021.107628",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.jqsrt.2021.107628",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/e01c5a5aac07.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

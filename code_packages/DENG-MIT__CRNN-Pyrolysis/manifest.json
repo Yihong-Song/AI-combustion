@@ -1,0 +1,33 @@
+{
+  "id": "DENG-MIT__CRNN-Pyrolysis",
+  "repository": "DENG-MIT/CRNN-Pyrolysis",
+  "url": "https://github.com/DENG-MIT/CRNN-Pyrolysis",
+  "commit": "dfe44db1f9aedeb801be7ed8d88a2fd985f57ff6",
+  "retrieved_at": "2026-11-11T13:09:41.828893+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "热解 CRNN 补充实现；与 Biomass.jl 的论文关系需逐项核实。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/DENG-MIT__CRNN-Pyrolysis.json",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/CRNN-Pyrolysis/dfe44db1f9aedeb801be7ed8d88a2fd985f57ff6/LICENSE",
+  "license_sha256": "b27902ef51281ee0ab2a7a03bb1a5df244c366e2396a571c3f02211cbea0cb7c",
+  "pinned_url": "https://github.com/DENG-MIT/CRNN-Pyrolysis/tree/dfe44db1f9aedeb801be7ed8d88a2fd985f57ff6",
+  "archive_url": "https://api.github.com/repos/DENG-MIT/CRNN-Pyrolysis/tarball/dfe44db1f9aedeb801be7ed8d88a2fd985f57ff6",
+  "readme_source": "https://raw.githubusercontent.com/DENG-MIT/CRNN-Pyrolysis/dfe44db1f9aedeb801be7ed8d88a2fd985f57ff6/README.md",
+  "archive": {
+    "repository": "DENG-MIT/CRNN-Pyrolysis",
+    "commit": "dfe44db1f9aedeb801be7ed8d88a2fd985f57ff6",
+    "source_url": "https://api.github.com/repos/DENG-MIT/CRNN-Pyrolysis/tarball/dfe44db1f9aedeb801be7ed8d88a2fd985f57ff6",
+    "retrieved_at": "2026-11-11T13:45:47.967356+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/DENG-MIT/CRNN-Pyrolysis/legacy.tar.gz/dfe44db1f9aedeb801be7ed8d88a2fd985f57ff6",
+    "status": "downloaded",
+    "path": "code_packages/DENG-MIT__CRNN-Pyrolysis/dfe44db1f9ae.tar.gz",
+    "bytes": 1847918,
+    "sha256": "1a03070c3e118c317c10c7d8ce35836afbcef1aeff077eb5e5da23132e790c94"
+  },
+  "collection_status": "source_archive_collected"
+}

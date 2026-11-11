@@ -1,0 +1,50 @@
+{
+  "id": "Pad9ee054b6",
+  "doi": "10.1063/5.0279210",
+  "title": "Spatiotemporal prediction of scramjet combustion based on simpler yet better video prediction neural network",
+  "year": 2025,
+  "journal": "Physics of Fluids",
+  "authors": [
+    "Qinglin Guan",
+    "Xue Dong",
+    "Liyang Sun",
+    "Wei Zhang",
+    "Jiajian Zhu",
+    "Tiangang Luo",
+    "Shuogui Xu"
+  ],
+  "category": "07_engineering_design",
+  "subcategory": "03_supersonic_detonation",
+  "path": "07_engineering_design/03_supersonic_detonation/Pad9ee054b6",
+  "doi_url": "https://doi.org/10.1063/5.0279210",
+  "metadata_source": "https://api.crossref.org/works/10.1063/5.0279210",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": "https://www.letpub.com/journal-selector/journal/6673",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/ad9ee054b675.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

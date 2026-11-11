@@ -1,0 +1,14 @@
+{
+  "repository": "JacopoLib/BayeSAF",
+  "url": "https://github.com/JacopoLib/BayeSAF",
+  "retrieved_at": "2026-11-11T13:32:48.959568+00:00",
+  "commit": "d7e3b4b8f65085d9d7afa1e6c3b126f6e63edc30",
+  "readme_path": "evidence/upstream/JacopoLib__BayeSAF.readme.txt",
+  "readme_url": "https://github.com/JacopoLib/BayeSAF/blob/d7e3b4b8f65085d9d7afa1e6c3b126f6e63edc30/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/JacopoLib__BayeSAF.license.txt",
+  "license_url": "https://github.com/JacopoLib/BayeSAF/blob/d7e3b4b8f65085d9d7afa1e6c3b126f6e63edc30/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "NOASSERTION",
+  "api_checked_at": "2026-11-11T13:32:56.667316+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "P81568f3c50",
+  "doi": "10.1016/j.cej.2025.160402",
+  "title": "Comprehensive thermal-kinetic uncertainty quantification of lithium-ion battery thermal runaway via bayesian chemical reaction neural networks",
+  "year": 2025,
+  "journal": "Chemical Engineering Journal",
+  "authors": [
+    "Benjamin C. Koenig",
+    "Peng Zhao",
+    "Sili Deng"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/P81568f3c50",
+  "doi_url": "https://doi.org/10.1016/j.cej.2025.160402",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.cej.2025.160402",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "13/183"
+      },
+      {
+        "category": "ENGINEERING, ENVIRONMENTAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "4/88"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1639",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "DENG-MIT/CRNN",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "4a17819c5bd4a65d6a9da9e72115b536d644350e",
+    "license": "MIT",
+    "package_id": "DENG-MIT__CRNN",
+    "search_hits": 2,
+    "search_evidence": "evidence/code_search/81568f3c50e0.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "DENG-MIT/CRNN",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "将 Bayesian CRNN 用于锂电热失控的热—动力学不确定度传播。",
+    "method": "README 明确列出本文为 cathode UQ 系列工作。模型不确定性传播与单条实验曲线拟合应分别评价。",
+    "entry": "从对应 cathode/thermal runaway 子项目、项目环境与输入数据开始，按论文识别具体图表。",
+    "dependencies": "Julia 子项目环境；采样/优化设置和计算预算需从论文及配置核对。",
+    "evaluation": "校准与验证实验分离，报告预测区间覆盖、热失控起始条件和敏感性；不只比较后验均值。",
+    "limitations": "扩展到电池安全范围，不能与气相火焰精度直接横向排名。尚未执行论文结果。"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "P15efd785db",
+  "doi": "10.1016/j.proci.2020.06.263",
+  "title": "An a priori evaluation of a principal component and artificial neural network based combustion model in diesel engine conditions",
+  "year": 2021,
+  "journal": "Proceedings of the Combustion Institute",
+  "authors": [
+    "Deepak K. Dalakoti",
+    "Armin Wehrfritz",
+    "Bruno Savard",
+    "Marc S. Day",
+    "John B. Bell",
+    "Evatt R. Hawkes"
+  ],
+  "category": "02_turbulence_closure",
+  "subcategory": "01_closures_manifolds",
+  "path": "02_turbulence_closure/01_closures_manifolds/P15efd785db",
+  "doi_url": "https://doi.org/10.1016/j.proci.2020.06.263",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.proci.2020.06.263",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "104/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "65/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "37/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "18/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/6861",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "deepakdalakoti/PCA-ANN",
+    "relationship": "repository_reference_readme_explicit",
+    "commit": "54f48ff9ea8e88a21216de06641c77b829b394f6",
+    "license": "not_located",
+    "package_id": "deepakdalakoti__PCA-ANN",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/15efd785db6f.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "deepakdalakoti/PCA-ANN",
+    "category": "02_turbulence_closure",
+    "subcategory": "01_closures_manifolds",
+    "relationship": "repository_reference_readme_explicit",
+    "problem": "在柴油机条件下，对 PCA 与人工神经网络结合的燃烧模型进行先验评价。",
+    "method": "README 直接引用本 DOI，说明进行燃烧数据 PCA 与神经网络拟合。该引用关系支持收纳，但短 README 不足以证明完整原文实验齐备。",
+    "entry": "根目录 PCA-ANN.ipynb、helper_functions.py 与 neural_networks.py。",
+    "dependencies": "README 未给出完整环境；应从 notebook 导入、数据读取和辅助脚本逐项提取依赖，未执行。",
+    "evaluation": "统一潜维数和输入变量，比较 PCA 重构与反应源项误差，按完整工况和滤波尺度留出；先验结果需进一步检验后验稳定性。",
+    "limitations": "未定位许可，仅链接。这里的实现关系为 README 明确引用，强度不同于作者声明提供全文复现实验。"
+  }
+}

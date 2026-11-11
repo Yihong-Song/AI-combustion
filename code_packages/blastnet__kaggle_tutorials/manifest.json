@@ -1,0 +1,20 @@
+{
+  "id": "blastnet__kaggle_tutorials",
+  "repository": "blastnet/kaggle_tutorials",
+  "url": "https://github.com/blastnet/kaggle_tutorials",
+  "commit": "1618a463475a82f49674f6fd2614672b173f80e5",
+  "retrieved_at": "2026-11-11T13:50:53.609551+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.jaecs.2022.100087"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/blastnet__kaggle_tutorials.json",
+  "pinned_url": "https://github.com/blastnet/kaggle_tutorials/tree/1618a463475a82f49674f6fd2614672b173f80e5",
+  "archive_url": "https://api.github.com/repos/blastnet/kaggle_tutorials/tarball/1618a463475a82f49674f6fd2614672b173f80e5",
+  "readme_source": "https://github.com/blastnet/kaggle_tutorials/blob/1618a463475a82f49674f6fd2614672b173f80e5/README.md",
+  "collection_status": "link_only"
+}

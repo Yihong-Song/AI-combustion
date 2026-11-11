@@ -1,0 +1,40 @@
+# Sparse Sensor Placement and Physics Informed Neural Networks for Temperature and Velocity Fields Reconstruction in Non-Premixed Laminar Flames
+
+Pb6153d0c45 · 2026 · Combustion Science and Technology
+
+作者：Constanza Lopez; Benjamin Herrmann; Rodrigo Demarco; Felipe Escudero
+
+- DOI：[原文入口](https://doi.org/10.1080/00102202.2026.2642891)
+- 分类：光学诊断、反演、烟炱与辐射 / 光谱、图像与层析反演
+- JCR：**二级来源报告 Q3/Q4，不纳入 Q1/Q2 候选主集**；报告最佳分区 Q3；版本未知；官方核实：否。
+- 阅读深度：标题与元数据筛选，待摘要/全文复核。
+- 论文原始指标复现：**未执行**。
+- [统一方法与证据等级](../../../docs/METHODOLOGY.md) · [方向说明](../../../05_diagnostics_radiation/README.md) · [全局地图](../../../00_literature_map/README.md)
+
+分区线索：[二级来源](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1903)。多类别期刊使用报告中的最佳类别作为候选信号，不能解释为所有类别均为 Q1。
+
+## 这条记录目前能说明什么
+
+标题和期刊元数据表明它可能属于本方向；本卡不提供未经全文核实的架构、数据量、速度提升或结论。下列内容是该方向的阅读问题与复现设计，不是对本文结果的转述。
+
+## 精读与复现提取清单
+
+1. 明确本文的物理目标：观测算子是什么？相机图像、谱线、纹影位移与温度/浓度之间的关系不同，不能把图像分类模型直接当作定量诊断。
+2. 提取数据生成/测量协议：标定后光谱/图像、相机几何、LBL 参考与合成投影；记录噪声模型、光学厚度、波段、视角和燃料组成。
+3. 对照原文确认切分：按火焰、相机配置和实验批次划分；合成到真实迁移单独验证，不能把同一场不同投影随机拆分。
+4. 找到原文表/图及指标定义：温度/浓度偏差与不确定度、谱峰面积、重投影误差、三维真值误差；辐射报告热流/源项和积分能量；烟炱报告体积分数及粒径统计。
+5. 记录完整依赖、机理/数据许可证、随机种子、设备、训练预算和失败运行。
+6. 建立公式—代码对应表，先运行最小基线，再对同一数据切分复现目标图表。
+
+## 代码检索状态
+
+`searched_no_confirmed_match`。DOI 精确 GitHub README 检索会漏掉未写 DOI 的实现；搜到引用也不能认定为本文代码。未确认实现不意味着作者没有开源。
+
+## 待完成的学术核验
+
+- 官方 JCR 年份、类别、排名与分区证据。
+- 原文数据范围、训练/测试切分、主要定量结论、消融与误差条。
+- 代码—论文版本一致性，数据及预训练权重是否齐全。
+- 论文指标同口径复现及差异分析。
+
+元数据来源：[Crossref](https://api.crossref.org/works/10.1080/00102202.2026.2642891)；本轮整理日期 2026-11-11。完整元数据见同目录 `paper.json`。

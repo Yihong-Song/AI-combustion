@@ -1,0 +1,47 @@
+{
+  "id": "P797d45d886",
+  "doi": "10.1007/s10494-026-00796-2",
+  "title": "Development of A Lightweight Neural Network for Predicting Reaction Rates in RANS Simulations of Flame-Wall Interactions",
+  "year": 2026,
+  "journal": "Flow, Turbulence and Combustion",
+  "authors": [
+    "Maximilian Bambauer",
+    "Vipin Michael",
+    "Markus Klein",
+    "Nilanjan Chakraborty"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/P797d45d886",
+  "doi_url": "https://doi.org/10.1007/s10494-026-00796-2",
+  "metadata_source": "https://api.crossref.org/works/10.1007/s10494-026-00796-2",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/797d45d88628.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

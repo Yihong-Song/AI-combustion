@@ -1,0 +1,49 @@
+{
+  "id": "Pe4e9537482",
+  "doi": "10.1016/j.measurement.2024.115390",
+  "title": "Simultaneous soot parameters fields predictions accuracy improvements in laminar sooting flames from soot radiation measurements — a multi-task learning approach",
+  "year": 2024,
+  "journal": "Measurement",
+  "authors": [
+    "Qianlong Wang",
+    "Ting Li",
+    "Mingxue Gong",
+    "Muhammad Kashif",
+    "Xingzhi Yin",
+    "Yi Wu"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "02_radiation_soot",
+  "path": "05_diagnostics_radiation/02_radiation_soot/Pe4e9537482",
+  "doi_url": "https://doi.org/10.1016/j.measurement.2024.115390",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.measurement.2024.115390",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/e4e95374823d.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

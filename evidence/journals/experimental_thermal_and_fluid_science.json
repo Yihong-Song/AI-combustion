@@ -1,0 +1,36 @@
+{
+  "journal": "Experimental Thermal and Fluid Science",
+  "retrieved_at": "2026-11-11T12:44:02.008331+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Experimental+Thermal+and+Fluid+Science",
+  "page_title": "LetPub - Scientific Journal Selector | EXPERIMENTAL THERMAL AND FLUID SCIENCE - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/2777",
+  "journal_id": "2777",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, MECHANICAL SCIE Q2 50/184 Category: PHYSICS, FLUIDS & PLASMAS SCIE Q1 7/43 Category: THERMODYNAMICS SCIE Q2 28/78",
+  "categories": [
+    {
+      "category": "ENGINEERING, MECHANICAL",
+      "collection": "SCIE",
+      "quartile": "Q2",
+      "rank": "50/184"
+    },
+    {
+      "category": "PHYSICS, FLUIDS & PLASMAS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "7/43"
+    },
+    {
+      "category": "THERMODYNAMICS",
+      "collection": "SCIE",
+      "quartile": "Q2",
+      "rank": "28/78"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

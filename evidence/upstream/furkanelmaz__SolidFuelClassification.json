@@ -1,0 +1,14 @@
+{
+  "repository": "furkanelmaz/SolidFuelClassification",
+  "url": "https://github.com/furkanelmaz/SolidFuelClassification",
+  "retrieved_at": "2026-11-11T13:09:16.135376+00:00",
+  "commit": "70d23189d625a02b81019f6a60bd5769142b8d2f",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /furkanelmaz/SolidFuelClassification/70d23189d625a02b81019f6a60bd5769142b8d2f/LICENSE (Caused by ConnectTimeoutError(<HTTPSConnection(host='raw.githubusercontent.com', port=443) at 0x2226999d6d0>, 'Connection to raw.githubusercontent.com timed out. (connect timeout=30)'))",
+  "readme_path": "evidence/upstream/furkanelmaz__SolidFuelClassification.readme.txt",
+  "readme_url": "https://github.com/furkanelmaz/SolidFuelClassification/blob/70d23189d625a02b81019f6a60bd5769142b8d2f/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api",
+  "api_checked_at": "2026-11-11T13:50:48.007908+00:00"
+}

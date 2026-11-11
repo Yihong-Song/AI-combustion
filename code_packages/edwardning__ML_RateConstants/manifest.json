@@ -1,0 +1,20 @@
+{
+  "id": "edwardning__ML_RateConstants",
+  "repository": "edwardning/ML_RateConstants",
+  "url": "https://github.com/edwardning/ML_RateConstants",
+  "commit": "ce8d0cdd6fc7dd8ff9018e80b72eaf089b7deaba",
+  "retrieved_at": "2026-11-11T13:09:51.126142+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.combustflame.2024.113375"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/edwardning__ML_RateConstants.json",
+  "pinned_url": "https://github.com/edwardning/ML_RateConstants/tree/ce8d0cdd6fc7dd8ff9018e80b72eaf089b7deaba",
+  "archive_url": "https://api.github.com/repos/edwardning/ML_RateConstants/tarball/ce8d0cdd6fc7dd8ff9018e80b72eaf089b7deaba",
+  "readme_source": "https://raw.githubusercontent.com/edwardning/ML_RateConstants/ce8d0cdd6fc7dd8ff9018e80b72eaf089b7deaba/README.md",
+  "collection_status": "link_only"
+}

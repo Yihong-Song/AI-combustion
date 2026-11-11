@@ -1,0 +1,17 @@
+{
+  "repository": "TaoRen-Rad/WSGG-H2O-CO2-NH3",
+  "url": "https://github.com/TaoRen-Rad/WSGG-H2O-CO2-NH3",
+  "retrieved_at": "2026-11-11T12:59:05.100484+00:00",
+  "commit": "0ed02920a2ea9dbea0c60db02fd51b4695cf6260",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /TaoRen-Rad/WSGG-H2O-CO2-NH3/0ed02920a2ea9dbea0c60db02fd51b4695cf6260/README.md (Caused by NewConnectionError(\"HTTPSConnection(host='raw.githubusercontent.com', port=443): Failed to establish a new connection: [WinError 10065] 套接字操作尝试一个无法连接的主机。\"))",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /TaoRen-Rad/WSGG-H2O-CO2-NH3/0ed02920a2ea9dbea0c60db02fd51b4695cf6260/LICENSE (Caused by NameResolutionError(\"HTTPSConnection(host='raw.githubusercontent.com', port=443): Failed to resolve 'raw.githubusercontent.com' ([Errno 11001] getaddrinfo failed)\"))",
+  "readme_path": "evidence/upstream/TaoRen-Rad__WSGG-H2O-CO2-NH3.readme.txt",
+  "readme_url": "https://github.com/TaoRen-Rad/WSGG-H2O-CO2-NH3/blob/0ed02920a2ea9dbea0c60db02fd51b4695cf6260/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/TaoRen-Rad__WSGG-H2O-CO2-NH3.license.txt",
+  "license_url": "https://github.com/TaoRen-Rad/WSGG-H2O-CO2-NH3/blob/0ed02920a2ea9dbea0c60db02fd51b4695cf6260/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T13:10:12.125717+00:00"
+}

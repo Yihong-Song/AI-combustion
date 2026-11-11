@@ -1,0 +1,14 @@
+{
+  "repository": "tianhanz/DNN-Models-for-Chemical-Kinetics",
+  "url": "https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics",
+  "retrieved_at": "2026-11-11T12:59:48.082906+00:00",
+  "commit": "bc07e5a210ba357b8a5350b460a751a68a002174",
+  "readme_path": "evidence/upstream/tianhanz__DNN-Models-for-Chemical-Kinetics.readme.txt",
+  "readme_url": "https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics/blob/bc07e5a210ba357b8a5350b460a751a68a002174/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/tianhanz__DNN-Models-for-Chemical-Kinetics.license.txt",
+  "license_url": "https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics/blob/bc07e5a210ba357b8a5350b460a751a68a002174/license",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "Apache-2.0",
+  "api_checked_at": "2026-11-11T13:10:13.870928+00:00"
+}

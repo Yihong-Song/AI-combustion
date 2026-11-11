@@ -1,0 +1,66 @@
+{
+  "id": "Pb31e5867e2",
+  "doi": "10.1016/j.enconman.2026.121923",
+  "title": "Machine learning-enabled wide-condition combustion behavior and optimization for oxygen-enriched ammonia-fueled Wankel rotary engines",
+  "year": 2026,
+  "journal": "Energy Conversion and Management",
+  "authors": [
+    "Hao Meng",
+    "Shanshan Guo",
+    "Changwei Ji",
+    "Du Wang"
+  ],
+  "category": "07_engineering_design",
+  "subcategory": "02_control_optimization",
+  "path": "07_engineering_design/02_control_optimization/Pb31e5867e2",
+  "doi_url": "https://doi.org/10.1016/j.enconman.2026.121923",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.enconman.2026.121923",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "22/191"
+      },
+      {
+        "category": "MECHANICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "4/172"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "2/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/2500",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/b31e5867e2ce.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

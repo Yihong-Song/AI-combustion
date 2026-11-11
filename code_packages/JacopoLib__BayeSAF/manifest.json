@@ -1,0 +1,22 @@
+{
+  "id": "JacopoLib__BayeSAF",
+  "repository": "JacopoLib/BayeSAF",
+  "url": "https://github.com/JacopoLib/BayeSAF",
+  "commit": "d7e3b4b8f65085d9d7afa1e6c3b126f6e63edc30",
+  "retrieved_at": "2026-11-11T13:32:56.667316+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.fuel.2026.138835"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "Prosperity-3.0.0 (noncommercial; not OSI)",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/JacopoLib__BayeSAF.json",
+  "license_url": "https://github.com/JacopoLib/BayeSAF/blob/d7e3b4b8f65085d9d7afa1e6c3b126f6e63edc30/LICENSE",
+  "license_sha256": "61ed6db5ffab3e76ab1d7702a6eb1ced5123aa4a234ddd6d1bba0a564419d6ba",
+  "pinned_url": "https://github.com/JacopoLib/BayeSAF/tree/d7e3b4b8f65085d9d7afa1e6c3b126f6e63edc30",
+  "archive_url": "https://api.github.com/repos/JacopoLib/BayeSAF/tarball/d7e3b4b8f65085d9d7afa1e6c3b126f6e63edc30",
+  "readme_source": "https://github.com/JacopoLib/BayeSAF/blob/d7e3b4b8f65085d9d7afa1e6c3b126f6e63edc30/README.md",
+  "collection_status": "link_only"
+}

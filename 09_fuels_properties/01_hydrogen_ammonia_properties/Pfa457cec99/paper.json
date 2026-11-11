@@ -1,0 +1,72 @@
+{
+  "id": "Pfa457cec99",
+  "doi": "10.1016/j.fuel.2026.138835",
+  "title": "BayeSAF: Emulation and design of sustainable alternative fuels via Bayesian inference and descriptors-based machine learning",
+  "year": 2026,
+  "journal": "Fuel",
+  "authors": [
+    "Jacopo Liberatori",
+    "Davide Cavalieri",
+    "Matteo Blandino",
+    "Mauro Valorani",
+    "Pietro Paolo Ciottoli"
+  ],
+  "category": "09_fuels_properties",
+  "subcategory": "01_hydrogen_ammonia_properties",
+  "path": "09_fuels_properties/01_hydrogen_ammonia_properties/Pfa457cec99",
+  "doi_url": "https://doi.org/10.1016/j.fuel.2026.138835",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.fuel.2026.138835",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "51/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "31/183"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=2950",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "JacopoLib/BayeSAF",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "d7e3b4b8f65085d9d7afa1e6c3b126f6e63edc30",
+    "license": "Prosperity-3.0.0 (noncommercial; not OSI)",
+    "package_id": "JacopoLib__BayeSAF",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/fa457cec99e5.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "JacopoLib/BayeSAF",
+    "category": "09_fuels_properties",
+    "subcategory": "01_hydrogen_ammonia_properties",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "由目标性质反推可持续航空燃料的替代混合物组成，并表达组成的不确定性。",
+    "method": "README 明确链接 Fuel 论文，描述 Bayesian 混合物反演；其中 992 种化合物、7 类烃、11 项整体性质和 7 项温度相关性质为上游说明，本库未独立核验数据。",
+    "entry": "先从固定提交 README 的示例、数据说明和环境文件确定性质预测与后验推断入口，再检查具体实验配置。",
+    "dependencies": "依赖、数据库和采样配置以固定提交为准；数据权利与代码使用条件须分别核查。",
+    "evaluation": "将性质拟合误差、后验区间覆盖和混合物可辨识性分开评价；在未参与校准的燃料与温度上验证。",
+    "limitations": "Prosperity Public License 3.0 限制商业使用，不是 OSI 开源；本库仅保留来源和固定链接，未运行或验证配方的实际燃烧性能。"
+  }
+}

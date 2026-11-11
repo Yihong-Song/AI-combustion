@@ -1,0 +1,33 @@
+{
+  "id": "DENG-MIT__reactorch",
+  "repository": "DENG-MIT/reactorch",
+  "url": "https://github.com/DENG-MIT/reactorch",
+  "commit": "a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7",
+  "retrieved_at": "2026-11-11T13:09:43.093293+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "PyTorch 热化学模块，结合 Cantera 机理；属于可微计算基础设施。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/DENG-MIT__reactorch.json",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/reactorch/a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7/LICENSE",
+  "license_sha256": "b430ea682fe80938fc5aee2ab83e644255fc1e50542d8fc8270af291b5ddecdc",
+  "pinned_url": "https://github.com/DENG-MIT/reactorch/tree/a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7",
+  "archive_url": "https://api.github.com/repos/DENG-MIT/reactorch/tarball/a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7",
+  "readme_source": "https://raw.githubusercontent.com/DENG-MIT/reactorch/a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7/README.md",
+  "archive": {
+    "repository": "DENG-MIT/reactorch",
+    "commit": "a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7",
+    "source_url": "https://api.github.com/repos/DENG-MIT/reactorch/tarball/a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7",
+    "retrieved_at": "2026-11-11T13:26:24.045109+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/DENG-MIT/reactorch/legacy.tar.gz/a1b9936b166e0eff3fe4b4e25b76bc5e782a7ab7",
+    "status": "downloaded",
+    "path": "code_packages/DENG-MIT__reactorch/a1b9936b166e.tar.gz",
+    "bytes": 377380,
+    "sha256": "726259970a0b6dde5e02a7c09d3baa7514bac2eefbe6a337091299d0eda99410"
+  },
+  "collection_status": "source_archive_collected"
+}

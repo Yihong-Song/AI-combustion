@@ -1,0 +1,13 @@
+{
+  "repository": "DENG-MIT/CoFFe",
+  "url": "https://github.com/DENG-MIT/CoFFe",
+  "retrieved_at": "2026-11-11T12:40:59.343499+00:00",
+  "git_error": "fatal: unable to access 'https://github.com/DENG-MIT/CoFFe.git/': Failed to connect to github.com:443 after 21102 ms: Could not connect to server\n",
+  "commit": "27574db5213575e1908625ce038766d0632022f8",
+  "pin_source": "GitHub commits API (git ls-remote unavailable)",
+  "readme_url": "https://raw.githubusercontent.com/DENG-MIT/CoFFe/27574db5213575e1908625ce038766d0632022f8/README.md",
+  "readme_path": "evidence/upstream/DENG-MIT__CoFFe.readme.txt",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/CoFFe/27574db5213575e1908625ce038766d0632022f8/LICENSE",
+  "license_path": "evidence/upstream/DENG-MIT__CoFFe.license.txt",
+  "api_checked_at": "2026-11-11T13:09:41.397075+00:00"
+}

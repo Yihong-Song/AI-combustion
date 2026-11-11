@@ -1,0 +1,1453 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "deepflameCFD/deepflame-dev",
+  "commit": "29529093a73717fcac676f1f1ceed24c0cc932c7",
+  "date": "2026-11-11",
+  "path": "code_packages/deepflameCFD__deepflame-dev/29529093a737-source-only.tar.gz",
+  "bytes": 111174,
+  "sha256": "d2a1e2761fa057737d1e1648fe4e6a762fa74ba674fd72a878ba8f3793e59bf2",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "b89881358566a28fbebd718e94c63eb97a7c4008",
+      "sha256": "004d0f078b688aab5bda9d80a6ab7e9101494d0f10c9732f977103f3a4d43e4d",
+      "bytes": 4125
+    },
+    {
+      "path": "applications/solvers/df0DFoam/EEqn.H",
+      "git_blob_sha": "faba8642c631279569b96ec59398072e31262b1b",
+      "sha256": "20b4f997960728cb4e3292cf258d64c8d5c75f98faac51165c1c0b8725e55167",
+      "bytes": 130
+    },
+    {
+      "path": "applications/solvers/df0DFoam/YEqn.H",
+      "git_blob_sha": "2c0370d052b6f16ceb6cc056fdcab7c8d41bd416",
+      "sha256": "44331d84ee39191746928760a7190a510e8b35350f8ba83abf19d4a247fb08ff",
+      "bytes": 826
+    },
+    {
+      "path": "applications/solvers/df0DFoam/correctPhi.H",
+      "git_blob_sha": "3cd82d29e7587547deae561f2311281399f924da",
+      "sha256": "5e287f886567c10aa7f155b2af1596f6b92790bea8c0855339763ebf52c2e2f4",
+      "bytes": 136
+    },
+    {
+      "path": "applications/solvers/df0DFoam/createFieldRefs.H",
+      "git_blob_sha": "502b3b423007919fa7a75206ecafe324f3ac8ed5",
+      "sha256": "d81413d7a682adf6619cd6cd2b17c2fa26e88f9b98aef1ab054410055ad46e3d",
+      "bytes": 42
+    },
+    {
+      "path": "applications/solvers/df0DFoam/createFields.H",
+      "git_blob_sha": "fd529a3be412cf21951be2ba14ffaae06613b6c6",
+      "sha256": "f7859f8fdf0b3d6decdf38dfb48d0092f17f963676a80b27e572f963ce9e72bb",
+      "bytes": 2329
+    },
+    {
+      "path": "applications/solvers/df0DFoam/df0DFoam.C",
+      "git_blob_sha": "a0ef43b29530c70d0d2720d385969847c795b35d",
+      "sha256": "c66a66e3934a4730c6d529cf5a6d1e7ef059f49bc1d85bc546925c491b38d25b",
+      "bytes": 3312
+    },
+    {
+      "path": "applications/solvers/df0DFoam/pEqn.H",
+      "git_blob_sha": "27553eaad679193a89936bd8170cb821dad10afb",
+      "sha256": "39882520b3cf4a527464ef789bda5aa1bd4ab7923b7cbd0ac6d149b7b4f51105",
+      "bytes": 2562
+    },
+    {
+      "path": "applications/solvers/df0DFoam/pcEqn.H",
+      "git_blob_sha": "d108c7cacb1008d641b98daac097f50ea72b5bf1",
+      "sha256": "47ea3d5dd81807253165ff540226e951a38d926489e0ddde7f2346c826726ff4",
+      "bytes": 2898
+    },
+    {
+      "path": "applications/solvers/df0DFoam/setRDeltaT.H",
+      "git_blob_sha": "074d05e3db0450e226c8c71cf05ede0f50f1271d",
+      "sha256": "caa362ad0540911d310a22806024a82fb147d0b40373266774a6ebe7cb523dc0",
+      "bytes": 2156
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/centralCourantNo.H",
+      "git_blob_sha": "551a1a017596f588686c895e90b33afdcb31afc3",
+      "sha256": "7ef0473c28dd90d30ecf4abea2919984a7fe26b25718fc1559705d335da5ca7d",
+      "bytes": 1734
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/createFields.H",
+      "git_blob_sha": "563eef8f0aa68014ccaf48bd325e4bf03afcfbbd",
+      "sha256": "76ae2cc3718bc3430a8f3009ef85faefe3970a06917d3ae8c873e263f5eabcc8",
+      "bytes": 2374
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/dfHighSpeedFoam.C",
+      "git_blob_sha": "8654cb95530da4d88c5df3bf533bc82698eb083d",
+      "sha256": "4720fadac77843f55c6d71f7d2f2a655d2c2ea9790e9140bb1ec8223ccefc14c",
+      "bytes": 6810
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/directionInterpolate.H",
+      "git_blob_sha": "bc94840d1f357782b70046ac3cec0bf74f5b7324",
+      "sha256": "cd8329b76d920a2227ff82ce9fde4939e41451dc6ffddf1a8dbb935cf0bc44dd",
+      "bytes": 708
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/readFluxScheme.H",
+      "git_blob_sha": "e8c28d65c269f444f1b9dfa87ef1a50207f9ff87",
+      "sha256": "f9094df793839ca04941da5e0d3b8c47003520a40e4eb35e97d98dcc9f159633",
+      "bytes": 443
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/rhoEEqn.H",
+      "git_blob_sha": "23eaf01b6cdafaf2d476ee03a2b8223444ad4933",
+      "sha256": "d4ef2a0352d511eca9f67f52451103e4119f602504bf24c58baa3ce508a1d528",
+      "bytes": 1010
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/rhoEqn.H",
+      "git_blob_sha": "21be7d5be0229b78da59e2935ac3663856d43603",
+      "sha256": "a7f537949867063eead19ff0a6f360240fe360c737f906963565767768060b01",
+      "bytes": 47
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/rhoUEqn.H",
+      "git_blob_sha": "f00a6899c8ee662ff1f10c2e2062d3af8442ef2f",
+      "sha256": "31aaf189af8e86f2d6cb81da1a7f97baf337faab78bfa3797486354ee1f026f8",
+      "bytes": 473
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/rhoYEqn.H",
+      "git_blob_sha": "84221586d800cef95441aede88b33b74bbc4050b",
+      "sha256": "ff4a5a5187cd1d8fb37a2e8ad1487aeeeaeabe48a2004fe84df7d22ff635c673",
+      "bytes": 993
+    },
+    {
+      "path": "applications/solvers/dfHighSpeedFoam/setRDeltaT.H",
+      "git_blob_sha": "3ec0a5b863b690b9f4c46b94a76510bb0c5168a4",
+      "sha256": "985bc39c8d28cd6a6ae800bafab1dfb5844337452279b211a81488b84beca068",
+      "bytes": 770
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/EEqn.H",
+      "git_blob_sha": "cde379cfd163cb8c8131f5b12daef6558c7d3bd4",
+      "sha256": "02e8447ee7ee40e6346ede9744a4169e20ffe267fa09cbeded0db8e7af119ed3",
+      "bytes": 331
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/UEqn.H",
+      "git_blob_sha": "cda9aabfaa0af7ce42122b24cf432cdc144b449b",
+      "sha256": "4679d6bb299685723aa9bd719d0bdd9fad6975dd355d906025782ed546cd90c3",
+      "bytes": 282
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/YEqn.H",
+      "git_blob_sha": "6d6f33dd8d0c719c552d58d8ed2f428283d7b67d",
+      "sha256": "7cbca6be8d0829706d862cc82ed32ef587a9e6f4f0be7d51431f983b0b663c01",
+      "bytes": 1679
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/correctPhi.H",
+      "git_blob_sha": "3cd82d29e7587547deae561f2311281399f924da",
+      "sha256": "5e287f886567c10aa7f155b2af1596f6b92790bea8c0855339763ebf52c2e2f4",
+      "bytes": 136
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/createFields.H",
+      "git_blob_sha": "492aa8cb9cae1aedc607a76f611b19898f274549",
+      "sha256": "92862fdc7017485270048ec3a572d9dcc4e8840b4a4478da7e6c4a59ae4c7dea",
+      "bytes": 2656
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/dfLowMachFoam.C",
+      "git_blob_sha": "73075f39cb3a6901a1651481274c4ff362e83dca",
+      "sha256": "614c9882bd0e9069709b0c4735607d735bd367691a1ddfba6175d32ba26453e1",
+      "bytes": 5007
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/pEqn.H",
+      "git_blob_sha": "ea653d2616b16afe2e587f9c9dcb13df61d744ee",
+      "sha256": "f983ecba329914b8f695596f4eb2b0d27f675dfa16781e489bb96fd5f9fdc067",
+      "bytes": 2367
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/pcEqn.H",
+      "git_blob_sha": "3b72bf3c6adae75a4a7ee23e2eaf5a34df33dc7b",
+      "sha256": "a2284f62ba23106cb87cab7fcaaf4199729e055c2ca2e7e0257c55b219cecbfb",
+      "bytes": 2672
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/rhoEqn.H",
+      "git_blob_sha": "bb8ceeca64e26db45007b3cd460874823ea44126",
+      "sha256": "3d5d0d779d316adc0536cb87db8f422269f0730236c9f464eb4494d59227a5a7",
+      "bytes": 1448
+    },
+    {
+      "path": "applications/solvers/dfLowMachFoam/setRDeltaT.H",
+      "git_blob_sha": "074d05e3db0450e226c8c71cf05ede0f50f1271d",
+      "sha256": "caa362ad0540911d310a22806024a82fb147d0b40373266774a6ebe7cb523dc0",
+      "bytes": 2156
+    },
+    {
+      "path": "applications/solvers/dfSprayFoam/EEqn.H",
+      "git_blob_sha": "225c5bce6b4aff21a450e95369da98e5bb8dcbaf",
+      "sha256": "baa59715a9179d7f90c1c5c6c9b16a97b4345cfad4309255547b19104d38df12",
+      "bytes": 491
+    },
+    {
+      "path": "applications/solvers/dfSprayFoam/UEqn.H",
+      "git_blob_sha": "9bdee0a8203fee7e10b3328bea1e13f916370d70",
+      "sha256": "17556ecc3bfe64c3055d76969d368ab150526ff6d16b75c767b8b1d73d311ea8",
+      "bytes": 451
+    },
+    {
+      "path": "applications/solvers/dfSprayFoam/YEqn.H",
+      "git_blob_sha": "48f72d4a0e0dcbafe85cb1115fd6a0e3459bc922",
+      "sha256": "62370a4a1f6ec5d6dd8849ce9f8c1deb595237db4098b2d6a377bde98a73dee9",
+      "bytes": 987
+    },
+    {
+      "path": "applications/solvers/dfSprayFoam/createClouds.H",
+      "git_blob_sha": "ee0985ff709cf5a732882f424733dba62eded72b",
+      "sha256": "e53a116df269566c990a757ef3dd576ca0068e9571a85e0926c77b3db2cfbaa1",
+      "bytes": 132
+    },
+    {
+      "path": "applications/solvers/dfSprayFoam/createFields.H",
+      "git_blob_sha": "dc9fb0db118cad9650da20c1f375d24d30794f10",
+      "sha256": "e70335413845ddd3e69215521b195c4ef3b80e374f18880812bce56ea77c7e1a",
+      "bytes": 2259
+    },
+    {
+      "path": "applications/solvers/dfSprayFoam/dfSprayFoam.C",
+      "git_blob_sha": "cf033c4d13fa363f1567ee54cea34480ac90aadd",
+      "sha256": "3c6c1d0d5e581affcd28ab80fc9c8555424b8a03481c40504f677c7ab776a1e2",
+      "bytes": 4823
+    },
+    {
+      "path": "applications/solvers/dfSprayFoam/pEqn.H",
+      "git_blob_sha": "e303e0181675d7725ba3801099dea7d102e7d91d",
+      "sha256": "d36054b8d89fbcdfaf86e7be0033446bfc3c9795dd94580663ca9d3e185866d8",
+      "bytes": 2533
+    },
+    {
+      "path": "applications/solvers/dfSprayFoam/rhoEqn.H",
+      "git_blob_sha": "ddbd7cb1d424dae3b0eb7b0bcf637bc06bb20b71",
+      "sha256": "c1907c492eea89d5ad8e25b6fbfd202a95b01ac355f59ff55bfbdfa8bf790fb1",
+      "bytes": 1539
+    },
+    {
+      "path": "applications/utilities/flameSpeed/flameSpeed.C",
+      "git_blob_sha": "a8b690580ac781204cf5f7b4342542b970bf1e20",
+      "sha256": "3a28a485a6a5f51bab08781d09a84d86eb17a78cb9bcc2bc54604f4b60ec84d7",
+      "bytes": 3275
+    },
+    {
+      "path": "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/ES80_H2-7-16.yaml",
+      "git_blob_sha": "9ffb7c04087eddf6c95dab1deb83de0f3eafa671",
+      "sha256": "36d753efd81ded22b27a9eaa26f7129b816942281087ffd513767c231dac6709",
+      "bytes": 6090
+    },
+    {
+      "path": "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/ES80_H2-7-16.yaml",
+      "git_blob_sha": "9ffb7c04087eddf6c95dab1deb83de0f3eafa671",
+      "sha256": "36d753efd81ded22b27a9eaa26f7129b816942281087ffd513767c231dac6709",
+      "bytes": 6090
+    },
+    {
+      "path": "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/ES80_H2-7-16.yaml",
+      "git_blob_sha": "9ffb7c04087eddf6c95dab1deb83de0f3eafa671",
+      "sha256": "36d753efd81ded22b27a9eaa26f7129b816942281087ffd513767c231dac6709",
+      "bytes": 6090
+    },
+    {
+      "path": "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/ES80_H2-7-16.yaml",
+      "git_blob_sha": "9ffb7c04087eddf6c95dab1deb83de0f3eafa671",
+      "sha256": "36d753efd81ded22b27a9eaa26f7129b816942281087ffd513767c231dac6709",
+      "bytes": 6090
+    },
+    {
+      "path": "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/ES80_H2-7-16.yaml",
+      "git_blob_sha": "9ffb7c04087eddf6c95dab1deb83de0f3eafa671",
+      "sha256": "36d753efd81ded22b27a9eaa26f7129b816942281087ffd513767c231dac6709",
+      "bytes": 6090
+    },
+    {
+      "path": "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/ES80_H2-7-16.yaml",
+      "git_blob_sha": "9ffb7c04087eddf6c95dab1deb83de0f3eafa671",
+      "sha256": "36d753efd81ded22b27a9eaa26f7129b816942281087ffd513767c231dac6709",
+      "bytes": 6090
+    },
+    {
+      "path": "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/ES80_H2-7-16.yaml",
+      "git_blob_sha": "9ffb7c04087eddf6c95dab1deb83de0f3eafa671",
+      "sha256": "36d753efd81ded22b27a9eaa26f7129b816942281087ffd513767c231dac6709",
+      "bytes": 6090
+    },
+    {
+      "path": "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/ES80_H2-7-16.yaml",
+      "git_blob_sha": "9ffb7c04087eddf6c95dab1deb83de0f3eafa671",
+      "sha256": "36d753efd81ded22b27a9eaa26f7129b816942281087ffd513767c231dac6709",
+      "bytes": 6090
+    },
+    {
+      "path": "examples/dfSprayFoam/aachenBomb/C7_oneStep.yaml",
+      "git_blob_sha": "f96a21ce2bfd104ac73c7580af75a4b92e605ab7",
+      "sha256": "f8e7a57eb8746347145c89860152dbf7c2d1eb10af734e8d1f43f09af8a9a810",
+      "bytes": 3137
+    },
+    {
+      "path": "src/CanteraMixture/CanteraMixture.C",
+      "git_blob_sha": "706965b3df8cff57d66cbd80f910d86e5f7cee3f",
+      "sha256": "60b1044fbe3ab5576fb1dcabeed0f6651fd3e9681e74e5fbe9c7a58fedeb9bb6",
+      "bytes": 6379
+    },
+    {
+      "path": "src/CanteraMixture/CanteraMixture.H",
+      "git_blob_sha": "2542cbd6ea0ddba6bf8a53cb2ea566f6386bae50",
+      "sha256": "0147a096c72b4cfa9894823f92c1a21be2287377e1efe7afdac455b8a73af949",
+      "bytes": 8418
+    },
+    {
+      "path": "src/CanteraMixture/makeThermos.C",
+      "git_blob_sha": "f7fffaea42e75ef3f96f0eb9938f780c8a34c36b",
+      "sha256": "dccacec480bcaa417153730cdaa09ef3065b1bf439ebff1ac48c6fc3f1c557e8",
+      "bytes": 4096
+    },
+    {
+      "path": "src/dfChemistryModel/dfChemistryModel.C",
+      "git_blob_sha": "32bcf76c414fda18018dcf9567a79438e419ea2d",
+      "sha256": "8193a25d85cf2b69bb4c631dd75ffc66be9e1018497b371ee115b12cf3c1a3e4",
+      "bytes": 26456
+    },
+    {
+      "path": "src/dfChemistryModel/dfChemistryModel.H",
+      "git_blob_sha": "fda6387e91e662c81fd5fa9d94ae4faba0eac41a",
+      "sha256": "8781bd5ee283051ac3c0977a39bdeb95bb40f56f159568c912809f37e736a61f",
+      "bytes": 7235
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/ChemistryLoad.C",
+      "git_blob_sha": "4c33d7bd1682bd4131fbe97c12a5c16dc1510461",
+      "sha256": "f43983e7cc953ffe84f0b5dd50f8eb0620f08adfebff6c41beb6c0702b7eca91",
+      "bytes": 1289
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/ChemistryLoad.H",
+      "git_blob_sha": "acc77411ff3c5f7a1588dbd5e518c7a381b8a707",
+      "sha256": "71c5ccda4da9c22977e3f02ce8cf278e873279813c0e48da54fa6705c60a0404",
+      "bytes": 2868
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/ChemistryProblem.C",
+      "git_blob_sha": "7f4a9498f13822f26b7301970764c4f9e7ec9230",
+      "sha256": "8f62a17f2479789a8e930bd19732fd48e968b4404e4cae2c82b354fc0bd798fd",
+      "bytes": 1292
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/ChemistryProblem.H",
+      "git_blob_sha": "720340aecfcfbfd059ab4dc97f4472b11499aa48",
+      "sha256": "80a7bf2c6f0419304f21ea461bbc09c83cfa0fef4b5212f38f03ffc0fd233d74",
+      "bytes": 2730
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/ChemistrySolution.C",
+      "git_blob_sha": "16c21cecd44ea3e1cda150e3c31f0c67fb7512ac",
+      "sha256": "36e566e3034013372722b9579dc025c04850bf7cd3b40bf69050cf86c4633c05",
+      "bytes": 1293
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/ChemistrySolution.H",
+      "git_blob_sha": "e803cea206bbed8a21e994b6258e1b773ce6ad09",
+      "sha256": "7fa4c664611f82a70b66d003bc4b0f0a011c2b1019ded5cd3bfaa571b5610c60",
+      "bytes": 2575
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/LoadBalancer.C",
+      "git_blob_sha": "37826f59de0ce6e46fe1a6edb37371ddf7ac63ec",
+      "sha256": "b165c6ac996997f6e47db288aa14f84a0b551394960bcbcaace751592dc37560",
+      "bytes": 5210
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/LoadBalancer.H",
+      "git_blob_sha": "06c008c0c5cb2948e280339bf66139b7cc367a4f",
+      "sha256": "10d8f79af9b5267c00ad65a59ee90fc56e2fcfb7a078b5427ae17fcd01671fc8",
+      "bytes": 4073
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/LoadBalancerBase.C",
+      "git_blob_sha": "20c5d0fa6086941a7fac3e7d4bf33e5e1fb55882",
+      "sha256": "dd58397c4e183fee2a95b221f1c7e15a58f23cac938969d69a3baff231dd8f52",
+      "bytes": 4084
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/LoadBalancerBase.H",
+      "git_blob_sha": "4bad5998ff2f32b2602662b592794576558c1430",
+      "sha256": "e2d7e690b064e6257c35ec1880965e705c7fac992c9cd6678247a7b314297847",
+      "bytes": 6557
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/RecvBuffer.C",
+      "git_blob_sha": "6b6a9b22abe7b0ee2d230e8111026b2b1a71b049",
+      "sha256": "ad8c1a5b677deabf0e68d9d1c81a6aae869e3073493c30bd6f2fc5968cf6794c",
+      "bytes": 1285
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/RecvBuffer.H",
+      "git_blob_sha": "c74494d59488d443b07903a069b2ed2cdf53eb45",
+      "sha256": "51f12d608619fb831511111c0366ab68b1d25fcc72a41448d1fc6e17b9994394",
+      "bytes": 1597
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/SendBuffer.C",
+      "git_blob_sha": "957872ef973c43e3db4b8bc829323bbe49786699",
+      "sha256": "c1f49224c1b87a2567c531b4bc4685edac9dd841ffb61abd8a406bd67437b32b",
+      "bytes": 1286
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/SendBuffer.H",
+      "git_blob_sha": "a4dfd2e3e2429485f3a58bf20094382491d939ed",
+      "sha256": "450258e28e17bb144992fcdf170a469fc7cfbf2d9d83756f0089b693e0dfe50a",
+      "bytes": 2039
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/algorithms_DLB.C",
+      "git_blob_sha": "a97a819ebc62ea5afcc8dcd0147c8179a6ff2481",
+      "sha256": "fb8f2874a179677af11ab19aa6905c99e0baf04b7ea9f9d3342f0af0231a556c",
+      "bytes": 1290
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/algorithms_DLB.H",
+      "git_blob_sha": "0b05c9058ef2eb1ab0c00f1d4df3c646293d8b93",
+      "sha256": "6acddf568fd880b7c9522bfb9e54eb6e081726561b66a4eed10a51de2017534a",
+      "bytes": 2286
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/runtime_assert.C",
+      "git_blob_sha": "a8f2a483b4ef5ccb2beb0db300db8018d5af0de7",
+      "sha256": "3ab65c9ef21c8f63f6214ea4d0bea443f1bd3b93db4d08a39c615f9fa2dab66e",
+      "bytes": 1291
+    },
+    {
+      "path": "src/dfChemistryModel/loadBalancing/runtime_assert.H",
+      "git_blob_sha": "5ad1bd185cf24616652fb2a12bb16f8903a6aa0a",
+      "sha256": "b3a4b665b114579724839ba4a0d6c9febb4754690e6a896f1655893322acd6e3",
+      "bytes": 1745
+    },
+    {
+      "path": "src/dfChemistryModel/makeDfChemistryModels.C",
+      "git_blob_sha": "d503a768053c84ca61194c46510b62a8d857a12f",
+      "sha256": "f2840f85692868554b5cc8468e4ebba5a8e0d522a970f1de22be502eb87571d4",
+      "bytes": 2760
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/CollidingCloud/CollidingCloud.C",
+      "git_blob_sha": "cd6a8db590f841354b2853685a275bc9083c1a49",
+      "sha256": "602cd250fa7110ced1dec056734c749a344fa7343649da6c4cae222b91141397",
+      "bytes": 6153
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/CollidingCloud/CollidingCloud.H",
+      "git_blob_sha": "1d85f2eac0a70e92f7fbcf503a5fbd465edd7b29",
+      "sha256": "77866e758dbf71fe384d9605b578071a9fa98adb26dd7ef0e854e7612f963bb6",
+      "bytes": 6842
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/CollidingCloud/CollidingCloudI.H",
+      "git_blob_sha": "23c18c0d39da1aa2ae58e5057f5c234473253c6a",
+      "sha256": "fe10216f2a09cd39022970f093c782b5aebef9e299d546a51556a4f80fe1afc0",
+      "bytes": 2467
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/KinematicCloud/KinematicCloud.C",
+      "git_blob_sha": "5b2015c44ac60f0ce3567f85c2dab2419969cd93",
+      "sha256": "018343ec3ab3f327d2598b5df0ac231d79f7431b8c2e372ec1725e15a63c720e",
+      "bytes": 18898
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/KinematicCloud/KinematicCloud.H",
+      "git_blob_sha": "c2b68580a53535b54e1bcc250e15c661d9395adc",
+      "sha256": "28581ff4ff2bdde06017d30d39dfa30d2a7969c7443fd277271eeefac0c59c18",
+      "bytes": 18855
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/KinematicCloud/KinematicCloudI.H",
+      "git_blob_sha": "5628b853e1eb295a265f74e66bcf08af3e3fcfb2",
+      "sha256": "9cfe29183e03ff0fb44f6da536a80e273561d3e550efbbe28f74d27cbdf779ed",
+      "bytes": 13151
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/KinematicCloud/cloudSolution/cloudSolution.C",
+      "git_blob_sha": "76b378e505ffe0e1b39fb48d1764140ec6e140de",
+      "sha256": "30d92f34911c8063d1b0f99307034df1e857809ab3af4e1680d0f33d19ce29bc",
+      "bytes": 6501
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/KinematicCloud/cloudSolution/cloudSolution.H",
+      "git_blob_sha": "2a0fed1435addd4443853243c39db1ef269682c6",
+      "sha256": "2134ddd2647c0faff712682ea47a27cd91aad9e76dc9427cf3bc4a32394bda61",
+      "bytes": 6750
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/KinematicCloud/cloudSolution/cloudSolutionI.H",
+      "git_blob_sha": "b5b447862a8fa9627eefb371603c19061519b330",
+      "sha256": "8e5308916b8e1a5e50240302571f16275e84ad54018ffe4a52aca91adc7d483e",
+      "bytes": 3038
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/MPPICCloud/MPPICCloud.C",
+      "git_blob_sha": "57bc36d36e83e22dd4c2ce3f2832f534824f9751",
+      "sha256": "814cdb00ac9673879b7289dcca6d934b86299123fad23cb8af44ef61fe663fad",
+      "bytes": 7872
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/MPPICCloud/MPPICCloud.H",
+      "git_blob_sha": "ca21cc864599fc95a61cb8e961c8554799da1d89",
+      "sha256": "7247ec81331c35df35fb58fb0bf87f71d6a724ed2c05e5c15393696f02a033f2",
+      "bytes": 6748
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/MPPICCloud/MPPICCloudI.H",
+      "git_blob_sha": "7a168356cd32ba0fc59990c96eece20d1417c9ae",
+      "sha256": "9248eaf124f8291b205ccab714306b9c0de38bb8bda324dfb4630be8c0f64744",
+      "bytes": 2501
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingCloud/ReactingCloud.C",
+      "git_blob_sha": "327a5d3dcb6e6db8f15b0c3c24e34e5ab63cefb0",
+      "sha256": "4be72040ad3afadbba9cc2c5e3ef50480ab788f668eddd1b384745642d3b11dd",
+      "bytes": 8636
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingCloud/ReactingCloud.H",
+      "git_blob_sha": "82dbed58114d788fc494f032a2a7100ccd7e5880",
+      "sha256": "efc0115b6e3c6456b5be329918b87f9a70fa104c54801f382a69d0cfbeea9f97",
+      "bytes": 9571
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingCloud/ReactingCloudI.H",
+      "git_blob_sha": "409eabe2063b3abc67a9af05e044d5ba90cc0d3d",
+      "sha256": "2057a9f5b9116f8253c0fc4a4ef2619e52de22d588deda1aade9b939d73c345e",
+      "bytes": 6865
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingMultiphaseCloud/ReactingMultiphaseCloud.C",
+      "git_blob_sha": "ece700ddc06dd5ba052665bbd60c914cda097beb",
+      "sha256": "d874a968a9f75647012d6edb2e1f383680f5ce31d741a9dce2bdde1429c3f6dd",
+      "bytes": 7365
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingMultiphaseCloud/ReactingMultiphaseCloud.H",
+      "git_blob_sha": "d6a265bffddd7c1ae3181309429929d7502b8606",
+      "sha256": "8d4f7bb2baf10ccf8d40c49abd90dbb35a2cb271a227a1bc6f5faed44cc122d7",
+      "bytes": 8741
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ReactingMultiphaseCloud/ReactingMultiphaseCloudI.H",
+      "git_blob_sha": "64eb3742c677e333097adbb93c1f964f714ed3f0",
+      "sha256": "f0930b25431d679aa4348d4b38c058514c118e36b8a2234641bd25a55de1d0a3",
+      "bytes": 2755
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ThermoCloud/ThermoCloud.C",
+      "git_blob_sha": "ddfd851c1c76216476224a0a8f686d1323056793",
+      "sha256": "f2836fe4ad1a8bdd521d9cfed3b4605cf3588989c6f067aa75f1e0656f960750",
+      "bytes": 11796
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ThermoCloud/ThermoCloud.H",
+      "git_blob_sha": "f36264c43370f2d4bab4b3d337a3776aff251d9d",
+      "sha256": "d65cfc6890712f63bbd0dac3265ed09aa4a7002252912cd4b70adcfe98fed787",
+      "bytes": 11213
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/Templates/ThermoCloud/ThermoCloudI.H",
+      "git_blob_sha": "fda4a3beffba8a28244cba9e5524de3a9bc7bde8",
+      "sha256": "2e6e32aeab7f951c9beabe963f5708d63f4da7a63407d81108c23af007a27fdf",
+      "bytes": 9600
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/kinematicCloud/kinematicCloud.C",
+      "git_blob_sha": "c294cf29624fa1ab8dc44cd0aea00efac8bbcaeb",
+      "sha256": "40a2b4a95d5fa2d6e17ef19a893b2ef17e30cdf813c3eb95c2864a05ff5c3b97",
+      "bytes": 1698
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/kinematicCloud/kinematicCloud.H",
+      "git_blob_sha": "c08ebb30f510242331fe2a694d8711b3b8e91fd1",
+      "sha256": "062827374d00c167318a3dc46bc628fafb277592b4432df333e2491b14766976",
+      "bytes": 3898
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/reactingCloud/reactingCloud.C",
+      "git_blob_sha": "ffd860452d5ca6bc1814b90f7e2990b25882b828",
+      "sha256": "4ada1eb71d8f4d8d5494f40c061ef260eefa52a4e7ed115e4befe0fffd28d0a8",
+      "bytes": 1692
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/reactingCloud/reactingCloud.H",
+      "git_blob_sha": "ed571fdfa27af0083a5e4f93b4d26c0263aab188",
+      "sha256": "be682e825afb6b6ac1f3a68f5232809f54168519e99d41f4e12a23cdbb721b75",
+      "bytes": 2455
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/reactingMultiphaseCloud/reactingMultiphaseCloud.C",
+      "git_blob_sha": "0939764a05867437c22a309dd82d0e43c47d8fe4",
+      "sha256": "755bc3a9c8f54b2e73491ff9880536d5a444fd06f86baccdec2eea5f78140c7b",
+      "bytes": 1752
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/reactingMultiphaseCloud/reactingMultiphaseCloud.H",
+      "git_blob_sha": "f3528b17dd962f6b6b0b53e5a8e6b8135a37a720",
+      "sha256": "516fe0520782448ddd3e59322c92a107351d9c2fffccce6283a0396f7f2b2b73",
+      "bytes": 2580
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/thermoCloud/thermoCloud.C",
+      "git_blob_sha": "7e6e04b0ccffef508739835e15efa747ac934718",
+      "sha256": "e0416cc48f49411a72730bbf160121cb6b416a0845f2789b371df92867ff8e26",
+      "bytes": 1680
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/baseClasses/thermoCloud/thermoCloud.H",
+      "git_blob_sha": "5cdfbd6dbd0f69cfb40b10a10d82e9b0a563f5e9",
+      "sha256": "8b2f6189dd53c37b8d4da5c87c99b3c4aa855889b917e7f425e8edf32b813941",
+      "bytes": 2795
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicKinematicCloud/basicKinematicCloud.H",
+      "git_blob_sha": "09e11e65bf2d7e7305e3749afd43a6e85ed37672",
+      "sha256": "59267d07f7b865ac54f393bca71ce808beaf78ffa17fe9b574dca3b938981767",
+      "bytes": 1776
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicKinematicCollidingCloud/basicKinematicCollidingCloud.H",
+      "git_blob_sha": "2095b2080e8fad73e08b0d7db8493a0cf4ddb160",
+      "sha256": "2c72587762fddfba61c157b7b52a2a513dc365f6c3327dd28ca60a41556437bb",
+      "bytes": 1977
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicKinematicMPPICCloud/basicKinematicMPPICCloud.H",
+      "git_blob_sha": "bfc50065a5ab8935a83850696cce0f9ac9fd9434",
+      "sha256": "48c5c71175c93d1594f5ee9fa29175cd5a8a523e612679b16f48bdba35ee9e98",
+      "bytes": 1941
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicReactingCloud/basicReactingCloud.H",
+      "git_blob_sha": "4b73e74d6e59ce3ea1f80cdd2523112bdfb16588",
+      "sha256": "c75d1d3de437aa19a5f0465471bcf55b0a5bd1e5e272695545aa628742ccf139",
+      "bytes": 1997
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicReactingMultiphaseCloud/basicReactingMultiphaseCloud.H",
+      "git_blob_sha": "e1a3cf08338650fe00ba17c9593080b5aebc176f",
+      "sha256": "1266b654ddef5b6e0a492197c2176019070a513e6ee07a21b3bb7a449503a483",
+      "bytes": 2198
+    },
+    {
+      "path": "src/lagrangian/intermediate/clouds/derived/basicThermoCloud/basicThermoCloud.H",
+      "git_blob_sha": "6c6e6938c459061bf273d430ba3b47a73e38ddd8",
+      "sha256": "879d0321895b7fea795bc8de9a35b520ec112c4286eb1459b990ec495ef6d48d",
+      "bytes": 1846
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollidingParcel.C",
+      "git_blob_sha": "47c638854c80bc742502a0ac8b7879ed16f63a6c",
+      "sha256": "f01d9de0598bc824fa4b19c69d25170ed92bbe283e207a1e3f5efef0ec221f21",
+      "bytes": 3810
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollidingParcel.H",
+      "git_blob_sha": "e3d7d813999bba2fbdf4f300a48b925b52e83973",
+      "sha256": "397e2d10fee47e26e50b7e9eec64ba2c917e436e439975f4cae58c67d17a57ca",
+      "bytes": 9689
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollidingParcelI.H",
+      "git_blob_sha": "4ae9546c4f6a00174037b03f45133ff91bb27072",
+      "sha256": "e8e130c88bd218c7a4f7fc89cb115d0bc11e4268c1ab36bec72450ddba3816a5",
+      "bytes": 5355
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollidingParcelIO.C",
+      "git_blob_sha": "dce7cf648abaa9d5ed20a5b9a5b9f4196bb15fc7",
+      "sha256": "56a3cee6a95a5e05c53445db1bd44aafd33340bc1a3e0de693e9de7b3505ae0a",
+      "bytes": 9310
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/CollisionRecordList.C",
+      "git_blob_sha": "f72eefdb00abce7498261291323677131e0d44a8",
+      "sha256": "4f12ea027a78654e3e841280e0a54e36e39d1a2f597b2d03582ef593568a4cb9",
+      "bytes": 10576
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/CollisionRecordList.H",
+      "git_blob_sha": "7748c5f6db4d9031524d3e750e0a0295287e7e58",
+      "sha256": "e58fbd01078b2c91d4ae88f8d74866dbaaa0e51e3ab7c71304de5d66a94fee06",
+      "bytes": 7913
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/CollisionRecordListI.H",
+      "git_blob_sha": "7ba8cff862508a132982561212656cd0768da57a",
+      "sha256": "f4bafc48e7adfc3924cb92ed82b00ac08785ddfb33c36e5872c9f5675ab82554",
+      "bytes": 1915
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/PairCollisionRecord/PairCollisionRecord.C",
+      "git_blob_sha": "629a480fba2dfaf99b37f1e2d7d406bdec0bf571",
+      "sha256": "1ee83c14a71bcbc23ee547ba93f38c48f3e7f1fe030bf09fe716df7dd92937f1",
+      "bytes": 2934
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/PairCollisionRecord/PairCollisionRecord.H",
+      "git_blob_sha": "c0efe359ca582e975d5564a46498c548e4a3b95f",
+      "sha256": "fa845496b4c7de0653877dcf2e757bdb440f025776f39d41bc471b4b12f592c1",
+      "bytes": 5782
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/PairCollisionRecord/PairCollisionRecordI.H",
+      "git_blob_sha": "94385cfdffe2cd5f11ae6ace789ac3e6e93cde4c",
+      "sha256": "b7a673c04131105d6029c08eeaa123fdf656211cb47f27f4e8a455c718dd94cb",
+      "bytes": 3032
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/PairCollisionRecord/PairCollisionRecordIO.C",
+      "git_blob_sha": "06670105fec54ce3577fd55722d199209a1042c2",
+      "sha256": "cf2059676ea9a1c890fdfd2e391c1ab883a61db0a73b04e94da8283d7242737d",
+      "bytes": 2570
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/WallCollisionRecord/WallCollisionRecord.C",
+      "git_blob_sha": "8b813f14bf359b1bbf3043a3a1788c983e4d7f4f",
+      "sha256": "cb991a861f3c416a71b61d321582dc210ee2ece618bae0038b293b1a28a51c56",
+      "bytes": 2846
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/WallCollisionRecord/WallCollisionRecord.H",
+      "git_blob_sha": "917dce902c151d4da124bf8a830631b46d082351",
+      "sha256": "3e289395c485bd73ad19e9a30635c6118e2a0dc9d5be0e638ea96eef9aa5d687",
+      "bytes": 5444
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/WallCollisionRecord/WallCollisionRecordI.H",
+      "git_blob_sha": "0d62e5044f75303991b999b142ef421f8a4cb71b",
+      "sha256": "d26675dcdc07795bbfbac0298dd037a0c4773c1667b32d55c033de64c305c4a3",
+      "bytes": 3720
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/WallCollisionRecord/WallCollisionRecordIO.C",
+      "git_blob_sha": "a6185a41744178c8a6d3be5f9addd58af2a673ba",
+      "sha256": "1400b77bfcadc3fee7963b8f00c270aa65d0742de911be91d850cd62c16c644e",
+      "bytes": 2500
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/KinematicParcel/KinematicParcel.C",
+      "git_blob_sha": "115f2f1aefe1c9b13d9cab8f953273d01bc1c222",
+      "sha256": "9ff0c69859daf48aa8b1726589b76e837f528583e388c2492f47661f006b775a",
+      "bytes": 12258
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/KinematicParcel/KinematicParcel.H",
+      "git_blob_sha": "ff345d56d08fb3f3b150c61e6d3f3b057b4c09d5",
+      "sha256": "b3a2073fe971085408fa88ab45f2ed8c89f1d4cedd72860029dec69c99ece843",
+      "bytes": 18960
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/KinematicParcel/KinematicParcelI.H",
+      "git_blob_sha": "e8a1e29eba09f9e60300f1c6c4022cddd1e2f256",
+      "sha256": "9205b9dc6d2cae154da2513f22896950802234be593f010e94ff8b53672c7059",
+      "bytes": 9809
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/KinematicParcel/KinematicParcelIO.C",
+      "git_blob_sha": "a575e9daf3e4cb6f0694a678cc96f07e15827079",
+      "sha256": "f43a1823c70ebe7a828d456e4a085347ba8db55cc784194efa4d3a0e84c6bcc3",
+      "bytes": 7720
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/KinematicParcel/KinematicParcelTrackingDataI.H",
+      "git_blob_sha": "bff0f27e8714cf74b129eb8c01446c7135047790",
+      "sha256": "f2dd5455c56c8820defc6246f8b87fdc0725d4856ae5733f9d47c9081d0ae262",
+      "bytes": 3857
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/MPPICParcel/MPPICParcel.C",
+      "git_blob_sha": "54d76c7647cf167ceb29c18aace54b2ed5110e43",
+      "sha256": "99faae28e4fc48dc4129bc60b3a6fde7b18bb64b3ed7e7ddcb49cc6e6c4b9aab",
+      "bytes": 3327
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/MPPICParcel/MPPICParcel.H",
+      "git_blob_sha": "804a171332a09d027c170584dea7609461503cf3",
+      "sha256": "a892ae1105e119478f1f59fc3be31496340c71d038b411919408b0bf1d09eaa6",
+      "bytes": 8521
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/MPPICParcel/MPPICParcelI.H",
+      "git_blob_sha": "e2f5c13762d02d70831987c7d1d9f5d761f88b26",
+      "sha256": "cb3990294d86087b9421a86acdfb50f771af276c1e4c43a06e8a8a86d0b5da3e",
+      "bytes": 2881
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/MPPICParcel/MPPICParcelIO.C",
+      "git_blob_sha": "8a60123f9319adbe98c942b7a103cfbf409ff821",
+      "sha256": "c4644501cb68316583fe75f58faec2fe960e849064e29b1fd28bcad9afe576cb",
+      "bytes": 4017
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/MPPICParcel/MPPICParcelTrackingDataI.H",
+      "git_blob_sha": "40fc646cbb40943a72e3a5c85141a983f70342c7",
+      "sha256": "febd7d92b79ddb35ccc9af88fe1d82d44c01427d499ea1b7d0e144c1bebc6e29",
+      "bytes": 7429
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcel/ReactingMultiphaseParcel.C",
+      "git_blob_sha": "82f494226c92a7931ed08877924c6f38d893d38d",
+      "sha256": "61d54da1320e8bbf8635bbfc61be140f63cb65dd6d4b4c0ef6d032173fa75893",
+      "bytes": 18982
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcel/ReactingMultiphaseParcel.H",
+      "git_blob_sha": "bf3803c59929c067f3455b7f69274c256c592489",
+      "sha256": "787c98a1b310b0f8c1ba6e3bad7d8d7033406bf6360dff8c328da1c096ffe3bb",
+      "bytes": 14918
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcel/ReactingMultiphaseParcelI.H",
+      "git_blob_sha": "14ee551253e97ba76cd91c9498d88f37de60b955",
+      "sha256": "4893472eb4c2402d1aa7419d8f92f344af7ce75e66e421c63dff93e05e8ecc70",
+      "bytes": 5867
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcel/ReactingMultiphaseParcelIO.C",
+      "git_blob_sha": "434d8d52c43233ff472ade17c9f38a67d881b3ac",
+      "sha256": "af551706323582c798414a6639de31712d7e866587e3f1e876aa8448ce54c38b",
+      "bytes": 9689
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcel/ReactingParcel.C",
+      "git_blob_sha": "c91993d66f93b14235b4569c63c66a21a667e823",
+      "sha256": "b86cada19e661bf84a3dc2f8435fe9d00b02f2a32cea748d1fdb89c59294e4e3",
+      "bytes": 15556
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcel/ReactingParcel.H",
+      "git_blob_sha": "1b74e7187afd19ea4f531b9d3aad6f9b6ed688ab",
+      "sha256": "0fcf31050b15df43e5b8a93a22743a98a70dbda9096dd05a09849aa126061221",
+      "bytes": 12079
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcel/ReactingParcelI.H",
+      "git_blob_sha": "1faed2bebe207022fc250ea269518c9e7cbe0c8b",
+      "sha256": "72b05eff4780d03b2333ea2acffee9358ecdc4524a3b86e57b80f803cd3809e9",
+      "bytes": 4465
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcel/ReactingParcelIO.C",
+      "git_blob_sha": "658f3fcfdaf2e1bfcfdbfe3991466263653dbc39",
+      "sha256": "6a180e46a1154ad7c374556f32cf3dc013680dc771c8e46ae40ac9cf8773327e",
+      "bytes": 6625
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ReactingParcel/ReactingParcelTrackingDataI.H",
+      "git_blob_sha": "72e30c885eaa1bafd3d7c7fac36c90ce52d2dafc",
+      "sha256": "2268c851c7a21b7ce7cf6a45c1fe566bae6f53180915431e23be73d098e4814b",
+      "bytes": 2090
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcel/ThermoParcel.C",
+      "git_blob_sha": "c48d304d20078c18cd458d6e811e4db4e4be321b",
+      "sha256": "74ecb1e367323b76a9c07eef5ae9d222a771ca7f37385e79f1e4cc91cd65e116",
+      "bytes": 8824
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcel/ThermoParcel.H",
+      "git_blob_sha": "702630b553adb9e113a3bb0c64b231d46efca052",
+      "sha256": "2d1b7ab913381355934e7e2f169a81213dd6051522ca28e5c67a5c822b51ac66",
+      "bytes": 13705
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcel/ThermoParcelI.H",
+      "git_blob_sha": "86fb0155616ae04b192a123ce0097a1615df4a20",
+      "sha256": "4fe1643a3b546a0b82d29c2e19afd0c39a0f865d8a70831952014f49a14a31de",
+      "bytes": 5454
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcel/ThermoParcelIO.C",
+      "git_blob_sha": "3785eeef47fe5e8db344611dcff63b661aea8169",
+      "sha256": "6a2f63eb46873f8c64b89afb9ccee99de3c68a5c3bc27dae69ed21819f61e886",
+      "bytes": 4315
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/Templates/ThermoParcel/ThermoParcelTrackingDataI.H",
+      "git_blob_sha": "6b2ed839637edfb73c7101db2948fa81db35b626",
+      "sha256": "d86a93efac3d49ad4e2aa256c65a12de35b291f1212f6afb7c3dd6ea488ed0f8",
+      "bytes": 4043
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicKinematicCollidingParcel/basicKinematicCollidingParcel.H",
+      "git_blob_sha": "22f5a7a89c34ac0daf54448f753cce5cd799d861",
+      "sha256": "d6961d8b1ecd46674e6e92419e905936a302c00416d05d612a7d568e6da3cf87",
+      "bytes": 1999
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicKinematicCollidingParcel/defineBasicKinematicCollidingParcel.C",
+      "git_blob_sha": "eb59372de58c0860bfcfbad26cb68dc026b27408",
+      "sha256": "caee0ba1529b7d247c684896cfcfa857dd7e6fa41af26baaccfd8d0a11f72358",
+      "bytes": 1581
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicKinematicCollidingParcel/makeBasicKinematicCollidingParcelSubmodels.C",
+      "git_blob_sha": "f28e09a998bc607c9bf740238d0708e5a93e589b",
+      "sha256": "0e4e8a4f0aa22f1f3b920b2c279cac851f7d164529e01467178172198cf05c1e",
+      "bytes": 2235
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicKinematicMPPICParcel/basicKinematicMPPICParcel.H",
+      "git_blob_sha": "d4db1b0cf4cacd280f6a33709c8769499b9278bc",
+      "sha256": "6e17d28b82f6edc8dfae3fa3cea97d40855ae38298b51eb9f6f21f967a2ccdf8",
+      "bytes": 1964
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicKinematicMPPICParcel/defineBasicKinematicMPPICParcel.C",
+      "git_blob_sha": "a6f2986d72261f85cf94d0676f982fbc71c7045b",
+      "sha256": "1ded522ce5f393417cbb290afcd0eaedc947df88cafc3bd21720a5ec6d5773f6",
+      "bytes": 1569
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicKinematicMPPICParcel/makeBasicKinematicMPPICParcelSubmodels.C",
+      "git_blob_sha": "1fc136df4a439560dc382bd4a20be162da54ddc0",
+      "sha256": "2241e7be15d45e14dd7b508ffbc77b218e38f0b5000430e0ce0f0982d5c6234b",
+      "bytes": 2457
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicKinematicParcel/basicKinematicParcel.H",
+      "git_blob_sha": "23ae08365d3c0447c38f334030128f0e65ccf48f",
+      "sha256": "373aa0055ad687dd978b208287db43c8c744eb9bbf3c3241e57a35a5bf2fe7cf",
+      "bytes": 1890
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicKinematicParcel/defineBasicKinematicParcel.C",
+      "git_blob_sha": "29f3eabd48eea68790e14bbda5380c1945c7f94a",
+      "sha256": "43a0bf71b1d48f162a64ccb67bb969226b20e901147cd5f08867cb61d3a1b9f0",
+      "bytes": 1554
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicKinematicParcel/makeBasicKinematicParcelSubmodels.C",
+      "git_blob_sha": "d95aaa23878acccb09ede7e01e21cc4d059ce5f8",
+      "sha256": "06c499da6f0d8ffed1460d5945fddfe6037a0f7b23e06ece5414a1c9f3ee3b71",
+      "bytes": 2067
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingMultiphaseParcel/basicReactingMultiphaseParcel.H",
+      "git_blob_sha": "4a6dead0a496012a1994022f758e8e44e4e063be",
+      "sha256": "81adffe3544d5da4daaa1c725b8d0c1e558a5a1b7f1a6b7fa7e8aaed9b516d1a",
+      "bytes": 2279
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingMultiphaseParcel/defineBasicReactingMultiphaseParcel.C",
+      "git_blob_sha": "9333ee2930adbb49b1d58798691db6adb9577c1a",
+      "sha256": "a8e104ad461b50c00d21f61a32e4efa0f20d34250d6dd534a7db1920de28fc5f",
+      "bytes": 1581
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingMultiphaseParcel/makeBasicReactingMultiphaseParcelSubmodels.C",
+      "git_blob_sha": "3bc51aff7c987590df5dc36e57ff13b1a341cf14",
+      "sha256": "054f513f521b357a6db1240848381626bed09a2fc7cfd6438beab86993bccef2",
+      "bytes": 3097
+    },
+    {
+      "path": "src/lagrangian/intermediate/parcels/derived/basicReactingParcel/basicReactingParcel.H",
+      "git_blob_sha": "46af2bf85c0a7e5c01286ea3ae7d7260bdfe3726",
+      "sha256": "c66a9bdc966bc8611064ed519ae96ff98c91ab05f4b089e494eb26cb265e2391",
+      "bytes": 1976
+    }
+  ],
+  "excluded_paths": [
+    ".gitignore",
+    "Allwmake",
+    "applications",
+    "applications/solvers",
+    "applications/solvers/df0DFoam",
+    "applications/solvers/df0DFoam/Make",
+    "applications/solvers/df0DFoam/Make/files",
+    "applications/solvers/df0DFoam/Make/options",
+    "applications/solvers/dfHighSpeedFoam",
+    "applications/solvers/dfHighSpeedFoam/Make",
+    "applications/solvers/dfHighSpeedFoam/Make/files",
+    "applications/solvers/dfHighSpeedFoam/Make/options",
+    "applications/solvers/dfLowMachFoam",
+    "applications/solvers/dfLowMachFoam/Make",
+    "applications/solvers/dfLowMachFoam/Make/files",
+    "applications/solvers/dfLowMachFoam/Make/options",
+    "applications/solvers/dfSprayFoam",
+    "applications/solvers/dfSprayFoam/Make",
+    "applications/solvers/dfSprayFoam/Make/files",
+    "applications/solvers/dfSprayFoam/Make/options",
+    "applications/utilities",
+    "applications/utilities/flameSpeed",
+    "applications/utilities/flameSpeed/Make",
+    "applications/utilities/flameSpeed/Make/files",
+    "applications/utilities/flameSpeed/Make/options",
+    "bashrc.raw",
+    "doc",
+    "doc/detonation.png",
+    "doc/ignition.png",
+    "examples",
+    "examples/df0DFoam",
+    "examples/df0DFoam/zeroD_cubicReactor",
+    "examples/df0DFoam/zeroD_cubicReactor/H2",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/0",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/0/H2.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/0/N2.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/0/O2.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/0/T.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/0/U.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/0/Ydefault.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/0/alphat.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/0/p.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/Allclean",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/Allrun",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/constant",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/constant/CanteraTorchProperties",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/constant/thermophysicalProperties",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/constant/turbulenceProperties",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/system",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/system/blockMeshDict",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/system/controlDict",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/system/fvSchemes",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/system/fvSolution",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/cvodeSolver/system/probes",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/0",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/0/H2.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/0/N2.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/0/O2.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/0/T.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/0/U.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/0/Ydefault.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/0/alphat.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/0/p.gz",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/Allclean",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/Allrun",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/constant",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/constant/CanteraTorchProperties",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/constant/thermophysicalProperties",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/constant/turbulenceProperties",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/system",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/system/blockMeshDict",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/system/controlDict",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/system/fvSchemes",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/system/fvSolution",
+    "examples/df0DFoam/zeroD_cubicReactor/H2/torchSolver/system/probes",
+    "examples/dfHighSpeedFoam",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/0_orig",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/0_orig/H2.gz",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/0_orig/N2.gz",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/0_orig/O2.gz",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/0_orig/T.orig.gz",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/0_orig/U.orig.gz",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/0_orig/Ydefault.gz",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/0_orig/p.orig.gz",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/Allclean",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/Allrun",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/H2_Li.xml",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/constant",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/constant/CanteraTorchProperties",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/constant/thermophysicalProperties",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/constant/turbulenceProperties",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/system",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/system/blockMeshDict",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/system/controlDict",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/system/decomposeParDict",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/system/fvSchemes",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/system/fvSolution",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/system/sample",
+    "examples/dfHighSpeedFoam/det_1D_H2_01mm/system/setFieldsDict",
+    "examples/dfLowMachFoam",
+    "examples/dfLowMachFoam/oneD_freelyPropagation",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/AR.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/H.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/H2.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/H2O.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/N2.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/O.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/O2.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/OH.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/T.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/U.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/0/p.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/Allclean",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/Allrun",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/constant",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/constant/CanteraTorchProperties",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/constant/thermophysicalProperties",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/constant/turbulenceProperties",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/system",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/system/blockMeshDict",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/system/controlDict",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/system/decomposeParDict",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/system/fvSchemes",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/cvodeSolver/system/fvSolution",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/AR.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/H.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/H2.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/H2O.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/N2.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/O.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/O2.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/OH.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/T.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/U.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/0/p.gz",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/Allclean",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/Allrun",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/constant",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/constant/CanteraTorchProperties",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/constant/thermophysicalProperties",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/constant/turbulenceProperties",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/system",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/system/blockMeshDict",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/system/controlDict",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/system/decomposeParDict",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/system/fvSchemes",
+    "examples/dfLowMachFoam/oneD_freelyPropagation/H2/torchSolver/system/fvSolution",
+    "examples/dfLowMachFoam/threeD_reactingTGV",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/.DS_Store",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/H.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/H2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/H2O.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/H2O2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/HO2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/N2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/O.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/O2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/OH.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/T.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/U.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/0/p.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/Allclean",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/Allrun",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/constant",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/constant/CanteraTorchProperties",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/constant/thermophysicalProperties",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/constant/turbulenceProperties",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/system",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/system/blockMeshDict",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/system/controlDict",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/system/decomposeParDict",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/system/funkySetFieldsDict",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/system/fvSchemes",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/cvodeSolver/system/fvSolution",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/.DS_Store",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/H.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/H2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/H2O.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/H2O2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/HO2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/N2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/O.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/O2.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/OH.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/T.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/U.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/0/p.gz",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/Allclean",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/Allrun",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/constant",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/constant/CanteraTorchProperties",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/constant/thermophysicalProperties",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/constant/turbulenceProperties",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/system",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/system/blockMeshDict",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/system/controlDict",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/system/decomposeParDict",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/system/funkySetFieldsDict",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/system/fvSchemes",
+    "examples/dfLowMachFoam/threeD_reactingTGV/H2/torchSolver/system/fvSolution",
+    "examples/dfLowMachFoam/twoD_tripleFlame",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/0",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/0/H2.gz",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/0/N2.gz",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/0/O2.gz",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/0/T.gz",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/0/U.gz",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/0/Ydefault.gz",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/0/p.gz",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/Allclean",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/Allrun",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/constant",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/constant/CanteraTorchProperties",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/constant/thermophysicalProperties",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/constant/turbulenceProperties",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/system",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/system/blockMeshDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/system/controlDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/system/decomposeParDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/system/funkySetBoundaryDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/system/funkySetFieldsDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/system/fvSchemes",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/cvodeSolver/system/fvSolution",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/0",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/0/H2",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/0/N2",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/0/O2",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/0/T",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/0/U",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/0/Ydefault",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/0/p",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/Allclean",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/Allrun",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/constant",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/constant/CanteraTorchProperties",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/constant/thermophysicalProperties",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/constant/turbulenceProperties",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/system",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/system/blockMeshDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/system/controlDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/system/decomposeParDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/system/funkySetBoundaryDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/system/funkySetFieldsDict",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/system/fvSchemes",
+    "examples/dfLowMachFoam/twoD_tripleFlame/H2/torchSolver/system/fvSolution",
+    "examples/dfSprayFoam",
+    "examples/dfSprayFoam/aachenBomb",
+    "examples/dfSprayFoam/aachenBomb/0",
+    "examples/dfSprayFoam/aachenBomb/0/N2",
+    "examples/dfSprayFoam/aachenBomb/0/O2",
+    "examples/dfSprayFoam/aachenBomb/0/T",
+    "examples/dfSprayFoam/aachenBomb/0/U",
+    "examples/dfSprayFoam/aachenBomb/0/Ydefault",
+    "examples/dfSprayFoam/aachenBomb/0/alphat",
+    "examples/dfSprayFoam/aachenBomb/0/epsilon",
+    "examples/dfSprayFoam/aachenBomb/0/k",
+    "examples/dfSprayFoam/aachenBomb/0/nut",
+    "examples/dfSprayFoam/aachenBomb/0/p",
+    "examples/dfSprayFoam/aachenBomb/Allclean",
+    "examples/dfSprayFoam/aachenBomb/Allrun",
+    "examples/dfSprayFoam/aachenBomb/constant",
+    "examples/dfSprayFoam/aachenBomb/constant/CanteraTorchProperties",
+    "examples/dfSprayFoam/aachenBomb/constant/g",
+    "examples/dfSprayFoam/aachenBomb/constant/sprayCloudProperties",
+    "examples/dfSprayFoam/aachenBomb/constant/thermophysicalProperties",
+    "examples/dfSprayFoam/aachenBomb/constant/turbulenceProperties",
+    "examples/dfSprayFoam/aachenBomb/system",
+    "examples/dfSprayFoam/aachenBomb/system/blockMeshDict",
+    "examples/dfSprayFoam/aachenBomb/system/controlDict",
+    "examples/dfSprayFoam/aachenBomb/system/decomposeParDict",
+    "examples/dfSprayFoam/aachenBomb/system/fvSchemes",
+    "examples/dfSprayFoam/aachenBomb/system/fvSolution",
+    "install.sh",
+    "src",
+    "src/CanteraMixture",
+    "src/CanteraMixture/Make",
+    "src/CanteraMixture/Make/files",
+    "src/CanteraMixture/Make/options",
+    "src/TurbulenceModels",
+    "src/TurbulenceModels/compressible",
+    "src/TurbulenceModels/compressible/Make",
+    "src/TurbulenceModels/compressible/Make/files",
+    "src/TurbulenceModels/compressible/Make/options",
+    "src/design.UML",
+    "src/design.svg",
+    "src/dfChemistryModel",
+    "src/dfChemistryModel/Make",
+    "src/dfChemistryModel/Make/files",
+    "src/dfChemistryModel/Make/options",
+    "src/dfChemistryModel/loadBalancing",
+    "src/lagrangian",
+    "src/lagrangian/Allwmake",
+    "src/lagrangian/intermediate",
+    "src/lagrangian/intermediate/Make",
+    "src/lagrangian/intermediate/Make/files",
+    "src/lagrangian/intermediate/Make/options",
+    "src/lagrangian/intermediate/clouds",
+    "src/lagrangian/intermediate/clouds/Templates",
+    "src/lagrangian/intermediate/clouds/Templates/CollidingCloud",
+    "src/lagrangian/intermediate/clouds/Templates/KinematicCloud",
+    "src/lagrangian/intermediate/clouds/Templates/KinematicCloud/cloudSolution",
+    "src/lagrangian/intermediate/clouds/Templates/MPPICCloud",
+    "src/lagrangian/intermediate/clouds/Templates/ReactingCloud",
+    "src/lagrangian/intermediate/clouds/Templates/ReactingMultiphaseCloud",
+    "src/lagrangian/intermediate/clouds/Templates/ThermoCloud",
+    "src/lagrangian/intermediate/clouds/baseClasses",
+    "src/lagrangian/intermediate/clouds/baseClasses/kinematicCloud",
+    "src/lagrangian/intermediate/clouds/baseClasses/reactingCloud",
+    "src/lagrangian/intermediate/clouds/baseClasses/reactingMultiphaseCloud",
+    "src/lagrangian/intermediate/clouds/baseClasses/thermoCloud",
+    "src/lagrangian/intermediate/clouds/derived",
+    "src/lagrangian/intermediate/clouds/derived/basicKinematicCloud",
+    "src/lagrangian/intermediate/clouds/derived/basicKinematicCollidingCloud",
+    "src/lagrangian/intermediate/clouds/derived/basicKinematicMPPICCloud",
+    "src/lagrangian/intermediate/clouds/derived/basicReactingCloud",
+    "src/lagrangian/intermediate/clouds/derived/basicReactingMultiphaseCloud",
+    "src/lagrangian/intermediate/clouds/derived/basicThermoCloud",
+    "src/lagrangian/intermediate/parcels",
+    "src/lagrangian/intermediate/parcels/Templates",
+    "src/lagrangian/intermediate/parcels/Templates/CollidingParcel",
+    "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList",
+    "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/PairCollisionRecord",
+    "src/lagrangian/intermediate/parcels/Templates/CollidingParcel/CollisionRecordList/WallCollisionRecord",
+    "src/lagrangian/intermediate/parcels/Templates/KinematicParcel",
+    "src/lagrangian/intermediate/parcels/Templates/MPPICParcel",
+    "src/lagrangian/intermediate/parcels/Templates/ReactingMultiphaseParcel",
+    "src/lagrangian/intermediate/parcels/Templates/ReactingParcel",
+    "src/lagrangian/intermediate/parcels/Templates/ThermoParcel",
+    "src/lagrangian/intermediate/parcels/derived",
+    "src/lagrangian/intermediate/parcels/derived/basicKinematicCollidingParcel",
+    "src/lagrangian/intermediate/parcels/derived/basicKinematicMPPICParcel",
+    "src/lagrangian/intermediate/parcels/derived/basicKinematicParcel",
+    "src/lagrangian/intermediate/parcels/derived/basicReactingMultiphaseParcel",
+    "src/lagrangian/intermediate/parcels/derived/basicReactingParcel",
+    "src/lagrangian/intermediate/parcels/derived/basicReactingParcel/defineBasicReactingParcel.C",
+    "src/lagrangian/intermediate/parcels/derived/basicReactingParcel/makeBasicReactingParcelSubmodels.C",
+    "src/lagrangian/intermediate/parcels/derived/basicThermoParcel",
+    "src/lagrangian/intermediate/parcels/derived/basicThermoParcel/basicThermoParcel.H",
+    "src/lagrangian/intermediate/parcels/derived/basicThermoParcel/defineBasicThermoParcel.C",
+    "src/lagrangian/intermediate/parcels/derived/basicThermoParcel/makeBasicThermoParcelSubmodels.C",
+    "src/lagrangian/intermediate/parcels/include",
+    "src/lagrangian/intermediate/parcels/include/makeMPPICParcelDampingModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeMPPICParcelIsotropyModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeMPPICParcelPackingModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeParcelCloudFunctionObjects.H",
+    "src/lagrangian/intermediate/parcels/include/makeParcelCollisionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeParcelDispersionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeParcelForces.H",
+    "src/lagrangian/intermediate/parcels/include/makeParcelHeatTransferModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeParcelInjectionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeParcelPatchInteractionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeParcelStochasticCollisionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeParcelSurfaceFilmModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeReactingMultiphaseParcelCompositionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeReactingMultiphaseParcelDevolatilisationModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeReactingMultiphaseParcelInjectionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeReactingMultiphaseParcelStochasticCollisionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeReactingMultiphaseParcelSurfaceReactionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeReactingParcelCompositionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeReactingParcelInjectionModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeReactingParcelPhaseChangeModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeReactingParcelSurfaceFilmModels.H",
+    "src/lagrangian/intermediate/parcels/include/makeThermoParcelSurfaceFilmModels.H",
+    "src/lagrangian/intermediate/submodels",
+    "src/lagrangian/intermediate/submodels/Reacting",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/CompositionModel",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/CompositionModel/CompositionModel.C",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/CompositionModel/CompositionModel.H",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/CompositionModel/CompositionModelNew.C",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/NoComposition",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/NoComposition/NoComposition.C",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/NoComposition/NoComposition.H",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/SingleMixtureFraction",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/SingleMixtureFraction/SingleMixtureFraction.C",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/SingleMixtureFraction/SingleMixtureFraction.H",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/SinglePhaseMixture",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/SinglePhaseMixture/SinglePhaseMixture.C",
+    "src/lagrangian/intermediate/submodels/Reacting/CompositionModel/SinglePhaseMixture/SinglePhaseMixture.H",
+    "src/lagrangian/intermediate/submodels/Reacting/PhaseChangeModel",
+    "src/lagrangian/intermediate/submodels/Reacting/PhaseChangeModel/LiquidEvaporation",
+    "src/lagrangian/intermediate/submodels/Reacting/PhaseChangeModel/LiquidEvaporation/LiquidEvaporation.C",
+    "src/lagrangian/intermediate/submodels/Reacting/PhaseChangeModel/LiquidEvaporation/LiquidEvaporation.H",
+    "src/lagrangian/intermediate/submodels/Reacting/PhaseChangeModel/LiquidEvaporationBoil",
+    "src/lagrangian/intermediate/submodels/Reacting/PhaseChangeModel/LiquidEvaporationBoil/LiquidEvaporationBoil.C",
+    "src/lagrangian/intermediate/submodels/Reacting/PhaseChangeModel/LiquidEvaporationBoil/LiquidEvaporationBoil.H",
+    "src/lagrangian/intermediate/submodels/ReactingMultiphase",
+    "src/lagrangian/intermediate/submodels/ReactingMultiphase/DevolatilisationModel",
+    "src/lagrangian/intermediate/submodels/ReactingMultiphase/DevolatilisationModel/SingleKineticRateDevolatilisation",
+    "src/lagrangian/intermediate/submodels/ReactingMultiphase/DevolatilisationModel/SingleKineticRateDevolatilisation/SingleKineticRateDevolatilisation.C",
+    "src/lagrangian/intermediate/submodels/ReactingMultiphase/DevolatilisationModel/SingleKineticRateDevolatilisation/SingleKineticRateDevolatilisation.H",
+    "src/lagrangian/spray",
+    "src/lagrangian/spray/Make",
+    "src/lagrangian/spray/Make/files",
+    "src/lagrangian/spray/Make/options",
+    "src/lagrangian/spray/clouds",
+    "src/lagrangian/spray/clouds/Templates",
+    "src/lagrangian/spray/clouds/Templates/SprayCloud",
+    "src/lagrangian/spray/clouds/Templates/SprayCloud/SprayCloud.C",
+    "src/lagrangian/spray/clouds/Templates/SprayCloud/SprayCloud.H",
+    "src/lagrangian/spray/clouds/Templates/SprayCloud/SprayCloudI.H",
+    "src/lagrangian/spray/clouds/baseClasses",
+    "src/lagrangian/spray/clouds/baseClasses/sprayCloud",
+    "src/lagrangian/spray/clouds/baseClasses/sprayCloud/sprayCloud.C",
+    "src/lagrangian/spray/clouds/baseClasses/sprayCloud/sprayCloud.H",
+    "src/lagrangian/spray/clouds/derived",
+    "src/lagrangian/spray/clouds/derived/basicSprayCloud",
+    "src/lagrangian/spray/clouds/derived/basicSprayCloud/basicSprayCloud.H",
+    "src/lagrangian/spray/parcels",
+    "src/lagrangian/spray/parcels/Templates",
+    "src/lagrangian/spray/parcels/Templates/SprayParcel",
+    "src/lagrangian/spray/parcels/Templates/SprayParcel/SprayParcel.C",
+    "src/lagrangian/spray/parcels/Templates/SprayParcel/SprayParcel.H",
+    "src/lagrangian/spray/parcels/Templates/SprayParcel/SprayParcelI.H",
+    "src/lagrangian/spray/parcels/Templates/SprayParcel/SprayParcelIO.C",
+    "src/lagrangian/spray/parcels/derived",
+    "src/lagrangian/spray/parcels/derived/basicSprayParcel",
+    "src/lagrangian/spray/parcels/derived/basicSprayParcel/basicSprayParcel.H",
+    "src/lagrangian/spray/parcels/derived/basicSprayParcel/defineBasicSprayParcel.C",
+    "src/lagrangian/spray/parcels/derived/basicSprayParcel/makeBasicSprayParcelSubmodels.C",
+    "src/lagrangian/spray/parcels/include",
+    "src/lagrangian/spray/parcels/include/makeSprayParcelAtomizationModels.H",
+    "src/lagrangian/spray/parcels/include/makeSprayParcelBreakupModels.H",
+    "src/lagrangian/spray/parcels/include/makeSprayParcelInjectionModels.H",
+    "src/lagrangian/spray/parcels/include/makeSprayParcelStochasticCollisionModels.H",
+    "src/lagrangian/turbulence",
+    "src/lagrangian/turbulence/Make",
+    "src/lagrangian/turbulence/Make/files",
+    "src/lagrangian/turbulence/Make/options",
+    "src/regionModels",
+    "src/regionModels/surfaceFilmModels",
+    "src/regionModels/surfaceFilmModels/Make",
+    "src/regionModels/surfaceFilmModels/Make/files",
+    "src/regionModels/surfaceFilmModels/Make/options",
+    "src/thermophysicalModels",
+    "src/thermophysicalModels/SLGThermo",
+    "src/thermophysicalModels/SLGThermo/Make",
+    "src/thermophysicalModels/SLGThermo/Make/files",
+    "src/thermophysicalModels/SLGThermo/Make/options",
+    "src/thermophysicalModels/SLGThermo/SLGThermo",
+    "src/thermophysicalModels/SLGThermo/SLGThermo/SLGThermo.C",
+    "src/thermophysicalModels/SLGThermo/SLGThermo/SLGThermo.H",
+    "src/thermophysicalModels/basic",
+    "src/thermophysicalModels/basic/Make",
+    "src/thermophysicalModels/basic/Make/files",
+    "src/thermophysicalModels/basic/Make/options",
+    "src/thermophysicalModels/thermophysicalProperties",
+    "src/thermophysicalModels/thermophysicalProperties/Make",
+    "src/thermophysicalModels/thermophysicalProperties/Make/files",
+    "src/thermophysicalModels/thermophysicalProperties/Make/options",
+    "src/thermophysicalModels/thermophysicalProperties/liquidProperties",
+    "src/thermophysicalModels/thermophysicalProperties/liquidProperties/liquidMixtureProperties",
+    "src/thermophysicalModels/thermophysicalProperties/liquidProperties/liquidMixtureProperties/liquidMixtureProperties.C",
+    "src/thermophysicalModels/thermophysicalProperties/solidProperties",
+    "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidMixtureProperties",
+    "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidMixtureProperties/solidMixtureProperties.C",
+    "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidMixtureProperties/solidMixtureProperties.H",
+    "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidProperties",
+    "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidProperties/solidProperties.C",
+    "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidProperties/solidProperties.H",
+    "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidProperties/solidPropertiesI.H",
+    "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidProperties/solidPropertiesNew.C"
+  ]
+}

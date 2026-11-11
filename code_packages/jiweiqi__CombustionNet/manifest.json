@@ -1,0 +1,33 @@
+{
+  "id": "jiweiqi__CombustionNet",
+  "repository": "jiweiqi/CombustionNet",
+  "url": "https://github.com/jiweiqi/CombustionNet",
+  "commit": "8278c91da8e2cbaf9b71ec1df312113aeccf447e",
+  "retrieved_at": "2026-11-11T13:09:51.572744+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "燃烧数据资源索引，数据项各有来源与许可；不计为单篇论文实现。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/jiweiqi__CombustionNet.json",
+  "license_url": "https://raw.githubusercontent.com/jiweiqi/CombustionNet/8278c91da8e2cbaf9b71ec1df312113aeccf447e/LICENSE",
+  "license_sha256": "8ad6c471aca82a4a968331ed7aa606b68e3ddf53e64ac2241fdf56bb9cc0d35d",
+  "pinned_url": "https://github.com/jiweiqi/CombustionNet/tree/8278c91da8e2cbaf9b71ec1df312113aeccf447e",
+  "archive_url": "https://api.github.com/repos/jiweiqi/CombustionNet/tarball/8278c91da8e2cbaf9b71ec1df312113aeccf447e",
+  "readme_source": "https://raw.githubusercontent.com/jiweiqi/CombustionNet/8278c91da8e2cbaf9b71ec1df312113aeccf447e/README.md",
+  "archive": {
+    "repository": "jiweiqi/CombustionNet",
+    "commit": "8278c91da8e2cbaf9b71ec1df312113aeccf447e",
+    "source_url": "https://api.github.com/repos/jiweiqi/CombustionNet/tarball/8278c91da8e2cbaf9b71ec1df312113aeccf447e",
+    "retrieved_at": "2026-11-11T13:48:18.906504+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/jiweiqi/CombustionNet/legacy.tar.gz/8278c91da8e2cbaf9b71ec1df312113aeccf447e",
+    "status": "downloaded",
+    "path": "code_packages/jiweiqi__CombustionNet/8278c91da8e2.tar.gz",
+    "bytes": 1727,
+    "sha256": "f08e477a2472ac576497e5f4b1841793cf591faff0edef7cf9a273052f636f9e"
+  },
+  "collection_status": "source_archive_collected"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "vanshs1__ML_DetonationCells_SootFoil",
+  "repository": "vanshs1/ML_DetonationCells_SootFoil",
+  "url": "https://github.com/vanshs1/ML_DetonationCells_SootFoil",
+  "commit": "4ad20d49d657d2c5f78de4d87c77e581fb446df7",
+  "retrieved_at": "2026-11-11T13:10:17.039165+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.combustflame.2025.114026"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "LGPL-2.1 (inspect upstream terms)",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/vanshs1__ML_DetonationCells_SootFoil.json",
+  "license_url": "https://github.com/vanshs1/ML_DetonationCells_SootFoil/blob/4ad20d49d657d2c5f78de4d87c77e581fb446df7/LICENSE",
+  "license_sha256": "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331",
+  "pinned_url": "https://github.com/vanshs1/ML_DetonationCells_SootFoil/tree/4ad20d49d657d2c5f78de4d87c77e581fb446df7",
+  "archive_url": "https://api.github.com/repos/vanshs1/ML_DetonationCells_SootFoil/tarball/4ad20d49d657d2c5f78de4d87c77e581fb446df7",
+  "readme_source": "https://github.com/vanshs1/ML_DetonationCells_SootFoil/blob/4ad20d49d657d2c5f78de4d87c77e581fb446df7/README.md",
+  "archive": {
+    "repository": "vanshs1/ML_DetonationCells_SootFoil",
+    "commit": "4ad20d49d657d2c5f78de4d87c77e581fb446df7",
+    "source_url": "https://api.github.com/repos/vanshs1/ML_DetonationCells_SootFoil/tarball/4ad20d49d657d2c5f78de4d87c77e581fb446df7",
+    "retrieved_at": "2026-11-11T13:53:04.737678+00:00",
+    "license": "LGPL-2.1 (inspect upstream terms)",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/vanshs1/ML_DetonationCells_SootFoil/legacy.tar.gz/4ad20d49d657d2c5f78de4d87c77e581fb446df7",
+    "status": "not_collected",
+    "error": "archive exceeds configured byte limit; use pinned upstream download"
+  },
+  "source_snapshot": {
+    "status": "collected",
+    "collection_type": "partial_source_snapshot",
+    "repository": "vanshs1/ML_DetonationCells_SootFoil",
+    "commit": "4ad20d49d657d2c5f78de4d87c77e581fb446df7",
+    "date": "2026-11-11",
+    "path": "code_packages/vanshs1__ML_DetonationCells_SootFoil/4ad20d49d657-source-only.tar.gz",
+    "bytes": 17655,
+    "sha256": "539b0373f3a62fade20b6f8d70a1a75c29058bb92be722b82eb4a5b111df0954",
+    "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+    "files": [
+      {
+        "path": "LICENSE",
+        "git_blob_sha": "8000a6faacf471c537530805ab29523c7732e11a",
+        "sha256": "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331",
+        "bytes": 26526
+      },
+      {
+        "path": "README.md",
+        "git_blob_sha": "b8d40d49ea7de7040f30da7bc43e3f85c91d6a34",
+        "sha256": "f98e5d6482030ab4cbeb0e666ed448514afd25db32262de655217188e30367e9",
+        "bytes": 3356
+      },
+      {
+        "path": "main_sootFoilSeg.py",
+        "git_blob_sha": "f311ee2ceb87373bb41d0719853a6b88735fa0d4",
+        "sha256": "e5ed77bb248c0780f1902c5eb9bd2124502b6938b0bf4d78ceba3c3677e8324f",
+        "bytes": 4706
+      },
+      {
+        "path": "sootFoilML/__init__.py",
+        "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      {
+        "path": "sootFoilML/config.py",
+        "git_blob_sha": "c93b9d2aba0c3cb11f335c859c04562ec5dca438",
+        "sha256": "c1912b94df8fe7072d37df199ec0a197c7fde2500cae0b2e4667b537c898901b",
+        "bytes": 1715
+      },
+      {
+        "path": "sootFoilML/core.py",
+        "git_blob_sha": "ec7e5f85aaeb8c77f182e2ca8e8e5848b25528a5",
+        "sha256": "3ef39c11328de58fb3010781691ef5ef71aba757dcf4f29d21f0d1db6f158cd0",
+        "bytes": 5963
+      },
+      {
+        "path": "sootFoilML/utils.py",
+        "git_blob_sha": "5311effe71791f78affa2525091e21d74b707834",
+        "sha256": "b4a3909c229c1926c06e7d7392c29c28edd09c9b57d4125b4893c674a585fb06",
+        "bytes": 4979
+      },
+      {
+        "path": "sootFoilML/visualization.py",
+        "git_blob_sha": "abff0f0786a6b5a4a1665f23d9b3e5a63155a705",
+        "sha256": "bde984f0d9817fb5dfb7a3e3416eab12741e5b2a6eb22299b05134cd01edc785",
+        "bytes": 5383
+      }
+    ],
+    "excluded_paths": [
+      "example",
+      "example/case_10a.png",
+      "example/example_from_Sharma_et_al_CnF.png",
+      "example/output_case10a_with_preProc",
+      "example/output_case10a_with_preProc/CellArea_data.json",
+      "example/output_case10a_with_preProc/Dx_Distribution.png",
+      "example/output_case10a_with_preProc/Dx_data.json",
+      "example/output_case10a_with_preProc/Dy_Distribution.png",
+      "example/output_case10a_with_preProc/Dy_data.json",
+      "example/output_case10a_with_preProc/cAr_Distribution.png",
+      "example/output_case10a_with_preProc/image_withLinesAndCells.png",
+      "example/output_case10a_without_preProc",
+      "example/output_case10a_without_preProc/CellArea_data.json",
+      "example/output_case10a_without_preProc/Dx_Distribution.png",
+      "example/output_case10a_without_preProc/Dx_data.json",
+      "example/output_case10a_without_preProc/Dy_Distribution.png",
+      "example/output_case10a_without_preProc/Dy_data.json",
+      "example/output_case10a_without_preProc/cAr_Distribution.png",
+      "example/output_case10a_without_preProc/image_withLinesAndCells.png",
+      "package.list",
+      "sootFoilML"
+    ]
+  },
+  "collection_status": "partial_source_snapshot_collected"
+}

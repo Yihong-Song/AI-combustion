@@ -1,0 +1,74 @@
+{
+  "id": "P92264f9a97",
+  "doi": "10.1016/j.fuel.2022.125340",
+  "title": "Active learning-based exploration of the catalytic pyrolysis of plastic waste",
+  "year": 2022,
+  "journal": "Fuel",
+  "authors": [
+    "Yannick Ureel",
+    "Maarten R. Dobbelaere",
+    "Oğuzhan Akin",
+    "Robin John Varghese",
+    "César G. Pernalete",
+    "Joris W. Thybaut",
+    "Kevin M. Van Geem"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/P92264f9a97",
+  "doi_url": "https://doi.org/10.1016/j.fuel.2022.125340",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.fuel.2022.125340",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "51/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "31/183"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=2950",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "yureel/GandALF",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "8acf416139af0247da1080dcfbb930826ccb4125",
+    "license": "MIT",
+    "package_id": "yureel__GandALF",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/92264f9a97c9.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "yureel/GandALF",
+    "category": "08_solid_fuels_fire",
+    "subcategory": "01_kinetics_fire",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "用主动学习选择塑料催化热解实验，减少寻找合适工况所需的实验数量。",
+    "method": "上游明确链接 Fuel 论文，提供高斯过程与实验选点流程。建议的下一个实验条件不等于已完成物理实验验证。",
+    "entry": "GandALF.py 与 GandAlF.csv；先核对数据列、目标函数方向、采集函数和初始样本。",
+    "dependencies": "README 给出 Python 3.6+、NumPy、SciPy、scikit-learn、pandas、GPy 和 GPyOpt；旧依赖需单独环境。",
+    "evaluation": "用相同初始样本和实验预算比较随机选点、网格/专家策略与主动学习，跨种子报告最优目标随实验次数的变化。",
+    "limitations": "MIT 许可已定位；尚未运行。基于已有表格的回放与真实在线选点应分别报告，不能将热解产物优化直接等同低排放燃烧。"
+  }
+}

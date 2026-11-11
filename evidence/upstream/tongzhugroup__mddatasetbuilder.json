@@ -1,0 +1,14 @@
+{
+  "repository": "tongzhugroup/mddatasetbuilder",
+  "url": "https://github.com/tongzhugroup/mddatasetbuilder",
+  "retrieved_at": "2026-11-11T13:12:37.190077+00:00",
+  "commit": "52e6edf860128e9624ec11a1cb8703327d014679",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_url": "https://raw.githubusercontent.com/tongzhugroup/mddatasetbuilder/52e6edf860128e9624ec11a1cb8703327d014679/LICENSE",
+  "license_path": "evidence/upstream/tongzhugroup__mddatasetbuilder.license.txt",
+  "readme_path": "evidence/upstream/tongzhugroup__mddatasetbuilder.readme.txt",
+  "readme_url": "https://github.com/tongzhugroup/mddatasetbuilder/blob/52e6edf860128e9624ec11a1cb8703327d014679/docs/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "api_checked_at": "2026-11-11T13:52:49.220589+00:00"
+}

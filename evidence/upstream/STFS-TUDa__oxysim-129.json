@@ -1,0 +1,17 @@
+{
+  "repository": "STFS-TUDa/oxysim-129",
+  "url": "https://github.com/STFS-TUDa/oxysim-129",
+  "retrieved_at": "2026-11-11T13:05:08.732936+00:00",
+  "commit": "16bc7fcfb59d096d79ed73a992543de994383e24",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "readme_path": "evidence/upstream/STFS-TUDa__oxysim-129.readme.txt",
+  "readme_url": "https://github.com/STFS-TUDa/oxysim-129/blob/16bc7fcfb59d096d79ed73a992543de994383e24/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/STFS-TUDa__oxysim-129.license.txt",
+  "license_url": "https://github.com/STFS-TUDa/oxysim-129/blob/16bc7fcfb59d096d79ed73a992543de994383e24/LICENSE.txt",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "GPL-3.0",
+  "api_checked_at": "2026-11-11T13:10:10.637750+00:00"
+}

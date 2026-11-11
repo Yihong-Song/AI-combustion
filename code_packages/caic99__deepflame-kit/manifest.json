@@ -1,0 +1,33 @@
+{
+  "id": "caic99__deepflame-kit",
+  "repository": "caic99/deepflame-kit",
+  "url": "https://github.com/caic99/deepflame-kit",
+  "commit": "186d35ba03e1de516c9ad1c3a47b2c79564971b3",
+  "retrieved_at": "2026-11-11T13:09:37.945236+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "DeepFlame 配套工具；需检查与主框架提交、机理和网络格式是否匹配。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/caic99__deepflame-kit.json",
+  "license_url": "https://raw.githubusercontent.com/caic99/deepflame-kit/186d35ba03e1de516c9ad1c3a47b2c79564971b3/LICENSE",
+  "license_sha256": "bd75812c2508907ecd6da05d44ba5dee4c0ba420d29e640383ee644a248bf3a7",
+  "pinned_url": "https://github.com/caic99/deepflame-kit/tree/186d35ba03e1de516c9ad1c3a47b2c79564971b3",
+  "archive_url": "https://api.github.com/repos/caic99/deepflame-kit/tarball/186d35ba03e1de516c9ad1c3a47b2c79564971b3",
+  "readme_source": "https://raw.githubusercontent.com/caic99/deepflame-kit/186d35ba03e1de516c9ad1c3a47b2c79564971b3/README.md",
+  "archive": {
+    "repository": "caic99/deepflame-kit",
+    "commit": "186d35ba03e1de516c9ad1c3a47b2c79564971b3",
+    "source_url": "https://api.github.com/repos/caic99/deepflame-kit/tarball/186d35ba03e1de516c9ad1c3a47b2c79564971b3",
+    "retrieved_at": "2026-11-11T13:20:10.087854+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/caic99/deepflame-kit/legacy.tar.gz/186d35ba03e1de516c9ad1c3a47b2c79564971b3",
+    "status": "downloaded",
+    "path": "code_packages/caic99__deepflame-kit/186d35ba03e1.tar.gz",
+    "bytes": 37542,
+    "sha256": "ef58d68aad8dc993f97013348e65322f105a887f9d0d4caa0f8d3cb7bb8db1eb"
+  },
+  "collection_status": "source_archive_collected"
+}

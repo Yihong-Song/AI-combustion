@@ -1,0 +1,1606 @@
+{
+  "id": "ctftamu__SL-GPS",
+  "repository": "ctftamu/SL-GPS",
+  "url": "https://github.com/ctftamu/SL-GPS",
+  "commit": "647aee6b92ff45c9a9b0d57ea3ed49d272ec4083",
+  "retrieved_at": "2026-11-11T13:09:38.828938+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.combustflame.2022.112279"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "GPL-3.0 (inspect upstream terms)",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/ctftamu__SL-GPS.json",
+  "license_url": "https://raw.githubusercontent.com/ctftamu/SL-GPS/647aee6b92ff45c9a9b0d57ea3ed49d272ec4083/LICENSE",
+  "license_sha256": "230184f60bae2feaf244f10a8bac053c8ff33a183bcc365b4d8b876d2b7f4809",
+  "pinned_url": "https://github.com/ctftamu/SL-GPS/tree/647aee6b92ff45c9a9b0d57ea3ed49d272ec4083",
+  "archive_url": "https://api.github.com/repos/ctftamu/SL-GPS/tarball/647aee6b92ff45c9a9b0d57ea3ed49d272ec4083",
+  "readme_source": "https://raw.githubusercontent.com/ctftamu/SL-GPS/647aee6b92ff45c9a9b0d57ea3ed49d272ec4083/README.md",
+  "archive": {
+    "repository": "ctftamu/SL-GPS",
+    "commit": "647aee6b92ff45c9a9b0d57ea3ed49d272ec4083",
+    "source_url": "https://api.github.com/repos/ctftamu/SL-GPS/tarball/647aee6b92ff45c9a9b0d57ea3ed49d272ec4083",
+    "retrieved_at": "2026-11-11T13:42:00.772451+00:00",
+    "license": "GPL-3.0 (inspect upstream terms)",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/ctftamu/SL-GPS/legacy.tar.gz/647aee6b92ff45c9a9b0d57ea3ed49d272ec4083",
+    "status": "not_collected",
+    "error": "archive exceeds configured byte limit; use pinned upstream download"
+  },
+  "source_snapshot": {
+    "status": "collected",
+    "collection_type": "partial_source_snapshot",
+    "repository": "ctftamu/SL-GPS",
+    "commit": "647aee6b92ff45c9a9b0d57ea3ed49d272ec4083",
+    "date": "2026-11-11",
+    "path": "code_packages/ctftamu__SL-GPS/647aee6b92ff-source-only.tar.gz",
+    "bytes": 325227,
+    "sha256": "f1e8354d15c397abef61bb70c8c4999ab6ffa4c0317e74d34ff305f995da3849",
+    "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+    "files": [
+      {
+        "path": ".github/README.md",
+        "git_blob_sha": "ae5e96737651a2c2e1bf746768b0aa7666350f1b",
+        "sha256": "dd32082c0032dea272dc7db74b292f58cd29c5b286b87f925487ca99dcd6ed2e",
+        "bytes": 2756
+      },
+      {
+        "path": ".github/copilot-instructions.md",
+        "git_blob_sha": "9ed7860a867daded7a416c654617163d3b0e293b",
+        "sha256": "b9bb8a3be1df3e60b7fc97bfcb9ca20dd0745f234955b072bb4b63454f93cfd9",
+        "bytes": 7139
+      },
+      {
+        "path": ".github/workflows/deploy-docs.yml",
+        "git_blob_sha": "56e97da4318af4fa02d1319e001bf978497131d9",
+        "sha256": "0a1ba4b743276479895b6c80ab7b54537a3dd59034965d6fc3f4abca312331f2",
+        "bytes": 1108
+      },
+      {
+        "path": "DOCKER_BUILD_GUIDE.md",
+        "git_blob_sha": "b4914dd31bac5325a1a9b8725b29ceda12846186",
+        "sha256": "e23540c378eeacf0f2303f735f4c58d343c35a7398903ebb556be51f2e7d3ee4",
+        "bytes": 3634
+      },
+      {
+        "path": "FRONTEND_QUICKSTART.md",
+        "git_blob_sha": "571044de2993fdc7b5577f91c8c2ae6a94f6b23a",
+        "sha256": "3e0fe5ad7ac7f80e66f31bba1af404664da2733a51dcb8f574d448701db959f7",
+        "bytes": 6642
+      },
+      {
+        "path": "GET_STARTED.md",
+        "git_blob_sha": "d58aae0f1fc1dc0fbc3486efc0fd9bc55504b036",
+        "sha256": "e30165234879ee9c61122c4b477f8f57523ff55cd06bb5334620ad6cbcc11879",
+        "bytes": 5402
+      },
+      {
+        "path": "HF_SPACE_LOGGING_FIX.md",
+        "git_blob_sha": "39d4443a6a9e7b9942c8dbc7b0bd9244850e9e97",
+        "sha256": "e19322ee7100337d084910efa62c9af14d351d1a889a82169ff22fa7f967bd62",
+        "bytes": 4635
+      },
+      {
+        "path": "HF_SPACE_README.md",
+        "git_blob_sha": "654bec3431c02514c82191bdfe33f9445317ed34",
+        "sha256": "be60fc7bf4dd3361587f7eb6f542f2c484a82073333aa69369682c200fce9387",
+        "bytes": 4367
+      },
+      {
+        "path": "HF_SPACE_app.py",
+        "git_blob_sha": "f37e987208526313b08bf19fa5a67cbdb66f585e",
+        "sha256": "e08ebada53a033d30ccfb3004e3c6827fd3ab926b0785cd6b6bb621737db25aa",
+        "bytes": 3967
+      },
+      {
+        "path": "IMPLEMENTATION_SUMMARY.md",
+        "git_blob_sha": "eaa487910fa2712cce62ba7230569e0d7b3fd485",
+        "sha256": "28cf48903c3068d8284e6d8b0ff5d29e33971bf07a8a72537527a44157b1dc88",
+        "bytes": 8881
+      },
+      {
+        "path": "LICENSE",
+        "git_blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+        "bytes": 35149
+      },
+      {
+        "path": "README.md",
+        "git_blob_sha": "4558ff46ca748034444319de3bece48b584e196d",
+        "sha256": "00e472d28531b88d06baf75f14770499da3402bc4a0cbfc8d87b274937365753",
+        "bytes": 2755
+      },
+      {
+        "path": "SandiaFlameD.py",
+        "git_blob_sha": "c95eec7d2c582349368c158f3614d98168bc560e",
+        "sha256": "db69a427b09777ab9307478973963b6b2116f1617571a9dd26b049b46fa973cb",
+        "bytes": 3059
+      },
+      {
+        "path": "app.py",
+        "git_blob_sha": "6996d1ecc47cb887aa485d0600f58674761b89f4",
+        "sha256": "3cb2e0a04f625212fd983406dac4223bb915a9a852abcb121c2f448e31dbd49b",
+        "bytes": 1002
+      },
+      {
+        "path": "app_minimal.py",
+        "git_blob_sha": "1495b7f4db908cb3723811a19a52e50e162ec688",
+        "sha256": "c6bd6e5f8d244a3ee5ee58575418349dedc2658d6373206a90cca8328db985a2",
+        "bytes": 4252
+      },
+      {
+        "path": "archive/v1README.md",
+        "git_blob_sha": "d494dc6a34fd17452dc62a60763d6efa88a5ba80",
+        "sha256": "14ea99a69e8e79ad25dcfa0550928c6809ac635582f9c2050c69805507fba57d",
+        "bytes": 2769
+      },
+      {
+        "path": "docs/api.md",
+        "git_blob_sha": "9ca449e8756d55282f5a1ea02352056c662666ed",
+        "sha256": "91e92049de18fe2ebdfc01c86466127876ecb069e20b91247af714dae7d9e7dd",
+        "bytes": 13806
+      },
+      {
+        "path": "docs/code_structure.md",
+        "git_blob_sha": "4b16828078cee304d8d5f362cc106dfd15264cf3",
+        "sha256": "1da030e2b1f6413ee3ad5d9d137e3a3cfae14ac5af5a7d78f1cac91dc5e52c45",
+        "bytes": 1878
+      },
+      {
+        "path": "docs/frontend.md",
+        "git_blob_sha": "293153b236508d0b4432080474f3fe13487df180",
+        "sha256": "c8f8efb6caece6bf71fbb85899856f4c7ea48d6847ee9ef57c997f437a94cfe5",
+        "bytes": 9532
+      },
+      {
+        "path": "docs/index.md",
+        "git_blob_sha": "dba9d5b1298057d7fc098b8a2c19b7873866718d",
+        "sha256": "412ea61d5d3411395befc1b5a04d7763a5bfccfa63f53860066aaea5337538a9",
+        "bytes": 7868
+      },
+      {
+        "path": "docs/setup.md",
+        "git_blob_sha": "1c841145a3c4b0f83e4e5f8b498f063683ca5aa4",
+        "sha256": "985f8686b0d5fdd6cc06ae098d3a3da38d626e2ce96adbcea6d1bdf682a69119",
+        "bytes": 5877
+      },
+      {
+        "path": "docs/workflow.md",
+        "git_blob_sha": "d4a045cc79c46e3ef31e54fa148387bfec1f9ce3",
+        "sha256": "cdbc1f13d60a5c55a8f70eb99f4473fcbb8773fdadbb0477ee57073d2045f706",
+        "bytes": 2860
+      },
+      {
+        "path": "frontend/README.md",
+        "git_blob_sha": "62f8eda9590a22b6803a872b96411a1278e39c09",
+        "sha256": "c169afe235b847b5ccc57e9bc644301daf1f009b37c560143862a81f8b6747e4",
+        "bytes": 8371
+      },
+      {
+        "path": "frontend/__init__.py",
+        "git_blob_sha": "e997787d3d017bffa448a6f5eaf929447b4ee68a",
+        "sha256": "310fc06f00dffd73b868a070d3b353d463122b7dc1ed9cf640d0a80e4964e981",
+        "bytes": 127
+      },
+      {
+        "path": "frontend/__main__.py",
+        "git_blob_sha": "a18f6f5f1561587cebac9c19a6470718d4962bf6",
+        "sha256": "90bd4fc5dc65b523ac06353498407375285e2c38764be0ee968477ea9f1abfeb",
+        "bytes": 242
+      },
+      {
+        "path": "frontend/app.py",
+        "git_blob_sha": "db05ba281c91aa3d1a7fadb26135ccd43ef18dd2",
+        "sha256": "7696b71de875fa62e8bb9b40ce2a170ba97710aebf3bb02e1ad3d5dc7e04ae40",
+        "bytes": 35767
+      },
+      {
+        "path": "frontend/requirements.txt",
+        "git_blob_sha": "8e88377cf82a31552bc07c7ace7d272c73937a1f",
+        "sha256": "ebbf48cbb548e3ee9214b37dd7fdf42d9bf2ab3fe600c54b60022a2723275b67",
+        "bytes": 15
+      },
+      {
+        "path": "hf_space_README.md",
+        "git_blob_sha": "59ad9725aa790296eeec56c0990d8b17174e75b4",
+        "sha256": "2fca6332c28fcfcb87fed7a94063ca74e2aece25ab363b2720557f6ca92eb879",
+        "bytes": 2339
+      },
+      {
+        "path": "mkdocs.yml",
+        "git_blob_sha": "e8e32f4483f8633d086e96c6d1b965065487a518",
+        "sha256": "407f28623a4c7bb3a259acb626474df09b5e30ad40c57f1f6073077e57414fec",
+        "bytes": 620
+      },
+      {
+        "path": "pyproject.toml",
+        "git_blob_sha": "32b5fab16ed2fa6272b2ee4d9d54fc785e713ee6",
+        "sha256": "c50c3778773ee3d7fcd45f623e3100accedb93cd94826ae6ad9f4b0e304dd765",
+        "bytes": 555
+      },
+      {
+        "path": "requirements.txt",
+        "git_blob_sha": "37d77b1d3f888be28de5a45efdc57ef20c798e1d",
+        "sha256": "676a386b6e17198d56bcc0c9754772cc0178ce912fa29701c009e422701f4358",
+        "bytes": 294
+      },
+      {
+        "path": "src/slgps/GPS/src/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/GPS/src/ck/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/GPS/src/ck/def_build_mech_dict.py",
+        "git_blob_sha": "e0eb10bab2d9642feb30337d1ffe3a3f50c811db",
+        "sha256": "41429b5ad364669c517a1df3d57940608beed9aa9284746f9e1d55449dc57256",
+        "bytes": 6479
+      },
+      {
+        "path": "src/slgps/GPS/src/ck/def_build_raw_npz.py",
+        "git_blob_sha": "4bd649500796747be90216cc7e78656e3658749b",
+        "sha256": "48d2ac2c66bcc145143194bfea5af2c1a795331155e993c14bc2f922fe6acec4",
+        "bytes": 7552
+      },
+      {
+        "path": "src/slgps/GPS/src/ck/def_cheminp.py",
+        "git_blob_sha": "e8b3f1da14e011d8e2a236c9b9a25a96e4fbca69",
+        "sha256": "deb84a80ac47746322ab24f9dd06876fa4e22fc26c83b0abb43e910e13e27cbb",
+        "bytes": 2137
+      },
+      {
+        "path": "src/slgps/GPS/src/ck/upper_cheminp.py",
+        "git_blob_sha": "be27e7899c21618317de02ffd0df9c2af9c6c37a",
+        "sha256": "dd54354752056f299d392dd6bc20bd31bccd0a2d04086ab0102a630bd7a759bf",
+        "bytes": 120
+      },
+      {
+        "path": "src/slgps/GPS/src/core/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/GPS/src/core/def_GPS.py",
+        "git_blob_sha": "2b75fd3abaf83ce640e7fe35a73556dc4c207b5a",
+        "sha256": "25a7464984e23231f41e76d06947856a2999cb53ad923bd3eeeede52528e888c",
+        "bytes": 9186
+      },
+      {
+        "path": "src/slgps/GPS/src/core/def_GPSA.py",
+        "git_blob_sha": "ca1061a08943043720fc5cd25f6859b843851bcf",
+        "sha256": "4c0dc47eb33534912b21daafd23984269ff7d3451873c2fdb8c7fa34202fcc6a",
+        "bytes": 8084
+      },
+      {
+        "path": "src/slgps/GPS/src/core/def_PFA.py",
+        "git_blob_sha": "fdd873f1a7e7ef97b0c41ad171052befdc1e7162",
+        "sha256": "7a48576eef7075994427a876d51360f48b729df55583b279f835a4477aefdb47",
+        "bytes": 4301
+      },
+      {
+        "path": "src/slgps/GPS/src/core/def_build_graph.py",
+        "git_blob_sha": "1a0f677adaea9d0ef4fb4106407daa17a19187da",
+        "sha256": "cf2f5d96bcd0bad9d5182310b169f0c8f4d683b32da7c80f445c43ac01abad21",
+        "bytes": 4104
+      },
+      {
+        "path": "src/slgps/GPS/src/core/def_tools.py",
+        "git_blob_sha": "511b6d78394416d99d7d79540419c0c79aa90704",
+        "sha256": "a6bf51856e5287c37d7f8dee25039a65baa7d74f408cf47a619055e34057611f",
+        "bytes": 3773
+      },
+      {
+        "path": "src/slgps/GPS/src/core/def_yen.py",
+        "git_blob_sha": "c55a7a46af3b3a112b6d86b59587d1608d1ca036",
+        "sha256": "2b743fbee1fab21f34d92b1251fe93b554b9b105fb9bfbc59df9f4619a88b794",
+        "bytes": 4249
+      },
+      {
+        "path": "src/slgps/GPS/src/ct/__init__.py",
+        "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      {
+        "path": "src/slgps/GPS/src/ct/ck2cti_GPS.py",
+        "git_blob_sha": "689704e68a41e853867289f9120d1d1b10f910d7",
+        "sha256": "7be5fb825933f9144b20d4e646d4ff15ca5ae5526f47a144f2766cc39d2d6444",
+        "bytes": 83152
+      },
+      {
+        "path": "src/slgps/GPS/src/ct/ck2cti_GPS_kcal.py",
+        "git_blob_sha": "fd335fd207c2dda1355cddcbcd2b7239b2b909a9",
+        "sha256": "09c9f522c6f933a2555a36696e77bb2454b7b9f775f5f183267b485bc5470132",
+        "bytes": 83156
+      },
+      {
+        "path": "src/slgps/GPS/src/ct/def_ct_tools.py",
+        "git_blob_sha": "26061ab846657d444cb05d306b71d777d129a5a9",
+        "sha256": "941c888454ae2a05f73b0693cc9cba192acafab2c2d033e93f53781b429734a5",
+        "bytes": 7439
+      },
+      {
+        "path": "src/slgps/GPS/src/ct/dialog_view_mech.py",
+        "git_blob_sha": "69fb58df3b56457631d4cf6cd876f61a2de35c1f",
+        "sha256": "122c29cb88a16d29bdc9ccb9ee7d2f6ecec36423e99b2c50b35e51317a1d91a1",
+        "bytes": 1701
+      },
+      {
+        "path": "src/slgps/GPS/src/ct/psr.py",
+        "git_blob_sha": "5983c56e9e6c8c8db9c11274bd801bc052def769",
+        "sha256": "5d4a2380037fac6cfff1aed84e353a12433b1774b41fbd122e8477a5f0a86111",
+        "bytes": 3602
+      },
+      {
+        "path": "src/slgps/GPS/src/ct/senkin.py",
+        "git_blob_sha": "c4d136a9ac575884d99cba2630c8ea7b7439d35c",
+        "sha256": "a7199145ac1dd211632bfa2c98eb33f1a8a18a5da38c2ff977d4b340f1be32f6",
+        "bytes": 4144
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/def_dialog.py",
+        "git_blob_sha": "420b49aada532407fcc0fede8e2cf6c5360e7ffd",
+        "sha256": "52725c1400ec5565f2e93dc2d37a47e691df4df4b92a01ac2019a6f436167e43",
+        "bytes": 12688
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/def_run.py",
+        "git_blob_sha": "eb184b5371061e5650d882b369d2ed611a51dc61",
+        "sha256": "390cbaab525719c95f2db16679604df08c7a1f12676d615b8e0d0b98954c66a7",
+        "bytes": 30607
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/dialog_GPS.py",
+        "git_blob_sha": "15252230467333427fba282535136195c85f7e9b",
+        "sha256": "ac975f09594d4f40b72f93b5aaf818abe7cbda48aaed5ccc8e67eb48e568771c",
+        "bytes": 4765
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/dialog_GPS_es.py",
+        "git_blob_sha": "5ab28f994d556f2f3213621a9296472661c4afd9",
+        "sha256": "1ddca35bbe81e3352268e7a5313345ac6ae87801f20d524ff096e272f16e3da2",
+        "bytes": 8341
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/dialog_about.py",
+        "git_blob_sha": "87c6da6e272e8d705f1d69ba5805dce39c2567cb",
+        "sha256": "09db9c1286feb14dcac725c6ea5e3f9131b7ac2406d82eb9403f467ab6943b55",
+        "bytes": 556
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/dialog_comb_sk.py",
+        "git_blob_sha": "f580d9d54d01f8c0d5692b7e417ce758aec4c032",
+        "sha256": "9466e08b8c9ac977b76a60b96b6eb1321deb0bc54032ecbb223d36bc9deed050",
+        "bytes": 6354
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/dialog_database.py",
+        "git_blob_sha": "788d96339aa8f56389dc484cdad6700efd7d74dc",
+        "sha256": "36f7f1de3bbe6c36024ed35fd57123df12b767ecdca14bf926f2b459f5e960ed",
+        "bytes": 3878
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/dialog_database_mixture.py",
+        "git_blob_sha": "db9038d4f40515fbe5663aba585715333f3bddc2",
+        "sha256": "aa07c5137ece5a64942402fd660a3b3242711ea829c812dab9b8833576f8824c",
+        "bytes": 5718
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/dialog_mech.py",
+        "git_blob_sha": "420b914b9ce9b5a26dc3ba6ca72623001883a159",
+        "sha256": "73d4161008818509d6bf427f11a31b716b966f2e4d447706718dac1912f1d9fd",
+        "bytes": 7876
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/dialog_view_mech.py",
+        "git_blob_sha": "5163dd028f03555e4be3d0160684306a97054902",
+        "sha256": "5b858fe4bed2b3d2dbbc8dcb39ddf900dd1844bb58e0bd4587134c20be293502",
+        "bytes": 1952
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/find_tau_ign.py",
+        "git_blob_sha": "a7b4ce965074793cacd798aacf78e79150710954",
+        "sha256": "aa0aee55b98408037ccd0e3558778cf40120701ac3dfff5f1acd00245212f022",
+        "bytes": 1362
+      },
+      {
+        "path": "src/slgps/GPS/src/gui/window_main.py",
+        "git_blob_sha": "b9ff18a900ed8e0f82c2ffd879b594599a3475c3",
+        "sha256": "cc0f559f7297370eb4c29a345ea659277095fb60207321a445ababf5574e2426",
+        "bytes": 20153
+      },
+      {
+        "path": "src/slgps/GPS/src/post/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/GPS/src/post/def_painter.py",
+        "git_blob_sha": "2d1d7692b7d95a530d46901df80e1d3dbeea66a6",
+        "sha256": "351c282ab9f424078034b31026fa211c5bdf68044cda932aa5439e0f5567596e",
+        "bytes": 26830
+      },
+      {
+        "path": "src/slgps/GPS/src/post/def_plt_tools.py",
+        "git_blob_sha": "b2498bdd270e7d5070aa32ffa1c4f6bb34481293",
+        "sha256": "cb0194ca339259c17b8fd09880c85f85b4a0ddf4c63abfca1afae56f672f12c2",
+        "bytes": 2380
+      },
+      {
+        "path": "src/slgps/GPS/src/post/dialog_post.py",
+        "git_blob_sha": "33716b7b7f8fd2bac495a7d0ba455667e27974a4",
+        "sha256": "9de222858ab81158121234d0e331e9c05ec077387dd063441383019beb030b20",
+        "bytes": 22976
+      },
+      {
+        "path": "src/slgps/GPS/src/post/dialog_rename.py",
+        "git_blob_sha": "927c090f348593d09daa7d3d86b1f6b8642ed435",
+        "sha256": "e79f80dd12e4a0ef47c399782002fd2f1921958e80ae1e45e98750474f5a4402",
+        "bytes": 3488
+      },
+      {
+        "path": "src/slgps/GPS/src/post/dialog_subplot.py",
+        "git_blob_sha": "90da28af4e1661c64a8a643e6458129825e715a6",
+        "sha256": "be84ff8e44f8f165f94e9f2f964f5886a85d421a353885bee539b251efb23c04",
+        "bytes": 32033
+      },
+      {
+        "path": "src/slgps/LICENSE",
+        "git_blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+        "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+        "bytes": 35149
+      },
+      {
+        "path": "src/slgps/README.md",
+        "git_blob_sha": "e5b4f8da5fee12c501c11cd1fc55d74437ba785f",
+        "sha256": "d217bc34e5e95a5cefbeb0cb8b71c37a6015965dfffdd714210ae91e43a43806",
+        "bytes": 4153
+      },
+      {
+        "path": "src/slgps/SL_GPS.py",
+        "git_blob_sha": "1cf34c9849cf19928aec00767c1ce0683e30d6fe",
+        "sha256": "66d1b6bbdf488a23842c15867b00902656be8176d1237772952426ac252b01ec",
+        "bytes": 1791
+      },
+      {
+        "path": "src/slgps/__init__.py",
+        "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      {
+        "path": "src/slgps/display_sim_data.py",
+        "git_blob_sha": "293dbda927387714800d62ae6a8863649a3be52c",
+        "sha256": "2e5117fe96bb12d735f293fb0c223a29c6565fb3854aed23f5c7e09537c811f7",
+        "bytes": 1712
+      },
+      {
+        "path": "src/slgps/drgep_red_mech.py",
+        "git_blob_sha": "c1a8508b84d1d3797bc7ac4ea53fe2e59ee728ce",
+        "sha256": "5019e74918e77476334967184746046eef586b5acb437b20264b15c01fbb6a32",
+        "bytes": 1126
+      },
+      {
+        "path": "src/slgps/example.py",
+        "git_blob_sha": "2a3b6351b4574b7ca7c6714602300878d03ac550",
+        "sha256": "5f86c4d9aa1f54901b99a70e23f372d0e73b9b646ee1287152c72626a569b354",
+        "bytes": 43
+      },
+      {
+        "path": "src/slgps/h5topb.py",
+        "git_blob_sha": "9c812d7b1b0588e6e0fbc4c9c57539061e978966",
+        "sha256": "6a65a6e0c910df7d778908c10ec0903a03b57593b77e5f2b3a13f1f51cebbbc4",
+        "bytes": 739
+      },
+      {
+        "path": "src/slgps/main.py",
+        "git_blob_sha": "0fd5fada30fb35e0359ae7be51e5ead5b2dede4d",
+        "sha256": "9f63d2c5f1d94bccd7fbc0996e566f79a4152776ea489a106e96aa0fca9d0d25",
+        "bytes": 3042
+      },
+      {
+        "path": "src/slgps/main_series.py",
+        "git_blob_sha": "e07a47aff899c542c0c5c6f6fc8f28c07239c6f8",
+        "sha256": "1d582f4627ce29ce830d5440c24eb3f577153b6bb37d151a4fc3dd7bda1ff031",
+        "bytes": 2718
+      },
+      {
+        "path": "src/slgps/make_data.py",
+        "git_blob_sha": "8dd692506c98946390bfd605165cd97bc32f58c1",
+        "sha256": "b02bafee4b4878c67cfe2b143f45d01f82f25d09b989b90707cb526d0d1bf05f",
+        "bytes": 6641
+      },
+      {
+        "path": "src/slgps/make_data_parallel.py",
+        "git_blob_sha": "db78b8e48fe12a09ea8753ab6c2e28ec242b6140",
+        "sha256": "af0c9f55c49caaba42456c1e44e282764dc48cdd3ddf5e5f0e9351b3862ce4dc",
+        "bytes": 11455
+      },
+      {
+        "path": "src/slgps/mech_train.py",
+        "git_blob_sha": "6a21662b37d535f3289b38c6f1bc8a7ae255327e",
+        "sha256": "f6bf3863e1deb312475f72993a05b51b4dabba21b4f65eeb2fe24cec1054d78b",
+        "bytes": 4490
+      },
+      {
+        "path": "src/slgps/mech_train_new.py",
+        "git_blob_sha": "0a2ea7f51be9801e4cfdc161c8f25fd7661cb26c",
+        "sha256": "128e7dae25eaccb7b6cf98318b3e0dd717b800a4bdc47d19cf4bed6fe62ff7e4",
+        "bytes": 4303
+      },
+      {
+        "path": "src/slgps/new_data_utils.py",
+        "git_blob_sha": "146b9bf5057135c7421fdb6642387efabcfbbb97",
+        "sha256": "afaf46c01a542b4df2dc3edec9638b668e9ace336340ad1268baa5d589e67b38",
+        "bytes": 32724
+      },
+      {
+        "path": "src/slgps/parallel_old.py",
+        "git_blob_sha": "a6872fd261c146b8dc0d46491c1cf2b1624cb9b0",
+        "sha256": "5b49d808e16669c5928c970ee9da5501a606621665eb0269cc44705d4a61b612",
+        "bytes": 6441
+      },
+      {
+        "path": "src/slgps/reduce_drgep_short.py",
+        "git_blob_sha": "6957903da98566eab1b3152ca85fd5ab578205d4",
+        "sha256": "2309f1acf2c35afa9e5a5518dc2ec46fa2119966de0e65b99ec84728ef06380f",
+        "bytes": 741
+      },
+      {
+        "path": "src/slgps/setup.py",
+        "git_blob_sha": "4a11d5df1734953b73adb22fb45cddb15cc7f9a0",
+        "sha256": "c374df4589e9b2614c3a7819007322e4098bcc510abb9c020c8d9db14e7b35b6",
+        "bytes": 272
+      },
+      {
+        "path": "src/slgps/src/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/src/ck/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/src/ck/def_build_mech_dict.py",
+        "git_blob_sha": "e0eb10bab2d9642feb30337d1ffe3a3f50c811db",
+        "sha256": "41429b5ad364669c517a1df3d57940608beed9aa9284746f9e1d55449dc57256",
+        "bytes": 6479
+      },
+      {
+        "path": "src/slgps/src/ck/def_build_raw_npz.py",
+        "git_blob_sha": "4bd649500796747be90216cc7e78656e3658749b",
+        "sha256": "48d2ac2c66bcc145143194bfea5af2c1a795331155e993c14bc2f922fe6acec4",
+        "bytes": 7552
+      },
+      {
+        "path": "src/slgps/src/ck/def_cheminp.py",
+        "git_blob_sha": "e8b3f1da14e011d8e2a236c9b9a25a96e4fbca69",
+        "sha256": "deb84a80ac47746322ab24f9dd06876fa4e22fc26c83b0abb43e910e13e27cbb",
+        "bytes": 2137
+      },
+      {
+        "path": "src/slgps/src/ck/upper_cheminp.py",
+        "git_blob_sha": "be27e7899c21618317de02ffd0df9c2af9c6c37a",
+        "sha256": "dd54354752056f299d392dd6bc20bd31bccd0a2d04086ab0102a630bd7a759bf",
+        "bytes": 120
+      },
+      {
+        "path": "src/slgps/src/core/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/src/core/def_GPS.py",
+        "git_blob_sha": "8d97b4c2f3acd34e19ff22eb12e90344838bac96",
+        "sha256": "7b9605c125310ec09dededa5292a4e48f4d6b83f5a6e93cad8e907ceb0051745",
+        "bytes": 9165
+      },
+      {
+        "path": "src/slgps/src/core/def_GPSA.py",
+        "git_blob_sha": "fccac8c71cc5a718857f517b6ff191fe55ada3ac",
+        "sha256": "343648f62f2e243c4a457724d3c1a0119238d51834f43d55f46af5c8a03b49ae",
+        "bytes": 8074
+      },
+      {
+        "path": "src/slgps/src/core/def_PFA.py",
+        "git_blob_sha": "5fb6ac5f462347d3377b5cc2036154b5a6c86f1f",
+        "sha256": "fb7e7e27a324b41d5cfedf36fc9a130eab4f113780fbb4eeebbf335d23b80109",
+        "bytes": 4281
+      },
+      {
+        "path": "src/slgps/src/core/def_build_graph.py",
+        "git_blob_sha": "1a0f677adaea9d0ef4fb4106407daa17a19187da",
+        "sha256": "cf2f5d96bcd0bad9d5182310b169f0c8f4d683b32da7c80f445c43ac01abad21",
+        "bytes": 4104
+      },
+      {
+        "path": "src/slgps/src/core/def_tools.py",
+        "git_blob_sha": "8ca5769d2091a810644c591ad7118cd682e90da8",
+        "sha256": "ee919fbbac1451028f4e99d6a714e377b7373d344bd1e68e7fbab6d969aa397a",
+        "bytes": 3773
+      },
+      {
+        "path": "src/slgps/src/core/def_yen.py",
+        "git_blob_sha": "c55a7a46af3b3a112b6d86b59587d1608d1ca036",
+        "sha256": "2b743fbee1fab21f34d92b1251fe93b554b9b105fb9bfbc59df9f4619a88b794",
+        "bytes": 4249
+      },
+      {
+        "path": "src/slgps/src/ct/__init__.py",
+        "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      {
+        "path": "src/slgps/src/ct/ck2cti_GPS.py",
+        "git_blob_sha": "689704e68a41e853867289f9120d1d1b10f910d7",
+        "sha256": "7be5fb825933f9144b20d4e646d4ff15ca5ae5526f47a144f2766cc39d2d6444",
+        "bytes": 83152
+      },
+      {
+        "path": "src/slgps/src/ct/ck2cti_GPS_kcal.py",
+        "git_blob_sha": "fd335fd207c2dda1355cddcbcd2b7239b2b909a9",
+        "sha256": "09c9f522c6f933a2555a36696e77bb2454b7b9f775f5f183267b485bc5470132",
+        "bytes": 83156
+      },
+      {
+        "path": "src/slgps/src/ct/def_ct_tools.py",
+        "git_blob_sha": "26061ab846657d444cb05d306b71d777d129a5a9",
+        "sha256": "941c888454ae2a05f73b0693cc9cba192acafab2c2d033e93f53781b429734a5",
+        "bytes": 7439
+      },
+      {
+        "path": "src/slgps/src/ct/dialog_view_mech.py",
+        "git_blob_sha": "69fb58df3b56457631d4cf6cd876f61a2de35c1f",
+        "sha256": "122c29cb88a16d29bdc9ccb9ee7d2f6ecec36423e99b2c50b35e51317a1d91a1",
+        "bytes": 1701
+      },
+      {
+        "path": "src/slgps/src/ct/psr.py",
+        "git_blob_sha": "5983c56e9e6c8c8db9c11274bd801bc052def769",
+        "sha256": "5d4a2380037fac6cfff1aed84e353a12433b1774b41fbd122e8477a5f0a86111",
+        "bytes": 3602
+      },
+      {
+        "path": "src/slgps/src/ct/senkin.py",
+        "git_blob_sha": "c4d136a9ac575884d99cba2630c8ea7b7439d35c",
+        "sha256": "a7199145ac1dd211632bfa2c98eb33f1a8a18a5da38c2ff977d4b340f1be32f6",
+        "bytes": 4144
+      },
+      {
+        "path": "src/slgps/src/gui/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/src/gui/def_dialog.py",
+        "git_blob_sha": "420b49aada532407fcc0fede8e2cf6c5360e7ffd",
+        "sha256": "52725c1400ec5565f2e93dc2d37a47e691df4df4b92a01ac2019a6f436167e43",
+        "bytes": 12688
+      },
+      {
+        "path": "src/slgps/src/gui/def_run.py",
+        "git_blob_sha": "eb184b5371061e5650d882b369d2ed611a51dc61",
+        "sha256": "390cbaab525719c95f2db16679604df08c7a1f12676d615b8e0d0b98954c66a7",
+        "bytes": 30607
+      },
+      {
+        "path": "src/slgps/src/gui/dialog_GPS.py",
+        "git_blob_sha": "15252230467333427fba282535136195c85f7e9b",
+        "sha256": "ac975f09594d4f40b72f93b5aaf818abe7cbda48aaed5ccc8e67eb48e568771c",
+        "bytes": 4765
+      },
+      {
+        "path": "src/slgps/src/gui/dialog_GPS_es.py",
+        "git_blob_sha": "5ab28f994d556f2f3213621a9296472661c4afd9",
+        "sha256": "1ddca35bbe81e3352268e7a5313345ac6ae87801f20d524ff096e272f16e3da2",
+        "bytes": 8341
+      },
+      {
+        "path": "src/slgps/src/gui/dialog_about.py",
+        "git_blob_sha": "87c6da6e272e8d705f1d69ba5805dce39c2567cb",
+        "sha256": "09db9c1286feb14dcac725c6ea5e3f9131b7ac2406d82eb9403f467ab6943b55",
+        "bytes": 556
+      },
+      {
+        "path": "src/slgps/src/gui/dialog_comb_sk.py",
+        "git_blob_sha": "f580d9d54d01f8c0d5692b7e417ce758aec4c032",
+        "sha256": "9466e08b8c9ac977b76a60b96b6eb1321deb0bc54032ecbb223d36bc9deed050",
+        "bytes": 6354
+      },
+      {
+        "path": "src/slgps/src/gui/dialog_database.py",
+        "git_blob_sha": "788d96339aa8f56389dc484cdad6700efd7d74dc",
+        "sha256": "36f7f1de3bbe6c36024ed35fd57123df12b767ecdca14bf926f2b459f5e960ed",
+        "bytes": 3878
+      },
+      {
+        "path": "src/slgps/src/gui/dialog_database_mixture.py",
+        "git_blob_sha": "db9038d4f40515fbe5663aba585715333f3bddc2",
+        "sha256": "aa07c5137ece5a64942402fd660a3b3242711ea829c812dab9b8833576f8824c",
+        "bytes": 5718
+      },
+      {
+        "path": "src/slgps/src/gui/dialog_mech.py",
+        "git_blob_sha": "420b914b9ce9b5a26dc3ba6ca72623001883a159",
+        "sha256": "73d4161008818509d6bf427f11a31b716b966f2e4d447706718dac1912f1d9fd",
+        "bytes": 7876
+      },
+      {
+        "path": "src/slgps/src/gui/dialog_view_mech.py",
+        "git_blob_sha": "5163dd028f03555e4be3d0160684306a97054902",
+        "sha256": "5b858fe4bed2b3d2dbbc8dcb39ddf900dd1844bb58e0bd4587134c20be293502",
+        "bytes": 1952
+      },
+      {
+        "path": "src/slgps/src/gui/find_tau_ign.py",
+        "git_blob_sha": "a7b4ce965074793cacd798aacf78e79150710954",
+        "sha256": "aa0aee55b98408037ccd0e3558778cf40120701ac3dfff5f1acd00245212f022",
+        "bytes": 1362
+      },
+      {
+        "path": "src/slgps/src/gui/window_main.py",
+        "git_blob_sha": "b9ff18a900ed8e0f82c2ffd879b594599a3475c3",
+        "sha256": "cc0f559f7297370eb4c29a345ea659277095fb60207321a445ababf5574e2426",
+        "bytes": 20153
+      },
+      {
+        "path": "src/slgps/src/post/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/src/post/def_painter.py",
+        "git_blob_sha": "2d1d7692b7d95a530d46901df80e1d3dbeea66a6",
+        "sha256": "351c282ab9f424078034b31026fa211c5bdf68044cda932aa5439e0f5567596e",
+        "bytes": 26830
+      },
+      {
+        "path": "src/slgps/src/post/def_plt_tools.py",
+        "git_blob_sha": "b2498bdd270e7d5070aa32ffa1c4f6bb34481293",
+        "sha256": "cb0194ca339259c17b8fd09880c85f85b4a0ddf4c63abfca1afae56f672f12c2",
+        "bytes": 2380
+      },
+      {
+        "path": "src/slgps/src/post/dialog_post.py",
+        "git_blob_sha": "33716b7b7f8fd2bac495a7d0ba455667e27974a4",
+        "sha256": "9de222858ab81158121234d0e331e9c05ec077387dd063441383019beb030b20",
+        "bytes": 22976
+      },
+      {
+        "path": "src/slgps/src/post/dialog_rename.py",
+        "git_blob_sha": "927c090f348593d09daa7d3d86b1f6b8642ed435",
+        "sha256": "e79f80dd12e4a0ef47c399782002fd2f1921958e80ae1e45e98750474f5a4402",
+        "bytes": 3488
+      },
+      {
+        "path": "src/slgps/src/post/dialog_subplot.py",
+        "git_blob_sha": "90da28af4e1661c64a8a643e6458129825e715a6",
+        "sha256": "be84ff8e44f8f165f94e9f2f964f5886a85d421a353885bee539b251efb23c04",
+        "bytes": 32033
+      },
+      {
+        "path": "src/slgps/src/tools/__init__.py",
+        "git_blob_sha": "e4a77c9359d8a99335ce3b430fee890206c7d5af",
+        "sha256": "961a8ba09904424e8bd7e15cef55d23ca5a3c6d69a22152f51af696cf9876b67",
+        "bytes": 24
+      },
+      {
+        "path": "src/slgps/src/tools/add_root_path.py",
+        "git_blob_sha": "0a656adfd219c15c28e96647c4cf6b191321ead4",
+        "sha256": "c360560fce8290e5b24190c8439ba1c6feee44ebfe7a09cfcebf91ea816d2a31",
+        "bytes": 123
+      },
+      {
+        "path": "src/slgps/src/tools/ck_data_reader.py",
+        "git_blob_sha": "bdac91dc30c331a885945df3c01c2d2d72273058",
+        "sha256": "73262578aebe9d7a27dd21b5d52a821435848d103e5c6211d3ec2219ea03fcea",
+        "bytes": 5135
+      },
+      {
+        "path": "src/slgps/src/tools/combine_de_mech.py",
+        "git_blob_sha": "acab052cb1f6c59462c54d6658c201351382a4e1",
+        "sha256": "30728a65b1355a1e5c06171902fd40ef5e53e8b8f28057670892b8c025b26e87",
+        "bytes": 2606
+      },
+      {
+        "path": "src/slgps/src/tools/csv_plot.py",
+        "git_blob_sha": "8f4347e1df109b2d2a407e6cae97a030e4bfc861",
+        "sha256": "84309f43bc85167b9cec2118a4e2960f520c86e89f93b9ac18e8beaca3e5ab8c",
+        "bytes": 4277
+      },
+      {
+        "path": "src/slgps/src/tools/def_DNS.py",
+        "git_blob_sha": "98c2eda8eafbb7d42262a101a6ed5dfb2937046a",
+        "sha256": "1c685665689e06bba85bc8ffa26c0c94b7ba6b7d50a35a69651ddcf73c07a89a",
+        "bytes": 9446
+      },
+      {
+        "path": "src/slgps/src/tools/upper_case.py",
+        "git_blob_sha": "b4ae31c8cacef1ae70da709daa154c8d4cb6dcb2",
+        "sha256": "748fdbaeb05ac83780956910e4944e01c9cbbbb00b8b6a067f61894aa024aa8d",
+        "bytes": 147
+      },
+      {
+        "path": "src/slgps/sup_plot.py",
+        "git_blob_sha": "85c62d9b51ca1e651ea66b99b54c75ee249fa236",
+        "sha256": "abcb5fc7b8e7e9102e0f87e7304fb29416ba7c2988206ecc690c8cce8edbe218",
+        "bytes": 16427
+      },
+      {
+        "path": "src/slgps/sup_test.py",
+        "git_blob_sha": "4c6bd28ebfb3ed04b7cb2660ad39133d4991f026",
+        "sha256": "38243c2de965b7ffe82db1ba7f94750e9e9abe5acfecae7dcaee45a85eb25829",
+        "bytes": 57840
+      },
+      {
+        "path": "src/slgps/testPython.py",
+        "git_blob_sha": "d20c9d0dd3690df40612fdaf00c4bb43ace6b2eb",
+        "sha256": "db78eb41a7171816875cf007f952f86e79be0e334e29bc8cdcef6f0c21726f75",
+        "bytes": 724
+      },
+      {
+        "path": "src/slgps/train_data_2D.py",
+        "git_blob_sha": "0b5d530a1c3771cacfb589d40d7c1c8a5e424c77",
+        "sha256": "f837eefa57250afe4f8db130ceb8a4bed7c373e70a7f1511b5a6124a5be3050d",
+        "bytes": 7183
+      },
+      {
+        "path": "src/slgps/train_data_2D_parallel.py",
+        "git_blob_sha": "8be2ec9fd2917f5233de642e9f5186096d5d9d7b",
+        "sha256": "a7439e43e8f549a36232234edc01c24ab7eb6da9980ce4e898e81595edd8d7fc",
+        "bytes": 11260
+      },
+      {
+        "path": "src/slgps/utils.py",
+        "git_blob_sha": "1b5e88cea927f067923bfdf12cf33817666a85fd",
+        "sha256": "d65270b32454105c6f9c79d34e7a08502a37239fcd08a4307e885f8e164d9b95",
+        "bytes": 14847
+      },
+      {
+        "path": "tests/test_basic.py",
+        "git_blob_sha": "0e9bb2d437db1d40f0183e7ae3d57eb0dccdd6b2",
+        "sha256": "f883bf46904bffa3f8a4141ee89e52a5de574c15ddae7f4b344b39ae7c57aa9f",
+        "bytes": 88
+      },
+      {
+        "path": "tests/test_sandiaFlameD.py",
+        "git_blob_sha": "3e6407c571c24066c4fb914d66b41fedd1cfa38e",
+        "sha256": "7cddaaa4ed2841756c6d9f8d386f8f0caa8419c696574f770cf0c8424eca68d4",
+        "bytes": 3060
+      },
+      {
+        "path": "validation/PODEMechanism/README.md",
+        "git_blob_sha": "0ba95289834fe83660f7dbaa0b9b14c6fcb0964b",
+        "sha256": "f095dbc5922fe78b8442da5cf8d8d272d695ff95b48ae81b14215f8fa51e74d0",
+        "bytes": 3918
+      },
+      {
+        "path": "validation/PODEMechanism/audit_never_list.py",
+        "git_blob_sha": "e72ce0eb473a64313f11f26334ff0331a199eb98",
+        "sha256": "dd944b880152a2aa64905fbbec9fcfaec5f7072803657f07288327177a41bbc3",
+        "bytes": 4084
+      },
+      {
+        "path": "validation/PODEMechanism/make_balanced_data.py",
+        "git_blob_sha": "1104f1d876c4edc16019f80f59c0fb0f7536ca8f",
+        "sha256": "8445d14af9cd9310f9c5250d07c7f456fba4c18d94cd7baf1b086591686bd7b0",
+        "bytes": 3470
+      },
+      {
+        "path": "validation/PODEMechanism/make_final_summary.py",
+        "git_blob_sha": "fde39378e7a7978b207ee33ea2dbbdba8905b4a9",
+        "sha256": "63d31576eff9855eeeff2cb5bc2f4651654b3485d8d8fdf223f215f90e2f7ee5",
+        "bytes": 2770
+      },
+      {
+        "path": "validation/PODEMechanism/plot_final_results.py",
+        "git_blob_sha": "49e5d70bebba5532a11e45d7e4069d9775b52c06",
+        "sha256": "0f559edd5abe0faad242c388109c5a032c20c7dd78c488f1c18b25fe6f1ffd05",
+        "bytes": 3269
+      },
+      {
+        "path": "validation/PODEMechanism/plot_species_vs_time.py",
+        "git_blob_sha": "08c21314518259310ee063bd5d28ab68becebe61",
+        "sha256": "b22a1e09a40eac6c212609452c1c5c32550f5fbfaa38f5e66b51dd6ad004e420",
+        "bytes": 1972
+      },
+      {
+        "path": "validation/PODEMechanism/recreate_from_scratch.py",
+        "git_blob_sha": "1d0bc60929c8c9feb0d82eb4de2f20d6c3cd9ddc",
+        "sha256": "2a2cb454533b03437cc0a91a44f7966c0e8650ee152f4aa3d4f82b57ce350eff",
+        "bytes": 5759
+      },
+      {
+        "path": "validation/PODEMechanism/run_pipeline_dmm.py",
+        "git_blob_sha": "d6237de1260599e18c7fd706609e9fa1af3e26f8",
+        "sha256": "915ac6076c324a978792390d8c94149104e19e68aada9a0b4429209ba8ce183c",
+        "bytes": 20162
+      },
+      {
+        "path": "validation/PODEMechanism/validate_full.py",
+        "git_blob_sha": "1f52c90ce28d68892046e0d9d0d165e6062ad868",
+        "sha256": "61ba7cc7d84591ea450593063a5342805965b4c17eb6bd7047ec1b1cc55cf5be",
+        "bytes": 5208
+      },
+      {
+        "path": "validation/ThinkMechanism/ab_validate.py",
+        "git_blob_sha": "b48a51cdafec0aa0049c154ba7e425938cabf662",
+        "sha256": "1aa4ee96c3390db6ade70ccca81fc7d42dddc888b2b4d84bfe5010f5bad55f16",
+        "bytes": 3812
+      },
+      {
+        "path": "validation/ThinkMechanism/ann_vs_gps_diff.py",
+        "git_blob_sha": "b8a69c21a3f6ea7dc94b86f37543aba3c0adafad",
+        "sha256": "1e17aa17d784caa249b16a10bf86eaa1b28d77eef7322eb73b6b40ebb1a9cf72",
+        "bytes": 5462
+      },
+      {
+        "path": "validation/ThinkMechanism/audit_never_list.py",
+        "git_blob_sha": "165bc00956f9f4b214bd08ed0873f7e27859554b",
+        "sha256": "29cdcf9f5d2a20290721f0acabd081769a67ff3ec46a3972cd38e1a90fbb6ce7",
+        "bytes": 4928
+      },
+      {
+        "path": "validation/ThinkMechanism/gps_ntc_test.py",
+        "git_blob_sha": "11ce5ccdd2e6d4f36d068dd9f5732af6c4cb52aa",
+        "sha256": "c3435862e6eb4ab0cfafbcd4fe3de8fde9303159cc0305be2fc054472683a3c0",
+        "bytes": 5287
+      },
+      {
+        "path": "validation/ThinkMechanism/make_balanced_data.py",
+        "git_blob_sha": "e47ae5ef293447a07ae65d34a453d4bf0b75b26b",
+        "sha256": "dd0d6a2e9c88fc9abac45bf7d8d837d4be6802c44ae0e9b8fb78cdd91c43fbf1",
+        "bytes": 4037
+      },
+      {
+        "path": "validation/ThinkMechanism/make_final_summary.py",
+        "git_blob_sha": "39f2d1270fb57f574db8eaee30d56cae99c530b0",
+        "sha256": "b4dc8974cab94164d57f30abd9ed85849324f0410558f3a419b7c59fa641025f",
+        "bytes": 2880
+      },
+      {
+        "path": "validation/ThinkMechanism/merge_training_data.py",
+        "git_blob_sha": "66bb27c4df28528f4f93b41dc031418a5ff0bd91",
+        "sha256": "b28949e17346b81f74744a935577c89dd6ed3b5565889ae0779f0f04b1fe35e1",
+        "bytes": 3964
+      },
+      {
+        "path": "validation/ThinkMechanism/plot_final_results.py",
+        "git_blob_sha": "0ec85427fbb4eefd6a2038d2d617c39117e72757",
+        "sha256": "bb3b59de2ca16e6a7694917b9ca8bafc6c5655c4ddd36eaffa48358b3887c692",
+        "bytes": 3405
+      },
+      {
+        "path": "validation/ThinkMechanism/plot_species_vs_time.py",
+        "git_blob_sha": "eaa8b57e13ce84d93ab10353474664faa8c1404f",
+        "sha256": "3d87f45ed23f83bfb7371e88d6d98e90d605bddfdd891121d41eac46cd62f653",
+        "bytes": 1923
+      }
+    ],
+    "excluded_paths": [
+      ".dockerignore",
+      ".github",
+      ".github/workflows",
+      ".gitignore",
+      ".hfignore",
+      "Dockerfile",
+      "Dockerfile.slim",
+      "HF_SPACE_requirements.txt",
+      "TrainingData",
+      "TrainingData/Sandia_100sims",
+      "TrainingData/Sandia_100sims/always_spec_nums.csv",
+      "TrainingData/Sandia_100sims/data.csv",
+      "TrainingData/Sandia_100sims/never_spec_nums.csv",
+      "TrainingData/Sandia_100sims/species.csv",
+      "TrainingData/Sandia_100sims/var_spec_nums.csv",
+      "archive",
+      "docs",
+      "flux_graph",
+      "frontend",
+      "frontend/__pycache__",
+      "frontend/__pycache__/__init__.cpython-310.pyc",
+      "frontend/__pycache__/__main__.cpython-310.pyc",
+      "frontend/__pycache__/app.cpython-310.pyc",
+      "generated_data",
+      "generated_data/always_spec_nums.csv",
+      "generated_data/mechanism.cti",
+      "generated_data/never_spec_nums.csv",
+      "generated_data/species.csv",
+      "generated_data/var_spec_nums.csv",
+      "generated_data_test",
+      "generated_data_test/data.csv",
+      "generated_data_test/model",
+      "generated_data_test/model/model.h5",
+      "generated_data_test/scaler",
+      "generated_data_test/scaler/model.pkl",
+      "generated_data_test/species.csv",
+      "packages.txt",
+      "runtime.txt",
+      "site",
+      "site/404.html",
+      "site/api",
+      "site/api/index.html",
+      "site/assets",
+      "site/assets/images",
+      "site/assets/images/favicon.png",
+      "site/assets/javascripts",
+      "site/assets/javascripts/bundle.e71a0d61.min.js",
+      "site/assets/javascripts/bundle.e71a0d61.min.js.map",
+      "site/assets/javascripts/lunr",
+      "site/assets/javascripts/lunr/min",
+      "site/assets/javascripts/lunr/min/lunr.ar.min.js",
+      "site/assets/javascripts/lunr/min/lunr.da.min.js",
+      "site/assets/javascripts/lunr/min/lunr.de.min.js",
+      "site/assets/javascripts/lunr/min/lunr.du.min.js",
+      "site/assets/javascripts/lunr/min/lunr.el.min.js",
+      "site/assets/javascripts/lunr/min/lunr.es.min.js",
+      "site/assets/javascripts/lunr/min/lunr.fi.min.js",
+      "site/assets/javascripts/lunr/min/lunr.fr.min.js",
+      "site/assets/javascripts/lunr/min/lunr.he.min.js",
+      "site/assets/javascripts/lunr/min/lunr.hi.min.js",
+      "site/assets/javascripts/lunr/min/lunr.hu.min.js",
+      "site/assets/javascripts/lunr/min/lunr.hy.min.js",
+      "site/assets/javascripts/lunr/min/lunr.it.min.js",
+      "site/assets/javascripts/lunr/min/lunr.ja.min.js",
+      "site/assets/javascripts/lunr/min/lunr.jp.min.js",
+      "site/assets/javascripts/lunr/min/lunr.kn.min.js",
+      "site/assets/javascripts/lunr/min/lunr.ko.min.js",
+      "site/assets/javascripts/lunr/min/lunr.multi.min.js",
+      "site/assets/javascripts/lunr/min/lunr.nl.min.js",
+      "site/assets/javascripts/lunr/min/lunr.no.min.js",
+      "site/assets/javascripts/lunr/min/lunr.pt.min.js",
+      "site/assets/javascripts/lunr/min/lunr.ro.min.js",
+      "site/assets/javascripts/lunr/min/lunr.ru.min.js",
+      "site/assets/javascripts/lunr/min/lunr.sa.min.js",
+      "site/assets/javascripts/lunr/min/lunr.stemmer.support.min.js",
+      "site/assets/javascripts/lunr/min/lunr.sv.min.js",
+      "site/assets/javascripts/lunr/min/lunr.ta.min.js",
+      "site/assets/javascripts/lunr/min/lunr.te.min.js",
+      "site/assets/javascripts/lunr/min/lunr.th.min.js",
+      "site/assets/javascripts/lunr/min/lunr.tr.min.js",
+      "site/assets/javascripts/lunr/min/lunr.vi.min.js",
+      "site/assets/javascripts/lunr/min/lunr.zh.min.js",
+      "site/assets/javascripts/lunr/tinyseg.js",
+      "site/assets/javascripts/lunr/wordcut.js",
+      "site/assets/javascripts/workers",
+      "site/assets/javascripts/workers/search.7a47a382.min.js",
+      "site/assets/javascripts/workers/search.7a47a382.min.js.map",
+      "site/assets/stylesheets",
+      "site/assets/stylesheets/main.618322db.min.css",
+      "site/assets/stylesheets/main.618322db.min.css.map",
+      "site/assets/stylesheets/palette.ab4e12ef.min.css",
+      "site/assets/stylesheets/palette.ab4e12ef.min.css.map",
+      "site/code_structure",
+      "site/code_structure/index.html",
+      "site/frontend",
+      "site/frontend/index.html",
+      "site/index.html",
+      "site/search",
+      "site/search/search_index.json",
+      "site/setup",
+      "site/setup/index.html",
+      "site/sitemap.xml",
+      "site/sitemap.xml.gz",
+      "site/workflow",
+      "site/workflow/index.html",
+      "src",
+      "src/slgps",
+      "src/slgps.egg-info",
+      "src/slgps.egg-info/PKG-INFO",
+      "src/slgps.egg-info/SOURCES.txt",
+      "src/slgps.egg-info/dependency_links.txt",
+      "src/slgps.egg-info/top_level.txt",
+      "src/slgps/GPS",
+      "src/slgps/GPS/src",
+      "src/slgps/GPS/src/__pycache__",
+      "src/slgps/GPS/src/__pycache__/__init__.cpython-310.pyc",
+      "src/slgps/GPS/src/__pycache__/__init__.cpython-37.pyc",
+      "src/slgps/GPS/src/ck",
+      "src/slgps/GPS/src/ck/__pycache__",
+      "src/slgps/GPS/src/ck/__pycache__/__init__.cpython-37.pyc",
+      "src/slgps/GPS/src/ck/__pycache__/def_build_mech_dict.cpython-37.pyc",
+      "src/slgps/GPS/src/ck/__pycache__/def_cheminp.cpython-37.pyc",
+      "src/slgps/GPS/src/ck/def_build_mech_dict.py.bak",
+      "src/slgps/GPS/src/ck/def_build_raw_npz.py.bak",
+      "src/slgps/GPS/src/ck/def_cheminp.py.bak",
+      "src/slgps/GPS/src/core",
+      "src/slgps/GPS/src/core/__pycache__",
+      "src/slgps/GPS/src/core/__pycache__/__init__.cpython-310.pyc",
+      "src/slgps/GPS/src/core/__pycache__/__init__.cpython-37.pyc",
+      "src/slgps/GPS/src/core/__pycache__/def_GPS.cpython-310.pyc",
+      "src/slgps/GPS/src/core/__pycache__/def_GPS.cpython-37.pyc",
+      "src/slgps/GPS/src/core/__pycache__/def_GPSA.cpython-37.pyc",
+      "src/slgps/GPS/src/core/__pycache__/def_build_graph.cpython-310.pyc",
+      "src/slgps/GPS/src/core/__pycache__/def_build_graph.cpython-37.pyc",
+      "src/slgps/GPS/src/core/__pycache__/def_tools.cpython-310.pyc",
+      "src/slgps/GPS/src/core/__pycache__/def_tools.cpython-37.pyc",
+      "src/slgps/GPS/src/core/__pycache__/def_yen.cpython-310.pyc",
+      "src/slgps/GPS/src/core/__pycache__/def_yen.cpython-37.pyc",
+      "src/slgps/GPS/src/core/def_GPS.py.bak",
+      "src/slgps/GPS/src/core/def_GPSA.py.bak",
+      "src/slgps/GPS/src/core/def_PFA.py.bak",
+      "src/slgps/GPS/src/core/def_build_graph.py.bak",
+      "src/slgps/GPS/src/core/def_tools.py.bak",
+      "src/slgps/GPS/src/ct",
+      "src/slgps/GPS/src/ct/MILD",
+      "src/slgps/GPS/src/ct/MILD/chem.cti",
+      "src/slgps/GPS/src/ct/MILD/chem.inp",
+      "src/slgps/GPS/src/ct/MILD/mild.cti",
+      "src/slgps/GPS/src/ct/MILD/therm.dat",
+      "src/slgps/GPS/src/ct/MILD/trans.dat",
+      "src/slgps/GPS/src/ct/USC2",
+      "src/slgps/GPS/src/ct/USC2/chem.inp",
+      "src/slgps/GPS/src/ct/USC2/therm.dat",
+      "src/slgps/GPS/src/ct/USC2/tran.dat",
+      "src/slgps/GPS/src/ct/USC2/usc2_w_tran.cti",
+      "src/slgps/GPS/src/ct/USC2_O3",
+      "src/slgps/GPS/src/ct/USC2_O3/chem.cti",
+      "src/slgps/GPS/src/ct/USC2_O3/chem.inp",
+      "src/slgps/GPS/src/ct/USC2_O3/therm.dat",
+      "src/slgps/GPS/src/ct/USC2_O3/tran.dat",
+      "src/slgps/GPS/src/ct/__pycache__",
+      "src/slgps/GPS/src/ct/__pycache__/__init__.cpython-310.pyc",
+      "src/slgps/GPS/src/ct/__pycache__/__init__.cpython-37.pyc",
+      "src/slgps/GPS/src/ct/__pycache__/ck2cti_GPS.cpython-37.pyc",
+      "src/slgps/GPS/src/ct/__pycache__/ck2cti_GPS_kcal.cpython-37.pyc",
+      "src/slgps/GPS/src/ct/__pycache__/def_ct_tools.cpython-310.pyc",
+      "src/slgps/GPS/src/ct/__pycache__/def_ct_tools.cpython-37.pyc",
+      "src/slgps/GPS/src/ct/__pycache__/psr.cpython-37.pyc",
+      "src/slgps/GPS/src/ct/__pycache__/senkin.cpython-37.pyc",
+      "src/slgps/GPS/src/ct/ck2cti_GPS.py.bak",
+      "src/slgps/GPS/src/ct/def_ct_tools.py.bak",
+      "src/slgps/GPS/src/ct/mech.json",
+      "src/slgps/GPS/src/ct/psr.py.bak",
+      "src/slgps/GPS/src/ct/senkin.py.bak",
+      "src/slgps/GPS/src/gui",
+      "src/slgps/GPS/src/gui/def_dialog.py.bak",
+      "src/slgps/GPS/src/gui/def_run.py.bak",
+      "src/slgps/GPS/src/gui/dialog_GPS.py.bak",
+      "src/slgps/GPS/src/gui/dialog_GPS_es.py.bak",
+      "src/slgps/GPS/src/gui/dialog_about.py.bak",
+      "src/slgps/GPS/src/gui/dialog_comb_sk.py.bak",
+      "src/slgps/GPS/src/gui/dialog_database.py.bak",
+      "src/slgps/GPS/src/gui/dialog_database_mixture.py.bak",
+      "src/slgps/GPS/src/gui/dialog_mech.py.bak",
+      "src/slgps/GPS/src/gui/dialog_view_mech.py.bak",
+      "src/slgps/GPS/src/gui/find_tau_ign.py.bak",
+      "src/slgps/GPS/src/gui/window_main.py.bak",
+      "src/slgps/GPS/src/post",
+      "src/slgps/GPS/src/post/def_painter.py.bak",
+      "src/slgps/GPS/src/post/def_plt_tools.py.bak",
+      "src/slgps/GPS/src/post/dialog_post.py.bak",
+      "src/slgps/GPS/src/post/dialog_rename.py.bak",
+      "src/slgps/GPS/src/post/dialog_subplot.py.bak",
+      "src/slgps/MANIFEST.in",
+      "src/slgps/MILD_model_c_100_a_0.001_n_16.h5",
+      "src/slgps/SL_GPS Simulation Data",
+      "src/slgps/SL_GPS Simulation Data/init.txt",
+      "src/slgps/__pycache__",
+      "src/slgps/__pycache__/__init__.cpython-310.pyc",
+      "src/slgps/__pycache__/drgep_red_mech.cpython-310.pyc",
+      "src/slgps/__pycache__/make_data.cpython-310.pyc",
+      "src/slgps/__pycache__/make_data.cpython-37.pyc",
+      "src/slgps/__pycache__/make_data_parallel.cpython-310.pyc",
+      "src/slgps/__pycache__/mech_train.cpython-310.pyc",
+      "src/slgps/__pycache__/new_data_utils.cpython-310.pyc",
+      "src/slgps/__pycache__/utils.cpython-310.pyc",
+      "src/slgps/__pycache__/utils.cpython-36.pyc",
+      "src/slgps/__pycache__/utils.cpython-37.pyc",
+      "src/slgps/de_mech",
+      "src/slgps/de_mech/chem.inp",
+      "src/slgps/de_mech/mech.json",
+      "src/slgps/de_mech/therm.dat",
+      "src/slgps/flux_graph",
+      "src/slgps/ign.npz",
+      "src/slgps/make_data_parallel.pyc",
+      "src/slgps/mild.cti",
+      "src/slgps/nHeptane.cti",
+      "src/slgps/paraTerra.job",
+      "src/slgps/pred_mech",
+      "src/slgps/pred_mech/chem.cti",
+      "src/slgps/pred_mech/chem.inp",
+      "src/slgps/pred_mech/ns.txt",
+      "src/slgps/pred_mech/therm.dat",
+      "src/slgps/scaler.pkl",
+      "src/slgps/sk_mech",
+      "src/slgps/sk_mech/chem.cti",
+      "src/slgps/sk_mech/chem.inp",
+      "src/slgps/sk_mech/ns.txt",
+      "src/slgps/sk_mech/therm.dat",
+      "src/slgps/slgps.egg-info",
+      "src/slgps/slgps.egg-info/PKG-INFO",
+      "src/slgps/slgps.egg-info/SOURCES.txt",
+      "src/slgps/slgps.egg-info/dependency_links.txt",
+      "src/slgps/slgps.egg-info/top_level.txt",
+      "src/slgps/src",
+      "src/slgps/src/__pycache__",
+      "src/slgps/src/__pycache__/__init__.cpython-310.pyc",
+      "src/slgps/src/__pycache__/__init__.cpython-37.pyc",
+      "src/slgps/src/ck",
+      "src/slgps/src/ck/__pycache__",
+      "src/slgps/src/ck/__pycache__/__init__.cpython-310.pyc",
+      "src/slgps/src/ck/__pycache__/__init__.cpython-37.pyc",
+      "src/slgps/src/ck/__pycache__/def_build_mech_dict.cpython-310.pyc",
+      "src/slgps/src/ck/__pycache__/def_build_mech_dict.cpython-37.pyc",
+      "src/slgps/src/ck/__pycache__/def_cheminp.cpython-310.pyc",
+      "src/slgps/src/ck/__pycache__/def_cheminp.cpython-37.pyc",
+      "src/slgps/src/ck/def_build_mech_dict.py.bak",
+      "src/slgps/src/ck/def_build_raw_npz.py.bak",
+      "src/slgps/src/ck/def_cheminp.py.bak",
+      "src/slgps/src/core",
+      "src/slgps/src/core/__pycache__",
+      "src/slgps/src/core/__pycache__/__init__.cpython-310.pyc",
+      "src/slgps/src/core/__pycache__/__init__.cpython-37.pyc",
+      "src/slgps/src/core/__pycache__/def_GPS.cpython-310.pyc",
+      "src/slgps/src/core/__pycache__/def_GPS.cpython-37.pyc",
+      "src/slgps/src/core/__pycache__/def_GPSA.cpython-37.pyc",
+      "src/slgps/src/core/__pycache__/def_build_graph.cpython-310.pyc",
+      "src/slgps/src/core/__pycache__/def_build_graph.cpython-37.pyc",
+      "src/slgps/src/core/__pycache__/def_tools.cpython-310.pyc",
+      "src/slgps/src/core/__pycache__/def_tools.cpython-37.pyc",
+      "src/slgps/src/core/__pycache__/def_yen.cpython-310.pyc",
+      "src/slgps/src/core/__pycache__/def_yen.cpython-37.pyc",
+      "src/slgps/src/core/def_GPS.py.bak",
+      "src/slgps/src/core/def_GPSA.py.bak",
+      "src/slgps/src/core/def_PFA.py.bak",
+      "src/slgps/src/core/def_build_graph.py.bak",
+      "src/slgps/src/core/def_tools.py.bak",
+      "src/slgps/src/ct",
+      "src/slgps/src/ct/MILD",
+      "src/slgps/src/ct/MILD/chem.cti",
+      "src/slgps/src/ct/MILD/chem.inp",
+      "src/slgps/src/ct/MILD/mild.cti",
+      "src/slgps/src/ct/MILD/therm.dat",
+      "src/slgps/src/ct/MILD/trans.dat",
+      "src/slgps/src/ct/USC2",
+      "src/slgps/src/ct/USC2/chem.inp",
+      "src/slgps/src/ct/USC2/therm.dat",
+      "src/slgps/src/ct/USC2/tran.dat",
+      "src/slgps/src/ct/USC2/usc2_w_tran.cti",
+      "src/slgps/src/ct/USC2_O3",
+      "src/slgps/src/ct/USC2_O3/chem.cti",
+      "src/slgps/src/ct/USC2_O3/chem.inp",
+      "src/slgps/src/ct/USC2_O3/therm.dat",
+      "src/slgps/src/ct/USC2_O3/tran.dat",
+      "src/slgps/src/ct/__pycache__",
+      "src/slgps/src/ct/__pycache__/__init__.cpython-310.pyc",
+      "src/slgps/src/ct/__pycache__/__init__.cpython-37.pyc",
+      "src/slgps/src/ct/__pycache__/ck2cti_GPS.cpython-310.pyc",
+      "src/slgps/src/ct/__pycache__/ck2cti_GPS.cpython-37.pyc",
+      "src/slgps/src/ct/__pycache__/ck2cti_GPS_kcal.cpython-37.pyc",
+      "src/slgps/src/ct/__pycache__/def_ct_tools.cpython-310.pyc",
+      "src/slgps/src/ct/__pycache__/def_ct_tools.cpython-37.pyc",
+      "src/slgps/src/ct/__pycache__/psr.cpython-37.pyc",
+      "src/slgps/src/ct/__pycache__/senkin.cpython-37.pyc",
+      "src/slgps/src/ct/def_ct_tools.py.bak",
+      "src/slgps/src/ct/psr.py.bak",
+      "src/slgps/src/ct/senkin.py.bak",
+      "src/slgps/src/ct/test",
+      "src/slgps/src/ct/test/ign.jpg",
+      "src/slgps/src/ct/test/mole_fraction.csv",
+      "src/slgps/src/ct/test/net_reaction_rate.csv",
+      "src/slgps/src/ct/test/pressure.csv",
+      "src/slgps/src/ct/test/raw.npz",
+      "src/slgps/src/ct/test/reaction_list.csv",
+      "src/slgps/src/ct/test/species_list.csv",
+      "src/slgps/src/ct/test/temperature.csv",
+      "src/slgps/src/ct/test/time.csv",
+      "src/slgps/src/gui",
+      "src/slgps/src/gui/__pycache__",
+      "src/slgps/src/gui/__pycache__/__init__.cpython-37.pyc",
+      "src/slgps/src/gui/__pycache__/window_main.cpython-37.pyc",
+      "src/slgps/src/gui/def_dialog.py.bak",
+      "src/slgps/src/gui/def_run.py.bak",
+      "src/slgps/src/gui/dialog_GPS.py.bak",
+      "src/slgps/src/gui/dialog_GPS_es.py.bak",
+      "src/slgps/src/gui/dialog_about.py.bak",
+      "src/slgps/src/gui/dialog_comb_sk.py.bak",
+      "src/slgps/src/gui/dialog_database.py.bak",
+      "src/slgps/src/gui/dialog_database_mixture.py.bak",
+      "src/slgps/src/gui/dialog_mech.py.bak",
+      "src/slgps/src/gui/dialog_view_mech.py.bak",
+      "src/slgps/src/gui/find_tau_ign.py.bak",
+      "src/slgps/src/gui/window_main.py.bak",
+      "src/slgps/src/post",
+      "src/slgps/src/post/def_painter.py.bak",
+      "src/slgps/src/post/def_plt_tools.py.bak",
+      "src/slgps/src/post/dialog_post.py.bak",
+      "src/slgps/src/post/dialog_rename.py.bak",
+      "src/slgps/src/post/dialog_subplot.py.bak",
+      "src/slgps/src/tools",
+      "src/slgps/src/tools/ck_data_reader.py.bak",
+      "src/slgps/src/tools/combine_de_mech.py.bak",
+      "src/slgps/src/tools/csv",
+      "src/slgps/src/tools/csv/C2H4.csv",
+      "src/slgps/src/tools/csv/C3H6.csv",
+      "src/slgps/src/tools/csv/CH4.csv",
+      "src/slgps/src/tools/csv/T_vs_fuel.eps",
+      "src/slgps/src/tools/csv/plug_O3ign_adiabatic.csv",
+      "src/slgps/src/tools/csv/plug_O3ign_adiabatic.eps",
+      "src/slgps/src/tools/csv/plug_O3ign_adiabatic_O3rop.csv",
+      "src/slgps/src/tools/csv/plug_O3ign_adiabaticnew.eps",
+      "src/slgps/src/tools/csv_plot.py.bak",
+      "src/slgps/src/tools/def_DNS.py.bak",
+      "src/slgps/terra.job",
+      "src/slgps/terra_plot.job",
+      "src/slgps/terra_series.job",
+      "src/slgps/terra_test.job",
+      "src/slgps/utils.pyc",
+      "test_real_data2",
+      "test_real_data2/always_spec_nums.csv",
+      "test_real_data2/data.csv",
+      "test_real_data2/model.h5",
+      "test_real_data2/model.h5/model.h5",
+      "test_real_data2/never_spec_nums.csv",
+      "test_real_data2/scaler.pkl",
+      "test_real_data2/scaler.pkl/model.pkl",
+      "test_real_data2/species.csv",
+      "test_real_data2/var_spec_nums.csv",
+      "tests",
+      "tests/converth5ToPb.ipynb",
+      "validation",
+      "validation/.gitignore",
+      "validation/PODEMechanism",
+      "validation/PODEMechanism/.gitignore",
+      "validation/PODEMechanism/data",
+      "validation/PODEMechanism/data/train_dmm",
+      "validation/PODEMechanism/data/train_dmm/always_spec_nums.csv",
+      "validation/PODEMechanism/data/train_dmm/data.csv",
+      "validation/PODEMechanism/data/train_dmm/never_spec_nums.csv",
+      "validation/PODEMechanism/data/train_dmm/species.csv",
+      "validation/PODEMechanism/data/train_dmm/var_spec_nums.csv",
+      "validation/PODEMechanism/mechanism",
+      "validation/PODEMechanism/mechanism/PODE-1.yaml",
+      "validation/PODEMechanism/mechanism/PODE-1_Mech.inp",
+      "validation/PODEMechanism/mechanism/PODE-1_Thermo.dat",
+      "validation/PODEMechanism/mechanism/PODE-1_clean.yaml",
+      "validation/PODEMechanism/models",
+      "validation/PODEMechanism/models/dmm",
+      "validation/PODEMechanism/models/dmm/model.h5",
+      "validation/PODEMechanism/models/dmm/scaler.pkl",
+      "validation/PODEMechanism/report.pdf",
+      "validation/PODEMechanism/report.tex",
+      "validation/PODEMechanism/results",
+      "validation/PODEMechanism/results/dmm",
+      "validation/PODEMechanism/results/dmm/DMM_T1000_P1.png",
+      "validation/PODEMechanism/results/dmm/DMM_T1100_P1_rich.png",
+      "validation/PODEMechanism/results/dmm/DMM_T1200_P1.png",
+      "validation/PODEMechanism/results/dmm/DMM_T1200_P10.png",
+      "validation/PODEMechanism/results/dmm/DMM_T1400_P5_lean.png",
+      "validation/PODEMechanism/results/dmm/DMM_T1500_P1.png",
+      "validation/PODEMechanism/results/dmm/DMM_T800_P20.png",
+      "validation/PODEMechanism/results/dmm/DMM_T900_P10.png",
+      "validation/PODEMechanism/results/dmm/DMM_summary.png",
+      "validation/PODEMechanism/results/dmm/validation_report.txt",
+      "validation/ThinkMechanism",
+      "validation/ThinkMechanism/.gitignore",
+      "validation/ThinkMechanism/ThInK_1.0_Mech.inp",
+      "validation/ThinkMechanism/ThInK_1.0_Mech.yaml",
+      "validation/ThinkMechanism/ThInK_1.0_Therm.inp",
+      "validation/ThinkMechanism/data",
+      "validation/ThinkMechanism/data/train_ch3ocho",
+      "validation/ThinkMechanism/data/train_ch3ocho/always_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho/data.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho/never_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho/species.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho/var_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_balanced2",
+      "validation/ThinkMechanism/data/train_ch3ocho_balanced2/always_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_balanced2/data.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_balanced2/never_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_balanced2/species.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_balanced2/var_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_expanded",
+      "validation/ThinkMechanism/data/train_ch3ocho_expanded/always_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_expanded/data.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_expanded/never_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_expanded/species.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_expanded/var_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_hiT",
+      "validation/ThinkMechanism/data/train_ch3ocho_hiT/always_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_hiT/data.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_hiT/never_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_hiT/species.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_hiT/var_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_midT",
+      "validation/ThinkMechanism/data/train_ch3ocho_midT/always_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_midT/data.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_midT/never_spec_nums.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_midT/species.csv",
+      "validation/ThinkMechanism/data/train_ch3ocho_midT/var_spec_nums.csv",
+      "validation/ThinkMechanism/mmc20.inp",
+      "validation/ThinkMechanism/models",
+      "validation/ThinkMechanism/models/ch3ocho",
+      "validation/ThinkMechanism/models/ch3ocho/model.h5",
+      "validation/ThinkMechanism/models/ch3ocho/scaler.pkl",
+      "validation/ThinkMechanism/models/ch3ocho_balanced2v",
+      "validation/ThinkMechanism/models/ch3ocho_balanced2v/model.h5",
+      "validation/ThinkMechanism/models/ch3ocho_balanced2v/scaler.pkl",
+      "validation/ThinkMechanism/recreate_from_scratch.py",
+      "validation/ThinkMechanism/report.pdf",
+      "validation/ThinkMechanism/report.tex",
+      "validation/ThinkMechanism/results",
+      "validation/ThinkMechanism/results/ch3ocho",
+      "validation/ThinkMechanism/results/ch3ocho/CH3OCHO_T1000_P1.png",
+      "validation/ThinkMechanism/results/ch3ocho/CH3OCHO_T1100_P1_rich.png",
+      "validation/ThinkMechanism/results/ch3ocho/CH3OCHO_T1200_P1.png",
+      "validation/ThinkMechanism/results/ch3ocho/CH3OCHO_T1200_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho/CH3OCHO_T1400_P5_lean.png",
+      "validation/ThinkMechanism/results/ch3ocho/CH3OCHO_T1500_P1.png",
+      "validation/ThinkMechanism/results/ch3ocho/CH3OCHO_T800_P20.png",
+      "validation/ThinkMechanism/results/ch3ocho/CH3OCHO_T900_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho/CH3OCHO_summary.png",
+      "validation/ThinkMechanism/results/ch3ocho/validation_report.txt",
+      "validation/ThinkMechanism/results/ch3ocho_final",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1000_P1.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1000_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1000_P20.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1050_P1.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1100_P10_rich.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1100_P1_rich.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1100_P5.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1200_P1.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1200_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1200_P5_rich.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1300_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1300_P2.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1400_P1.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1400_P5_lean.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1500_P1.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T1600_P1.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T750_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T750_P20.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T800_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T800_P20.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T800_P5.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T850_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T850_P20.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T900_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T900_P10_lean.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T900_P10_rich.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T900_P15.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T900_P5.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T950_P10.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T950_P20.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_T950_P5.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_X_T1100_P5_vlean.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_X_T1100_P5_vrich.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_X_T700_P20.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_X_T900_P30.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_nspecies_vs_time.png",
+      "validation/ThinkMechanism/results/ch3ocho_final/CH3OCHO_summary.png",
+      "validation/ThinkMechanism/results_expanded_35case_summary.txt",
+      "validation/ThinkMechanism/results_final_17case_summary.txt",
+      "validation/ThinkMechanism/run_background.py",
+      "validation/ThinkMechanism/run_expanded_validation.py",
+      "validation/ThinkMechanism/run_pipeline_ch3ocho.py",
+      "validation/ThinkMechanism/validate_full.py",
+      "validation/ThinkMechanism/validate_merged.py",
+      "validation/aramco_v3.0",
+      "validation/aramco_v3.0/01_generate_data.py",
+      "validation/aramco_v3.0/02_train_model.py",
+      "validation/aramco_v3.0/03_validate.py",
+      "validation/aramco_v3.0/04_plot_results.py",
+      "validation/aramco_v3.0/README.md",
+      "validation/aramco_v3.0/data",
+      "validation/aramco_v3.0/data/.gitkeep",
+      "validation/aramco_v3.0/data/train",
+      "validation/aramco_v3.0/data/train/always_spec_nums.csv",
+      "validation/aramco_v3.0/data/train/data.csv",
+      "validation/aramco_v3.0/data/train/never_spec_nums.csv",
+      "validation/aramco_v3.0/data/train/species.csv",
+      "validation/aramco_v3.0/data/train/var_spec_nums.csv",
+      "validation/aramco_v3.0/data/train_c2h4",
+      "validation/aramco_v3.0/data/train_c2h4/always_spec_nums.csv",
+      "validation/aramco_v3.0/data/train_c2h4/data.csv",
+      "validation/aramco_v3.0/data/train_c2h4/never_spec_nums.csv",
+      "validation/aramco_v3.0/data/train_c2h4/species.csv",
+      "validation/aramco_v3.0/data/train_c2h4/var_spec_nums.csv",
+      "validation/aramco_v3.0/data/train_c3h8",
+      "validation/aramco_v3.0/data/train_c3h8/always_spec_nums.csv",
+      "validation/aramco_v3.0/data/train_c3h8/data.csv",
+      "validation/aramco_v3.0/data/train_c3h8/never_spec_nums.csv",
+      "validation/aramco_v3.0/data/train_c3h8/species.csv",
+      "validation/aramco_v3.0/data/train_c3h8/var_spec_nums.csv",
+      "validation/aramco_v3.0/mechanism",
+      "validation/aramco_v3.0/mechanism/ARAMCO3.0.MECH",
+      "validation/aramco_v3.0/mechanism/ARAMCO3.0.THERM",
+      "validation/aramco_v3.0/mechanism/ARAMCO3.0.TRAN",
+      "validation/aramco_v3.0/mechanism/aramco_v3.cti",
+      "validation/aramco_v3.0/mechanism/aramco_v3.yaml",
+      "validation/aramco_v3.0/models",
+      "validation/aramco_v3.0/models/c2h4",
+      "validation/aramco_v3.0/models/c2h4/model.h5",
+      "validation/aramco_v3.0/models/c2h4/scaler.pkl",
+      "validation/aramco_v3.0/models/c3h8",
+      "validation/aramco_v3.0/models/c3h8/model.h5",
+      "validation/aramco_v3.0/models/c3h8/scaler.pkl",
+      "validation/aramco_v3.0/models/ch4",
+      "validation/aramco_v3.0/models/ch4/model.h5",
+      "validation/aramco_v3.0/models/ch4/scaler.pkl",
+      "validation/aramco_v3.0/report.pdf",
+      "validation/aramco_v3.0/report.tex",
+      "validation/aramco_v3.0/results",
+      "validation/aramco_v3.0/results/c2h4",
+      "validation/aramco_v3.0/results/c2h4/.gitkeep",
+      "validation/aramco_v3.0/results/c2h4/C2H4_T1000_P1.png",
+      "validation/aramco_v3.0/results/c2h4/C2H4_T1100_P1_rich.png",
+      "validation/aramco_v3.0/results/c2h4/C2H4_T1200_P10.png",
+      "validation/aramco_v3.0/results/c2h4/C2H4_T1300_P5_lean.png",
+      "validation/aramco_v3.0/results/c2h4/C2H4_T1500_P1.png",
+      "validation/aramco_v3.0/results/c2h4/C2H4_T1500_P10.png",
+      "validation/aramco_v3.0/results/c2h4/C2H4_T1800_P20.png",
+      "validation/aramco_v3.0/results/c2h4/C2H4_T900_P20.png",
+      "validation/aramco_v3.0/results/c2h4/C2H4_summary.png",
+      "validation/aramco_v3.0/results/c3h8",
+      "validation/aramco_v3.0/results/c3h8/.gitkeep",
+      "validation/aramco_v3.0/results/c3h8/C3H8_T1000_P1.png",
+      "validation/aramco_v3.0/results/c3h8/C3H8_T1200_P10.png",
+      "validation/aramco_v3.0/results/c3h8/C3H8_T1200_P1_rich.png",
+      "validation/aramco_v3.0/results/c3h8/C3H8_T1300_P5_lean.png",
+      "validation/aramco_v3.0/results/c3h8/C3H8_T1500_P1.png",
+      "validation/aramco_v3.0/results/c3h8/C3H8_T1500_P10.png",
+      "validation/aramco_v3.0/results/c3h8/C3H8_T1800_P20.png",
+      "validation/aramco_v3.0/results/c3h8/C3H8_T900_P20.png",
+      "validation/aramco_v3.0/results/c3h8/C3H8_summary.png",
+      "validation/aramco_v3.0/results/ch4",
+      "validation/aramco_v3.0/results/ch4/.gitkeep",
+      "validation/aramco_v3.0/results/ch4/T1000_P1.png",
+      "validation/aramco_v3.0/results/ch4/T1500_P1.png",
+      "validation/aramco_v3.0/results/ch4/T1500_P10.png",
+      "validation/aramco_v3.0/results/ch4/T2000_P1.png",
+      "validation/aramco_v3.0/results/ch4/summary.png",
+      "validation/aramco_v3.0/run_all.py",
+      "validation/aramco_v3.0/run_pipeline.py",
+      "validation/aramco_v3.0/run_pipeline_c2h4.py",
+      "validation/aramco_v3.0/run_pipeline_c3h8.py",
+      "validation/gri30",
+      "validation/gri30/README.md",
+      "validation/gri30/data",
+      "validation/gri30/data/.gitkeep",
+      "validation/gri30/mechanism",
+      "validation/gri30/mechanism/.gitkeep",
+      "validation/gri30/models",
+      "validation/gri30/models/gri30_model.h5",
+      "validation/gri30/models/gri30_scaler.pkl",
+      "validation/gri30/report.pdf",
+      "validation/gri30/report.tex",
+      "validation/gri30/results",
+      "validation/gri30/results/.gitkeep",
+      "validation/gri30/results/T1000_P1.png",
+      "validation/gri30/results/T1000_P10.png",
+      "validation/gri30/results/T1200_lean.png",
+      "validation/gri30/results/T1500_P1.png",
+      "validation/gri30/results/T1500_P10.png",
+      "validation/gri30/results/T2000_P1.png",
+      "validation/gri30/results/ignition_delay_summary.png",
+      "validation/gri30/results/reduction_summary.png",
+      "validation/gri30/run_pipeline.py"
+    ]
+  },
+  "collection_status": "partial_source_snapshot_collected"
+}

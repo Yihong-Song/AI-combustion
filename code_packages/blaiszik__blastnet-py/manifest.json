@@ -1,0 +1,33 @@
+{
+  "id": "blaiszik__blastnet-py",
+  "repository": "blaiszik/blastnet-py",
+  "url": "https://github.com/blaiszik/blastnet-py",
+  "commit": "e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6",
+  "retrieved_at": "2026-11-11T13:09:40.133258+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "BLASTNet 数据访问工具；客户端许可不替代各数据集许可。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/blaiszik__blastnet-py.json",
+  "license_url": "https://github.com/blaiszik/blastnet-py/blob/e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6/LICENSE",
+  "license_sha256": "5f69ba06fc3852a0a76a511b4237377b89be4db399d413a899128c5d3807d821",
+  "pinned_url": "https://github.com/blaiszik/blastnet-py/tree/e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6",
+  "archive_url": "https://api.github.com/repos/blaiszik/blastnet-py/tarball/e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6",
+  "readme_source": "https://raw.githubusercontent.com/blaiszik/blastnet-py/e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6/README.md",
+  "archive": {
+    "repository": "blaiszik/blastnet-py",
+    "commit": "e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6",
+    "source_url": "https://api.github.com/repos/blaiszik/blastnet-py/tarball/e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6",
+    "retrieved_at": "2026-11-11T13:41:40.788677+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/blaiszik/blastnet-py/legacy.tar.gz/e9bc7f12a9fb43092d53d99c9d38734b8a76b0f6",
+    "status": "downloaded",
+    "path": "code_packages/blaiszik__blastnet-py/e9bc7f12a9fb.tar.gz",
+    "bytes": 259844,
+    "sha256": "5ebed9045ba16cced85587e57c87fcc00d173a3ab2b1f49acccec6539266d103"
+  },
+  "collection_status": "source_archive_collected"
+}

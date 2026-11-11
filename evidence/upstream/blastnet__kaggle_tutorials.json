@@ -1,0 +1,14 @@
+{
+  "repository": "blastnet/kaggle_tutorials",
+  "url": "https://github.com/blastnet/kaggle_tutorials",
+  "retrieved_at": "2026-11-11T13:06:54.839264+00:00",
+  "commit": "1618a463475a82f49674f6fd2614672b173f80e5",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "readme_path": "evidence/upstream/blastnet__kaggle_tutorials.readme.txt",
+  "readme_url": "https://github.com/blastnet/kaggle_tutorials/blob/1618a463475a82f49674f6fd2614672b173f80e5/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api",
+  "api_checked_at": "2026-11-11T13:50:53.609551+00:00"
+}

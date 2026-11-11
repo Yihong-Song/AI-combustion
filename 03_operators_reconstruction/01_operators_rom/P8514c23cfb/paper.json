@@ -1,0 +1,73 @@
+{
+  "id": "P8514c23cfb",
+  "doi": "10.1016/j.proci.2026.106795",
+  "title": "Generate reacting flow fields with flow matching neural operators on high-resolution grids",
+  "year": 2026,
+  "journal": "Proceedings of the Combustion Institute",
+  "authors": [
+    "Haoren Zheng",
+    "Shibo Gu",
+    "Evatt R. Hawkes",
+    "Dezhi Zhou",
+    "Xingcai Lu"
+  ],
+  "category": "03_operators_reconstruction",
+  "subcategory": "01_operators_rom",
+  "path": "03_operators_reconstruction/01_operators_rom/P8514c23cfb",
+  "doi_url": "https://doi.org/10.1016/j.proci.2026.106795",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.proci.2026.106795",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "104/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "65/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "37/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "18/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/6861",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/8514c23cfb20.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

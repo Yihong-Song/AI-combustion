@@ -1,0 +1,41 @@
+{
+  "journal": "Progress in Energy and Combustion Science",
+  "retrieved_at": "2026-11-11T12:44:16.595996+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "page_title": "LetPub - Scientific Journal Selector | PROGRESS IN ENERGY AND COMBUSTION SCIENCE - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/6930",
+  "journal_id": "6930",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q1 2/191 Category: ENGINEERING, CHEMICAL SCIE Q1 1/183 Category: ENGINEERING, MECHANICAL SCIE Q1 1/184 Category: THERMODYNAMICS SCIE Q1 1/78",
+  "categories": [
+    {
+      "category": "ENERGY & FUELS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "2/191"
+    },
+    {
+      "category": "ENGINEERING, CHEMICAL",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "1/183"
+    },
+    {
+      "category": "ENGINEERING, MECHANICAL",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "1/184"
+    },
+    {
+      "category": "THERMODYNAMICS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "1/78"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

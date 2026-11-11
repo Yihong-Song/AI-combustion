@@ -1,0 +1,22 @@
+{
+  "id": "Weihu22__Neural-Implicit-Reconstruction-for-BOS",
+  "repository": "Weihu22/Neural-Implicit-Reconstruction-for-BOS",
+  "url": "https://github.com/Weihu22/Neural-Implicit-Reconstruction-for-BOS",
+  "commit": "344ccaf19b5fcecb9494e75e125d137682feb4a9",
+  "retrieved_at": "2026-11-11T13:10:16.313639+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.combustflame.2026.115082"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/Weihu22__Neural-Implicit-Reconstruction-for-BOS.json",
+  "license_url": "https://github.com/Weihu22/Neural-Implicit-Reconstruction-for-BOS/blob/344ccaf19b5fcecb9494e75e125d137682feb4a9/LICENSE",
+  "license_sha256": "8861567d6388c2b3f7d574d136cb2ca7feb41f025041cb7131a5699419fdc04d",
+  "pinned_url": "https://github.com/Weihu22/Neural-Implicit-Reconstruction-for-BOS/tree/344ccaf19b5fcecb9494e75e125d137682feb4a9",
+  "archive_url": "https://api.github.com/repos/Weihu22/Neural-Implicit-Reconstruction-for-BOS/tarball/344ccaf19b5fcecb9494e75e125d137682feb4a9",
+  "readme_source": "https://github.com/Weihu22/Neural-Implicit-Reconstruction-for-BOS/blob/344ccaf19b5fcecb9494e75e125d137682feb4a9/readme.md",
+  "collection_status": "link_only"
+}

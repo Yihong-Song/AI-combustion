@@ -1,0 +1,20 @@
+{
+  "id": "lmcastellanos__Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics",
+  "repository": "lmcastellanos/Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics",
+  "url": "https://github.com/lmcastellanos/Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics",
+  "commit": "d37979971ffa7ceede3cccd5a15a52a9c209a51c",
+  "retrieved_at": "2026-11-11T13:09:53.951764+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1063/5.0167110"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/lmcastellanos__Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics.json",
+  "pinned_url": "https://github.com/lmcastellanos/Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics/tree/d37979971ffa7ceede3cccd5a15a52a9c209a51c",
+  "archive_url": "https://api.github.com/repos/lmcastellanos/Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics/tarball/d37979971ffa7ceede3cccd5a15a52a9c209a51c",
+  "readme_source": "https://raw.githubusercontent.com/lmcastellanos/Deep-learning-dynamical-latencies-for-the-analysis-and-reduction-of-combustion-chemistry-kinetics/d37979971ffa7ceede3cccd5a15a52a9c209a51c/README.md",
+  "collection_status": "link_only"
+}

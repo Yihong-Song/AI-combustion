@@ -1,0 +1,11 @@
+{
+  "repository": "deepflameCFD/deepflame-dev",
+  "commit": "29529093a73717fcac676f1f1ceed24c0cc932c7",
+  "source_url": "https://api.github.com/repos/deepflameCFD/deepflame-dev/tarball/29529093a73717fcac676f1f1ceed24c0cc932c7",
+  "retrieved_at": "2026-11-11T13:44:51.402160+00:00",
+  "license": "GPL-3.0 (inspect upstream terms)",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/deepflameCFD/deepflame-dev/legacy.tar.gz/29529093a73717fcac676f1f1ceed24c0cc932c7",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

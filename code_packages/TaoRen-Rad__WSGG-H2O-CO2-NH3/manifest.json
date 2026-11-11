@@ -1,0 +1,36 @@
+{
+  "id": "TaoRen-Rad__WSGG-H2O-CO2-NH3",
+  "repository": "TaoRen-Rad/WSGG-H2O-CO2-NH3",
+  "url": "https://github.com/TaoRen-Rad/WSGG-H2O-CO2-NH3",
+  "commit": "0ed02920a2ea9dbea0c60db02fd51b4695cf6260",
+  "retrieved_at": "2026-11-11T13:10:12.125717+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.proci.2026.106476"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "author_demo_executed",
+  "inspection_evidence": "evidence/upstream/TaoRen-Rad__WSGG-H2O-CO2-NH3.json",
+  "license_url": "https://github.com/TaoRen-Rad/WSGG-H2O-CO2-NH3/blob/0ed02920a2ea9dbea0c60db02fd51b4695cf6260/LICENSE",
+  "license_sha256": "d91198285dcd74a4c5563aae515edc4e8cff43799aa5cf16f8afea6b88a53006",
+  "pinned_url": "https://github.com/TaoRen-Rad/WSGG-H2O-CO2-NH3/tree/0ed02920a2ea9dbea0c60db02fd51b4695cf6260",
+  "archive_url": "https://api.github.com/repos/TaoRen-Rad/WSGG-H2O-CO2-NH3/tarball/0ed02920a2ea9dbea0c60db02fd51b4695cf6260",
+  "readme_source": "https://github.com/TaoRen-Rad/WSGG-H2O-CO2-NH3/blob/0ed02920a2ea9dbea0c60db02fd51b4695cf6260/README.md",
+  "archive": {
+    "repository": "TaoRen-Rad/WSGG-H2O-CO2-NH3",
+    "commit": "0ed02920a2ea9dbea0c60db02fd51b4695cf6260",
+    "source_url": "https://api.github.com/repos/TaoRen-Rad/WSGG-H2O-CO2-NH3/tarball/0ed02920a2ea9dbea0c60db02fd51b4695cf6260",
+    "retrieved_at": "2026-11-11T13:26:56.451788+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/TaoRen-Rad/WSGG-H2O-CO2-NH3/legacy.tar.gz/0ed02920a2ea9dbea0c60db02fd51b4695cf6260",
+    "status": "downloaded",
+    "path": "code_packages/TaoRen-Rad__WSGG-H2O-CO2-NH3/0ed02920a2ea.tar.gz",
+    "bytes": 86569,
+    "sha256": "fd6c69d779fd67e763e8ea2041f99386cc80b4222178e68db3ea0dfe61279bdd"
+  },
+  "collection_status": "source_archive_collected",
+  "execution_evidence": "reproductions/C01_wsgg_author_demo/results/metrics.json"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "P284e852930",
+  "doi": "10.1016/j.jaecs.2026.100464",
+  "title": "Offline reinforcement learning for mitigating thermoacoustic instabilities in a laminar premixed flame",
+  "year": 2026,
+  "journal": "Applications in Energy and Combustion Science",
+  "authors": [
+    "Juan Camilo Giraldo Delgado",
+    "Qi Wang",
+    "S. Mani Sarathy"
+  ],
+  "category": "04_instability_control",
+  "subcategory": "02_control",
+  "path": "04_instability_control/02_control/P284e852930",
+  "doi_url": "https://doi.org/10.1016/j.jaecs.2026.100464",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.jaecs.2026.100464",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "ESCI",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "ESCI",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "ESCI",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "ESCI",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=30136",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels. Secondary table has possible duplicated-category issue; kept pending."
+  },
+  "code": {
+    "status": "searched_no_confirmed_match",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/284e85293053.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

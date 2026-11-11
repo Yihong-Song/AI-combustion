@@ -1,0 +1,28 @@
+{
+  "journal": "Applied Energy",
+  "retrieved_at": "2026-11-11T12:40:48.240147+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=729",
+  "journal_id": "729",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENERGY & FUELS SCIE Q1 19/191 Category: ENGINEERING, CHEMICAL SCIE Q1 14/183",
+  "categories": [
+    {
+      "category": "ENERGY & FUELS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "19/191"
+    },
+    {
+      "category": "ENGINEERING, CHEMICAL",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "14/183"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

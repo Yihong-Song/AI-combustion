@@ -1,0 +1,86 @@
+{
+  "id": "Pe07d955e64",
+  "doi": "10.1016/j.combustflame.2022.112286",
+  "title": "Co-optimized machine-learned manifold models for large eddy simulation of turbulent combustion",
+  "year": 2022,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Bruce A. Perry",
+    "Marc T. Henry de Frahan",
+    "Shashank Yellapantula"
+  ],
+  "category": "07_engineering_design",
+  "subcategory": "02_control_optimization",
+  "path": "07_engineering_design/02_control_optimization/Pe07d955e64",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2022.112286",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2022.112286",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "NatLabRockies/cmlm",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "6b3f1da4065a96bdff30cd42638e43600c8dceb7",
+    "license": "BSD-3-Clause",
+    "package_id": "NatLabRockies__cmlm",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/e07d955e6469.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "NatLabRockies/cmlm",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "将热化学状态压缩到低维流形，并联合优化流形表示和输出重构，用于湍流燃烧 LES。",
+    "method": "README 提供 strained premixed flame、autoignition、premixed flame 三条数据—训练—制图路线，且预期对接 Pele 求解器。流形重构误差与 CFD 耦合稳定性属于不同层次证据。",
+    "entry": "get_strained_data.py → gen_trn_tst_data.py → train_models_strained_flames_raw.py → plot_strained.py。上游说明首个示例已附部分预处理数据。",
+    "dependencies": "Python、Cantera、PyTorch、pandas、NumPy、scikit-learn、Matplotlib、SHERPA；DRM19 与 HyChem Jet-A 机理需另取。检查 use_GPU 和旧机理格式兼容。",
+    "evaluation": "按应变率/压力/燃料划分训练测试，比较组分、温度、流形源项及完整 LES 的统计量；与 PCA 和传统 flamelet 表比较内存与推理成本。",
+    "limitations": "README 对部分源项损失的正确性亦保留说明，使用时需审查具体提交。仓库收纳不等于 Pele 耦合结果已复现。"
+  }
+}

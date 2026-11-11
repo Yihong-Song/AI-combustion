@@ -1,0 +1,7 @@
+{
+  "doi": "10.1016/j.fuel.2021.121376",
+  "query": "\"10.1016/j.fuel.2021.121376\" in:readme",
+  "search_type": "github_repository_readme_doi_exact",
+  "retrieved_at": "2026-11-11T12:59:40.571217+00:00",
+  "error": "('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))"
+}

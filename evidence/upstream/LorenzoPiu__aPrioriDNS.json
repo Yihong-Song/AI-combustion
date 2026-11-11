@@ -1,0 +1,17 @@
+{
+  "repository": "LorenzoPiu/aPrioriDNS",
+  "url": "https://github.com/LorenzoPiu/aPrioriDNS",
+  "retrieved_at": "2026-11-11T12:56:43.275624+00:00",
+  "commit": "19bb0fa13fb068c4bd74bed1f8deae35708514b6",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /LorenzoPiu/aPrioriDNS/19bb0fa13fb068c4bd74bed1f8deae35708514b6/LICENSE (Caused by ConnectTimeoutError(<HTTPSConnection(host='raw.githubusercontent.com', port=443) at 0x27985c06ad0>, 'Connection to raw.githubusercontent.com timed out. (connect timeout=30)'))",
+  "readme_path": "evidence/upstream/LorenzoPiu__aPrioriDNS.readme.txt",
+  "readme_url": "https://github.com/LorenzoPiu/aPriori/blob/19bb0fa13fb068c4bd74bed1f8deae35708514b6/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/LorenzoPiu__aPrioriDNS.license.txt",
+  "license_url": "https://github.com/LorenzoPiu/aPriori/blob/19bb0fa13fb068c4bd74bed1f8deae35708514b6/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "GPL-3.0",
+  "api_checked_at": "2026-11-11T13:09:57.827868+00:00"
+}

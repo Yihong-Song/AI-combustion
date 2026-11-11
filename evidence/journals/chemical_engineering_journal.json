@@ -1,0 +1,28 @@
+{
+  "journal": "Chemical Engineering Journal",
+  "retrieved_at": "2026-11-11T12:40:52.780562+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1639",
+  "journal_id": "1639",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, CHEMICAL SCIE Q1 13/183 Category: ENGINEERING, ENVIRONMENTAL SCIE Q1 4/88",
+  "categories": [
+    {
+      "category": "ENGINEERING, CHEMICAL",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "13/183"
+    },
+    {
+      "category": "ENGINEERING, ENVIRONMENTAL",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "4/88"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

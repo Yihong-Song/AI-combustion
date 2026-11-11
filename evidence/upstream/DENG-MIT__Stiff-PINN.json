@@ -1,0 +1,11 @@
+{
+  "repository": "DENG-MIT/Stiff-PINN",
+  "url": "https://github.com/DENG-MIT/Stiff-PINN",
+  "retrieved_at": "2026-11-11T12:32:37.965598+00:00",
+  "commit": "ec41e5e5702723113d5fd5dc082baa11a0e72499",
+  "readme_path": "evidence/upstream/DENG-MIT__Stiff-PINN.readme.txt",
+  "readme_url": "https://github.com/DENG-MIT/Stiff-PINN/blob/ec41e5e5702723113d5fd5dc082baa11a0e72499/ReadMe.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api",
+  "api_checked_at": "2026-11-11T13:09:47.429936+00:00"
+}

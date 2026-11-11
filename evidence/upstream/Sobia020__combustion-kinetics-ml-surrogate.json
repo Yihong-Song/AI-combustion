@@ -1,0 +1,12 @@
+{
+  "repository": "Sobia020/combustion-kinetics-ml-surrogate",
+  "url": "https://github.com/Sobia020/combustion-kinetics-ml-surrogate",
+  "retrieved_at": "2026-11-11T13:05:08.733598+00:00",
+  "commit": "e9b85ed8b89d53243b575731acf2042543e8275d",
+  "pin_source": "GitHub commits API",
+  "readme_url": "https://raw.githubusercontent.com/Sobia020/combustion-kinetics-ml-surrogate/e9b85ed8b89d53243b575731acf2042543e8275d/README.md",
+  "readme_path": "evidence/upstream/Sobia020__combustion-kinetics-ml-surrogate.readme.txt",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_status": "not_found_via_api",
+  "api_checked_at": "2026-11-11T13:10:08.176954+00:00"
+}

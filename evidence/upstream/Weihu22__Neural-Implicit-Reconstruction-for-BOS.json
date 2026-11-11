@@ -1,0 +1,17 @@
+{
+  "repository": "Weihu22/Neural-Implicit-Reconstruction-for-BOS",
+  "url": "https://github.com/Weihu22/Neural-Implicit-Reconstruction-for-BOS",
+  "retrieved_at": "2026-11-11T13:06:48.092083+00:00",
+  "commit": "344ccaf19b5fcecb9494e75e125d137682feb4a9",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "license_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=30)",
+  "readme_path": "evidence/upstream/Weihu22__Neural-Implicit-Reconstruction-for-BOS.readme.txt",
+  "readme_url": "https://github.com/Weihu22/Neural-Implicit-Reconstruction-for-BOS/blob/344ccaf19b5fcecb9494e75e125d137682feb4a9/readme.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/Weihu22__Neural-Implicit-Reconstruction-for-BOS.license.txt",
+  "license_url": "https://github.com/Weihu22/Neural-Implicit-Reconstruction-for-BOS/blob/344ccaf19b5fcecb9494e75e125d137682feb4a9/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "NOASSERTION",
+  "api_checked_at": "2026-11-11T13:10:16.313639+00:00"
+}

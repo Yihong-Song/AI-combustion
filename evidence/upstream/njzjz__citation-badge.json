@@ -1,0 +1,8 @@
+{
+  "repository": "njzjz/citation-badge",
+  "url": "https://github.com/njzjz/citation-badge",
+  "retrieved_at": "2026-11-11T13:10:05.213490+00:00",
+  "commit": "ea4eb8a54664a5cdb47eb6b63b0a266e19b6e86e",
+  "pin_source": "GitHub commits API",
+  "readme_error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /njzjz/citation-badge/ea4eb8a54664a5cdb47eb6b63b0a266e19b6e86e/README.md (Caused by ConnectTimeoutError(<HTTPSConnection(host='raw.githubusercontent.com', port=443) at 0x2226999da90>, 'Connection to raw.githubusercontent.com timed out. (connect timeout=30)'))"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "Pba328f5b75",
+  "doi": "10.1016/j.cpc.2025.109802",
+  "title": "Solving multiscale dynamical systems by deep learning",
+  "year": 2025,
+  "journal": "Computer Physics Communications",
+  "authors": [
+    "Junjie Yao",
+    "Yuxiao Yi",
+    "Liangkai Hang",
+    "Weinan E",
+    "Weizong Wang",
+    "Yaoyu Zhang",
+    "Tianhan Zhang",
+    "Zhi-Qin John Xu"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/Pba328f5b75",
+  "doi_url": "https://doi.org/10.1016/j.cpc.2025.109802",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.cpc.2025.109802",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "not_located",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "Seauagain/DeePODE",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "3ef423405f6d0d76e62d4f3a162e99a5e679ba82",
+    "license": "Apache-2.0",
+    "package_id": "Seauagain__DeePODE",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/ba328f5b7506.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "Seauagain/DeePODE",
+    "category": "01_chemistry_kinetics",
+    "subcategory": "01_surrogates_reduction",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "用多尺度状态采样和神经时间推进器处理刚性动力学，包含燃烧应用。",
+    "method": "README 将 EMCS 描述为范围估计、Monte Carlo 采样和演化扩充三阶段；提供 dryrun、单步、轨迹及 TorchScript 导出入口。",
+    "entry": "pred.py dryrun、onestep_plot、evolution、export；训练入口 train.py。",
+    "dependencies": "上游示例环境含 Cantera 2.6、PyTorch、mpi4py/OpenMPI；Windows 与旧环境需额外适配。",
+    "evaluation": "在同一硬件和容差下比较端到端时间、长时轨迹、误差累积和回退策略。",
+    "limitations": "README 中速度提升为作者声明，本库未验证，不录为本库实测；作为跨领域方法单独标注其燃烧应用边界。"
+  }
+}

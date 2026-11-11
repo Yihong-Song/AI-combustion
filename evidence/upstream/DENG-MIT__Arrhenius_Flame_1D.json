@@ -1,0 +1,13 @@
+{
+  "repository": "DENG-MIT/Arrhenius_Flame_1D",
+  "url": "https://github.com/DENG-MIT/Arrhenius_Flame_1D",
+  "retrieved_at": "2026-11-11T12:41:26.687099+00:00",
+  "git_error": "fatal: unable to access 'https://github.com/DENG-MIT/Arrhenius_Flame_1D.git/': Failed to connect to github.com:443 after 21063 ms: Could not connect to server\n",
+  "commit": "91e3e1b0ebfed827deddee6088936dc13903a4f0",
+  "pin_source": "GitHub commits API (git ls-remote unavailable)",
+  "readme_url": "https://raw.githubusercontent.com/DENG-MIT/Arrhenius_Flame_1D/91e3e1b0ebfed827deddee6088936dc13903a4f0/README.md",
+  "readme_path": "evidence/upstream/DENG-MIT__Arrhenius_Flame_1D.readme.txt",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/Arrhenius_Flame_1D/91e3e1b0ebfed827deddee6088936dc13903a4f0/LICENSE",
+  "license_path": "evidence/upstream/DENG-MIT__Arrhenius_Flame_1D.license.txt",
+  "api_checked_at": "2026-11-11T13:09:40.574928+00:00"
+}

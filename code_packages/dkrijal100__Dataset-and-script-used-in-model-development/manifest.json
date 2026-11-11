@@ -1,0 +1,20 @@
+{
+  "id": "dkrijal100__Dataset-and-script-used-in-model-development",
+  "repository": "dkrijal100/Dataset-and-script-used-in-model-development",
+  "url": "https://github.com/dkrijal100/Dataset-and-script-used-in-model-development",
+  "commit": "e3e648e701ecd45745432e10b25bdbbf972e2c62",
+  "retrieved_at": "2026-11-11T13:32:56.422579+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1021/acs.energyfuels.4c06147"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/dkrijal100__Dataset-and-script-used-in-model-development.json",
+  "pinned_url": "https://github.com/dkrijal100/Dataset-and-script-used-in-model-development/tree/e3e648e701ecd45745432e10b25bdbbf972e2c62",
+  "archive_url": "https://api.github.com/repos/dkrijal100/Dataset-and-script-used-in-model-development/tarball/e3e648e701ecd45745432e10b25bdbbf972e2c62",
+  "readme_source": "https://github.com/dkrijal100/Dataset-and-script-used-in-model-development/blob/e3e648e701ecd45745432e10b25bdbbf972e2c62/README.md",
+  "collection_status": "link_only"
+}

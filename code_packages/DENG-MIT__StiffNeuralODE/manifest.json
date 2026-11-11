@@ -1,0 +1,33 @@
+{
+  "id": "DENG-MIT__StiffNeuralODE",
+  "repository": "DENG-MIT/StiffNeuralODE",
+  "url": "https://github.com/DENG-MIT/StiffNeuralODE",
+  "commit": "95215b911b976f6ada7d99006dce5efd412952da",
+  "retrieved_at": "2026-11-11T13:09:44.312106+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "刚性 Neural ODE 通用方法；Robertson/Pollution 等测试不等同真实燃烧验证。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/DENG-MIT__StiffNeuralODE.json",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/StiffNeuralODE/95215b911b976f6ada7d99006dce5efd412952da/LICENSE",
+  "license_sha256": "b27902ef51281ee0ab2a7a03bb1a5df244c366e2396a571c3f02211cbea0cb7c",
+  "pinned_url": "https://github.com/DENG-MIT/StiffNeuralODE/tree/95215b911b976f6ada7d99006dce5efd412952da",
+  "archive_url": "https://api.github.com/repos/DENG-MIT/StiffNeuralODE/tarball/95215b911b976f6ada7d99006dce5efd412952da",
+  "readme_source": "https://raw.githubusercontent.com/DENG-MIT/StiffNeuralODE/95215b911b976f6ada7d99006dce5efd412952da/README.md",
+  "archive": {
+    "repository": "DENG-MIT/StiffNeuralODE",
+    "commit": "95215b911b976f6ada7d99006dce5efd412952da",
+    "source_url": "https://api.github.com/repos/DENG-MIT/StiffNeuralODE/tarball/95215b911b976f6ada7d99006dce5efd412952da",
+    "retrieved_at": "2026-11-11T13:26:35.504583+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/DENG-MIT/StiffNeuralODE/legacy.tar.gz/95215b911b976f6ada7d99006dce5efd412952da",
+    "status": "downloaded",
+    "path": "code_packages/DENG-MIT__StiffNeuralODE/95215b911b97.tar.gz",
+    "bytes": 1962765,
+    "sha256": "d8c46302fba1959845c991558acfbef7bedeb981a4f02c24d3f49aacb6b7dce4"
+  },
+  "collection_status": "source_archive_collected"
+}

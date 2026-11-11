@@ -1,0 +1,71 @@
+{
+  "id": "P53dcbe4b04",
+  "doi": "10.1016/j.fuel.2020.117066",
+  "title": "Classification of solid fuels with machine learning",
+  "year": 2020,
+  "journal": "Fuel",
+  "authors": [
+    "Furkan Elmaz",
+    "Barkın Büyükçakır",
+    "Özgün Yücel",
+    "Ali Yener Mutlu"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/P53dcbe4b04",
+  "doi_url": "https://doi.org/10.1016/j.fuel.2020.117066",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.fuel.2020.117066",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "51/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "31/183"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=2950",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "furkanelmaz/SolidFuelClassification",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "70d23189d625a02b81019f6a60bd5769142b8d2f",
+    "license": "not_located",
+    "package_id": "furkanelmaz__SolidFuelClassification",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/53dcbe4b04e2.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "furkanelmaz/SolidFuelClassification",
+    "category": "08_solid_fuels_fire",
+    "subcategory": "01_kinetics_fire",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "根据燃料表征数据对固体燃料进行分层分类。",
+    "method": "README 声明仓库为本文补充材料，提供分层分类训练/测试流程。根目录有 Dataset.xlsx 及多个预训练 pkl 文件。",
+    "entry": "main.py 调用 training.py 与 testing.py；README 说明默认读取预训练分类器，重训需要切换对应代码。",
+    "dependencies": "依赖版本应从脚本导入补齐；Excel 数据、特征含义和预训练文件兼容性需另核。",
+    "evaluation": "按来源或燃料家族留出，报告各层混淆矩阵、宏平均 F1 和类不平衡；区分燃料类别识别与燃烧性能预测。",
+    "limitations": "未定位许可，代码和数据仅保留固定链接。pkl 是可执行序列化格式，不在本库自动加载。未执行原文训练。"
+  }
+}

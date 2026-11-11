@@ -1,0 +1,87 @@
+{
+  "id": "P4cbef1b3c9",
+  "doi": "10.1016/j.combustflame.2022.111992",
+  "title": "Autonomous kinetic modeling of biomass pyrolysis using chemical reaction neural networks",
+  "year": 2022,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Weiqi Ji",
+    "Franz Richter",
+    "Michael J. Gollner",
+    "Sili Deng"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/P4cbef1b3c9",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2022.111992",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2022.111992",
+  "metadata_retrieved_date": "2026-11-11",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "DENG-MIT/Biomass.jl",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "d4909dfc750d2a063ba5e4a851bf5dffd4021e23",
+    "license": "MIT",
+    "package_id": "DENG-MIT__Biomass.jl",
+    "search_hits": 1,
+    "search_evidence": "evidence/code_search/4cbef1b3c966.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "DENG-MIT/Biomass.jl",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "由热重分析数据自动建立生物质热解/氧化动力学，减少依赖专家预设反应路径。",
+    "method": "README 说明将质量作用定律和 Arrhenius 规律嵌入 CRNN，再用 neural ODE 预测 TGA 残余质量；演示对象为纤维素热解和氧化。",
+    "entry": "从固定提交中的 Project.toml 和示例脚本建立 Julia 环境，再核对 TGA 数据、升温速率和残余质量定义。",
+    "dependencies": "Julia 与上游 Project/Manifest；应为该仓库单独创建项目环境。不能用另一 CRNN 分支的 Julia 环境直接替代。",
+    "evaluation": "留出完整升温速率或氧浓度条件，比较质量曲线和失重速率曲线；同时检验参数可辨识性、不同初始化得到的网络结构。",
+    "limitations": "TGA 有效反应网络不是唯一微观基元机理。小尺度热分析拟合不能直接证明大尺度火灾预测正确。"
+  }
+}

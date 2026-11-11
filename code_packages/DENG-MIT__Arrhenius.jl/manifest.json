@@ -1,0 +1,33 @@
+{
+  "id": "DENG-MIT__Arrhenius.jl",
+  "repository": "DENG-MIT/Arrhenius.jl",
+  "url": "https://github.com/DENG-MIT/Arrhenius.jl",
+  "commit": "babf896238e809402c7341e38fe2ae532fc2ebca",
+  "retrieved_at": "2026-11-11T13:09:39.702323+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "Julia 可微化学计算工具；用于机理参数校准的基础设施。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/DENG-MIT__Arrhenius.jl.json",
+  "license_url": "https://raw.githubusercontent.com/DENG-MIT/Arrhenius.jl/babf896238e809402c7341e38fe2ae532fc2ebca/LICENSE",
+  "license_sha256": "32f9dc1be064c5ffc176da504812db9f69d4bfe46e2f4db05fbb2b1cf8771733",
+  "pinned_url": "https://github.com/DENG-MIT/Arrhenius.jl/tree/babf896238e809402c7341e38fe2ae532fc2ebca",
+  "archive_url": "https://api.github.com/repos/DENG-MIT/Arrhenius.jl/tarball/babf896238e809402c7341e38fe2ae532fc2ebca",
+  "readme_source": "https://raw.githubusercontent.com/DENG-MIT/Arrhenius.jl/babf896238e809402c7341e38fe2ae532fc2ebca/README.md",
+  "archive": {
+    "repository": "DENG-MIT/Arrhenius.jl",
+    "commit": "babf896238e809402c7341e38fe2ae532fc2ebca",
+    "source_url": "https://api.github.com/repos/DENG-MIT/Arrhenius.jl/tarball/babf896238e809402c7341e38fe2ae532fc2ebca",
+    "retrieved_at": "2026-11-11T13:24:26.209919+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/DENG-MIT/Arrhenius.jl/legacy.tar.gz/babf896238e809402c7341e38fe2ae532fc2ebca",
+    "status": "downloaded",
+    "path": "code_packages/DENG-MIT__Arrhenius.jl/babf896238e8.tar.gz",
+    "bytes": 3267179,
+    "sha256": "7dbd0ec729405063c371d6c440404ddb309b0a83da9a0023ac610fc9c5d252fb"
+  },
+  "collection_status": "source_archive_collected"
+}
