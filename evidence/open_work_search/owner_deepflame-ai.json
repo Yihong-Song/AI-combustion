@@ -1,0 +1,80 @@
+{
+  "owner": "deepflame-ai",
+  "retrieved_at": "2026-11-11T16:47:13.291729+00:00",
+  "items": [
+    {
+      "full_name": "deepflame-ai/flamepilot",
+      "description": null,
+      "html_url": "https://github.com/deepflame-ai/flamepilot",
+      "fork": false,
+      "license": null,
+      "size": 864
+    },
+    {
+      "full_name": "deepflame-ai/REALM",
+      "description": "A comprehensive benchmark for machine learning multiphysics flows",
+      "html_url": "https://github.com/deepflame-ai/REALM",
+      "fork": false,
+      "license": null,
+      "size": 6068
+    },
+    {
+      "full_name": "deepflame-ai/DFODE-kit",
+      "description": null,
+      "html_url": "https://github.com/deepflame-ai/DFODE-kit",
+      "fork": false,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 86408
+    },
+    {
+      "full_name": "deepflame-ai/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "html_url": "https://github.com/deepflame-ai/open-webui",
+      "fork": true,
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 368677
+    },
+    {
+      "full_name": "deepflame-ai/pi-nanoclaw",
+      "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+      "html_url": "https://github.com/deepflame-ai/pi-nanoclaw",
+      "fork": true,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 10916
+    },
+    {
+      "full_name": "deepflame-ai/FlameBench",
+      "description": null,
+      "html_url": "https://github.com/deepflame-ai/FlameBench",
+      "fork": false,
+      "license": null,
+      "size": 34
+    },
+    {
+      "full_name": "deepflame-ai/libGPSODE",
+      "description": null,
+      "html_url": "https://github.com/deepflame-ai/libGPSODE",
+      "fork": false,
+      "license": null,
+      "size": 4074
+    }
+  ]
+}

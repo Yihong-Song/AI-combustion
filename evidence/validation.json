@@ -1,17 +1,17 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "status": "passed",
   "scope": "Local catalog consistency, relative Markdown file targets, source/archive/license hashes, source compilation, token patterns, independent recomputation of saved prediction metrics. Does not validate external URLs, full-text claims, official JCR, original-paper metrics, or B02 differential residual from saved CSV.",
-  "candidate_papers": 428,
-  "packages": 52,
-  "files_inspected": 1713,
+  "candidate_papers": 456,
+  "packages": 89,
+  "files_inspected": 2196,
   "checks": {
-    "catalog": 2176,
-    "packages": 1117,
-    "secret_scan": 1680,
-    "markdown_links": 3550,
-    "python_compile": 21,
-    "metrics": 14
+    "catalog": 2345,
+    "packages": 2289,
+    "secret_scan": 2132,
+    "markdown_links": 4063,
+    "python_compile": 29,
+    "metrics": 28
   },
   "failures": []
 }

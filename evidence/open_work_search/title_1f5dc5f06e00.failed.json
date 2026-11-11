@@ -1,0 +1,5 @@
+{
+  "title_query": "Integrated Neural Network Approach for Autonomous Sensitivity Analysis and Optimization of Sectional Soot Kinetic Modeling",
+  "retrieved_at": "2026-11-11T16:51:43.241299+00:00",
+  "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Integrated+Neural+Network+Approach+for+Autonomous+Sensitivity+Analysis+and+Optimization+of+Sectional+Soot+Kinetic+Modeling&rows=3&filter=type%3Ajournal-article"
+}

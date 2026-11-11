@@ -1,0 +1,399 @@
+{
+  "query": "\"chemical kinetics\" \"learning\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:48:33.355196+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 419,
+  "url": "https://api.github.com/search/repositories?q=%22chemical+kinetics%22+%22learning%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "SciML/JumpProcesses.jl",
+      "description": "Build and simulate jump equations like Gillespie simulations and jump diffusions with constant and state-dependent rates and mix with differential equations and scientific machine learning (SciML)",
+      "html_url": "https://github.com/SciML/JumpProcesses.jl",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 570281,
+      "fork": false,
+      "updated_at": "2026-11-11T05:47:53Z"
+    },
+    {
+      "full_name": "SciML/Catalyst.jl",
+      "description": "Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.",
+      "html_url": "https://github.com/SciML/Catalyst.jl",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 416581,
+      "fork": false,
+      "updated_at": "2026-11-09T13:00:10Z"
+    },
+    {
+      "full_name": "lento234/awesome-fluid-dynamics",
+      "description": "A curated list of repositories related to fluid dynamics.",
+      "html_url": "https://github.com/lento234/awesome-fluid-dynamics",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 348,
+      "fork": false,
+      "updated_at": "2026-10-29T16:41:30Z"
+    },
+    {
+      "full_name": "intelligent-algorithm-team/intelligent-combustion",
+      "description": null,
+      "html_url": "https://github.com/intelligent-algorithm-team/intelligent-combustion",
+      "license": null,
+      "size": 213034,
+      "fork": false,
+      "updated_at": "2026-11-10T03:12:37Z"
+    },
+    {
+      "full_name": "PredictiveIntelligenceLab/Long-time-Integration-PI-DeepONets",
+      "description": null,
+      "html_url": "https://github.com/PredictiveIntelligenceLab/Long-time-Integration-PI-DeepONets",
+      "license": null,
+      "size": 2412,
+      "fork": false,
+      "updated_at": "2026-08-24T10:26:58Z"
+    },
+    {
+      "full_name": "sagieppel/Chemical-kinetics-rate-equation-with-tensorflow",
+      "description": "Chemical kinetics with tensorflow. Use tensorflow deep learning platform to numerically calculate chemical rate equations for chemical kinetic systems with arbitrary number of reactions and components",
+      "html_url": "https://github.com/sagieppel/Chemical-kinetics-rate-equation-with-tensorflow",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 16,
+      "fork": false,
+      "updated_at": "2025-02-06T10:34:07Z"
+    },
+    {
+      "full_name": "maneetgoyal/chemical-kinetics-predictor",
+      "description": "A data-driven tool to predict the reaction order of homogeneous gas-phase reactions. Includes machine learning experiments on the NIST Chemical Kinetics Database.",
+      "html_url": "https://github.com/maneetgoyal/chemical-kinetics-predictor",
+      "license": null,
+      "size": 58603,
+      "fork": false,
+      "updated_at": "2026-07-11T08:09:36Z"
+    },
+    {
+      "full_name": "lmmentel/awesome-python-chemistry",
+      "description": "A curated list of Python packages related to chemistry ",
+      "html_url": "https://github.com/lmmentel/awesome-python-chemistry",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 241,
+      "fork": false,
+      "updated_at": "2026-11-06T19:37:20Z"
+    },
+    {
+      "full_name": "mariodeflorio/Stiff-Chemical-Kinetics",
+      "description": "Physics-Informed Neural Networks and Functional Interpolation for Stiff Chemical Kinetics",
+      "html_url": "https://github.com/mariodeflorio/Stiff-Chemical-Kinetics",
+      "license": null,
+      "size": 74,
+      "fork": false,
+      "updated_at": "2025-04-26T05:27:52Z"
+    },
+    {
+      "full_name": "wbierbower/awesome-physics",
+      "description": "🌌 A collaborative list of awesome software for exploring Physics concepts",
+      "html_url": "https://github.com/wbierbower/awesome-physics",
+      "license": null,
+      "size": 122,
+      "fork": false,
+      "updated_at": "2026-11-11T13:48:17Z"
+    },
+    {
+      "full_name": "kevingreenman/awesome-chemical-engineering-education",
+      "description": "A curated list of online chemical engineering education resources",
+      "html_url": "https://github.com/kevingreenman/awesome-chemical-engineering-education",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 66,
+      "fork": false,
+      "updated_at": "2026-11-08T17:27:44Z"
+    },
+    {
+      "full_name": "allardjun/Math227C",
+      "description": "Course notes for Math 227C Stochastic and Statistical Modeling for the Life Sciences, Spring 2020",
+      "html_url": "https://github.com/allardjun/Math227C",
+      "license": null,
+      "size": 245371,
+      "fork": false,
+      "updated_at": "2025-06-18T17:57:00Z"
+    },
+    {
+      "full_name": "silkemaes/MACE",
+      "description": "MACE, a Machine-learning Approach to Chemistry Emulation",
+      "html_url": "https://github.com/silkemaes/MACE",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 499911,
+      "fork": false,
+      "updated_at": "2026-11-04T09:37:38Z"
+    },
+    {
+      "full_name": "jherasdo/pythonic-chemistry",
+      "description": "The Beginner's Guide to Digital Chemistry",
+      "html_url": "https://github.com/jherasdo/pythonic-chemistry",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 6870,
+      "fork": false,
+      "updated_at": "2026-11-05T14:51:05Z"
+    },
+    {
+      "full_name": "usail-hkust/Awesome-Causality-Inspired-GNNs",
+      "description": "An awesome collection of causality-inspired graph neural networks.",
+      "html_url": "https://github.com/usail-hkust/Awesome-Causality-Inspired-GNNs",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1826,
+      "fork": false,
+      "updated_at": "2026-10-19T06:19:02Z"
+    },
+    {
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 471615,
+      "fork": false,
+      "updated_at": "2026-11-11T16:42:00Z"
+    },
+    {
+      "full_name": "thw1021/Code4CFD",
+      "description": "A curated list of repositories related to fluid dynamics.",
+      "html_url": "https://github.com/thw1021/Code4CFD",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 135,
+      "fork": false,
+      "updated_at": "2026-10-24T03:07:28Z"
+    },
+    {
+      "full_name": "SciML/Julia_Modeling_Workshop",
+      "description": "High-Performance Scientific Modeling with Julia and SciML",
+      "html_url": "https://github.com/SciML/Julia_Modeling_Workshop",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 12311,
+      "fork": false,
+      "updated_at": "2026-11-02T19:45:01Z"
+    },
+    {
+      "full_name": "somdattagoswami/Approximating-StiffKinetics",
+      "description": null,
+      "html_url": "https://github.com/somdattagoswami/Approximating-StiffKinetics",
+      "license": null,
+      "size": 6675,
+      "fork": false,
+      "updated_at": "2026-05-19T11:54:42Z"
+    },
+    {
+      "full_name": "deepcombustion/deepcombustion",
+      "description": null,
+      "html_url": "https://github.com/deepcombustion/deepcombustion",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 47141,
+      "fork": false,
+      "updated_at": "2024-11-04T06:25:54Z"
+    },
+    {
+      "full_name": "VotsmeierGroup/GlobalReactionNeuralNetwork",
+      "description": null,
+      "html_url": "https://github.com/VotsmeierGroup/GlobalReactionNeuralNetwork",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 6208,
+      "fork": false,
+      "updated_at": "2026-10-29T18:50:56Z"
+    },
+    {
+      "full_name": "sherrylixuecheng/awesome-ai4chem",
+      "description": "Awesome AI for chemistry papers",
+      "html_url": "https://github.com/sherrylixuecheng/awesome-ai4chem",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 252,
+      "fork": false,
+      "updated_at": "2026-08-29T09:18:54Z"
+    },
+    {
+      "full_name": "liusiyan/UQnet",
+      "description": null,
+      "html_url": "https://github.com/liusiyan/UQnet",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 46293,
+      "fork": false,
+      "updated_at": "2025-05-18T20:15:52Z"
+    },
+    {
+      "full_name": "JacksonBurns/astartes",
+      "description": "Better Data Splits for Machine Learning",
+      "html_url": "https://github.com/JacksonBurns/astartes",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 23871,
+      "fork": false,
+      "updated_at": "2026-11-07T00:59:29Z"
+    },
+    {
+      "full_name": "tsa2000/PINNs-CFD.py",
+      "description": "Physics-Informed Neural Network (PINN) framework for CFD simulations integrating mesh handling, fluid property evaluation (CoolProp/Cantera), and PyTorch-based PINN solver for Navier–Stokes and energy equations. Suitable for AI-enhanced CFD research and thermal energy applications.",
+      "html_url": "https://github.com/tsa2000/PINNs-CFD.py",
+      "license": null,
+      "size": 22,
+      "fork": false,
+      "updated_at": "2026-05-07T12:43:47Z"
+    },
+    {
+      "full_name": "victoraalves/06-325-Numerical-Methods-And-Machine-Learning-for-ChemE-Fall-2025",
+      "description": "Jupyter Notebooks for 06-325 - Numerical Methods and Machine Learning for Chemical Engineering",
+      "html_url": "https://github.com/victoraalves/06-325-Numerical-Methods-And-Machine-Learning-for-ChemE-Fall-2025",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 11042,
+      "fork": false,
+      "updated_at": "2025-11-02T20:48:11Z"
+    },
+    {
+      "full_name": "deepflame-ai/DFODE-kit",
+      "description": null,
+      "html_url": "https://github.com/deepflame-ai/DFODE-kit",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 86408,
+      "fork": false,
+      "updated_at": "2026-07-13T14:59:17Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "BattModels/DiffEC",
+      "description": "Differentiable Electrochemistry Simulation Supporting Diffusion, Migration and Convection",
+      "html_url": "https://github.com/BattModels/DiffEC",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 61782,
+      "fork": false,
+      "updated_at": "2026-06-21T02:28:59Z"
+    }
+  ]
+}

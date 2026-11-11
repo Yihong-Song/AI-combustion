@@ -1,0 +1,14 @@
+{
+  "repository": "andreanovoa/real-time-bias-aware-DA",
+  "url": "https://github.com/andreanovoa/real-time-bias-aware-DA",
+  "retrieved_at": "2026-11-11T16:48:47.938528+00:00",
+  "commit": "10d0a01fae5adf3c5e659231e9d4c0c2e68bce6a",
+  "readme_path": "evidence/upstream/andreanovoa__real-time-bias-aware-DA.readme.txt",
+  "readme_url": "https://github.com/andreanovoa/real-time-bias-aware-DA/blob/10d0a01fae5adf3c5e659231e9d4c0c2e68bce6a/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/andreanovoa__real-time-bias-aware-DA.license.txt",
+  "license_url": "https://github.com/andreanovoa/real-time-bias-aware-DA/blob/10d0a01fae5adf3c5e659231e9d4c0c2e68bce6a/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:07.934075+00:00"
+}

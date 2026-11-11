@@ -1,0 +1,375 @@
+{
+  "query": "combustion \"graph neural\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:47:11.594875+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 110,
+  "url": "https://api.github.com/search/repositories?q=combustion+%22graph+neural%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "zikribayraktar/Carbon_Capture_ML",
+      "description": "Survey of all published Carbon Capture ML papers, data, code and supplemental materials for the benefit of all humanity",
+      "html_url": "https://github.com/zikribayraktar/Carbon_Capture_ML",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 161,
+      "fork": false,
+      "updated_at": "2026-08-19T14:12:45Z"
+    },
+    {
+      "full_name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "html_url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 69,
+      "fork": false,
+      "updated_at": "2026-11-04T13:01:27Z"
+    },
+    {
+      "full_name": "AI4Electricity/Awesome-AI-for-Electricity",
+      "description": "Awesome AI for Electricity",
+      "html_url": "https://github.com/AI4Electricity/Awesome-AI-for-Electricity",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3117,
+      "fork": false,
+      "updated_at": "2026-11-02T18:48:23Z"
+    },
+    {
+      "full_name": "lmmentel/awesome-python-chemistry",
+      "description": "A curated list of Python packages related to chemistry ",
+      "html_url": "https://github.com/lmmentel/awesome-python-chemistry",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 241,
+      "fork": false,
+      "updated_at": "2026-11-06T19:37:20Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-pinns",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 507,
+      "fork": false,
+      "updated_at": "2026-11-11T05:40:41Z"
+    },
+    {
+      "full_name": "AI4SIM/model-collection",
+      "description": "This project contains a collection of deep learning models developed by the AI4Sim team with various partners. This is structured on the basis of use-cases providing canonical PyTorch Lightning pipelines allowing to train neural network models that are able to surrogate various physical processes.",
+      "html_url": "https://github.com/AI4SIM/model-collection",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 27371,
+      "fork": false,
+      "updated_at": "2026-10-20T07:14:15Z"
+    },
+    {
+      "full_name": "lizhihao2022/Awesome-AI4PDE",
+      "description": "Awesome AI4PDE is a curated list of resources and literature focusing on the intersection of Artificial Intelligence and Partial Differential Equations (PDEs).",
+      "html_url": "https://github.com/lizhihao2022/Awesome-AI4PDE",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 359,
+      "fork": false,
+      "updated_at": "2026-11-08T14:40:02Z"
+    },
+    {
+      "full_name": "XikunHuang/daily_paper",
+      "description": "Automatically Update Papers Daily using Github Actions",
+      "html_url": "https://github.com/XikunHuang/daily_paper",
+      "license": null,
+      "size": 34754,
+      "fork": false,
+      "updated_at": "2026-01-26T02:20:38Z"
+    },
+    {
+      "full_name": "HICAI-ZJU/SciKGs",
+      "description": "A Survey on Knowledge Graphs in AI for Science",
+      "html_url": "https://github.com/HICAI-ZJU/SciKGs",
+      "license": null,
+      "size": 26420,
+      "fork": false,
+      "updated_at": "2026-11-09T12:16:57Z"
+    },
+    {
+      "full_name": "kimimgo/awesome-ai-cae",
+      "description": "A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers.",
+      "html_url": "https://github.com/kimimgo/awesome-ai-cae",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 1961,
+      "fork": false,
+      "updated_at": "2026-11-10T07:23:00Z"
+    },
+    {
+      "full_name": "JackBeerman/G-PARC",
+      "description": "G-PARC: physics-aware graph neural networks for spatiotemporal dynamics on unstructured meshes (Scientific Reports, 2026)",
+      "html_url": "https://github.com/JackBeerman/G-PARC",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 959825,
+      "fork": false,
+      "updated_at": "2026-09-24T22:22:22Z"
+    },
+    {
+      "full_name": "Alexander-wu/DGODE_ood",
+      "description": "[ICML 2024]",
+      "html_url": "https://github.com/Alexander-wu/DGODE_ood",
+      "license": null,
+      "size": 22546,
+      "fork": false,
+      "updated_at": "2026-07-19T03:29:20Z"
+    },
+    {
+      "full_name": "gbstack/AAAI-2022-papers",
+      "description": "AAAI 2022 papers with code",
+      "html_url": "https://github.com/gbstack/AAAI-2022-papers",
+      "license": null,
+      "size": 74,
+      "fork": false,
+      "updated_at": "2026-11-02T06:04:52Z"
+    },
+    {
+      "full_name": "xgxgnpu/Daily-GasTurbineML",
+      "description": "Daily arXiv tracker for Physics-Informed Neural Networks & Deep Learning applied to Gas Turbines and Turbomachinery",
+      "html_url": "https://github.com/xgxgnpu/Daily-GasTurbineML",
+      "license": null,
+      "size": 771,
+      "fork": false,
+      "updated_at": "2026-04-25T08:55:35Z"
+    },
+    {
+      "full_name": "BasemEr/SAF_GNN",
+      "description": "Graph neural network for multi-task prediction of sustainable aviation fuel properties",
+      "html_url": "https://github.com/BasemEr/SAF_GNN",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 49,
+      "fork": false,
+      "updated_at": "2026-11-07T14:42:36Z"
+    },
+    {
+      "full_name": "ferngonzalezp/AI-4-CFD-reading-list",
+      "description": null,
+      "html_url": "https://github.com/ferngonzalezp/AI-4-CFD-reading-list",
+      "license": null,
+      "size": 21,
+      "fork": false,
+      "updated_at": "2024-12-06T11:03:13Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-kan",
+      "description": "A curated collection of KAN (Kolmogorov-Arnold Network) resources—libraries, projects, tutorials, papers, and more—for researchers and developers in the field.",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-kan",
+      "license": null,
+      "size": 970,
+      "fork": false,
+      "updated_at": "2026-11-11T04:40:34Z"
+    },
+    {
+      "full_name": "njzjz/njzjz",
+      "description": null,
+      "html_url": "https://github.com/njzjz/njzjz",
+      "license": null,
+      "size": 31146,
+      "fork": false,
+      "updated_at": "2026-11-11T01:02:10Z"
+    },
+    {
+      "full_name": "kotori-y/qgem-torch",
+      "description": null,
+      "html_url": "https://github.com/kotori-y/qgem-torch",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 211,
+      "fork": false,
+      "updated_at": "2026-04-27T07:10:40Z"
+    },
+    {
+      "full_name": "Kuldaen/rheos",
+      "description": null,
+      "html_url": "https://github.com/Kuldaen/rheos",
+      "license": null,
+      "size": 231,
+      "fork": false,
+      "updated_at": "2026-01-31T11:06:58Z"
+    },
+    {
+      "full_name": "arnaou/fair_gc",
+      "description": "A repository for \"Fairer Benchmark of Group Contribution and Machine Learning Models for Property Prediction: A New Data Splitting Strategy\"",
+      "html_url": "https://github.com/arnaou/fair_gc",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 421705,
+      "fork": false,
+      "updated_at": "2025-07-28T14:38:58Z"
+    },
+    {
+      "full_name": "JohnsonKlose/awesome-science-foundation-model",
+      "description": "Curated list of 1,000+ scientific foundation models spanning life sciences, chemistry, physics, medicine, and more.",
+      "html_url": "https://github.com/JohnsonKlose/awesome-science-foundation-model",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 3314,
+      "fork": false,
+      "updated_at": "2026-10-31T16:33:52Z"
+    },
+    {
+      "full_name": "leelige/article",
+      "description": null,
+      "html_url": "https://github.com/leelige/article",
+      "license": null,
+      "size": 4155,
+      "fork": false,
+      "updated_at": "2026-11-11T16:40:41Z"
+    },
+    {
+      "full_name": "AbhayRaghavendra/cfd-example",
+      "description": null,
+      "html_url": "https://github.com/AbhayRaghavendra/cfd-example",
+      "license": null,
+      "size": 17,
+      "fork": false,
+      "updated_at": "2026-11-08T20:01:25Z"
+    },
+    {
+      "full_name": "domischmidt/lung-cancer-gnn",
+      "description": "Graph Neural Networks for Knowledge Discovery in Lung Cancer Data",
+      "html_url": "https://github.com/domischmidt/lung-cancer-gnn",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 152746,
+      "fork": false,
+      "updated_at": "2026-09-21T13:53:11Z"
+    },
+    {
+      "full_name": "RodolfosmFreitas/deepfuel",
+      "description": null,
+      "html_url": "https://github.com/RodolfosmFreitas/deepfuel",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 18368,
+      "fork": false,
+      "updated_at": "2026-06-03T09:32:07Z"
+    },
+    {
+      "full_name": "ORNL/HeCBench",
+      "description": null,
+      "html_url": "https://github.com/ORNL/HeCBench",
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "size": 210685,
+      "fork": false,
+      "updated_at": "2026-11-10T15:10:06Z"
+    },
+    {
+      "full_name": "chenshuo-aiden-wang/chenshuo-aiden-wang",
+      "description": "Resume",
+      "html_url": "https://github.com/chenshuo-aiden-wang/chenshuo-aiden-wang",
+      "license": null,
+      "size": 290,
+      "fork": false,
+      "updated_at": "2026-08-05T02:00:06Z"
+    }
+  ]
+}

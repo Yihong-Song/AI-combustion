@@ -1,0 +1,14 @@
+{
+  "repository": "NatLabRockies/mluq-prop",
+  "url": "https://github.com/NatLabRockies/mluq-prop",
+  "retrieved_at": "2026-11-11T16:49:28.648607+00:00",
+  "commit": "a4e0ae008fc6edb343967388bab5c7166dd98944",
+  "readme_path": "evidence/upstream/NatLabRockies__mluq-prop.readme.txt",
+  "readme_url": "https://github.com/NatLabRockies/mluq-prop/blob/a4e0ae008fc6edb343967388bab5c7166dd98944/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/NatLabRockies__mluq-prop.license.txt",
+  "license_url": "https://github.com/NatLabRockies/mluq-prop/blob/a4e0ae008fc6edb343967388bab5c7166dd98944/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "BSD-3-Clause-Clear",
+  "api_checked_at": "2026-11-11T16:49:33.154532+00:00"
+}

@@ -1,0 +1,240 @@
+{
+  "query": "flame \"neural network\" \"Combustion and Flame\" in:readme",
+  "retrieved_at": "2026-11-11T16:48:24.896305+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 19,
+  "url": "https://api.github.com/search/repositories?q=flame+%22neural+network%22+%22Combustion+and+Flame%22+in%3Areadme&per_page=30",
+  "items": [
+    {
+      "full_name": "JieSun-pku/detonationFoam",
+      "description": "detonationFoam: An open-source solver for simulation of gaseous detonation based on OpenFOAM.",
+      "html_url": "https://github.com/JieSun-pku/detonationFoam",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 8626,
+      "fork": false,
+      "updated_at": "2026-11-05T03:03:57Z"
+    },
+    {
+      "full_name": "DENG-MIT/CRNN",
+      "description": "Chemical Reaction Neural Network",
+      "html_url": "https://github.com/DENG-MIT/CRNN",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 40351,
+      "fork": false,
+      "updated_at": "2026-10-28T02:39:42Z"
+    },
+    {
+      "full_name": "tianhanz/DNN-Models-for-Chemical-Kinetics",
+      "description": null,
+      "html_url": "https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 32863,
+      "fork": false,
+      "updated_at": "2026-11-10T03:12:32Z"
+    },
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "DENG-MIT/Biomass.jl",
+      "description": "Modeling Biomass Pyrolysis in Julia",
+      "html_url": "https://github.com/DENG-MIT/Biomass.jl",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 93,
+      "fork": false,
+      "updated_at": "2026-11-09T13:09:36Z"
+    },
+    {
+      "full_name": "gdalessi/OpenMORe",
+      "description": "Python libraries (NumPy-based) to perform model order reduction, clustering and data analysis for combustion and aerothermochemistry data",
+      "html_url": "https://github.com/gdalessi/OpenMORe",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 16715,
+      "fork": false,
+      "updated_at": "2026-01-27T21:17:38Z"
+    },
+    {
+      "full_name": "ctftamu/SL-GPS",
+      "description": "Repository to create neural network architecture for dynamic chemistry reduction based on Global Pathway Selection",
+      "html_url": "https://github.com/ctftamu/SL-GPS",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 77971,
+      "fork": false,
+      "updated_at": "2026-10-22T21:25:50Z"
+    },
+    {
+      "full_name": "Seauagain/DeePODE",
+      "description": "The source code for the paper \"Solving multiscale dynamical systems by deep learning\".",
+      "html_url": "https://github.com/Seauagain/DeePODE",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 17100,
+      "fork": false,
+      "updated_at": "2026-09-13T17:21:13Z"
+    },
+    {
+      "full_name": "dongwd016/FFCM2_Website",
+      "description": "Website of FFCM-2, a data-assimilated, uncertainty-minimized reaction model for H2, CO, and C1-C4 hydrocarbon combustion",
+      "html_url": "https://github.com/dongwd016/FFCM2_Website",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 491518,
+      "fork": false,
+      "updated_at": "2026-10-04T03:28:18Z"
+    },
+    {
+      "full_name": "myguixx/detonationFoam",
+      "description": "detonationFoam: An open-source solver for simulation of gaseous detonation based on OpenFOAM.",
+      "html_url": "https://github.com/myguixx/detonationFoam",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 8577,
+      "fork": false,
+      "updated_at": "2026-07-21T13:59:44Z"
+    },
+    {
+      "full_name": "gdalessi/adaptiveChemistry",
+      "description": null,
+      "html_url": "https://github.com/gdalessi/adaptiveChemistry",
+      "license": null,
+      "size": 22,
+      "fork": false,
+      "updated_at": "2022-07-10T17:52:16Z"
+    },
+    {
+      "full_name": "AbhayRaghavendra/cfd-example",
+      "description": null,
+      "html_url": "https://github.com/AbhayRaghavendra/cfd-example",
+      "license": null,
+      "size": 17,
+      "fork": false,
+      "updated_at": "2026-11-08T20:01:25Z"
+    },
+    {
+      "full_name": "pabloramsj/Chemical-Kinetics-NN",
+      "description": null,
+      "html_url": "https://github.com/pabloramsj/Chemical-Kinetics-NN",
+      "license": null,
+      "size": 70,
+      "fork": false,
+      "updated_at": "2026-06-26T17:57:39Z"
+    },
+    {
+      "full_name": "cristianlacey/data-based-dissipation-rates",
+      "description": "DNN for manifold modeling of premixed turbulent combustion.",
+      "html_url": "https://github.com/cristianlacey/data-based-dissipation-rates",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 355,
+      "fork": false,
+      "updated_at": "2025-06-09T02:15:09Z"
+    },
+    {
+      "full_name": "jlakhlili/ai-wildfire",
+      "description": "Artificial intelligence for wildfire prediction",
+      "html_url": "https://github.com/jlakhlili/ai-wildfire",
+      "license": null,
+      "size": 794,
+      "fork": false,
+      "updated_at": "2022-01-26T00:49:47Z"
+    },
+    {
+      "full_name": "cristianlacey/data-based-multi-modal-filtered-dissipation-rates",
+      "description": "DNN for manifold modeling of multi-modal turbulent combustion.",
+      "html_url": "https://github.com/cristianlacey/data-based-multi-modal-filtered-dissipation-rates",
+      "license": null,
+      "size": 309,
+      "fork": false,
+      "updated_at": "2026-04-08T16:43:07Z"
+    },
+    {
+      "full_name": "yaoyuzhang1/yaoyuzhang4.github.io",
+      "description": null,
+      "html_url": "https://github.com/yaoyuzhang1/yaoyuzhang4.github.io",
+      "license": null,
+      "size": 138,
+      "fork": false,
+      "updated_at": "2025-01-20T03:28:43Z"
+    },
+    {
+      "full_name": "Nemorit/quantumengineai",
+      "description": null,
+      "html_url": "https://github.com/Nemorit/quantumengineai",
+      "license": null,
+      "size": 2962,
+      "fork": false,
+      "updated_at": "2025-10-21T11:15:50Z"
+    },
+    {
+      "full_name": "hiddendevj/EI-COMPENDEX-SOURCE-LIST",
+      "description": "2019年Ei Compendex收录出版物期刊目录，更新于9月22日",
+      "html_url": "https://github.com/hiddendevj/EI-COMPENDEX-SOURCE-LIST",
+      "license": null,
+      "size": 615,
+      "fork": false,
+      "updated_at": "2025-09-04T03:44:53Z"
+    }
+  ]
+}

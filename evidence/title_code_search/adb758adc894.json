@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.combustflame.2025.114148",
+  "title": "Machine learning tabulation of thermochemistry for the PAH mechanism and applications to laminar and turbulent sooting flames",
+  "query": "\"Machine learning tabulation of thermochemistry for the PAH mechanism and applications to\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:51:41.463588+00:00",
+  "total_count": 0,
+  "items": []
+}

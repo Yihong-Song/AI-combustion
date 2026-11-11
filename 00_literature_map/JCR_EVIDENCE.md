@@ -8,21 +8,26 @@
 | Applications in Energy and Combustion Science | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=30136)；身份匹配 |
 | Applied Energy | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=729)；身份匹配 |
 | Applied Thermal Engineering | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=766)；身份匹配 |
+| Chaos: An Interdisciplinary Journal of Nonlinear Science | ? | 否 | 未知 | 未取得；身份/数据待核实 |
 | Chemical Engineering Journal | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1639)；身份匹配 |
 | Combustion Science and Technology | Q3 | 否 | 未知 | [LetPub](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1903)；身份匹配 |
 | Combustion Theory and Modelling | Q3 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/1904)；身份匹配 |
 | Combustion and Flame | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901)；身份匹配 |
+| Computer Methods in Applied Mechanics and Engineering | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/1988)；身份匹配 |
 | Computers & Chemical Engineering | ? | 否 | 未知 | 未取得；身份/数据待核实 |
 | Energy | ? | 否 | 未知 | 未取得；身份/数据待核实 |
 | Energy & Fuels | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/2498)；身份匹配 |
 | Energy Conversion and Management | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/2500)；身份匹配 |
+| Engineering Applications of Artificial Intelligence | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/2513)；身份匹配 |
 | Experimental Thermal and Fluid Science | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/2777)；身份匹配 |
 | Experiments in Fluids | Q2 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/2778)；身份匹配 |
 | Flow, Turbulence and Combustion | ? | 否 | 未知 | 未取得；身份/数据待核实 |
 | Fuel | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=2950)；身份匹配 |
+| International Journal of Engine Research | Q3 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/3727)；身份匹配 |
 | International Journal of Hydrogen Energy | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/3771)；身份匹配 |
 | Journal of Computational Physics | ? | 否 | 未知 | 未取得；身份/数据待核实 |
 | Journal of Quantitative Spectroscopy and Radiative Transfer | ? | 否 | 未知 | 未取得；身份/数据待核实 |
+| Journal of Sound and Vibration | Q1 | 否 | 未知 | [LetPub](https://www.letpub.com/journal-selector/journal/5164)；身份匹配 |
 | Measurement | ? | 否 | 未知 | 未取得；身份/数据待核实 |
 | Mechanical Systems and Signal Processing | ? | 否 | 未知 | 未取得；身份/数据待核实 |
 | Nature Communications | ? | 否 | 未知 | 未取得；身份/数据待核实 |
@@ -98,6 +103,14 @@
 | ENGINEERING, MULTIDISCIPLINARY | SCIE | Q1 | 20/179 |
 | THERMODYNAMICS | SCIE | Q1 | 12/78 |
 
+## Computer Methods in Applied Mechanics and Engineering
+
+| 类别 | 集合 | 分区线索 | 排名 |
+|---|---|---|---|
+| ENGINEERING, MULTIDISCIPLINARY | SCIE | Q1 | 7/179 |
+| MATHEMATICS, INTERDISCIPLINARY APPLICATIONS | SCIE | Q1 | 3/137 |
+| MECHANICS | SCIE | Q1 | 9/172 |
+
 ## Energy & Fuels
 
 | 类别 | 集合 | 分区线索 | 排名 |
@@ -112,6 +125,15 @@
 | ENERGY & FUELS | SCIE | Q1 | 22/191 |
 | MECHANICS | SCIE | Q1 | 4/172 |
 | THERMODYNAMICS | SCIE | Q1 | 2/78 |
+
+## Engineering Applications of Artificial Intelligence
+
+| 类别 | 集合 | 分区线索 | 排名 |
+|---|---|---|---|
+| AUTOMATION & CONTROL SYSTEMS | SCIE | Q1 | 9/88 |
+| COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE | SCIE | Q1 | 30/210 |
+| ENGINEERING, ELECTRICAL & ELECTRONIC | SCIE | Q1 | 28/370 |
+| ENGINEERING, MULTIDISCIPLINARY | SCIE | Q1 | 6/179 |
 
 ## Experimental Thermal and Fluid Science
 
@@ -135,6 +157,14 @@
 | ENERGY & FUELS | SCIE | Q2 | 51/191 |
 | ENGINEERING, CHEMICAL | SCIE | Q1 | 31/183 |
 
+## International Journal of Engine Research
+
+| 类别 | 集合 | 分区线索 | 排名 |
+|---|---|---|---|
+| ENGINEERING, MECHANICAL | SCIE | Q3 | 103/184 |
+| THERMODYNAMICS | SCIE | Q3 | 48/78 |
+| TRANSPORTATION SCIENCE & TECHNOLOGY | SCIE | Q3 | 52/80 |
+
 ## International Journal of Hydrogen Energy
 
 | 类别 | 集合 | 分区线索 | 排名 |
@@ -142,6 +172,14 @@
 | CHEMISTRY, PHYSICAL | SCIE | Q1 | 39/191 |
 | ELECTROCHEMISTRY | SCIE | Q1 | 6/44 |
 | ENERGY & FUELS | SCIE | Q1 | 40/191 |
+
+## Journal of Sound and Vibration
+
+| 类别 | 集合 | 分区线索 | 排名 |
+|---|---|---|---|
+| ACOUSTICS | SCIE | Q1 | 2/41 |
+| ENGINEERING, MECHANICAL | SCIE | Q1 | 26/184 |
+| MECHANICS | SCIE | Q1 | 19/172 |
 
 ## Proceedings of the Combustion Institute
 

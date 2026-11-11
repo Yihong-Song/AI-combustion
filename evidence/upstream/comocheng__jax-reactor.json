@@ -1,0 +1,14 @@
+{
+  "repository": "comocheng/jax-reactor",
+  "url": "https://github.com/comocheng/jax-reactor",
+  "retrieved_at": "2026-11-11T16:48:47.937504+00:00",
+  "commit": "2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2",
+  "readme_path": "evidence/upstream/comocheng__jax-reactor.readme.txt",
+  "readme_url": "https://github.com/comocheng/jax-reactor/blob/2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/comocheng__jax-reactor.license.txt",
+  "license_url": "https://github.com/comocheng/jax-reactor/blob/2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:07.579994+00:00"
+}

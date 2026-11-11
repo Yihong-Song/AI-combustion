@@ -1,0 +1,11 @@
+{
+  "repository": "deepflame-ai/flamepilot",
+  "url": "https://github.com/deepflame-ai/flamepilot",
+  "retrieved_at": "2026-11-11T16:47:41.701138+00:00",
+  "commit": "936012622eec82b3ad6f4e1c74bc9279f948d27d",
+  "readme_path": "evidence/upstream/deepflame-ai__flamepilot.readme.txt",
+  "readme_url": "https://github.com/deepflame-ai/flamepilot/blob/936012622eec82b3ad6f4e1c74bc9279f948d27d/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api_or_root_tree",
+  "api_checked_at": "2026-11-11T16:47:52.886787+00:00"
+}

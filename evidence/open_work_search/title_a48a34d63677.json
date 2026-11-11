@@ -1,0 +1,23 @@
+{
+  "title_query": "Physics-informed neural networks and functional interpolation for stiff chemical kinetics",
+  "retrieved_at": "2026-11-11T16:51:44.402702+00:00",
+  "url": "https://api.crossref.org/works?query.title=Physics-informed+neural+networks+and+functional+interpolation+for+stiff+chemical+kinetics&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1063/5.0086649",
+      "title": "Physics-informed neural networks and functional interpolation for stiff chemical kinetics",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1021/acs.jpca.2c06513",
+      "title": "Multiscale Physics-Informed Neural Networks for Stiff Chemical Kinetics",
+      "score": 0.7464788732394366
+    },
+    {
+      "doi": "10.1021/acs.jpca.1c05102",
+      "title": "Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics",
+      "score": 0.7428571428571429
+    }
+  ],
+  "matched_doi": "10.1063/5.0086649"
+}

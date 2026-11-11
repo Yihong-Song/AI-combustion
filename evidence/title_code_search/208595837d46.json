@@ -1,0 +1,24 @@
+{
+  "doi": "10.1016/j.fuel.2026.138904",
+  "title": "Enhancing deep learning of ammonia/natural gas combustion kinetics via physics-aware data augmentation and scale separation",
+  "query": "\"Enhancing deep learning of ammonia natural gas combustion kinetics via physics-aware data\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:43:33.815461+00:00",
+  "total_count": 1,
+  "items": [
+    {
+      "full_name": "deepflame-ai/DFODE-kit",
+      "html_url": "https://github.com/deepflame-ai/DFODE-kit",
+      "description": null,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 86408,
+      "fork": false
+    }
+  ]
+}

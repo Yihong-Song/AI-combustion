@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.proci.2026.106659",
+  "title": "Multispectral infrared imaging and physics-informed neural network retrieval of soot and gas fields using an SVD-based surrogate radiative model",
+  "query": "\"Multispectral infrared imaging and physics-informed neural network retrieval of soot and gas\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:48:12.647811+00:00",
+  "total_count": 0,
+  "items": []
+}

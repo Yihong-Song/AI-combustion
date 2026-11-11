@@ -1,0 +1,256 @@
+{
+  "id": "Seauagain__GBCT",
+  "repository": "Seauagain/GBCT",
+  "url": "https://github.com/Seauagain/GBCT",
+  "commit": "982e58954af5c5e8e3860d3057363b83bcbaeac6",
+  "retrieved_at": "2026-11-11T16:49:32.943344+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "输出缩放层处理多尺度 ODE；arXiv:2512.05685。README 对完整数据、权重与脚本写 coming soon，不将承诺内容标成已收纳。MIT。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/Seauagain__GBCT.json",
+  "license_url": "https://github.com/Seauagain/GBCT/blob/982e58954af5c5e8e3860d3057363b83bcbaeac6/LICENSE",
+  "license_sha256": "a0a35ee2bf735255029ae996bf72786d589baa32dd1bb695b2cc735c1dd8fb11",
+  "pinned_url": "https://github.com/Seauagain/GBCT/tree/982e58954af5c5e8e3860d3057363b83bcbaeac6",
+  "archive_url": "https://api.github.com/repos/Seauagain/GBCT/tarball/982e58954af5c5e8e3860d3057363b83bcbaeac6",
+  "readme_source": "https://github.com/Seauagain/GBCT/blob/982e58954af5c5e8e3860d3057363b83bcbaeac6/README.md",
+  "archive": {
+    "repository": "Seauagain/GBCT",
+    "commit": "982e58954af5c5e8e3860d3057363b83bcbaeac6",
+    "source_url": "https://api.github.com/repos/Seauagain/GBCT/tarball/982e58954af5c5e8e3860d3057363b83bcbaeac6",
+    "retrieved_at": "2026-11-11T17:00:57.575796+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/Seauagain/GBCT/legacy.tar.gz/982e58954af5c5e8e3860d3057363b83bcbaeac6",
+    "status": "downloaded",
+    "path": "code_packages/Seauagain__GBCT/982e58954af5.tar.gz",
+    "bytes": 1715476,
+    "sha256": "cb9634d927a1e78ee17354fc4328148e83afcb4982530f5c45f22c549a982551"
+  },
+  "collection_status": "source_archive_collected",
+  "source_snapshot": {
+    "status": "collected",
+    "collection_type": "partial_source_snapshot",
+    "repository": "Seauagain/GBCT",
+    "commit": "982e58954af5c5e8e3860d3057363b83bcbaeac6",
+    "date": "2026-11-11",
+    "path": "code_packages/Seauagain__GBCT/982e58954af5-source-only.tar.gz",
+    "bytes": 60067,
+    "sha256": "8e81e9888cd451dd3ad78e5bd30a6aa1e63d54a3d7fd4b4687371b93423c5ea4",
+    "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+    "files": [
+      {
+        "path": "LICENSE",
+        "git_blob_sha": "516ba3e9838b3a5aca866846c93d8b1fb4f7988f",
+        "sha256": "a0a35ee2bf735255029ae996bf72786d589baa32dd1bb695b2cc735c1dd8fb11",
+        "bytes": 1066
+      },
+      {
+        "path": "README.md",
+        "git_blob_sha": "4fc58a88dcafcbbac629206db97ba5a887201e64",
+        "sha256": "e1bee247507a5da7f039c5c0f8d2e9d49fb422ec7ea3d291840597c3def732fa",
+        "bytes": 4782
+      },
+      {
+        "path": "deepode/LICENSE",
+        "git_blob_sha": "33abf106eb173da452c908245112fd7ab9243cd5",
+        "sha256": "bb997d56dad477b06cdc0e84f50a5536e4f8f964be7514de25920397d87f60f9",
+        "bytes": 1121
+      },
+      {
+        "path": "deepode/__init__.py",
+        "git_blob_sha": "7301f64c729ce0bef4aac6ae82d98ad04267c309",
+        "sha256": "a50495d8cadcfe6b5e9e87ff7af2cd0178fd39fbb9b598c9e0175a4fcb13532c",
+        "bytes": 96
+      },
+      {
+        "path": "deepode/__version__.py",
+        "git_blob_sha": "708e7436e3946a60132b1bc34fd87a59742d26b9",
+        "sha256": "d2995a87f05ded4ec5e183c9dd964c30407d5ce83c4fa295d7a1f943b2d929a0",
+        "bytes": 161
+      },
+      {
+        "path": "deepode/nn/__init__.py",
+        "git_blob_sha": "3276376f525754bc743fb184f711e5c8a119122e",
+        "sha256": "a73e03d85513f6d976c67cce7896adc3381ebece7dda6788980214492b80e816",
+        "bytes": 110
+      },
+      {
+        "path": "deepode/nn/config.py",
+        "git_blob_sha": "d9847607821d7f2e838cf4e40f964196e453721c",
+        "sha256": "c0942b2e78f8e45207297f3b5e6f357a5b7aec8d95124253afebaa078d014d31",
+        "bytes": 5939
+      },
+      {
+        "path": "deepode/nn/data_processor.py",
+        "git_blob_sha": "c029936ce2e1b6b5d91cbf1be5b1af026ccafddd",
+        "sha256": "5c10b4053bdf37b508d5999bbd4e4becfea0640a51a058b5052ea2d3b8dd1c78",
+        "bytes": 2103
+      },
+      {
+        "path": "deepode/nn/dataloader.py",
+        "git_blob_sha": "21a57e8322144c6f6ed56972da1d1169c4e968ae",
+        "sha256": "13f0d4efb91ccd6917a5dba4c63eae1e1c4a51a0ac2de97273219b4d2e7b46b8",
+        "bytes": 8003
+      },
+      {
+        "path": "deepode/nn/networks.py",
+        "git_blob_sha": "0aa61aaaeda94ae4dd2a135d7876b2133fb1451e",
+        "sha256": "66d79012ac72f291cb907014fb7844fbc5f5f418de0340768abc2ef219a723a0",
+        "bytes": 4425
+      },
+      {
+        "path": "deepode/nn/predictor.py",
+        "git_blob_sha": "16f4e8251f43cd13975394c77fd1a7aac3e83f46",
+        "sha256": "5ef59184be563fd784f4b2e6cc8948852a1d35c1be60d384754d101bd4112be2",
+        "bytes": 33803
+      },
+      {
+        "path": "deepode/nn/trainer.py",
+        "git_blob_sha": "cbdfd4a91698ec1cd73cec527cfd22cf6b874eab",
+        "sha256": "66714e2e01cdc36a5c7cbcb7764cb4419d283131c1801a703474c9add9785f80",
+        "bytes": 21797
+      },
+      {
+        "path": "deepode/nn/utils.py",
+        "git_blob_sha": "fb2e1b6eb75d166ef34d3ba0ff04690286b57bb3",
+        "sha256": "aa7ad57264220a3b5f37177820cb938e2a0cf6246e1ebb769b0514fb9815e7b5",
+        "bytes": 3643
+      },
+      {
+        "path": "deepode/sampling/CanteraTools.py",
+        "git_blob_sha": "6e5aee01813e911271468dc374819efb02391d62",
+        "sha256": "a15755cac38737607657d0259560052b76c0b5f75f6c41081e844f089518d377",
+        "bytes": 17933
+      },
+      {
+        "path": "deepode/sampling/DataProcess.py",
+        "git_blob_sha": "1b04f94de801cd9a22c8f66feef19e2dc9170938",
+        "sha256": "06b684e8630cdc04d749134f4638e5a84edf86b18bdd01100949f48cd9c1492e",
+        "bytes": 14028
+      },
+      {
+        "path": "deepode/sampling/SampleMethod.py",
+        "git_blob_sha": "41b9263cd89c29b2b50fd01f51f647469b2f4480",
+        "sha256": "eab606b96128ef28ac2f60238e24d88ffd12f189b7f91d82fd1f576273175949",
+        "bytes": 32563
+      },
+      {
+        "path": "deepode/sampling/VisualArt.py",
+        "git_blob_sha": "b0e5ccd264d2440e254f818e3bd50e4c32c2a087",
+        "sha256": "97ccbe2ff369eb277adcbafc8bd4716f42ac80434f355910afb1107af2e49956",
+        "bytes": 24131
+      },
+      {
+        "path": "deepode/sampling/__init__.py",
+        "git_blob_sha": "e082b6c9011a3afc74a892bec80d78019d36b26d",
+        "sha256": "2a2ca373b8743223656aa7983f5c8ae7db53bba44c290ff8167273a6b1056581",
+        "bytes": 535
+      },
+      {
+        "path": "deepode/sampling/utils_data.py",
+        "git_blob_sha": "a97e0e1fa38acc543505b70971b72002abe3a480",
+        "sha256": "b181c74ec9cf1d83976f2bed481673977e0ac210eb5b089c2117822e266b2af8",
+        "bytes": 5239
+      },
+      {
+        "path": "deepode/setup.py",
+        "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "bytes": 0
+      },
+      {
+        "path": "deepode/tools/__init__.py",
+        "git_blob_sha": "fa569b5825eb6b7092eccdd17f53724c3521a437",
+        "sha256": "898d9150debfca59fe18475ceafa0e8c48df8067e46a618f54bdbf505d70dc5b",
+        "bytes": 66
+      },
+      {
+        "path": "deepode/tools/adiabatic_flame.py",
+        "git_blob_sha": "7eed64964fe6cab29fc92cf72a6613a3cb358ec5",
+        "sha256": "63b7850087bbe9758fb3c29709a83f6e25c430972952e50465cb14560d1cd98b",
+        "bytes": 16962
+      },
+      {
+        "path": "deepode/tools/ct2foam.py",
+        "git_blob_sha": "19478ba07564bd07f16f49dced9512d6346ca199",
+        "sha256": "73a185c8ae56f4ee7d2227731b06f669a7686a93d7e0724bdf4f746ff0be010e",
+        "bytes": 3230
+      },
+      {
+        "path": "deepode/tools/mechanism_convert.py",
+        "git_blob_sha": "d31444dd13d987e41f2666328b7518a0dc058a6c",
+        "sha256": "9edf39c26ae31d2506887b9fff97d15b8ec499dad00bf004dd129753b2584b0e",
+        "bytes": 17205
+      },
+      {
+        "path": "deepode/tools/yaml2ck.py",
+        "git_blob_sha": "dc683071e8a00f1f66ab120e4e1ecd9257dc1ff5",
+        "sha256": "65d6df2569d683d8ad10288f31bd5494a6dca73a0909b1bf484ed976041b45ae",
+        "bytes": 3061
+      },
+      {
+        "path": "deepode/tools/yaml2xml.py",
+        "git_blob_sha": "74a5eb9663484a8762dc19fd5df94478f53a824a",
+        "sha256": "4d0da71a91f3266d294be3e8aa484809ef5301433845663b259c25b7d5e8a22e",
+        "bytes": 3162
+      },
+      {
+        "path": "deepode/utils/load_config.py",
+        "git_blob_sha": "a4f679a862a54fc2983164ddc5858b3aeff7e10f",
+        "sha256": "1e2992d8d263ac20721a9b9b6dd89d6bb297dddbfe9b04165b9cd95eb548be21",
+        "bytes": 478
+      },
+      {
+        "path": "deepode/utils/parser.py",
+        "git_blob_sha": "74358e62bb015164b5b177bdf0ca8722a3cf6139",
+        "sha256": "a424de943270c3e9e0b015b5295edccda9f93e434a16a52b55ca508d5e8724fb",
+        "bytes": 3105
+      },
+      {
+        "path": "kinetics/drm19.yaml",
+        "git_blob_sha": "321c72c1490ccae0b32d80421d91f28d5af64fc1",
+        "sha256": "7659705d4f83de131f5d62d47bad9a0da23851a7649229bebafc0c132a1d0c66",
+        "bytes": 22010
+      },
+      {
+        "path": "pred.py",
+        "git_blob_sha": "c5d6fa2df4b22d8d6ae19e9732e254c187428cf4",
+        "sha256": "dfafb61e232f27c1d6053719c5d5a3ddc49bfa7d8422d5a81fe8ba525b42b443",
+        "bytes": 12026
+      },
+      {
+        "path": "train.py",
+        "git_blob_sha": "494d2a43a2da105953d98f7d3536b4ae8f3c44ea",
+        "sha256": "382ee280ea3a0e977e53d71c87fffc643dac733b843fe9cead202123b3c3847e",
+        "bytes": 1306
+      }
+    ],
+    "excluded_paths": [
+      ".gitignore",
+      "assets",
+      "assets/img",
+      "assets/img/Fig_1d_nuclear_all.png",
+      "assets/img/Fig_analysis_train.png",
+      "assets/img/fig_2d_turbulent_contour.png",
+      "assets/img/fig_longterm_evolution.png",
+      "container",
+      "container/deepck-cpu.dockerfile",
+      "container/deepck-cuda.dockerfile",
+      "container/deepck-cuda_arm.dockerfile",
+      "container/ebi-dnn_1.1.1-libtorch1.12-op5.x.dockerfile",
+      "container/ebi-dnn_1.1.1-libtorch1.13-cuda11.6-op5.x.dockerfile",
+      "container/ebi-dnn_1.1.1-libtorch1.13-cuda11.6-op5.x.singularity",
+      "deepode",
+      "deepode/nn",
+      "deepode/sampling",
+      "deepode/setup.cfg",
+      "deepode/tools",
+      "deepode/utils",
+      "kinetics",
+      "kinetics/DRM19.cti"
+    ]
+  }
+}

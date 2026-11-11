@@ -1,0 +1,56 @@
+{
+  "id": "P97829e9574",
+  "doi": "10.1017/jfm.2022.653",
+  "title": "Real-time thermoacoustic data assimilation",
+  "year": 2022,
+  "journal": "Journal of Fluid Mechanics",
+  "authors": [
+    "A. Nóvoa",
+    "L. Magri"
+  ],
+  "category": "04_instability_control",
+  "subcategory": "01_prediction_identification",
+  "path": "04_instability_control/01_prediction_identification/P97829e9574",
+  "doi_url": "https://doi.org/10.1017/jfm.2022.653",
+  "metadata_source": "https://api.crossref.org/works/10.1017/jfm.2022.653",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "not_located",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "MagriLab/Real-time-TA-DA",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "5a4b485429a03596ece3581c36b43264d0308f25",
+    "license": "MIT",
+    "package_id": "MagriLab__Real-time-TA-DA",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "MagriLab/Real-time-TA-DA",
+    "category": "04_instability_control",
+    "subcategory": "01_prediction_identification",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "用实时数据同化修正热声模型状态，并结合储备池学习处理模型偏差。",
+    "method": "README 声明仓库包含论文制图代码与数据。Part I 为 Rijke 管孪生实验；Part II 结合更高保真数据、数据同化与储备池计算。",
+    "entry": "main.m 按论文图号选择目标图；先检查 Part I 的状态估计，再阅读 Part II 的高保真同化。",
+    "dependencies": "MATLAB 及代码需要的工具箱；不要将迁移后的 Python romda 默认参数视作本篇原始 MATLAB 配置。",
+    "evaluation": "比较开环、仅同化和包含偏差模型的状态/参数误差；保存在线更新频率、噪声设定和计算延迟。",
+    "limitations": "MIT；本轮归档不运行。维护后的软件另见 andreanovoa/real-time-bias-aware-DA，旧版与新版按版本区分。"
+  }
+}

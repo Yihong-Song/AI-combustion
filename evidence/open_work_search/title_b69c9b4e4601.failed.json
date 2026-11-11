@@ -1,0 +1,5 @@
+{
+  "title_query": "A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures",
+  "retrieved_at": "2026-11-11T16:51:33.840651+00:00",
+  "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=A+machine+learning+based+full-spectrum+correlated+k-distribution+model+for+nonhomogeneous+gas-soot+mixtures&rows=3&filter=type%3Ajournal-article"
+}

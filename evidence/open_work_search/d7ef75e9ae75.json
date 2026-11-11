@@ -1,0 +1,333 @@
+{
+  "query": "\"flame\" \"autoencoder\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:49:50.186361+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 305,
+  "url": "https://api.github.com/search/repositories?q=%22flame%22+%22autoencoder%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "soubhiksanyal/FLAME_PyTorch",
+      "description": "This is a implementation of the 3D FLAME model in PyTorch",
+      "html_url": "https://github.com/soubhiksanyal/FLAME_PyTorch",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 2058,
+      "fork": false,
+      "updated_at": "2026-10-21T09:09:48Z"
+    },
+    {
+      "full_name": "Rubikplayer/flame-fitting",
+      "description": "Example code for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 3D keypoints and 3D scans.",
+      "html_url": "https://github.com/Rubikplayer/flame-fitting",
+      "license": null,
+      "size": 10610,
+      "fork": false,
+      "updated_at": "2026-11-11T09:28:08Z"
+    },
+    {
+      "full_name": "TimoBolkart/TF_FLAME",
+      "description": "Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images.",
+      "html_url": "https://github.com/TimoBolkart/TF_FLAME",
+      "license": null,
+      "size": 10605,
+      "fork": false,
+      "updated_at": "2026-11-04T21:48:06Z"
+    },
+    {
+      "full_name": "3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data",
+      "description": "The idea of this list is to collect shared data and algorithms around 3D Morphable Models. You are invited to contribute to this list by adding a pull request. The original list arised from the Dagstuhl seminar on 3D Morphable Models https://www.dagstuhl.de/19102 in March 2019.",
+      "html_url": "https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data",
+      "license": null,
+      "size": 416,
+      "fork": false,
+      "updated_at": "2026-11-11T09:27:56Z"
+    },
+    {
+      "full_name": "ZSHtju/reactingDNS_OpenFOAM",
+      "description": "Incorporating detailed transport properties with OpenFOAM reactingFoam solver for direct numerical simulation of multi-component reacting flows",
+      "html_url": "https://github.com/ZSHtju/reactingDNS_OpenFOAM",
+      "license": null,
+      "size": 2317,
+      "fork": false,
+      "updated_at": "2026-09-11T21:39:56Z"
+    },
+    {
+      "full_name": "timzhang642/3D-Machine-Learning",
+      "description": "A resource repository for 3D machine learning",
+      "html_url": "https://github.com/timzhang642/3D-Machine-Learning",
+      "license": null,
+      "size": 24851,
+      "fork": false,
+      "updated_at": "2026-11-10T18:57:37Z"
+    },
+    {
+      "full_name": "YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
+      "description": "Diffusion model papers, survey, and taxonomy",
+      "html_url": "https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
+      "license": null,
+      "size": 303,
+      "fork": false,
+      "updated_at": "2026-11-09T18:48:16Z"
+    },
+    {
+      "full_name": "yyvhang/SIGMAN_release",
+      "description": "Official PyTorch implementation of SIGMAN",
+      "html_url": "https://github.com/yyvhang/SIGMAN_release",
+      "license": null,
+      "size": 653,
+      "fork": false,
+      "updated_at": "2026-09-21T01:53:18Z"
+    },
+    {
+      "full_name": "haofanwang/awesome-conditional-content-generation",
+      "description": "Update-to-data resources for conditional content generation, including human motion generation, image or video generation and editing.",
+      "html_url": "https://github.com/haofanwang/awesome-conditional-content-generation",
+      "license": null,
+      "size": 132,
+      "fork": false,
+      "updated_at": "2026-09-25T18:51:51Z"
+    },
+    {
+      "full_name": "thunil/Physics-Based-Deep-Learning",
+      "description": "Links to works on deep learning algorithms for physics problems, TUM-I15 and beyond",
+      "html_url": "https://github.com/thunil/Physics-Based-Deep-Learning",
+      "license": null,
+      "size": 356,
+      "fork": false,
+      "updated_at": "2026-11-09T18:47:02Z"
+    },
+    {
+      "full_name": "Kedreamix/Awesome-Talking-Head-Synthesis",
+      "description": "💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩",
+      "html_url": "https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 627,
+      "fork": false,
+      "updated_at": "2026-11-11T09:52:55Z"
+    },
+    {
+      "full_name": "DirtyHarryLYL/Transformer-in-Vision",
+      "description": "Recent Transformer-based CV and related works.",
+      "html_url": "https://github.com/DirtyHarryLYL/Transformer-in-Vision",
+      "license": null,
+      "size": 1929,
+      "fork": false,
+      "updated_at": "2026-11-10T09:13:32Z"
+    },
+    {
+      "full_name": "yinaanyachebelu/Detecting-Forest-Fires-Using-Aerial-Imagery",
+      "description": "Final Project for Machine Learning for Remote Sensing Class at UPenn",
+      "html_url": "https://github.com/yinaanyachebelu/Detecting-Forest-Fires-Using-Aerial-Imagery",
+      "license": null,
+      "size": 3085,
+      "fork": false,
+      "updated_at": "2025-03-13T00:28:32Z"
+    },
+    {
+      "full_name": "haoranD/Awesome-Human-Activity-Recognition",
+      "description": "An up-to-date & curated list of Awesome IMU-based Human Activity Recognition(Ubiquitous Computing) papers, methods & resources. Please note that most of the collections of researches are mainly based on IMU data.",
+      "html_url": "https://github.com/haoranD/Awesome-Human-Activity-Recognition",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 214,
+      "fork": false,
+      "updated_at": "2026-10-24T06:37:19Z"
+    },
+    {
+      "full_name": "Kartik-Teotia/STEER",
+      "description": "STEER: Steerable Dyadic Head Avatars (SIGGRAPH Asia 2026) — inference code and project page",
+      "html_url": "https://github.com/Kartik-Teotia/STEER",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 277101,
+      "fork": false,
+      "updated_at": "2026-11-01T13:19:19Z"
+    },
+    {
+      "full_name": "TSCenter/awesome-time-series-papers",
+      "description": "An Awesome List of the latest time series papers and code from top AI venues.",
+      "html_url": "https://github.com/TSCenter/awesome-time-series-papers",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 904,
+      "fork": false,
+      "updated_at": "2026-11-11T11:26:12Z"
+    },
+    {
+      "full_name": "rlczddl/awesome-3d-human-reconstruction",
+      "description": null,
+      "html_url": "https://github.com/rlczddl/awesome-3d-human-reconstruction",
+      "license": null,
+      "size": 173,
+      "fork": false,
+      "updated_at": "2026-11-07T03:27:13Z"
+    },
+    {
+      "full_name": "ChenWu98/generative-visual-prompt",
+      "description": "[NeurIPS 2022] (Amortized) distributional control for pre-trained generative models",
+      "html_url": "https://github.com/ChenWu98/generative-visual-prompt",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 28828,
+      "fork": false,
+      "updated_at": "2025-05-02T18:33:17Z"
+    },
+    {
+      "full_name": "arkhamblade2077/FLAME_SD",
+      "description": "Universal DDPM for Data Synthesis",
+      "html_url": "https://github.com/arkhamblade2077/FLAME_SD",
+      "license": null,
+      "size": 54192,
+      "fork": false,
+      "updated_at": "2025-05-14T09:25:07Z"
+    },
+    {
+      "full_name": "llm-lab-org/Generative-AI-for-Character-Animation-Survey",
+      "description": "Generative AI for Character Animation: A Comprehensive Survey of Techniques, Applications, and Future Directions",
+      "html_url": "https://github.com/llm-lab-org/Generative-AI-for-Character-Animation-Survey",
+      "license": null,
+      "size": 888,
+      "fork": false,
+      "updated_at": "2026-11-04T23:51:12Z"
+    },
+    {
+      "full_name": "Bryce1010/Awesome-Few-shot",
+      "description": "Awesome Few-shot learning",
+      "html_url": "https://github.com/Bryce1010/Awesome-Few-shot",
+      "license": null,
+      "size": 24,
+      "fork": false,
+      "updated_at": "2026-02-27T04:09:21Z"
+    },
+    {
+      "full_name": "Saptakcodes/AI-Enabled-Emergency-Aware-Adaptive-Traffic-and-Accident-Response-System-Using-Connected-Vehicles",
+      "description": null,
+      "html_url": "https://github.com/Saptakcodes/AI-Enabled-Emergency-Aware-Adaptive-Traffic-and-Accident-Response-System-Using-Connected-Vehicles",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 4304,
+      "fork": false,
+      "updated_at": "2026-08-22T06:30:12Z"
+    },
+    {
+      "full_name": "zhoushiwei/awesome-3D-Face",
+      "description": "A curated list of awesome 3D Face resources(code and paper)",
+      "html_url": "https://github.com/zhoushiwei/awesome-3D-Face",
+      "license": null,
+      "size": 2,
+      "fork": false,
+      "updated_at": "2025-05-17T20:40:16Z"
+    },
+    {
+      "full_name": "Jzzzi/FlameDiff",
+      "description": null,
+      "html_url": "https://github.com/Jzzzi/FlameDiff",
+      "license": null,
+      "size": 47187,
+      "fork": false,
+      "updated_at": "2026-03-19T10:53:35Z"
+    },
+    {
+      "full_name": "logangraham/arXausality",
+      "description": "A every-so-often-updated collection of every causality + machine learning paper submitted to arXiv in the recent past.",
+      "html_url": "https://github.com/logangraham/arXausality",
+      "license": null,
+      "size": 222,
+      "fork": false,
+      "updated_at": "2026-05-06T02:47:45Z"
+    },
+    {
+      "full_name": "mayankkumar-mk/FLAME",
+      "description": null,
+      "html_url": "https://github.com/mayankkumar-mk/FLAME",
+      "license": null,
+      "size": 24,
+      "fork": false,
+      "updated_at": "2026-06-24T10:14:24Z"
+    },
+    {
+      "full_name": "diff-usion/Awesome-Diffusion-Models",
+      "description": " A collection of resources and papers on Diffusion Models",
+      "html_url": "https://github.com/diff-usion/Awesome-Diffusion-Models",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1925,
+      "fork": false,
+      "updated_at": "2026-11-11T08:01:03Z"
+    },
+    {
+      "full_name": "its-nmt05/DiffuseNet",
+      "description": "Collection of generative models trained from scratch including DDPM, DiT, VAE for learning and research",
+      "html_url": "https://github.com/its-nmt05/DiffuseNet",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 61621,
+      "fork": false,
+      "updated_at": "2026-03-23T07:35:52Z"
+    },
+    {
+      "full_name": "showlab/Awesome-Video-Diffusion",
+      "description": "A curated list of recent diffusion models for video generation, editing, and various other applications.",
+      "html_url": "https://github.com/showlab/Awesome-Video-Diffusion",
+      "license": null,
+      "size": 1007,
+      "fork": false,
+      "updated_at": "2026-11-10T23:42:46Z"
+    },
+    {
+      "full_name": "winterbloooom/awesome-3d-face",
+      "description": "Papers, Datasets, Benchmarks for 3D Face (Reconstruction, Talking head, etc)",
+      "html_url": "https://github.com/winterbloooom/awesome-3d-face",
+      "license": null,
+      "size": 100,
+      "fork": false,
+      "updated_at": "2026-08-10T04:58:50Z"
+    }
+  ]
+}

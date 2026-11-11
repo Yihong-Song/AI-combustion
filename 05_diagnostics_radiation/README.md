@@ -2,7 +2,7 @@
 
 让光谱和图像提供更可靠的温度、组分和三维场信息，并加速参与性介质辐射计算。
 
-本目录含 47 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
+本目录含 51 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
 
 [返回首页](../README.md) · [全局地图](../00_literature_map/README.md) · [方法与范围](../docs/METHODOLOGY.md)
 
@@ -38,7 +38,7 @@ CNN 去噪、层析重建、神经隐式表示、PINN 反演、WSGG/FSCK 神经�
 
 分区栏为二级来源线索；Q? 为待核实。代码 ✓ 仅表示论文链接已核对，不表示执行成功。
 
-### [光谱、图像与层析反演](01_optical_inverse/README.md)（31）
+### [光谱、图像与层析反演](01_optical_inverse/README.md)（35）
 
 | 年份 | 论文 | 分区线索 | 代码 |
 |---|---|---|---|
@@ -52,15 +52,19 @@ CNN 去噪、层析重建、神经隐式表示、PINN 反演、WSGG/FSCK 神经�
 | 2026 | [Chemiluminescence-driven machine learning models for combustion sensing in cyclonic reactors](01_optical_inverse/P52fe6f3fb9/README.md) | Q1 | 待核对 |
 | 2025 | [Denoising neural network for low-light imaging of acoustically coupled combustion](01_optical_inverse/Pf4e7cf10c2/README.md) | Q2 | 待核对 |
 | 2025 | [Unsupervised neural-implicit laser absorption tomography for quantitative imaging of unsteady flames](01_optical_inverse/P517be61bbe/README.md) | Q1 | 待核对 |
+| 2025 | [Self-supervised combustion state diagnosis using a noise-augmented generative adversarial network and flame image sequences](01_optical_inverse/P0c63e9e6b2/README.md) | Q1 | 待核对 |
 | 2025 | [Prediction of combustion pressure with deep learning using flame images](01_optical_inverse/Pe2ed142c69/README.md) | Q1 | 待核对 |
 | 2025 | [Real-time analysis of flame chemiluminescence spectra for equivalence ratio and gas composition using neural network approaches](01_optical_inverse/P862951f47b/README.md) | Q? | 待核对 |
+| 2025 | [SAGE: A machine learning model for primary particle segmentation in TEM images of soot aggregates](01_optical_inverse/P56771c427a/README.md) | Q1 | ✓ |
 | 2025 | [Cross domain fault diagnosis in internal combustion engines using multisensor data with transfer federated and transformer based federated transfer learning](01_optical_inverse/Pe94377b2b8/README.md) | Q? | 待核对 |
 | 2025 | [Aero-engine combustion flame segmentation via Vision Transformer](01_optical_inverse/P327ef4ffb3/README.md) | Q? | 待核对 |
 | 2024 | [Machine learning based technique for outlier detection and result prediction in combustion diagnostics](01_optical_inverse/P92e39e0dd8/README.md) | Q? | 待核对 |
+| 2024 | [Machine learning-based prediction of swirl combustor operation from flame imaging](01_optical_inverse/P787f82787c/README.md) | Q1 | 待核对 |
 | 2024 | [Multi-speciation in shock tube kinetics using deep neural networks and cavity-enhanced absorption spectroscopy](01_optical_inverse/P67a96f84e4/README.md) | Q1 | 待核对 |
 | 2024 | [PENTAGON: Physics-enhanced neural network for volumetric flame chemiluminescence tomography](01_optical_inverse/P3ebceccfd6/README.md) | Q? | 待核对 |
 | 2023 | [Deep learning-based denoising for fast time-resolved flame emission spectroscopy in high-pressure combustion environment](01_optical_inverse/P2949b85479/README.md) | Q1 | ✓ |
 | 2023 | [Multi-speciation in shock tube experiments using a single laser and deep neural networks](01_optical_inverse/Pec912f329e/README.md) | Q1 | 待核对 |
+| 2023 | [Detection of slight variations in combustion conditions with machine learning and computer vision](01_optical_inverse/P205f01358c/README.md) | Q1 | 待核对 |
 | 2023 | [Random forest classifier and neural network for fraction identification of refuse-derived fuel images](01_optical_inverse/P526fe71fb8/README.md) | Q1 | 待核对 |
 | 2023 | [A supervised machine learning technique for combustion diagnosis using a vibration sensor signal](01_optical_inverse/Pfbd8583acd/README.md) | Q1 | 待核对 |
 | 2023 | [Predicting real-time fire heat release rate by flame images and deep learning](01_optical_inverse/P70b5e8ccbc/README.md) | Q1 | 待核对 |
@@ -85,17 +89,17 @@ CNN 去噪、层析重建、神经隐式表示、PINN 反演、WSGG/FSCK 神经�
 | 2026 | [Attention on fire: An attention-enhanced deep learning model for flame radiation prediction](02_radiation_soot/P68250a69d8/README.md) | Q1 | 待核对 |
 | 2026 | [Multispectral infrared imaging and physics-informed neural network retrieval of soot and gas fields using an SVD-based surrogate radiative model](02_radiation_soot/P7eb5c4153b/README.md) | Q1 | 待核对 |
 | 2026 | [Soot maturity evolution in a periodically-forced diffusion flame via neural network assisted inversion](02_radiation_soot/P55f5b0796b/README.md) | Q1 | 待核对 |
-| 2025 | [SAGE: A machine learning model for primary particle segmentation in TEM images of soot aggregates](02_radiation_soot/P56771c427a/README.md) | Q1 | 待核对 |
 | 2024 | [Simultaneous soot parameters fields predictions accuracy improvements in laminar sooting flames from soot radiation measurements — a multi-task learning approach](02_radiation_soot/Pe4e9537482/README.md) | Q? | 待核对 |
 | 2024 | [Surrogate modeling for radiative heat transfer using physics-informed deep neural operator networks](02_radiation_soot/P64c5379f89/README.md) | Q1 | 待核对 |
 | 2023 | [3-D soot temperature and volume fraction reconstruction of afterburner flame via deep learning algorithms](02_radiation_soot/P417d575996/README.md) | Q1 | 待核对 |
 | 2023 | [A study on application of machine-learning on DBI soot diagnostics](02_radiation_soot/P22d5f2bce7/README.md) | Q1 | 待核对 |
+| 2021 | [A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures](02_radiation_soot/Pe01c5a5aac/README.md) | Q? | ✓ |
 
 ### [烟炱生成及 PAH](03_soot_formation/README.md)（4）
 
 | 年份 | 论文 | 分区线索 | 代码 |
 |---|---|---|---|
+| 2026 | [Integrated neural network approach for autonomous sensitivity analysis and optimization of sectional soot kinetic modeling](03_soot_formation/Pe31f2bea9d/README.md) | Q1 | ✓ |
 | 2023 | [Exploring soot inception rate with stochastic modelling and machine learning](03_soot_formation/Pec757f1481/README.md) | Q1 | 待核对 |
 | 2023 | [A machine learning framework to predict the aggregation of polycyclic aromatic compounds](03_soot_formation/P1e00a3c235/README.md) | Q1 | 待核对 |
-| 2021 | [A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures](03_soot_formation/Pe01c5a5aac/README.md) | Q? | 待核对 |
 | 2021 | [Machine learning-assisted soot temperature and volume fraction fields predictions in the ethylene laminar diffusion flames](03_soot_formation/Pbfb3185409/README.md) | Q? | 待核对 |

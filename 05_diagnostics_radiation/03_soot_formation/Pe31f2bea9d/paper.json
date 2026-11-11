@@ -1,0 +1,86 @@
+{
+  "id": "Pe31f2bea9d",
+  "doi": "10.1016/j.proci.2026.106166",
+  "title": "Integrated neural network approach for autonomous sensitivity analysis and optimization of sectional soot kinetic modeling",
+  "year": 2026,
+  "journal": "Proceedings of the Combustion Institute",
+  "authors": [
+    "Feixue Cai",
+    "Patrizia Crepaldi",
+    "Andrea Nobili",
+    "Matthew J. Cleary",
+    "Zhuyin Ren",
+    "Assaad R. Masri",
+    "Tiziano Faravelli"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "03_soot_formation",
+  "path": "05_diagnostics_radiation/03_soot_formation/Pe31f2bea9d",
+  "doi_url": "https://doi.org/10.1016/j.proci.2026.106166",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.proci.2026.106166",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "104/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "65/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "37/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "18/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/6861",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "cfx18/NN4Soot",
+    "relationship": "title_match_repository_readme",
+    "commit": "d06d5cf026d62f0f61338d6ad6650c6532a211f2",
+    "license": "not_located",
+    "package_id": "cfx18__NN4Soot",
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/e31f2bea9d6e.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "cfx18/NN4Soot",
+    "category": "05_diagnostics_radiation",
+    "subcategory": "03_soot_formation",
+    "relationship": "title_match_repository_readme",
+    "problem": "对分段烟炱动力学模型进行快速敏感度分析和参数优化。",
+    "method": "README 题名与 Crossref 期刊文章吻合，列出 MLP 预测粒径分布、自动微分、主动子空间及软谷值分析。README 仍写 under review，因此保留题名匹配关系，不提升为已确认最终发表版官方代码。",
+    "entry": "scripts/01_train_from_config.py 到 05_run_optimization.py；reproduce_all.py 和跳过预训练入口；先检查 configs 与数据列定义。",
+    "dependencies": "requirements.txt、PyTorch 模型及数据/预训练目录；文件是否包含实际全部数据和权重尚待清点。",
+    "evaluation": "比较各粒径箱误差、双峰谷位置、敏感度置信区间和参数拟合；按独立参数区域及实验工况留出。",
+    "limitations": "README 声称 MIT，但固定提交未定位许可文件，因此只保留链接。出版版与 under-review 代码的对应待核。"
+  }
+}

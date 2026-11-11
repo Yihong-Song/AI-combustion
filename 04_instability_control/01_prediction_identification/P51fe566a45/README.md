@@ -7,28 +7,43 @@ P51fe566a45 · 2026 · Proceedings of the Combustion Institute
 - DOI：[原文入口](https://doi.org/10.1016/j.proci.2026.106547)
 - 分类：热声不稳定性预测、辨识与控制 / 预警与系统辨识
 - JCR：**二级来源报告 Q1/Q2，JCR 版本待官方核实**；报告最佳分区 Q1；版本未知；官方核实：否。
-- 阅读深度：标题与元数据筛选，待摘要/全文复核。
-- 论文原始指标复现：**未执行**。
+- 阅读深度：已核对元数据与上游 README，尚未完成全文精读。
+- 完整期刊论文复现：**尚未验收**。
 - [统一方法与证据等级](../../../docs/METHODOLOGY.md) · [方向说明](../../../04_instability_control/README.md) · [全局地图](../../../00_literature_map/README.md)
 
 分区线索：[二级来源](https://www.letpub.com/journal-selector/journal/6861)。多类别期刊使用报告中的最佳类别作为候选信号，不能解释为所有类别均为 Q1。
 
-## 这条记录目前能说明什么
+## 研究问题
 
-标题和期刊元数据表明它可能属于本方向；本卡不提供未经全文核实的架构、数据量、速度提升或结论。下列内容是该方向的阅读问题与复现设计，不是对本文结果的转述。
+从环形燃烧室压力信号连续预测距离热声失稳还有多久。
 
-## 精读与复现提取清单
+## 方法与代码所能确认的内容
 
-1. 明确本文的物理目标：任务是当前状态分类、未来提前量预测、火焰传递函数辨识还是闭环控制？这些任务不能共用一个模糊的准确率。
-2. 提取数据生成/测量协议：同步压力、速度、热释放代理和控制信号；保留采样频率、同步误差、操作条件变化及振荡起始定义。
-3. 对照原文确认切分：整次试验或整台燃烧器留出，滑动窗口须设置时间隔离区；不能让同一事件相邻窗口跨训练测试。
-4. 找到原文表/图及指标定义：提前量、误报/漏报、按实验统计的 PR-AUC、概率校准；辨识用增益/相位；控制用压力 RMS、执行器能量、约束违背与恢复时间。
-5. 记录完整依赖、机理/数据许可证、随机种子、设备、训练预算和失败运行。
-6. 建立公式—代码对应表，先运行最小基线，再对同一数据切分复现目标图表。
+README 明确对应本文，比较因果 Transformer、单向 LSTM 与 XGBoost；说明按完整合成轨迹切分，并进行实验数据零样本评价。上游给出的轨迹数和种子仅作为配置线索，未由本库重算。
 
-## 代码检索状态
+## 复现入口与依赖
 
-`searched_no_confirmed_match`。DOI 精确 GitHub README 检索会漏掉未写 DOI 的实现；搜到引用也不能认定为本文代码。未确认实现不意味着作者没有开源。
+synthetic_gen.py 生成轨迹；label_exp_onset.py 标注实验起振；trans_train.py、lstm_train.py、XGBoost_train.py 对照；common.py 与 preprocess_mod.py 核对标签和窗口。
+
+## 环境与数据
+
+Python≥3.10、PyTorch、SciPy、pandas、scikit-learn、XGBoost；实验数据入口 Zenodo 23091955 已定位，未下载验证。
+
+## 建议验证协议（本库设计）
+
+整条实验爬升/轨迹留出，统一起振定义、输入窗口、时间单位与提前量；报告误差随失稳距离变化、跨随机种子及假警率。
+
+## 局限与当前状态
+
+MIT；合成轨迹多种子不是多篇复现。原论文正式训练与实验零样本结果尚未执行。
+
+## 代码溯源
+
+- 仓库：[Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper](https://github.com/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper)
+- 固定提交：`f6f07bed28fc350a698a56012796ca7a16abe626`
+- 关系证据：`author_implementation_readme_explicit`；来自上游 README，不代表本库已做作者身份独立认证。
+- 许可：MIT；收纳状态：`source_archive_collected`。
+- [代码包卡片](../../../code_packages/Predictive-Intelligent-Systems-Lab__TTE-TAI-PROCI-paper/README.md)
 
 ## 待完成的学术核验
 
@@ -37,4 +52,4 @@ P51fe566a45 · 2026 · Proceedings of the Combustion Institute
 - 代码—论文版本一致性，数据及预训练权重是否齐全。
 - 论文指标同口径复现及差异分析。
 
-元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.proci.2026.106547)；本轮整理日期 2026-11-11。完整元数据见同目录 `paper.json`。
+元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.proci.2026.106547)；本轮整理日期 2026-11-12。完整元数据见同目录 `paper.json`。

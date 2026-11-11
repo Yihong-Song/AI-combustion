@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.combustflame.2025.114635",
+  "title": "A deep neural kernel approach with balanced clustering for flamelet modeling of spray flames",
+  "query": "\"A deep neural kernel approach with balanced clustering for flamelet modeling of\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:39:36.895861+00:00",
+  "total_count": 0,
+  "items": []
+}

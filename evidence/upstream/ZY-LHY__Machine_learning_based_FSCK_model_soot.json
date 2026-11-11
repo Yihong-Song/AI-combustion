@@ -1,0 +1,14 @@
+{
+  "repository": "ZY-LHY/Machine_learning_based_FSCK_model_soot",
+  "url": "https://github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot",
+  "retrieved_at": "2026-11-11T16:48:47.935060+00:00",
+  "commit": "12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+  "readme_path": "evidence/upstream/ZY-LHY__Machine_learning_based_FSCK_model_soot.readme.txt",
+  "readme_url": "https://github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot/blob/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a/readme.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/ZY-LHY__Machine_learning_based_FSCK_model_soot.license.txt",
+  "license_url": "https://github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot/blob/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:48:58.517689+00:00"
+}

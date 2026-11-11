@@ -1,0 +1,22 @@
+{
+  "title_query": "Active learning of hydrogen combustion with neural network potentials",
+  "retrieved_at": "2026-11-11T16:54:21.649923+00:00",
+  "url": "https://api.crossref.org/works?query.title=Active+learning+of+hydrogen+combustion+with+neural+network+potentials&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1039/d3dd00216k",
+      "title": "Active learning of neural network potentials for rare events",
+      "score": 0.6902654867256637
+    },
+    {
+      "doi": "10.1063/5.0016004",
+      "title": "Committee neural network potentials control generalization errors and enable active learning",
+      "score": 0.3916083916083916
+    },
+    {
+      "doi": "10.1021/acsami.3c15399",
+      "title": "Active and Transfer Learning of High-Dimensional Neural Network Potentials for Transition Metals",
+      "score": 0.6482758620689655
+    }
+  ]
+}

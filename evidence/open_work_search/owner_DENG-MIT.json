@@ -1,0 +1,254 @@
+{
+  "owner": "DENG-MIT",
+  "retrieved_at": "2026-11-11T16:47:13.212111+00:00",
+  "items": [
+    {
+      "full_name": "DENG-MIT/Biomass.jl",
+      "description": "Modeling Biomass Pyrolysis in Julia",
+      "html_url": "https://github.com/DENG-MIT/Biomass.jl",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 93
+    },
+    {
+      "full_name": "DENG-MIT/CRNN",
+      "description": "Chemical Reaction Neural Network",
+      "html_url": "https://github.com/DENG-MIT/CRNN",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 40351
+    },
+    {
+      "full_name": "DENG-MIT/Arrhenius.jl",
+      "description": "Differentiable Reacting Flow Modeling Software",
+      "html_url": "https://github.com/DENG-MIT/Arrhenius.jl",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 7877
+    },
+    {
+      "full_name": "DENG-MIT/reactorch",
+      "description": "A Differentiable Reacting Flow Simulation Package in PyTorch",
+      "html_url": "https://github.com/DENG-MIT/reactorch",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 959
+    },
+    {
+      "full_name": "DENG-MIT/Stiff-PINN",
+      "description": "Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics",
+      "html_url": "https://github.com/DENG-MIT/Stiff-PINN",
+      "fork": false,
+      "license": null,
+      "size": 28
+    },
+    {
+      "full_name": "DENG-MIT/ChemKAN",
+      "description": "Barebones ChemKAN implementation to accompany PCCP paper: \"ChemKANs for combustion chemistry modeling and acceleration\". Run in Julia 1.11.1.",
+      "html_url": "https://github.com/DENG-MIT/ChemKAN",
+      "fork": false,
+      "license": null,
+      "size": 42
+    },
+    {
+      "full_name": "DENG-MIT/KAN-ODEs",
+      "description": "The code is associated with the paper entitled \"KAN-ODEs: Kolmogorov-Arnold Network Ordinary Differential Equations for Learning Dynamical Systems and Hidden Physics\"",
+      "html_url": "https://github.com/DENG-MIT/KAN-ODEs",
+      "fork": false,
+      "license": null,
+      "size": 75596
+    },
+    {
+      "full_name": "DENG-MIT/Arrhenius_Flame_1D",
+      "description": "Differentiable 1D flame using Arrhenius.jl",
+      "html_url": "https://github.com/DENG-MIT/Arrhenius_Flame_1D",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 125
+    },
+    {
+      "full_name": "DENG-MIT/StiffNeuralODE",
+      "description": "Stiff Neural Ordinary Differential Equations",
+      "html_url": "https://github.com/DENG-MIT/StiffNeuralODE",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3606
+    },
+    {
+      "full_name": "DENG-MIT/StiffNet-Benchmark",
+      "description": "Benchmark for learning stiff problems using physics-informed machine learning",
+      "html_url": "https://github.com/DENG-MIT/StiffNet-Benchmark",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 9
+    },
+    {
+      "full_name": "DENG-MIT/CoFFe",
+      "description": "CoFFe stands for Collaboratively Fused Feature, a method designed for nonlinear data dimensionality reduction of multi-physics coupled systems.",
+      "html_url": "https://github.com/DENG-MIT/CoFFe",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 302
+    },
+    {
+      "full_name": "DENG-MIT/LeanKAN",
+      "description": "A Parameter-Lean Kolmogorov-Arnold Network Layer with Improved Memory Efficiency and Convergence Behavior. See included link for full manuscript.",
+      "html_url": "https://github.com/DENG-MIT/LeanKAN",
+      "fork": false,
+      "license": null,
+      "size": 1337
+    },
+    {
+      "full_name": "DENG-MIT/CRNN_HyChem",
+      "description": null,
+      "html_url": "https://github.com/DENG-MIT/CRNN_HyChem",
+      "fork": false,
+      "license": null,
+      "size": 1328
+    },
+    {
+      "full_name": "DENG-MIT/ArrheniusOpt",
+      "description": "Kinetics Parameter Optimization based on Arrhenius.jl",
+      "html_url": "https://github.com/DENG-MIT/ArrheniusOpt",
+      "fork": false,
+      "license": null,
+      "size": 21084
+    },
+    {
+      "full_name": "DENG-MIT/NN-PSR",
+      "description": "Differentiable Perfect Stirred Reactor Simulation using Arrhenius.jl",
+      "html_url": "https://github.com/DENG-MIT/NN-PSR",
+      "fork": false,
+      "license": null,
+      "size": 14588
+    },
+    {
+      "full_name": "DENG-MIT/DeepReduction",
+      "description": "Two stages pipeline for reduce combustion mechanisms: reduction and retrain",
+      "html_url": "https://github.com/DENG-MIT/DeepReduction",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 503
+    },
+    {
+      "full_name": "DENG-MIT/ArrheniusActiveSubspace",
+      "description": "Use Arrhenius.jl to compute active subspace",
+      "html_url": "https://github.com/DENG-MIT/ArrheniusActiveSubspace",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 15456
+    },
+    {
+      "full_name": "DENG-MIT/CRNN.jl_old",
+      "description": "Chemical Reaction Neural Network in Julia",
+      "html_url": "https://github.com/DENG-MIT/CRNN.jl_old",
+      "fork": false,
+      "license": null,
+      "size": 2037
+    },
+    {
+      "full_name": "DENG-MIT/Inference_ConstV_EMs",
+      "description": "Inference of chemical kinetics and thermodynamic properties from constant-volume combustion of energetic materials",
+      "html_url": "https://github.com/DENG-MIT/Inference_ConstV_EMs",
+      "fork": false,
+      "license": null,
+      "size": 0
+    },
+    {
+      "full_name": "DENG-MIT/DENG-MIT.github.io",
+      "description": null,
+      "html_url": "https://github.com/DENG-MIT/DENG-MIT.github.io",
+      "fork": false,
+      "license": null,
+      "size": 2
+    },
+    {
+      "full_name": "DENG-MIT/CRNN-Pyrolysis",
+      "description": null,
+      "html_url": "https://github.com/DENG-MIT/CRNN-Pyrolysis",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3156
+    },
+    {
+      "full_name": "DENG-MIT/CRNN-PINN.jl",
+      "description": null,
+      "html_url": "https://github.com/DENG-MIT/CRNN-PINN.jl",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 178
+    }
+  ]
+}

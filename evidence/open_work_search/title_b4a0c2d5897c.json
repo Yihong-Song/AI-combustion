@@ -1,0 +1,23 @@
+{
+  "title_query": "SAGE: A machine learning model for primary particle segmentation in TEM images of soot aggregates",
+  "retrieved_at": "2026-11-11T16:51:33.128324+00:00",
+  "url": "https://api.crossref.org/works?query.title=SAGE%3A+A+machine+learning+model+for+primary+particle+segmentation+in+TEM+images+of+soot+aggregates&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.proci.2025.105821",
+      "title": "SAGE: A machine learning model for primary particle segmentation in TEM images of soot aggregates",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1017/s1431927620020450",
+      "title": "Particle Picking in Cryo-TEM Images Using Machine Learning",
+      "score": 0.2727272727272727
+    },
+    {
+      "doi": "10.1016/j.powtec.2018.02.008",
+      "title": "Influence of primary particle polydispersity and overlapping on soot morphological parameters derived from numerical TEM images",
+      "score": 0.38144329896907214
+    }
+  ],
+  "matched_doi": "10.1016/j.proci.2025.105821"
+}

@@ -1,0 +1,14 @@
+{
+  "repository": "beroudiauxa/ORCh_2023",
+  "url": "https://github.com/beroudiauxa/ORCh_2023",
+  "retrieved_at": "2026-11-11T16:48:47.940058+00:00",
+  "commit": "1a1b5175078340cbd4585f0ef597a821aa262de4",
+  "readme_path": "evidence/upstream/beroudiauxa__ORCh_2023.readme.txt",
+  "readme_url": "https://github.com/beroudiauxa/ORCh_2023/blob/1a1b5175078340cbd4585f0ef597a821aa262de4/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/beroudiauxa__ORCh_2023.license.txt",
+  "license_url": "https://github.com/beroudiauxa/ORCh_2023/blob/1a1b5175078340cbd4585f0ef597a821aa262de4/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "BSD-3-Clause",
+  "api_checked_at": "2026-11-11T16:49:13.021999+00:00"
+}

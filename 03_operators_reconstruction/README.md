@@ -2,7 +2,7 @@
 
 从少量状态、低分辨率场或参数，预测完整流场及其演化，减少重复高保真模拟。
 
-本目录含 13 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
+本目录含 14 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
 
 [返回首页](../README.md) · [全局地图](../00_literature_map/README.md) · [方法与范围](../docs/METHODOLOGY.md)
 
@@ -38,7 +38,7 @@ POD/PCA、自编码器、Koopman、DeepONet、FNO/F-FNO、PINO、生成模型和
 
 分区栏为二级来源线索；Q? 为待核实。代码 ✓ 仅表示论文链接已核对，不表示执行成功。
 
-### [算子、降阶与超分辨率](01_operators_rom/README.md)（11）
+### [算子、降阶与超分辨率](01_operators_rom/README.md)（12）
 
 | 年份 | 论文 | 分区线索 | 代码 |
 |---|---|---|---|
@@ -47,6 +47,7 @@ POD/PCA、自编码器、Koopman、DeepONet、FNO/F-FNO、PINO、生成模型和
 | 2026 | [Error control of uncertainty-aware neural network-coupled binary trees for manifold-based combustion models](01_operators_rom/Pcc65cb53e0/README.md) | Q1 | 待核对 |
 | 2026 | [Generate reacting flow fields with flow matching neural operators on high-resolution grids](01_operators_rom/P8514c23cfb/README.md) | Q1 | 待核对 |
 | 2025 | [Single-snapshot-based dynamical mode prediction of a flickering flame via a Fourier-neural-operator network](01_operators_rom/P09e21465b5/README.md) | Q? | 待核对 |
+| 2024 | [Learning stiff chemical kinetics using extended deep neural operators](01_operators_rom/P98c59b685b/README.md) | Q1 | ✓ |
 | 2024 | [A co-kurtosis PCA based dimensionality reduction with nonlinear reconstruction using neural networks](01_operators_rom/P5277d1faad/README.md) | Q1 | 待核对 |
 | 2024 | [Learning transient evolution of multidimensional reacting flows by multiscale Fourier neural operators](01_operators_rom/Pd2e2c3f559/README.md) | Q1 | 待核对 |
 | 2023 | [Investigation of the generalization capability of a generative adversarial network for large eddy simulation of turbulent premixed reacting flows](01_operators_rom/P1ecbf73e07/README.md) | Q1 | 待核对 |

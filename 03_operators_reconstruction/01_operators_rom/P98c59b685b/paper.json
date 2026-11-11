@@ -1,0 +1,78 @@
+{
+  "id": "P98c59b685b",
+  "doi": "10.1016/j.cma.2023.116674",
+  "title": "Learning stiff chemical kinetics using extended deep neural operators",
+  "year": 2024,
+  "journal": "Computer Methods in Applied Mechanics and Engineering",
+  "authors": [
+    "Somdatta Goswami",
+    "Ameya D. Jagtap",
+    "Hessam Babaee",
+    "Bryan T. Susi",
+    "George Em Karniadakis"
+  ],
+  "category": "03_operators_reconstruction",
+  "subcategory": "01_operators_rom",
+  "path": "03_operators_reconstruction/01_operators_rom/P98c59b685b",
+  "doi_url": "https://doi.org/10.1016/j.cma.2023.116674",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.cma.2023.116674",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "7/179"
+      },
+      {
+        "category": "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "3/137"
+      },
+      {
+        "category": "MECHANICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "9/172"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/1988",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "somdattagoswami/Approximating-StiffKinetics",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "a7e90624cbf96d103559f613257e8e17ee104609",
+    "license": "not_located",
+    "package_id": "somdattagoswami__Approximating-StiffKinetics",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "somdattagoswami/Approximating-StiffKinetics",
+    "category": "03_operators_reconstruction",
+    "subcategory": "01_operators_rom",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "用扩展深度神经算子近似多时间尺度的刚性化学动力学。",
+    "method": "README 明确写本论文题名、作者与期刊，AE-DeepONet 文件夹提供有限 Example 3 数据；完整数据上游明确尚未提供，可用 Cantera 重建实验。",
+    "entry": "先检查 AE-DeepONet 示例与各方法子目录，按原文例题建立初值、时间采样、编码器及算子输入的映射。",
+    "dependencies": "各子目录的框架与依赖需独立提取；Cantera 数据重生成必须固定机理、初始工况与采样。",
+    "evaluation": "按初始条件及轨迹留出，检验快慢尺度、尖峰、长期组分守恒，比较相同数据预算下常规 DeepONet 与扩展方案。",
+    "limitations": "完整数据不可得；未定位许可，只提供固定链接。不能把有限示例运行当作全文结果。"
+  }
+}

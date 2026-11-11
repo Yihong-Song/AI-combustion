@@ -1,0 +1,14 @@
+{
+  "repository": "hanli94/DFODE",
+  "url": "https://github.com/hanli94/DFODE",
+  "retrieved_at": "2026-11-11T16:49:28.653914+00:00",
+  "commit": "de560ed5d1cbc0884ef236181752d121eb31b4ce",
+  "readme_path": "evidence/upstream/hanli94__DFODE.readme.txt",
+  "readme_url": "https://github.com/hanli94/DFODE/blob/de560ed5d1cbc0884ef236181752d121eb31b4ce/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/hanli94__DFODE.license.txt",
+  "license_url": "https://github.com/hanli94/DFODE/blob/de560ed5d1cbc0884ef236181752d121eb31b4ce/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "GPL-3.0",
+  "api_checked_at": "2026-11-11T16:49:52.236526+00:00"
+}

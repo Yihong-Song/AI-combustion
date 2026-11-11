@@ -1,0 +1,14 @@
+{
+  "repository": "MagriLab/Real-time-TA-DA",
+  "url": "https://github.com/MagriLab/Real-time-TA-DA",
+  "retrieved_at": "2026-11-11T16:47:41.703015+00:00",
+  "commit": "5a4b485429a03596ece3581c36b43264d0308f25",
+  "readme_path": "evidence/upstream/MagriLab__Real-time-TA-DA.readme.txt",
+  "readme_url": "https://github.com/MagriLab/Real-time-TA-DA/blob/5a4b485429a03596ece3581c36b43264d0308f25/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/MagriLab__Real-time-TA-DA.license.txt",
+  "license_url": "https://github.com/MagriLab/Real-time-TA-DA/blob/5a4b485429a03596ece3581c36b43264d0308f25/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:47:57.529830+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "journal": "Engineering Applications of Artificial Intelligence",
+  "retrieved_at": "2026-11-11T16:58:36.933738+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Engineering+Applications+of+Artificial+Intelligence",
+  "page_title": "LetPub - Scientific Journal Selector | ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/2513",
+  "journal_id": "2513",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: AUTOMATION & CONTROL SYSTEMS SCIE Q1 9/88 Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE SCIE Q1 30/210 Category: ENGINEERING, ELECTRICAL & ELECTRONIC SCIE Q1 28/370 Category: ENGINEERING, MULTIDISCIPLINARY SCIE Q1 6/179",
+  "categories": [
+    {
+      "category": "AUTOMATION & CONTROL SYSTEMS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "9/88"
+    },
+    {
+      "category": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "30/210"
+    },
+    {
+      "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "28/370"
+    },
+    {
+      "category": "ENGINEERING, MULTIDISCIPLINARY",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "6/179"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

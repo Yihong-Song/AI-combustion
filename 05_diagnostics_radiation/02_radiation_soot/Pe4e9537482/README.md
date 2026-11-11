@@ -8,7 +8,7 @@ Pe4e9537482 · 2024 · Measurement
 - 分类：光学诊断、反演、烟炱与辐射 / 辐射与烟炱辐射诊断
 - JCR：**JCR 分区待核实**；报告最佳分区 未知；版本未知；官方核实：否。
 - 阅读深度：标题与元数据筛选，待摘要/全文复核。
-- 论文原始指标复现：**未执行**。
+- 完整期刊论文复现：**尚未验收**。
 - [统一方法与证据等级](../../../docs/METHODOLOGY.md) · [方向说明](../../../05_diagnostics_radiation/README.md) · [全局地图](../../../00_literature_map/README.md)
 
 ## 这条记录目前能说明什么
@@ -35,4 +35,4 @@ Pe4e9537482 · 2024 · Measurement
 - 代码—论文版本一致性，数据及预训练权重是否齐全。
 - 论文指标同口径复现及差异分析。
 
-元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.measurement.2024.115390)；本轮整理日期 2026-11-11。完整元数据见同目录 `paper.json`。
+元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.measurement.2024.115390)；本轮整理日期 2026-11-12。完整元数据见同目录 `paper.json`。

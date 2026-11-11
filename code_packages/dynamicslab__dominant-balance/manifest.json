@@ -1,0 +1,237 @@
+{
+  "id": "dynamicslab__dominant-balance",
+  "repository": "dynamicslab/dominant-balance",
+  "url": "https://github.com/dynamicslab/dominant-balance",
+  "commit": "41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+  "retrieved_at": "2026-11-11T16:49:47.627348+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1038/s41467-021-21331-z"
+  ],
+  "note": "数据驱动主导平衡识别，包含旋转爆轰发动机的 Majda–Burgers 简化模型。其余海流/神经元示例仅为通用背景；燃烧实验需明确选择 RDE 子例。MIT。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/dynamicslab__dominant-balance.json",
+  "license_url": "https://github.com/dynamicslab/dominant-balance/blob/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299/LICENSE",
+  "license_sha256": "5b918efb0839b5a21f549639102ff1eebccb89e3798f9ad3e35dbd72d640982b",
+  "pinned_url": "https://github.com/dynamicslab/dominant-balance/tree/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+  "archive_url": "https://api.github.com/repos/dynamicslab/dominant-balance/tarball/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+  "readme_source": "https://github.com/dynamicslab/dominant-balance/blob/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299/README.md",
+  "archive": {
+    "repository": "dynamicslab/dominant-balance",
+    "commit": "41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+    "source_url": "https://api.github.com/repos/dynamicslab/dominant-balance/tarball/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+    "retrieved_at": "2026-11-11T16:59:09.845421+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/dynamicslab/dominant-balance/legacy.tar.gz/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+    "status": "not_collected",
+    "error": "archive exceeds configured byte limit; use pinned upstream download"
+  },
+  "source_snapshot": {
+    "status": "collected",
+    "collection_type": "partial_source_snapshot",
+    "repository": "dynamicslab/dominant-balance",
+    "commit": "41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+    "date": "2026-11-11",
+    "path": "code_packages/dynamicslab__dominant-balance/41ac6d2e1fec-source-only.tar.gz",
+    "bytes": 15743,
+    "sha256": "f0d26f415303e80c0b9939c8d081c5ce7814b9edfc3bdcbc5c38cb5f86fc624a",
+    "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+    "files": [
+      {
+        "path": "LICENSE",
+        "git_blob_sha": "a5c0c22fc814e6e52a69e3b7ca92ab4a04be94e1",
+        "sha256": "5b918efb0839b5a21f549639102ff1eebccb89e3798f9ad3e35dbd72d640982b",
+        "bytes": 1068
+      },
+      {
+        "path": "README.md",
+        "git_blob_sha": "3cf5e63a4860599f866bb47c9d6c92dcaba98a23",
+        "sha256": "077b1fb78e139bff0102aed253b7aa379bf305ba2e36e3236fec15c3768593e2",
+        "bytes": 3235
+      },
+      {
+        "path": "data/cyl/nek_case/README.md",
+        "git_blob_sha": "c7843c04eee490515fe3b2cf515bce1642348661",
+        "sha256": "76508a1cf1e1b53ba1856b88e74ba43a14b11f7637e6016cb7ec93ec5833415b",
+        "bytes": 586
+      },
+      {
+        "path": "data/gnlse/gnlse.m",
+        "git_blob_sha": "af8e5fc65a9619db664fba37b41bffbd940e0942",
+        "sha256": "77bcd13c83b988bb90f1180d5e53b8a94aa587dcc134fcf012096705b80fbef3",
+        "bytes": 2459
+      },
+      {
+        "path": "data/gnlse/gnlse_main.m",
+        "git_blob_sha": "09501885edc531c75253896e7fc243753b8b45e1",
+        "sha256": "ad3785e376426b5339c9a0fd9cae8159a2baad3e2b25ee5628a351a9eca5ee17",
+        "bytes": 372
+      },
+      {
+        "path": "data/gnlse/gnlse_terms.m",
+        "git_blob_sha": "0e210421d6aee5412cd888bb3fad531f37b99e67",
+        "sha256": "08e678012d444c018354d82844f09676f13667c8d0151daf87a28a7728887b51",
+        "bytes": 2887
+      },
+      {
+        "path": "data/gnlse/nls_rhs.m",
+        "git_blob_sha": "cd96ffb1cbec10439c7894069c4ee9379b62477f",
+        "sha256": "818625e8072bd22ca3e89c48f5ff0081cffe23a93d30fc6a7dab4afd79f1393c",
+        "bytes": 6460
+      },
+      {
+        "path": "data/gnlse/nondimensionalize.m",
+        "git_blob_sha": "213735dadf0eaedb4a99b228c2e8289ab12f9fa8",
+        "sha256": "e0083c9c199b98716f62a2e1acb3447e8390bd7b1c035090a5988f426023a750",
+        "bytes": 1445
+      },
+      {
+        "path": "data/gnlse/test_Dudley.m",
+        "git_blob_sha": "a9cc950781ab3fdda2cb6e5745c097166f02ab32",
+        "sha256": "3d1b06f540f1de703f0b0b5a05741dcff607cffb75207b65f0444316e70bb0e4",
+        "bytes": 2710
+      },
+      {
+        "path": "data/hycom/remote_read.m",
+        "git_blob_sha": "a4ac1987c58e59ec42f93d15d77f6459ec79f53a",
+        "sha256": "41ffc302c396e416610c79fe9b05d3e23e1c8e3af9885c7391cfed314283b550",
+        "bytes": 2290
+      },
+      {
+        "path": "data/neuron/ISI.m",
+        "git_blob_sha": "cc972a9dafc9cd1b440bf8c907e52625044a562e",
+        "sha256": "2ec530b1af68cfb1ece909fd086e5c49c4abaebba28b392e18bf5e37c5d2bff4",
+        "bytes": 166
+      },
+      {
+        "path": "data/neuron/Oc_inf.m",
+        "git_blob_sha": "262be6e80759213006dea499ddfd6e94c5660237",
+        "sha256": "186d68c25ca3102306fb1a7191ee008eb357c478b8761b96110e2313d0d3e96f",
+        "bytes": 98
+      },
+      {
+        "path": "data/neuron/Semireduced15main.m",
+        "git_blob_sha": "104380f1d78267b666b5e58a1e512ab4363a7811",
+        "sha256": "f2242d3fc64b75512db013ac4c93cd7d6afb464449da5a0ab916e56b9b0f66bb",
+        "bytes": 471
+      },
+      {
+        "path": "data/neuron/Semireduced15sim.m",
+        "git_blob_sha": "19b5a8ff4c3eb209ea24d6c719e861bea09f9a38",
+        "sha256": "69365d9f3688d79748c62d7626dbc7d8d1c755f3d45231896ac9e50bd28e6315",
+        "bytes": 1853
+      },
+      {
+        "path": "data/neuron/all_constants.m",
+        "git_blob_sha": "e67a97d9d51f0c7e66a0fa95eb71410f75a8a758",
+        "sha256": "d54a5afa2b83e251bbe9b7359d17fb140e1ebb46d72ac387811e5b5902f533ac",
+        "bytes": 1172
+      },
+      {
+        "path": "data/neuron/binf.m",
+        "git_blob_sha": "51582f6ce48202ebde5f85df8026e0c44252d81d",
+        "sha256": "70589b1efb947c1e2d46df14a35575617c2cb8061d5bda4e6dbe44bd44623956",
+        "bytes": 62
+      },
+      {
+        "path": "data/neuron/dinf.m",
+        "git_blob_sha": "48bec5644a97efb095e9233f43f8b2723d753e86",
+        "sha256": "bf9f51a19fce77c54d8fbef30b2204038751cfd7a1493a1e39e4d808884a3735",
+        "bytes": 59
+      },
+      {
+        "path": "data/neuron/finf.m",
+        "git_blob_sha": "15c64815573145f67b61584f89f39527d3c90313",
+        "sha256": "1fc87302ae1c58f4a17cf86a3bd654f8f879200a6cb47c7b14315131732afb85",
+        "bytes": 60
+      },
+      {
+        "path": "data/neuron/hinf.m",
+        "git_blob_sha": "6ac4c60e5c1cb24b3829b71530cd7c7be2a4fcc9",
+        "sha256": "f2151e6658346b2fa1dfb22be5a61334b9afbe8bc21b8d2d9be47724b489961b",
+        "bytes": 114
+      },
+      {
+        "path": "data/neuron/linf.m",
+        "git_blob_sha": "9d95abcba8ca001014f381167b68af0585ce4d96",
+        "sha256": "9c14351c386e19e88c36f060e39707422dd1c5d9c2b8e087a2ba59c38d0b814f",
+        "bytes": 62
+      },
+      {
+        "path": "data/neuron/minf.m",
+        "git_blob_sha": "9ac365fb8276bcd207be2f463bb1d69b9eb1150e",
+        "sha256": "2841c975c051408c021ce9dd6e45f803468a99a1afe31b45afc110995d7f9f4a",
+        "bytes": 118
+      },
+      {
+        "path": "data/neuron/ninf.m",
+        "git_blob_sha": "36a36dfa875fea8495f9853076496c91a915f811",
+        "sha256": "46a5aa020456c205fcdcf8a29f8dfce810d9da853ea518c6118255fe847ae9e0",
+        "bytes": 63
+      },
+      {
+        "path": "data/neuron/parseargs.m",
+        "git_blob_sha": "b03311473286bf4471f6bcc0946a72015ccd4c39",
+        "sha256": "c9fc16da28a46eb769a6563a3c81540f7625e5789db7a95051d795c981d095b4",
+        "bytes": 5278
+      },
+      {
+        "path": "data/neuron/semireduced15neuron.m",
+        "git_blob_sha": "fb169cacdca2bb3f97373b64cbd1f6bef984b0cc",
+        "sha256": "f392aa50c68c74b21e6c7136321bad9a1279d7a3438fb0d782efaeadc29752e8",
+        "bytes": 3958
+      },
+      {
+        "path": "data/neuron/sinf.m",
+        "git_blob_sha": "1c26bb0e3f95c439894ea381f1de5822bf5e1c1e",
+        "sha256": "8261644bbe2f57ddd9661b966d8c6ae2ac81f4d8a4d0c1756149d31e9945a486",
+        "bytes": 61
+      },
+      {
+        "path": "data/neuron/v_cline.m",
+        "git_blob_sha": "9b7a4a299b1ab917152cc2e06243b44938822abb",
+        "sha256": "0654ac4dbfe9e6d71a44d3888d5a7a3961002d97658289dd89e43082e05a1b9d",
+        "bytes": 104
+      },
+      {
+        "path": "data/rde/sim_rde.py",
+        "git_blob_sha": "fe80b52c270c2d55f540232831654da0937bf240",
+        "sha256": "21bec13b14884a0ce82d514b1b8e761b2a8532e23516d9d2869ffe9bb71aa374",
+        "bytes": 8008
+      }
+    ],
+    "excluded_paths": [
+      ".gitignore",
+      "data",
+      "data/.DS_Store",
+      "data/burgers.mat",
+      "data/cyl",
+      "data/cyl/nek_case",
+      "data/cyl/nek_case/SIZE",
+      "data/cyl/nek_case/cyl.geo",
+      "data/cyl/nek_case/cyl.msh",
+      "data/cyl/nek_case/cyl.nek5000",
+      "data/cyl/nek_case/cyl.par",
+      "data/cyl/nek_case/cyl.re2",
+      "data/cyl/nek_case/cyl.usr",
+      "data/gnlse",
+      "data/gnlse/.DS_Store",
+      "data/hycom",
+      "data/neuron",
+      "data/rde",
+      "notebooks",
+      "notebooks/.DS_Store",
+      "notebooks/1-burgers-eqn.ipynb",
+      "notebooks/2-cylinder.ipynb",
+      "notebooks/3-boundary-layer.ipynb",
+      "notebooks/4-nonlinear-optics.ipynb",
+      "notebooks/5-geostrophy.ipynb",
+      "notebooks/6-neuron.ipynb",
+      "notebooks/7-rde.ipynb"
+    ]
+  },
+  "collection_status": "partial_source_snapshot_collected"
+}

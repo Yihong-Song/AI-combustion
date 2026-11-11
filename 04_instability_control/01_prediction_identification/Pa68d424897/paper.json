@@ -1,0 +1,56 @@
+{
+  "id": "Pa68d424897",
+  "doi": "10.1103/physrevfluids.8.103201",
+  "title": "Hard-constrained neural networks for modeling nonlinear acoustics",
+  "year": 2023,
+  "journal": "Physical Review Fluids",
+  "authors": [
+    "Defne E. Ozan",
+    "Luca Magri"
+  ],
+  "category": "04_instability_control",
+  "subcategory": "01_prediction_identification",
+  "path": "04_instability_control/01_prediction_identification/Pa68d424897",
+  "doi_url": "https://doi.org/10.1103/physrevfluids.8.103201",
+  "metadata_source": "https://api.crossref.org/works/10.1103/physrevfluids.8.103201",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "not_located",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "MagriLab/HCTA",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "50bb41720424a732b28f06adf684e593c98fa0c7",
+    "license": "MIT",
+    "package_id": "MagriLab__HCTA",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "MagriLab/HCTA",
+    "category": "04_instability_control",
+    "subcategory": "01_prediction_identification",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "从有限压力测点重建非线性声场与热声速度场，并外推振荡。",
+    "method": "README 明确对应 Physical Review Fluids 论文，利用硬约束和软约束把声学结构加入神经网络；提供极限环、准周期和混沌 Rijke 管数据生成方案。",
+    "entry": "python -m hcta.rijke_galerkin.generate 生成合成数据；python -m hcta.experiment --config_path src/configs/config.yml 运行；figures 中脚本对应论文图。",
+    "dependencies": "按项目依赖安装独立 Python 环境；作者另提供 Zenodo 10021355 数据与 figure_data 配置/权重。数据链接已定位，本轮未下载。",
+    "evaluation": "按传感器数、噪声与未见动力学状态评估；比较完整压力/速度场、时间外推、频谱及硬约束消融，不能只看训练点拟合。",
+    "limitations": "MIT。README 明说图 13/14 的模型数据未打包，需要重做 robustness_sensor.py 与 robustness_noise.py 扫描。"
+  }
+}

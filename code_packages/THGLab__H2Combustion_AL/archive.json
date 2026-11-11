@@ -1,0 +1,11 @@
+{
+  "repository": "THGLab/H2Combustion_AL",
+  "commit": "a42833dac8d9f671393527f07d7335fe16c23300",
+  "source_url": "https://api.github.com/repos/THGLab/H2Combustion_AL/tarball/a42833dac8d9f671393527f07d7335fe16c23300",
+  "retrieved_at": "2026-11-11T17:01:09.172339+00:00",
+  "license": "MIT",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/THGLab/H2Combustion_AL/legacy.tar.gz/a42833dac8d9f671393527f07d7335fe16c23300",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

@@ -1,0 +1,393 @@
+{
+  "query": "combustion \"reinforcement\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:47:29.005367+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 374,
+  "url": "https://api.github.com/search/repositories?q=combustion+%22reinforcement%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "mathworks/MATLAB-Simulink-Challenge-Project-Hub",
+      "description": "This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.",
+      "html_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 52513,
+      "fork": false,
+      "updated_at": "2026-11-11T13:12:15Z"
+    },
+    {
+      "full_name": "PacktPublishing/Keras-Reinforcement-Learning-Projects",
+      "description": "Keras Reinforcement Learning Projects published by Packt",
+      "html_url": "https://github.com/PacktPublishing/Keras-Reinforcement-Learning-Projects",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 282,
+      "fork": false,
+      "updated_at": "2026-01-01T13:06:50Z"
+    },
+    {
+      "full_name": "PacktPublishing/Hands-On-Simulation-Modeling-with-Python",
+      "description": " Hands-On Simulation Modeling with Python, published by Packt",
+      "html_url": "https://github.com/PacktPublishing/Hands-On-Simulation-Modeling-with-Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 52,
+      "fork": false,
+      "updated_at": "2026-07-12T01:42:38Z"
+    },
+    {
+      "full_name": "IhmeGroup/CombML_Tutorials",
+      "description": "Basic tutorials of supervised, unsupervised, and reinforcement learning",
+      "html_url": "https://github.com/IhmeGroup/CombML_Tutorials",
+      "license": null,
+      "size": 16773,
+      "fork": false,
+      "updated_at": "2026-01-26T16:08:06Z"
+    },
+    {
+      "full_name": "PacktPublishing/Python-Machine-Learning-Cookbook-Second-Edition",
+      "description": null,
+      "html_url": "https://github.com/PacktPublishing/Python-Machine-Learning-Cookbook-Second-Edition",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 33280,
+      "fork": false,
+      "updated_at": "2026-09-04T13:09:12Z"
+    },
+    {
+      "full_name": "harfang3d/dogfight-sandbox-hg2",
+      "description": "Air to air combat sandbox, created in Python 3 using the HARFANG 3D 2 framework.",
+      "html_url": "https://github.com/harfang3d/dogfight-sandbox-hg2",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 479788,
+      "fork": false,
+      "updated_at": "2026-11-08T05:24:54Z"
+    },
+    {
+      "full_name": "hanjuku-kaso/awesome-offline-rl",
+      "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
+      "html_url": "https://github.com/hanjuku-kaso/awesome-offline-rl",
+      "license": null,
+      "size": 300,
+      "fork": false,
+      "updated_at": "2026-11-02T12:10:58Z"
+    },
+    {
+      "full_name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "html_url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 69,
+      "fork": false,
+      "updated_at": "2026-11-04T13:01:27Z"
+    },
+    {
+      "full_name": "NatLabRockies/MPRL",
+      "description": null,
+      "html_url": "https://github.com/NatLabRockies/MPRL",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 4900,
+      "fork": false,
+      "updated_at": "2026-06-30T14:27:22Z"
+    },
+    {
+      "full_name": "PacktPublishing/Hands-On-Reinforcement-Learning-with-R",
+      "description": "Hands-On Reinforcement Learning with R, published by Packt",
+      "html_url": "https://github.com/PacktPublishing/Hands-On-Reinforcement-Learning-with-R",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 32,
+      "fork": false,
+      "updated_at": "2025-09-24T11:04:05Z"
+    },
+    {
+      "full_name": "ryanxhr/DeepThermal",
+      "description": "[AAAI 2022] The official implementation of \"DeepThermal: Combustion Optimization for Thermal Power Generating Units Using Offline Reinforcement Learning\"",
+      "html_url": "https://github.com/ryanxhr/DeepThermal",
+      "license": null,
+      "size": 49,
+      "fork": false,
+      "updated_at": "2026-07-20T07:41:57Z"
+    },
+    {
+      "full_name": "JohannesBetz/AutonomousRacing_Literature",
+      "description": "Autonomous Literature Overview",
+      "html_url": "https://github.com/JohannesBetz/AutonomousRacing_Literature",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 4347,
+      "fork": false,
+      "updated_at": "2026-08-26T23:24:19Z"
+    },
+    {
+      "full_name": "AI4Electricity/Awesome-AI-for-Electricity",
+      "description": "Awesome AI for Electricity",
+      "html_url": "https://github.com/AI4Electricity/Awesome-AI-for-Electricity",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3117,
+      "fork": false,
+      "updated_at": "2026-11-02T18:48:23Z"
+    },
+    {
+      "full_name": "AlokD123/Hybrid-Storage_Project",
+      "description": "Project applying reinforcement learning to control an electric vehicle's energy storage system",
+      "html_url": "https://github.com/AlokD123/Hybrid-Storage_Project",
+      "license": null,
+      "size": 1706,
+      "fork": false,
+      "updated_at": "2026-03-02T15:24:02Z"
+    },
+    {
+      "full_name": "ArnauMiro/pyLowOrder",
+      "description": "High performance parallel reduced order Modelling library",
+      "html_url": "https://github.com/ArnauMiro/pyLowOrder",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 230435,
+      "fork": false,
+      "updated_at": "2026-10-17T19:59:15Z"
+    },
+    {
+      "full_name": "eetongsu/SafeRL-Power-System",
+      "description": "A Review of Safe Reinforcement Learning Methods for Modern Power Systems",
+      "html_url": "https://github.com/eetongsu/SafeRL-Power-System",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 274,
+      "fork": false,
+      "updated_at": "2026-10-31T16:38:46Z"
+    },
+    {
+      "full_name": "blutjens/awesome-MIT-ai-for-climate-change",
+      "description": "🌍 A curated list of MIT faculty that tackle climate change with machine learning for applying students, undergraduates, or others ",
+      "html_url": "https://github.com/blutjens/awesome-MIT-ai-for-climate-change",
+      "license": null,
+      "size": 188,
+      "fork": false,
+      "updated_at": "2026-09-04T13:47:16Z"
+    },
+    {
+      "full_name": "mathworks/awesome-matlab-students",
+      "description": "An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.",
+      "html_url": "https://github.com/mathworks/awesome-matlab-students",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 319232,
+      "fork": false,
+      "updated_at": "2026-11-09T09:54:41Z"
+    },
+    {
+      "full_name": "zikribayraktar/Carbon_Capture_ML",
+      "description": "Survey of all published Carbon Capture ML papers, data, code and supplemental materials for the benefit of all humanity",
+      "html_url": "https://github.com/zikribayraktar/Carbon_Capture_ML",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 161,
+      "fork": false,
+      "updated_at": "2026-08-19T14:12:45Z"
+    },
+    {
+      "full_name": "HKUST-KnowComp/Awesome-Agent-Harness",
+      "description": null,
+      "html_url": "https://github.com/HKUST-KnowComp/Awesome-Agent-Harness",
+      "license": null,
+      "size": 5985,
+      "fork": false,
+      "updated_at": "2026-10-29T05:41:39Z"
+    },
+    {
+      "full_name": "Daniboy370/Masters-Project",
+      "description": "My master's : An investigation of Data driven vs. Rule-based approaches for CFD optimization problem.",
+      "html_url": "https://github.com/Daniboy370/Masters-Project",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 33437,
+      "fork": false,
+      "updated_at": "2026-01-07T08:09:33Z"
+    },
+    {
+      "full_name": "Xuchen-Li/llm-arxiv-daily",
+      "description": "Automatically update arXiv papers about LLM Reasoning, LLM Evaluation, LLM & MLLM and Video Understanding using Github Actions.",
+      "html_url": "https://github.com/Xuchen-Li/llm-arxiv-daily",
+      "license": null,
+      "size": 43025,
+      "fork": false,
+      "updated_at": "2026-11-02T18:10:32Z"
+    },
+    {
+      "full_name": "CiaburroGiuseppe/Hands-On-Simulation-Modeling-with-Python",
+      "description": null,
+      "html_url": "https://github.com/CiaburroGiuseppe/Hands-On-Simulation-Modeling-with-Python",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 79,
+      "fork": false,
+      "updated_at": "2023-08-02T21:42:13Z"
+    },
+    {
+      "full_name": "CiaburroGiuseppe/Keras-Reinforcement-Learning-Projects",
+      "description": null,
+      "html_url": "https://github.com/CiaburroGiuseppe/Keras-Reinforcement-Learning-Projects",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 268,
+      "fork": false,
+      "updated_at": "2020-03-05T13:41:24Z"
+    },
+    {
+      "full_name": "gbstack/AAAI-2022-papers",
+      "description": "AAAI 2022 papers with code",
+      "html_url": "https://github.com/gbstack/AAAI-2022-papers",
+      "license": null,
+      "size": 74,
+      "fork": false,
+      "updated_at": "2026-11-02T06:04:52Z"
+    },
+    {
+      "full_name": "DMO-LAB/combustionRL",
+      "description": "A reinforcement learning framework for intelligently switching between CVODE and Quasi-Steady State (QSS) solvers during combustion chemistry simulations to optimize computational efficiency while maintaining accuracy constraints.",
+      "html_url": "https://github.com/DMO-LAB/combustionRL",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 20001,
+      "fork": false,
+      "updated_at": "2025-12-16T03:03:05Z"
+    },
+    {
+      "full_name": "mehrdadraeesi1-svg/wiebe-curriculum-rl",
+      "description": null,
+      "html_url": "https://github.com/mehrdadraeesi1-svg/wiebe-curriculum-rl",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 2471,
+      "fork": false,
+      "updated_at": "2026-11-01T09:06:22Z"
+    },
+    {
+      "full_name": "musyoku/papers",
+      "description": "実装するリスト",
+      "html_url": "https://github.com/musyoku/papers",
+      "license": null,
+      "size": 9,
+      "fork": false,
+      "updated_at": "2023-08-25T03:57:12Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "comprido96/Model-Based-Offline-Deep-RL",
+      "description": "Model-Based Offline Deep RL - experiments with the COMBO algorithm for oflline model-based RL. This work was done during my master research thesis, in which I had to optimize the energy consumption of a hybrid vehicle through a simulator.",
+      "html_url": "https://github.com/comprido96/Model-Based-Offline-Deep-RL",
+      "license": null,
+      "size": 556,
+      "fork": false,
+      "updated_at": "2026-08-10T17:54:18Z"
+    }
+  ]
+}

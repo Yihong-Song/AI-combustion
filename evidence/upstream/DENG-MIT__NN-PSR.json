@@ -1,0 +1,11 @@
+{
+  "repository": "DENG-MIT/NN-PSR",
+  "url": "https://github.com/DENG-MIT/NN-PSR",
+  "retrieved_at": "2026-11-11T16:47:41.705267+00:00",
+  "commit": "c0eeca1668a1f45c490f881d829525798e002950",
+  "readme_path": "evidence/upstream/DENG-MIT__NN-PSR.readme.txt",
+  "readme_url": "https://github.com/DENG-MIT/NN-PSR/blob/c0eeca1668a1f45c490f881d829525798e002950/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api_or_root_tree",
+  "api_checked_at": "2026-11-11T16:48:06.704330+00:00"
+}

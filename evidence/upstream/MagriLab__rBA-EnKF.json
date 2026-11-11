@@ -1,0 +1,14 @@
+{
+  "repository": "MagriLab/rBA-EnKF",
+  "url": "https://github.com/MagriLab/rBA-EnKF",
+  "retrieved_at": "2026-11-11T16:47:41.703872+00:00",
+  "commit": "641e422240f360300dcbd6fe6d543da358ece74c",
+  "readme_path": "evidence/upstream/MagriLab__rBA-EnKF.readme.txt",
+  "readme_url": "https://github.com/MagriLab/rBA-EnKF/blob/641e422240f360300dcbd6fe6d543da358ece74c/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/MagriLab__rBA-EnKF.license.txt",
+  "license_url": "https://github.com/MagriLab/rBA-EnKF/blob/641e422240f360300dcbd6fe6d543da358ece74c/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:48:01.878155+00:00"
+}

@@ -1,0 +1,23 @@
+{
+  "title_query": "A Priori Uncertainty Quantification of Reacting Turbulence Closure Models using Bayesian Neural Networks",
+  "retrieved_at": "2026-11-11T16:51:35.614136+00:00",
+  "url": "https://api.crossref.org/works?query.title=A+Priori+Uncertainty+Quantification+of+Reacting+Turbulence+Closure+Models+using+Bayesian+Neural+Networks&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.engappai.2024.109821",
+      "title": "a priori uncertainty quantification of reacting turbulence closure models using Bayesian neural networks",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1088/1742-6596/318/4/042032",
+      "title": "Bayesian uncertainty quantification applied to RANS turbulence models",
+      "score": 0.6103896103896104
+    },
+    {
+      "doi": "10.52783/cana.v30.6095",
+      "title": "Uncertainty Quantification in Numerical Methods Using Deep Bayesian Neural Networks",
+      "score": 0.6987951807228916
+    }
+  ],
+  "matched_doi": "10.1016/j.engappai.2024.109821"
+}

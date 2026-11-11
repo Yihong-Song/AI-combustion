@@ -1,0 +1,32 @@
+{
+  "doi": "10.1016/j.proci.2026.106664",
+  "title": "Uncovering flame physics with machine learning: Application to the reaction rate in hydrogen flames",
+  "query": "\"Uncovering flame physics with machine learning Application to the reaction rate in\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:48:27.284798+00:00",
+  "total_count": 2,
+  "items": [
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-pinns",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 507,
+      "fork": false
+    },
+    {
+      "full_name": "zeleny-ondrej/STNN-Weekly-Arxiv",
+      "html_url": "https://github.com/zeleny-ondrej/STNN-Weekly-Arxiv",
+      "description": "Scraping repository of the most relevant topics with regards to Spatio-Temporal Neural Networks available in the arXiv archive. The repository and workflow is based on https://github.com/SpikingChen/SNN-Daily-Arxiv.",
+      "license": null,
+      "size": 4060,
+      "fork": false
+    }
+  ]
+}

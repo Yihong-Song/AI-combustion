@@ -11,7 +11,7 @@ from search_paper_code import github_session
 
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-SUFFIXES = {".py", ".jl", ".toml", ".yaml", ".yml", ".f", ".f90", ".cpp", ".h", ".c", ".md", ".rst"}
+SUFFIXES = {".py", ".jl", ".m", ".ipynb", ".sh", ".json", ".toml", ".yaml", ".yml", ".f", ".f90", ".cpp", ".h", ".c", ".md", ".rst"}
 PRIORITY = {"CAME-THU/FlamePINN-1D", "ctftamu/SL-GPS", "NatLabRockies/cmlm", "deepflameCFD/deepflame-dev", "DENG-MIT/CRNN", "tianhanz/DNN-Models-for-Chemical-Kinetics", "Seauagain/DeePODE", "burn-research/Cypher-challenge-2025"}
 
 
@@ -67,7 +67,8 @@ def collect(package):
             member.mode = 0o644
             bundle.addfile(member, io.BytesIO(content))
     temporary.replace(target)
-    record = {"status": "collected", "collection_type": "partial_source_snapshot", "repository": package["repository"], "commit": package["commit"], "date": "2026-11-11", "path": target.relative_to(ROOT).as_posix(), "bytes": target.stat().st_size, "sha256": hashlib.sha256(target.read_bytes()).hexdigest(), "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.", "files": [{"path": item["path"], "git_blob_sha": item["sha"], "sha256": hashlib.sha256(content).hexdigest(), "bytes": len(content)} for item, content in contents], "excluded_paths": skipped}
+    import datetime
+    record = {"status": "collected", "collection_type": "partial_source_snapshot", "repository": package["repository"], "commit": package["commit"], "date": datetime.date.today().isoformat(), "path": target.relative_to(ROOT).as_posix(), "bytes": target.stat().st_size, "sha256": hashlib.sha256(target.read_bytes()).hexdigest(), "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.", "files": [{"path": item["path"], "git_blob_sha": item["sha"], "sha256": hashlib.sha256(content).hexdigest(), "bytes": len(content)} for item, content in contents], "excluded_paths": skipped}
     record_path.write_text(json.dumps(record, ensure_ascii=False, indent=2), encoding="utf-8")
     return package["repository"], "collected", len(contents)
 
@@ -75,10 +76,13 @@ def collect(package):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--package")
+    parser.add_argument("--all-uncollected", action="store_true")
     arguments = parser.parse_args()
     packages = json.loads((ROOT / "catalog/code_packages.json").read_text(encoding="utf-8"))
     for package in packages:
-        if package["redistribution_enabled"] and (package["id"] == arguments.package if arguments.package else package["repository"] in PRIORITY):
+        selected = package["id"] == arguments.package if arguments.package else arguments.all_uncollected or package["repository"] in PRIORITY
+        archived = package.get("archive", {}).get("status") == "downloaded"
+        if package["redistribution_enabled"] and selected and not (arguments.all_uncollected and archived):
             try:
                 print(collect(package), flush=True)
             except Exception as error:

@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.fuel.2025.136323",
+  "title": "Prediction of NOx emission from a 600 MW coal-fired boiler with deep learning: Plant data learned by Gini index and lightweight convolutional neural network",
+  "query": "\"Prediction of NOx emission from a 600 MW coal-fired boiler with deep\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:42:04.215312+00:00",
+  "total_count": 0,
+  "items": []
+}

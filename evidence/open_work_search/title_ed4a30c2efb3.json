@@ -1,0 +1,23 @@
+{
+  "title_query": "Adaptive chemistry via pre-partitioning of composition space and mechanism reduction",
+  "retrieved_at": "2026-11-11T16:53:51.258829+00:00",
+  "url": "https://api.crossref.org/works?query.title=Adaptive+chemistry+via+pre-partitioning+of+composition+space+and+mechanism+reduction&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.combustflame.2019.09.010",
+      "title": "Adaptive chemistry via pre-partitioning of composition space and mechanism reduction",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1109/tevc.2026.3685228",
+      "title": "Adaptive Feasible Region Estimation via Solution Space Partitioning for Constrained Optimization",
+      "score": 0.475
+    },
+    {
+      "doi": "10.1016/j.patcog.2022.108553",
+      "title": "Fast data reduction by space partitioning via convex hull and MBR computation",
+      "score": 0.4
+    }
+  ],
+  "matched_doi": "10.1016/j.combustflame.2019.09.010"
+}

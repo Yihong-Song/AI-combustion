@@ -1,0 +1,784 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "andreanovoa/real-time-bias-aware-DA",
+  "commit": "10d0a01fae5adf3c5e659231e9d4c0c2e68bce6a",
+  "date": "2026-11-11",
+  "path": "code_packages/andreanovoa__real-time-bias-aware-DA/10d0a01fae5a-source-only.tar.gz",
+  "bytes": 203380,
+  "sha256": "4cc389221cec32632a8b77b988377c6023ce8adf92a5a80fba9505055f8b03fe",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": ".github/workflows/docs.yml",
+      "git_blob_sha": "5145cac97b867bcc63727fb7fea51fac493fe5df",
+      "sha256": "c0697534cb416f44196aede46642b7682f2aa59597cb7f67f32fa849fc52673b",
+      "bytes": 1323
+    },
+    {
+      "path": ".github/workflows/release.yml",
+      "git_blob_sha": "ade266985cd74099a671dde19f0f485d75f71d61",
+      "sha256": "8ba497a823a738b2a732c419508bde3b785d305f650a56c6b913fcb2412cbdc2",
+      "bytes": 744
+    },
+    {
+      "path": ".github/workflows/tests.yml",
+      "git_blob_sha": "2b51088d13425e04e77e6979b1c2c08e99153612",
+      "sha256": "41250f673923ffaf820ecc682f8792e3ef774f14dcaea6937f22e3b4c0571106",
+      "bytes": 611
+    },
+    {
+      "path": ".pre-commit-config.yaml",
+      "git_blob_sha": "8b14e33933d2dafc38297cf1c7a7c7893603dfdc",
+      "sha256": "4b3d1968e979daceff06d83ffadb150f41118ce7085b8f0fb5ddd55ed540506e",
+      "bytes": 366
+    },
+    {
+      "path": "CHANGELOG.md",
+      "git_blob_sha": "6626560a1ddb8833a6901ef882d6aa1532f54429",
+      "sha256": "d15ea82574f34fff087f7e21fd473ddc636cfb308b756f5c32725f2f4a10d123",
+      "bytes": 2188
+    },
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "8292f64dc67444a7eaa1030460ad76b67fbe3fe5",
+      "sha256": "55c76b4828c9f4b9ee1ef70bb10c85c93655f3152cb695d04b016a3b137c39ce",
+      "bytes": 1075
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "e46ec9e72d060c91d3822734ea509823c1f0ae52",
+      "sha256": "e02df84d417049288f4fea5b5063a56347c7358548042962d91fefb5a66addab",
+      "bytes": 10812
+    },
+    {
+      "path": "docs/api/bias_estimators.md",
+      "git_blob_sha": "4828df0c25efa899972076da9f34c41a3921337b",
+      "sha256": "7033fe33ffb34e607facd5b80853707744a1ca7bdac8b7f9f84ed43e592e5623",
+      "bytes": 2086
+    },
+    {
+      "path": "docs/api/datasets.md",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "docs/api/estimators.md",
+      "git_blob_sha": "cd1f1a4309442d22d40d250dca94adaef3ef75b6",
+      "sha256": "4c89677e3677fdecc78e636a9b913957f36c910a7d1528a7f9edc529819a5004",
+      "bytes": 3469
+    },
+    {
+      "path": "docs/api/field_estimation.md",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "docs/api/field_estimation_lamp.md",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "docs/api/filter_deterministic.md",
+      "git_blob_sha": "e4b380e6bf57ba52d250ca3093fae6c825125410",
+      "sha256": "ab58eef16241778d825b2dbf56bcb10078c79d297695673f999ec1b2a52baaf0",
+      "bytes": 1275
+    },
+    {
+      "path": "docs/api/filter_stochastic.md",
+      "git_blob_sha": "3d63038b0feba03a6e33269c55b13a840702e7e6",
+      "sha256": "6e30a56d32b64bce067ab3b24a2d822cc6224e90ffa1cf6c27e1b2a5ebdc8de3",
+      "bytes": 2643
+    },
+    {
+      "path": "docs/api/index.md",
+      "git_blob_sha": "02e832efda7fd180e78b0b7e7b43dc679b9c13b1",
+      "sha256": "93ec3d8a3aade0a2664c5f5003ed8e4ddfe248a5d39a541435b5fd2f4279ca2b",
+      "bytes": 933
+    },
+    {
+      "path": "docs/api/models.md",
+      "git_blob_sha": "04b91fbde74c7dad6497df545321cf8d7e9c9431",
+      "sha256": "1a11da8d16027b0e724deb6e8119f4b1c9b18015f37b20bad6171a4684507ec2",
+      "bytes": 2724
+    },
+    {
+      "path": "docs/api/models_data_driven.md",
+      "git_blob_sha": "c8fb02d2ab4edaec119b44f4ea2ed7974b94c642",
+      "sha256": "6fa430d3d97c9853dd1965005c1421367862d77612b1ae3627777d85000006e7",
+      "bytes": 2313
+    },
+    {
+      "path": "docs/api/models_data_driven_esn.md",
+      "git_blob_sha": "87a2995a8bdc1f8ba584e181475c5a6ed8b5c4bb",
+      "sha256": "e74f7f2cc030352bc9e720fd3956daa1f42582b600ec546943f1e81f0a542541",
+      "bytes": 569
+    },
+    {
+      "path": "docs/api/models_data_driven_latent_roms.md",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "docs/api/models_data_driven_linear.md",
+      "git_blob_sha": "7936a7b0f70b5e22a02d825560449c9c75398e5b",
+      "sha256": "5ab4dbccc47f95c9f5489303a0f44608885774f76376caa55ba087c58da1b224",
+      "bytes": 299
+    },
+    {
+      "path": "docs/api/models_data_driven_pod_esn.md",
+      "git_blob_sha": "fdb79f77846ed4b33daa0a1adf5c0a6dcde5a74a",
+      "sha256": "d149e645cdedfff022595c9410e649c9eec73d18165560dd90ac5224c66c3059",
+      "bytes": 666
+    },
+    {
+      "path": "docs/api/models_data_driven_projectors.md",
+      "git_blob_sha": "4f4e8c4190406efa68af4b00293aedc9dbf528cf",
+      "sha256": "589a04eda30ff65a7f2e9e213c4a7174b6f16ebe131807cf19200bcba084d004",
+      "bytes": 18135
+    },
+    {
+      "path": "docs/api/models_physical.md",
+      "git_blob_sha": "b812d6e6cb0be8ab4c63b5b4e617f2220a3c4ab9",
+      "sha256": "9047f687457586b346507a48a3b0c037b0be46b554914eadef97a5e4864cfed8",
+      "bytes": 1344
+    },
+    {
+      "path": "docs/api/observations.md",
+      "git_blob_sha": "7c907f1baa688f645a16cec66c40807ea965df0c",
+      "sha256": "f28a5d8c9fc29ec6fe90c40c4f02aaf31ee501478fd3535ea638aa6be568c6b5",
+      "bytes": 1036
+    },
+    {
+      "path": "docs/class-hierarchy.md",
+      "git_blob_sha": "e83714e196a8ed235d4bb7c512daa12bd6a46dcf",
+      "sha256": "6a3e54f20f59823aaf316ef070bf978876d9f6688786aeddfc2b39bd648fe43d",
+      "bytes": 7204
+    },
+    {
+      "path": "docs/experiments.md",
+      "git_blob_sha": "185e491d210e88719cc3530f9b447e5150708fed",
+      "sha256": "4b8a81554cb84f10011639f115298d5149c778844bf4ac69ef5969cea0aa088f",
+      "bytes": 3470
+    },
+    {
+      "path": "docs/getting-started.md",
+      "git_blob_sha": "f66794b7c70823c82a6b139648a75a77091eee01",
+      "sha256": "f9aa558bae119ba3e7be86a46c615f83eff04f7cc3c4438a3b707ae3de06f758",
+      "bytes": 2525
+    },
+    {
+      "path": "docs/index.md",
+      "git_blob_sha": "01bd410cbc72a46268aacf8444cf6ba7d3089b21",
+      "sha256": "83d2c666e29f3fa084a23b98944c821f50010314b9b6ea29f2582a56181fd640",
+      "bytes": 3799
+    },
+    {
+      "path": "docs/requirements-docs.txt",
+      "git_blob_sha": "c6d90d33f06a5001075b7d2bca8894e93a4a8897",
+      "sha256": "f617e647bf030e7c65c4d417170d1f0a08a6c7c0115d3611586819b5a4610b27",
+      "bytes": 159
+    },
+    {
+      "path": "docs/tutorials.md",
+      "git_blob_sha": "733452dce9b1c11bb7db6bff781ad40cc68ee224",
+      "sha256": "df4023772430fab5c3cd0a3f3581579b95b3cce70d3dfc6534bb7a2a7f2eb56c",
+      "bytes": 4234
+    },
+    {
+      "path": "examples/README.md",
+      "git_blob_sha": "0b11b4469888683824f3a3814e3139b2a6f48811",
+      "sha256": "c8acda6e50a6baf99664543714b431fb1042f5c6bd04c2574f287d4aa95db3ad",
+      "bytes": 8459
+    },
+    {
+      "path": "examples/common.py",
+      "git_blob_sha": "82869ac8d862fa963f29c434d8f6a668649b8fc3",
+      "sha256": "bd4aaa80afb919e560ec9100befb1c54cb0e2663a2db41f04d21339b00929079",
+      "bytes": 2317
+    },
+    {
+      "path": "examples/lorenz/README.md",
+      "git_blob_sha": "995b46bc1a6083da9f99e4c55f83ec87141a6ee1",
+      "sha256": "c6f7d2fc427fe0539c6ff43810e20c6be6fb6befb56785046f4a239b39f4ea06",
+      "bytes": 4451
+    },
+    {
+      "path": "examples/lorenz/lorenz63.py",
+      "git_blob_sha": "2377748961dc1e9c2177c8f9a75bb21a4bb09066",
+      "sha256": "455599ac529e63d4888a5195b29d7db9cb71ec2af9662591e3ebf08e1eb69d5e",
+      "bytes": 3109
+    },
+    {
+      "path": "examples/lorenz/lorenz63.yml",
+      "git_blob_sha": "3ecf9d4bef52bafae28683730dfb36795ba73d08",
+      "sha256": "a99a52c47140a2b8d5af9b264f0aa63beee35a61ffca2325572e491a851d245f",
+      "bytes": 1611
+    },
+    {
+      "path": "examples/lorenz/lorenz96.yml",
+      "git_blob_sha": "ebb4c5d1d0ca8530fbc4db53cb7588e6b55709a0",
+      "sha256": "d61c214e04cec062044e74ab8654749f8fd8073cb66f5c7025aaa0e2d4361750",
+      "bytes": 888
+    },
+    {
+      "path": "examples/lorenz/sweeps_lorenz63.py",
+      "git_blob_sha": "eb74828273337bb86d40e373cff2fc6b0b44aadf",
+      "sha256": "8d2a74459589e340606ebd90beaf51621750cd96e4fee270a3333f85a020fa8a",
+      "bytes": 3185
+    },
+    {
+      "path": "examples/lorenz/sweeps_lorenz96.py",
+      "git_blob_sha": "28d08d161b6c0ee56780163c6b9d3a062e174476",
+      "sha256": "aadb2d9afe87b522210e6e517de34f5b6886ccf43bf26f4d961055dcf03ce613",
+      "bytes": 2914
+    },
+    {
+      "path": "examples/rom_da/cylinder/README.md",
+      "git_blob_sha": "7c4d0853315cc5d17addde36b3c1af189fbfaec1",
+      "sha256": "8e29735c63dd9ff7b6772785a2de833516b5e18c57191fb843909e414d96c18d",
+      "bytes": 3846
+    },
+    {
+      "path": "examples/rom_da/cylinder/pod_esn.py",
+      "git_blob_sha": "b49cc48a793d6626ad911cc099a97bb2333ea5a8",
+      "sha256": "7741a2db21dd3261c2a48979daf4bbce01f74c5dfa86fbf4ab95aed56cd19ffa",
+      "bytes": 6714
+    },
+    {
+      "path": "examples/rom_da/cylinder/pod_esn.yml",
+      "git_blob_sha": "a68eeb7221d90f71639a75e70fb3022f48eb5923",
+      "sha256": "e0875ffa3d8b1d9d0e5272ba40c605e0eb0a27352ed2a8cfc4901980b28e3105",
+      "bytes": 1149
+    },
+    {
+      "path": "examples/rom_da/cylinder/sweeps.py",
+      "git_blob_sha": "3e850aa88c6237e42e78cd7eaa11fcd5c524bf02",
+      "sha256": "1cee58bb5a5ab55bbe78d359587c8629c2dd051fbccb0ff0a7a4fbf803f27be8",
+      "bytes": 3453
+    },
+    {
+      "path": "examples/run_config.py",
+      "git_blob_sha": "7a59165b451d265b699163f7ac082feb4e6ec3fa",
+      "sha256": "f0297acb730d71cc1f0a82ecbc090b7794d437b05bca26dbbd9bddcf06514459",
+      "bytes": 2130
+    },
+    {
+      "path": "examples/run_parallel.sh",
+      "git_blob_sha": "a6dd61a4077406b5dfb91a3549e6bbe4ac001b5a",
+      "sha256": "54ac0f2e77e33f451a762b93a5837c726fb477c42abaeb92acb963da7d852f26",
+      "bytes": 886
+    },
+    {
+      "path": "examples/sweep.py",
+      "git_blob_sha": "94dfec7ec4a81cb3dbe261e1f3a70459cd9166ad",
+      "sha256": "e74112b3c3fce8c7ad009fc971b3dca0f71bc11e3c695acabc090b667f2118b6",
+      "bytes": 19571
+    },
+    {
+      "path": "examples/thermoacoustics/README.md",
+      "git_blob_sha": "81051f18ef3c20e912717500215c1fa19cec786c",
+      "sha256": "cd103567e42b520c17b0c90a9598a11a0473779ccb0bdfa70fcfe7a1ffe48698",
+      "bytes": 4797
+    },
+    {
+      "path": "examples/thermoacoustics/annular.py",
+      "git_blob_sha": "511f0bd953af347784583b9be9acda14805b4ec9",
+      "sha256": "c9aa87b5bce993ed8918f1b9967f18931c8c6e978ce008d296d887332fa16515",
+      "bytes": 3093
+    },
+    {
+      "path": "examples/thermoacoustics/annular.yml",
+      "git_blob_sha": "802fd039b9ffffa64e19623db44d1930a81cfbe2",
+      "sha256": "406b59186af843ba3fa0c6dd0d71e88555bab5abad7efcb86738de6563b4be17",
+      "bytes": 1533
+    },
+    {
+      "path": "examples/thermoacoustics/rijke.yml",
+      "git_blob_sha": "cef8bd240200956ced8347366f63eb304d939a47",
+      "sha256": "84b5393d061fb18e2719ff69278322eebefa8213fcb6f449fd6260bfdb86f763",
+      "bytes": 1024
+    },
+    {
+      "path": "examples/thermoacoustics/sweeps_annular.py",
+      "git_blob_sha": "2d574634715ebe0d5422cd83f379f0afbb424723",
+      "sha256": "28e4f0675cf5b007fafdf0671a05a85a8bae7f9b64403c4b4214485e1cac4b3c",
+      "bytes": 3339
+    },
+    {
+      "path": "examples/thermoacoustics/vdp.yml",
+      "git_blob_sha": "9ce741b0184251fcf38453d8c364a6b0f342bd11",
+      "sha256": "eccf468a654c87faf0ff0c720c7837f29a368f8dc7bd60bf9e7c21addda54b64",
+      "bytes": 1380
+    },
+    {
+      "path": "hooks.py",
+      "git_blob_sha": "61f2572d28acb408c6ca7814ac4e804e472f2e98",
+      "sha256": "07ec6e02f9da7eea807493c083a0f2c881c674a87310f3fca0cd85cd8d411808",
+      "bytes": 5273
+    },
+    {
+      "path": "mkdocs.yml",
+      "git_blob_sha": "8d0debfdbe133afc367c43eb107c33f45fceff28",
+      "sha256": "9ec8f09cd5abcd0dcba878c0751b507a3cab9148dff55986a554a1bf9080d918",
+      "bytes": 4551
+    },
+    {
+      "path": "pyproject.toml",
+      "git_blob_sha": "21603b26a0eb7fc9d3e2f6bd5c5868b49caeb0f6",
+      "sha256": "8022abbc2d316639bd7f3a1318c439b863e1fe0803679a40d94d733d00b50f12",
+      "bytes": 2925
+    },
+    {
+      "path": "src/romda/__init__.py",
+      "git_blob_sha": "94960facfab5da68ad80ee72fcf97c7f758aa1c1",
+      "sha256": "b3d24e5db141de2e1a255775b863e907a65390d493b5d098fd934088e5aeb2fa",
+      "bytes": 1221
+    },
+    {
+      "path": "src/romda/bias_estimators/__init__.py",
+      "git_blob_sha": "cfbb7636ecd449df7da7751f1640f560cd97dd1c",
+      "sha256": "191b1ac279b8ad3df1aa771dbf5738c19b6199300c968fee2663d302548d24af",
+      "bytes": 173
+    },
+    {
+      "path": "src/romda/bias_estimators/aux.py",
+      "git_blob_sha": "33e90afbc62b9c4b84f4337d36b6fe593283f75b",
+      "sha256": "ea8ebde2f8e298424b64bcba354898c273765bf278ef5012f497da966a21525d",
+      "bytes": 19031
+    },
+    {
+      "path": "src/romda/bias_estimators/bias.py",
+      "git_blob_sha": "c2a1334f1227468c0c7a29dba9ef7c19e4cedcda",
+      "sha256": "b5670ea9eebf30a9bda2a2bbd721ffe19898c6746738cff53c2be11e18a1e148",
+      "bytes": 14904
+    },
+    {
+      "path": "src/romda/bias_estimators/constantbias.py",
+      "git_blob_sha": "c5fbf428e322d9351354d1ec6d44725015b2b6eb",
+      "sha256": "5cf0334103914ef583d16201262bd50dee05048815c1539ac6d21c39dd5bd432",
+      "bytes": 1784
+    },
+    {
+      "path": "src/romda/bias_estimators/esn.py",
+      "git_blob_sha": "cc0990d180f12e2320aa049577689d15e0ae8acf",
+      "sha256": "3f734f7f1f6396a477f93b6736de57ad2229193e8269b01d00b4f033a7f032b9",
+      "bytes": 7524
+    },
+    {
+      "path": "src/romda/data_assimilation.py",
+      "git_blob_sha": "a8b9a4bee883a3435ae3f76dbaa18533b676e3d0",
+      "sha256": "749e81fd2ccf474e52fd0c263a4bd74ec2c5dd3627afc06d4b42ee364ea26e22",
+      "bytes": 2578
+    },
+    {
+      "path": "src/romda/estimators/__init__.py",
+      "git_blob_sha": "8dbf0b1774eae9392823655cd0aca0afce993cc8",
+      "sha256": "7da4c8bd839eb2e40ae018c4a0faff7d144acaa919c07aa0edb4f33aa097569c",
+      "bytes": 4129
+    },
+    {
+      "path": "src/romda/estimators/base.py",
+      "git_blob_sha": "05a3d236e293e20817fb22ea0d04538d48c58059",
+      "sha256": "59f5fbc7a64989a69f96a5e513c21d644eb35656a0bbb52950ef66debfe63e60",
+      "bytes": 31639
+    },
+    {
+      "path": "src/romda/estimators/inflation.py",
+      "git_blob_sha": "683b7b3e62a08f59f626609ca4fabb90ce93a50b",
+      "sha256": "3ed4d599db642ec8e833fe3ea020a7e04439321ada969ff019c2cda22948ab27",
+      "bytes": 1482
+    },
+    {
+      "path": "src/romda/estimators/localization.py",
+      "git_blob_sha": "f4e289cde9d07474d8e92fefae0ba9dca2a2feb4",
+      "sha256": "4537db91ddd7ddc53ebe79339730cb07ef51a81ccde45a31de75054504ca86f3",
+      "bytes": 3880
+    },
+    {
+      "path": "src/romda/estimators/sequential/__init__.py",
+      "git_blob_sha": "c5769f6867d0f4816cb3d21291b1eda6156475cc",
+      "sha256": "76f449feece901e3db436b9efa668d784518b6ccffb3488a40f82babc2b4dd36",
+      "bytes": 752
+    },
+    {
+      "path": "src/romda/estimators/sequential/ensemble.py",
+      "git_blob_sha": "29cc57b91176f461b5d24058af3946c45dc1ac78",
+      "sha256": "a78a5cd5ab61f96b92c7b6e09fa6d690809510ba966d348cf01e075e97bde066",
+      "bytes": 49596
+    },
+    {
+      "path": "src/romda/estimators/sequential/kalman.py",
+      "git_blob_sha": "e6ec08df1acef3ff0ebd3830052573be6393f04b",
+      "sha256": "aa029d07720fedc8764a16a0379bb8d32dc3989e4fe8c6cc5aac6545101327ab",
+      "bytes": 10810
+    },
+    {
+      "path": "src/romda/experiments.py",
+      "git_blob_sha": "ead90252abb9901fdd3160f0dd97e1feeb71216a",
+      "sha256": "ef8d762edc2bf4b7aaed0e6483378c7c3a8060bbf6265f954c7619adda64db93",
+      "bytes": 7203
+    },
+    {
+      "path": "src/romda/metrics.py",
+      "git_blob_sha": "57336b3be66eaefca471f928610d382a9ecc8444",
+      "sha256": "3e12e1be7929df9dd27eedc47c66d534a0afeb570842a8f2ffcb33b6aa50ed14",
+      "bytes": 12269
+    },
+    {
+      "path": "src/romda/models/__init__.py",
+      "git_blob_sha": "0a1fd09e4aadad2fc11856335354b176218d82bb",
+      "sha256": "ec1a740b0f9c59468977636410e4247da2c2b4cd8e0ceadcec42e77957b52a42",
+      "bytes": 1729
+    },
+    {
+      "path": "src/romda/models/data_driven/__init__.py",
+      "git_blob_sha": "fc5921f6a005b1ed56f14fd1f4e8be7c00feace3",
+      "sha256": "bb74c5df12666119c7559916ae69bdc0bc201a305cae2c7ff57e6b6e078ce1b9",
+      "bytes": 2147
+    },
+    {
+      "path": "src/romda/models/data_driven/autoencoders/__init__.py",
+      "git_blob_sha": "9a53ecb1df952594d94836a1bfb74756a8e66f25",
+      "sha256": "c1ec9640720b91c3cc3ab9267825bc06b3aab933a3d4b1d2a2222d33f712996d",
+      "bytes": 1944
+    },
+    {
+      "path": "src/romda/models/data_driven/autoencoders/base.py",
+      "git_blob_sha": "17b6deaceeddf0fad7c08c0228cd462c7f90b1cb",
+      "sha256": "8c0a72db5cffab768a1804a32a24dfb608d2baffdf901af24874cc20249a455c",
+      "bytes": 15183
+    },
+    {
+      "path": "src/romda/models/data_driven/autoencoders/pod.py",
+      "git_blob_sha": "737bb7eacbee8b12c0b31bd65c08134de773cd51",
+      "sha256": "fc8430f5a9317f045526cf407d15b3bae75c246086c0a0f3a678d9bd8b214b8a",
+      "bytes": 19818
+    },
+    {
+      "path": "src/romda/models/data_driven/autoencoders/pod_utils.py",
+      "git_blob_sha": "5fa0c91b8697dbfc254ec86c526c90b48594f1d1",
+      "sha256": "ffa8c97c776352a71216063fc486640db419278449ad36110da6f08159b7770b",
+      "bytes": 17826
+    },
+    {
+      "path": "src/romda/models/data_driven/configurable.py",
+      "git_blob_sha": "7f18b6ae6eb6a01780595b95d2bf2d7f2c903e03",
+      "sha256": "6782ceee0af842b7d8f4f2ca72b619b7a7611b429bcf3ace6ee1d7787d8cf754",
+      "bytes": 6050
+    },
+    {
+      "path": "src/romda/models/data_driven/latent_rom.py",
+      "git_blob_sha": "1d18f3799fda184fca32e2ae8b628062eb67b742",
+      "sha256": "ca8dfcae242a71d22cd032d95571b96a59f9c5fde026230ab95f87f2f498a4c8",
+      "bytes": 27565
+    },
+    {
+      "path": "src/romda/models/data_driven/linear_model.py",
+      "git_blob_sha": "6f003168155971bd27c10e431c0dc6a966670a89",
+      "sha256": "4fb385406e60c17ec4ccdade354e76809f16212a4f9b6ddfa44f60e344da87b1",
+      "bytes": 5387
+    },
+    {
+      "path": "src/romda/models/data_driven/model_config.py",
+      "git_blob_sha": "6c4a11abd73c142658caf3d7da90f8eaacbb9681",
+      "sha256": "6ec55b0ee904f0f851dc4dc96caddf7e8b64b94d6b0a32095ba96a58c2447d40",
+      "bytes": 14504
+    },
+    {
+      "path": "src/romda/models/data_driven/pod_esn.py",
+      "git_blob_sha": "a455c2725e6a7d172ff42bc061e6c2482e78b0d3",
+      "sha256": "ae85ac5b059363eb9531c5af7cd6277b3cc2fcf4a221e242769918be7fbf920f",
+      "bytes": 5970
+    },
+    {
+      "path": "src/romda/models/data_driven/rnns/__init__.py",
+      "git_blob_sha": "ab229f3b5e5f6bfc02bef7aed261adc6f8c0d1d1",
+      "sha256": "f9d643727d99dff79377fb0d4d335058d5131befa1cb4f6c6695ac68d93c54b7",
+      "bytes": 777
+    },
+    {
+      "path": "src/romda/models/data_driven/rnns/esn.py",
+      "git_blob_sha": "33595ef2fce514cdf0ebc935fbbd73967f544307",
+      "sha256": "7830d396dee218fca3d2fa2c2368df57ca725ded17c0a38151e3e4fdbfb93ef9",
+      "bytes": 45130
+    },
+    {
+      "path": "src/romda/models/data_driven/rnns/esn_config.py",
+      "git_blob_sha": "1662527b07c0d153920f356deb5f8fa6bcfe68dc",
+      "sha256": "120dd345134c79b0095ba7a3983682b4191bdd9b952c466b900e7e8804f965f6",
+      "bytes": 14447
+    },
+    {
+      "path": "src/romda/models/data_driven/training.py",
+      "git_blob_sha": "06c3485f9455475404ecea1787f5b330c8a6a67b",
+      "sha256": "0cac260b8ad8f6b39f291bdaed6aacf43ae68b0360f615e49c3cbbfa2d3afd35",
+      "bytes": 2105
+    },
+    {
+      "path": "src/romda/observations.py",
+      "git_blob_sha": "e366af57be1fa7e9b98d6b5da8cda5d376283a49",
+      "sha256": "b74a81669aeb6cab58fa19550b5e25f60acdb87590289f085df80a0ca165aae4",
+      "bytes": 27674
+    },
+    {
+      "path": "src/romda/plotting/__init__.py",
+      "git_blob_sha": "5a244b226b8c146947b79d8abb3f8b9fac49b5fd",
+      "sha256": "9d7e77c71d89b338404ef2e5067a850e4b306e4ba3ff10eaff1f67652818ec81",
+      "bytes": 164
+    },
+    {
+      "path": "src/romda/plotting/plot_results.py",
+      "git_blob_sha": "0c3f37b15fca55d8dbc4e4790d66cf77f43c21ee",
+      "sha256": "491aae92089d691dd8e996b494a6cc3477472565d356bf09b193350c6f9cb65e",
+      "bytes": 1519
+    },
+    {
+      "path": "src/romda/plotting/pod.py",
+      "git_blob_sha": "99fc2f2205d909ef280f1519cdb2eb0da051680e",
+      "sha256": "32328e97231fe2c00f5a2255fe493673e1756ff31de16f138473fbd356bddeda",
+      "bytes": 8673
+    },
+    {
+      "path": "src/romda/plotting/utils_plotting.py",
+      "git_blob_sha": "96cec1d4828fb0bf7a0a9c45db05b0f2f6358ec7",
+      "sha256": "0856c0f2b033d93c4d25a4ab6673e3c6555316f2f1ef3c3e5f014976acc59ed5",
+      "bytes": 1963
+    },
+    {
+      "path": "src/romda/utils.py",
+      "git_blob_sha": "3f8b0934a14dea0a7feebe531fa14877ab34e58d",
+      "sha256": "d194a72c3559ae790933545568e49973338558dbdd11d738948bd1659cb8cead",
+      "bytes": 24798
+    },
+    {
+      "path": "src/romda/verbose.py",
+      "git_blob_sha": "092fddc0391d0aa280386c40e0d69b7f875277b3",
+      "sha256": "1682645c59884c1fdde346301f41f72c85628dc35bdb6abb933478ca68fa799c",
+      "bytes": 2906
+    },
+    {
+      "path": "tests/conftest.py",
+      "git_blob_sha": "27d3c61cf479c5c04de7227165b2e3545e90f0c7",
+      "sha256": "366e773b2f59dbce1463b7986bbacbbe6c1efa94b62c37a3a282881c7fb02d22",
+      "bytes": 1116
+    },
+    {
+      "path": "tests/test_bias_estimators.py",
+      "git_blob_sha": "0fa23067fff873d6d94173d95844414e8acfb5f2",
+      "sha256": "bc7dcadc2771d7619cfcffe7d2f76375a09281d3bc56fc21f165c93d291fab8f",
+      "bytes": 9231
+    },
+    {
+      "path": "tests/test_deterministic.py",
+      "git_blob_sha": "ac5856aa861ddf66999a8a13a229ce4fe2e7c375",
+      "sha256": "614d07c05227a203dc232ee81f37bfd0a0a24416746823b1d7f20e4b7e351503",
+      "bytes": 2614
+    },
+    {
+      "path": "tests/test_ensemble_types.py",
+      "git_blob_sha": "60320a334e6d467ec10f045358da928fb8599695",
+      "sha256": "1519089546755b285347ba7423057a709e48ec0919cfa148741529f0b53fd746",
+      "bytes": 7044
+    },
+    {
+      "path": "tests/test_esn_config_hash.py",
+      "git_blob_sha": "4614d4dcf3d3277a927e1e2c6f2d13c5300aa0d5",
+      "sha256": "95ff9b40739ad589e1d8ae35f0e493816acb8cc0f40b5d69f774b3ce96569886",
+      "bytes": 4905
+    },
+    {
+      "path": "tests/test_esn_readout_options.py",
+      "git_blob_sha": "77e64a29f6a941b1c97e59d5446643e255c51a54",
+      "sha256": "4daa53f129959345668ae19ca84de323d9f23112658ed6ad025b56f7f9f65c66",
+      "bytes": 4866
+    },
+    {
+      "path": "tests/test_estimator_config.py",
+      "git_blob_sha": "4ba3d7afb0a200d47dabaa090be78e197413bbde",
+      "sha256": "82fb24868fa31ba5378eb52300ec1b3ba6c06e3ffe45405f9182b1c9cbac8a19",
+      "bytes": 6238
+    },
+    {
+      "path": "tests/test_estimator_da.py",
+      "git_blob_sha": "e27f26123110a4a62cb82179b58f7b011840a636",
+      "sha256": "51f4247327ea2ca778abc4a7c389a4707e338e274e19010facf4c0187c7d32aa",
+      "bytes": 5373
+    },
+    {
+      "path": "tests/test_history_reset_last_states.py",
+      "git_blob_sha": "6ed5ea50d84e31b534aa9cff8714aa743a2a59e4",
+      "sha256": "5a4d03332151878d114006d77437cd4c2a331a2b4a539104e2916c532e2d05dc",
+      "bytes": 923
+    },
+    {
+      "path": "tests/test_inflation.py",
+      "git_blob_sha": "d673509ff71d4d8457ca6e3ec1b8d916190bc8b8",
+      "sha256": "12944d341bdf73207e8471cde283723a65912bbe29c8dfab1465e4fb77b68f81",
+      "bytes": 5483
+    },
+    {
+      "path": "tests/test_kalman_types.py",
+      "git_blob_sha": "3151a1b19cec535241a9f367a66f21a757827a26",
+      "sha256": "7ac56a648bb884d878e4402daa35f424fd4f437123a1a1d477fc13cd982f24b7",
+      "bytes": 7945
+    },
+    {
+      "path": "tests/test_latent_rom_da.py",
+      "git_blob_sha": "b4b32a60e5e52bff78779bc0bbe7ff1217ec2bef",
+      "sha256": "df5fe2bdf6fd96a2ca48a502a5f43dc83fdf46e88cb519db3cab8acdd06a169b",
+      "bytes": 3276
+    },
+    {
+      "path": "tests/test_latent_rom_segments.py",
+      "git_blob_sha": "5e48edc48ee66fb3282f336f466413a2e949524e",
+      "sha256": "0a9cef65c918d651c0dadc52b584d62045c1f0c73b8a318e151c15f58110b839",
+      "bytes": 2663
+    },
+    {
+      "path": "tests/test_linear_model_kf.py",
+      "git_blob_sha": "6a2f446bb2d424efc0cd65dd3a989a4c700436fa",
+      "sha256": "b06c232945d96f22e72bd0b6d6009601a1a8b15f38410b6c216a8ea14b5d2586",
+      "bytes": 2679
+    },
+    {
+      "path": "tests/test_models_shim.py",
+      "git_blob_sha": "630d2d39e871b42bd167320c82ea512a68206a6b",
+      "sha256": "097858cb89207d34934ff14bc4bd8767cff9a2a7f4dfc6d10a2b6dd15e26537d",
+      "bytes": 1161
+    },
+    {
+      "path": "tests/test_noise_seed.py",
+      "git_blob_sha": "643cebfbb69f34170ef8a81dcca4d719d0531589",
+      "sha256": "1069229f3191a2f5cc40009976064fbab5320387c49978628299545295e39df7",
+      "bytes": 3393
+    },
+    {
+      "path": "tests/test_observations.py",
+      "git_blob_sha": "3f2dcf7c6b94f42ef1788463954f73acceb51c57",
+      "sha256": "3d4bb578c89a2c2251666b4684e912de553de07d4804ed88f10124eb4b25f1b4",
+      "bytes": 2871
+    },
+    {
+      "path": "tests/test_pod_esn.py",
+      "git_blob_sha": "48794c7b84be173862b4e5d7787b84708bbe14e5",
+      "sha256": "c5dd99b6a036cdae664a3827eadb52d6ea042916c7ff36af57343235a74c9d60",
+      "bytes": 3580
+    },
+    {
+      "path": "tests/test_pod_spod.py",
+      "git_blob_sha": "42e55b88fc88f7745ab76bb448f42d45e2097afa",
+      "sha256": "4952473656d743aeca4c823373e2c6658f6d073ff5a06f116968742a3a1fb314",
+      "bytes": 9085
+    },
+    {
+      "path": "tests/test_project_root.py",
+      "git_blob_sha": "69c0500a1da440e69bca440f97d529a444f47619",
+      "sha256": "0409976dab2e3f9badd07e9997fef0d405643cbaf3a13600995a27facda7ebcc",
+      "bytes": 697
+    },
+    {
+      "path": "tests/test_state_rejection.py",
+      "git_blob_sha": "f1f89775309a01f0a1de2bb56c1e595af8b038d1",
+      "sha256": "35fb96ab18ec540b088b21deca473caceb8eb6aa37aff90f62dd6b482cc8a181",
+      "bytes": 1864
+    },
+    {
+      "path": "tests/test_verbose.py",
+      "git_blob_sha": "0d2a7d330cef4d1ad95e123d98f02f652e174cc7",
+      "sha256": "ed0d9f3fa345d89f5804d81a9c250bb1f3b809bd2f3742ef9a051bfd7293805d",
+      "bytes": 4277
+    },
+    {
+      "path": "tutorials/2_Real-time_DA_Thermoacoustics/22_TA_azimuthal_LOM_data_and_DA.ipynb",
+      "git_blob_sha": "5dd7ba7f352b3dde4ec24305274244783e7f545e",
+      "sha256": "2b4add4a5e71660d56f48448190a0578eebbb424e98d7dd3a8ee85123c406928",
+      "bytes": 19341
+    },
+    {
+      "path": "tutorials/README.md",
+      "git_blob_sha": "1c9312a2bc25335a7f316fdb366e3440ea91b8cb",
+      "sha256": "977d348be66cbf761ef1e99273c95fc1b8758c499d550ddc2a822890f335cb4f",
+      "bytes": 3450
+    },
+    {
+      "path": "tutorials/test_tutorials.py",
+      "git_blob_sha": "f7f00acceae1750ca280038de25fd71d6a7dfc4b",
+      "sha256": "5f16db6be72eb0821d9394ee247e1ea1eac45e5742547d950558374821a07a57",
+      "bytes": 1440
+    }
+  ],
+  "excluded_paths": [
+    ".github",
+    ".github/workflows",
+    ".gitignore",
+    "CITATION.cff",
+    "docs",
+    "docs/2023_CMAME_Erratum.pdf",
+    "docs/api",
+    "docs/figs",
+    "docs/figs/DA",
+    "docs/figs/DA/CAE-ESN_DA.png",
+    "docs/figs/DA/ESN-basic-config.png",
+    "docs/figs/DA/ESN-open-close-schematics.png",
+    "docs/figs/DA/POD-ESN-SPE.png",
+    "docs/figs/DA/POD-ESN_DA.png",
+    "docs/figs/DA/Real-time-DA.gif",
+    "docs/figs/DA/models_pyramid.png",
+    "docs/figs/DA/wBADA.gif",
+    "docs/figs/Lorenz",
+    "docs/figs/Lorenz/Lorenz_butterfly.gif",
+    "docs/figs/projectors",
+    "docs/figs/projectors/proj_coefficients.png",
+    "docs/figs/projectors/proj_fields.png",
+    "docs/figs/projectors/proj_modes.png",
+    "docs/figs/projectors/proj_reconstruction.png",
+    "docs/figs/projectors/proj_schematic.png",
+    "docs/figs/projectors/proj_spectrum.png",
+    "docs/figs/projectors/proj_towne.png",
+    "docs/javascripts",
+    "docs/javascripts/mathjax.js",
+    "examples",
+    "examples/.gitignore",
+    "examples/lorenz",
+    "examples/rom_da",
+    "examples/rom_da/cylinder",
+    "examples/thermoacoustics",
+    "src",
+    "src/romda",
+    "src/romda/bias_estimators",
+    "src/romda/estimators",
+    "src/romda/estimators/sequential",
+    "src/romda/models",
+    "src/romda/models/data_driven",
+    "src/romda/models/data_driven/autoencoders",
+    "src/romda/models/data_driven/rnns",
+    "src/romda/plotting",
+    "tests",
+    "tutorials",
+    "tutorials/0_How_to_repo",
+    "tutorials/0_How_to_repo/00_Class_Model.ipynb",
+    "tutorials/0_How_to_repo/02_Class_ESN_model.ipynb",
+    "tutorials/0_How_to_repo/04_Class_Observations.ipynb",
+    "tutorials/0_How_to_repo/05_Class_Bias.ipynb",
+    "tutorials/0_How_to_repo/06_Class_Estimator.ipynb",
+    "tutorials/1_Introduction_to_real-time_DA",
+    "tutorials/1_Introduction_to_real-time_DA/10_real-time-DA_intro.ipynb",
+    "tutorials/1_Introduction_to_real-time_DA/11_ensemble-DA_intro.ipynb",
+    "tutorials/1_Introduction_to_real-time_DA/13_real-time-DA-augmented-state.ipynb",
+    "tutorials/1_Introduction_to_real-time_DA/15_real-time-DA_Lorenz63.ipynb",
+    "tutorials/1_Introduction_to_real-time_DA/16_Bias-aware_real-time_DA.ipynb",
+    "tutorials/2_Real-time_DA_Thermoacoustics",
+    "tutorials/2_Real-time_DA_Thermoacoustics/20_Rijke_LOM_and_DA.ipynb",
+    "tutorials/2_Real-time_DA_Thermoacoustics/21_TABADA_Rijke_CMAME.ipynb",
+    "tutorials/3_Introduction_to_ROMs",
+    "tutorials/3_Introduction_to_ROMs/31_POD_SPOD.ipynb",
+    "tutorials/3_Introduction_to_ROMs/35_POD_ESN_cylinder.ipynb",
+    "tutorials/4_Real-time_DA_ROMs",
+    "tutorials/4_Real-time_DA_ROMs/44_DA_POD_ESN_cylinder.ipynb"
+  ]
+}

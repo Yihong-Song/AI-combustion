@@ -1,0 +1,14 @@
+{
+  "repository": "DMO-LAB/combustionRL",
+  "url": "https://github.com/DMO-LAB/combustionRL",
+  "retrieved_at": "2026-11-11T16:48:47.936073+00:00",
+  "commit": "79cfdc3c71956d928b85871258f566d0de52fca3",
+  "readme_path": "evidence/upstream/DMO-LAB__combustionRL.readme.txt",
+  "readme_url": "https://github.com/DMO-LAB/combustionRL/blob/79cfdc3c71956d928b85871258f566d0de52fca3/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/DMO-LAB__combustionRL.license.txt",
+  "license_url": "https://github.com/DMO-LAB/combustionRL/blob/79cfdc3c71956d928b85871258f566d0de52fca3/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:02.827997+00:00"
+}

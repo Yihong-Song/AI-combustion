@@ -1,0 +1,14 @@
+{
+  "repository": "NatLabRockies/MPRL",
+  "url": "https://github.com/NatLabRockies/MPRL",
+  "retrieved_at": "2026-11-11T16:48:47.935561+00:00",
+  "commit": "d54229e8290d5229b3ae9971ca75a07e7386c5c4",
+  "readme_path": "evidence/upstream/NatLabRockies__MPRL.readme.txt",
+  "readme_url": "https://github.com/NatLabRockies/MPRL/blob/d54229e8290d5229b3ae9971ca75a07e7386c5c4/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/NatLabRockies__MPRL.license.txt",
+  "license_url": "https://github.com/NatLabRockies/MPRL/blob/d54229e8290d5229b3ae9971ca75a07e7386c5c4/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "Apache-2.0",
+  "api_checked_at": "2026-11-11T16:48:59.162952+00:00"
+}

@@ -1,0 +1,5 @@
+{
+  "title_query": "Adaptive chemistry via pre-partitioning of composition space and mechanism reduction",
+  "retrieved_at": "2026-11-11T16:51:40.899007+00:00",
+  "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Adaptive+chemistry+via+pre-partitioning+of+composition+space+and+mechanism+reduction&rows=3&filter=type%3Ajournal-article"
+}

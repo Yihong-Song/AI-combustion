@@ -1,0 +1,18 @@
+{
+  "id": "deepflame-ai__FlameBench",
+  "repository": "deepflame-ai/FlameBench",
+  "url": "https://github.com/deepflame-ai/FlameBench",
+  "commit": "19584b08128787d07ca6e7b8aedf63c8e28227af",
+  "retrieved_at": "2026-11-11T16:47:47.992212+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "燃烧机器学习基准框架线索。README 很短，尚未明确期刊 DOI、数据规模与完整操作协议；作为基准工具待核。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/deepflame-ai__FlameBench.json",
+  "pinned_url": "https://github.com/deepflame-ai/FlameBench/tree/19584b08128787d07ca6e7b8aedf63c8e28227af",
+  "archive_url": "https://api.github.com/repos/deepflame-ai/FlameBench/tarball/19584b08128787d07ca6e7b8aedf63c8e28227af",
+  "readme_source": "https://github.com/deepflame-ai/FlameBench/blob/19584b08128787d07ca6e7b8aedf63c8e28227af/README.md",
+  "collection_status": "link_only"
+}

@@ -1,0 +1,14 @@
+{
+  "repository": "Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper",
+  "url": "https://github.com/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper",
+  "retrieved_at": "2026-11-11T16:48:47.933405+00:00",
+  "commit": "f6f07bed28fc350a698a56012796ca7a16abe626",
+  "readme_path": "evidence/upstream/Predictive-Intelligent-Systems-Lab__TTE-TAI-PROCI-paper.readme.txt",
+  "readme_url": "https://github.com/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper/blob/f6f07bed28fc350a698a56012796ca7a16abe626/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/Predictive-Intelligent-Systems-Lab__TTE-TAI-PROCI-paper.license.txt",
+  "license_url": "https://github.com/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper/blob/f6f07bed28fc350a698a56012796ca7a16abe626/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:48:54.060462+00:00"
+}

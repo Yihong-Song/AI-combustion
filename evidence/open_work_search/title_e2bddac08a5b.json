@@ -1,0 +1,23 @@
+{
+  "title_query": "Data-based instantaneous conditional progress variable dissipation rate modeling for turbulent premixed combustion",
+  "retrieved_at": "2026-11-11T16:53:39.077911+00:00",
+  "url": "https://api.crossref.org/works?query.title=Data-based+instantaneous+conditional+progress+variable+dissipation+rate+modeling+for+turbulent+premixed+combustion&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.combustflame.2023.113139",
+      "title": "Data-based instantaneous conditional progress variable dissipation rate modeling for turbulent premixed combustion",
+      "score": 1.0
+    },
+    {
+      "doi": "10.3390/computation9030026",
+      "title": "Modelling of Conditional Scalar Dissipation Rate in Turbulent Premixed Combustion",
+      "score": 0.7241379310344828
+    },
+    {
+      "doi": "10.1016/j.proci.2020.06.205",
+      "title": "Deep learning-based model for progress variable dissipation rate in turbulent premixed flames",
+      "score": 0.6666666666666666
+    }
+  ],
+  "matched_doi": "10.1016/j.combustflame.2023.113139"
+}

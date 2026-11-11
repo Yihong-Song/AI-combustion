@@ -1,0 +1,23 @@
+{
+  "title_query": "DeepFlame: A deep learning empowered open-source platform for reacting flow simulations",
+  "retrieved_at": "2026-11-11T16:51:29.411993+00:00",
+  "url": "https://api.crossref.org/works?query.title=DeepFlame%3A+A+deep+learning+empowered+open-source+platform+for+reacting+flow+simulations&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.cpc.2023.108842",
+      "title": "DeepFlame: A deep learning empowered open-source platform for reacting flow simulations",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/j.compfluid.2019.06.008",
+      "title": "reactingFoam-SCI: An open source CFD platform for reacting flow simulation",
+      "score": 0.7101449275362319
+    },
+    {
+      "doi": "10.1016/j.cpc.2025.109595",
+      "title": "DeepFlame 2.0: A new version for fully GPU-native machine learning accelerated reacting flow simulations under low-Mach conditions",
+      "score": 0.5297297297297298
+    }
+  ],
+  "matched_doi": "10.1016/j.cpc.2023.108842"
+}

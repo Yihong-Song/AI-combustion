@@ -1,0 +1,276 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "gdalessi/OpenMORe",
+  "commit": "101ca4b461f7b25b55cbed05e6724702774eec43",
+  "date": "2026-11-11",
+  "path": "code_packages/gdalessi__OpenMORe/101ca4b461f7-source-only.tar.gz",
+  "bytes": 92180,
+  "sha256": "7f6c3ced71e0ad16544d1b6533d5bc1f575e9c22ef2a51028684a0317bac9afb",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": "LICENSE.txt",
+      "git_blob_sha": "13dfc5099de1702c77834635cb9d06bf4dabb0ed",
+      "sha256": "31d1f9f81e331404993428865b81cb9abf3b9df3d9edc7592b6ff3627284eca8",
+      "bytes": 1105
+    },
+    {
+      "path": "OpenMORe/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "OpenMORe/classification.py",
+      "git_blob_sha": "bbb211a8588d44ff791d526d69b46458a7071e46",
+      "sha256": "b4c5445b090f7583faaa57a7d41bf6defa1ff4fb17dd959705b8cd23edbc16fb",
+      "bytes": 3370
+    },
+    {
+      "path": "OpenMORe/clustering.py",
+      "git_blob_sha": "d198f2139f50f808207445ca0679ef21d4b41b34",
+      "sha256": "701a0dc6a24f6849ccf573bde0e03859f42589246550ff8d952b426c23477687",
+      "bytes": 78691
+    },
+    {
+      "path": "OpenMORe/model_order_reduction.py",
+      "git_blob_sha": "08a5aaa9c0d4ddd61bfd2fb29d6ea038a2ceb7b5",
+      "sha256": "9794dc5897a3f92e43cc802dc0f3c330d2caec88b78ef5791473796ed8c1c61c",
+      "bytes": 124337
+    },
+    {
+      "path": "OpenMORe/utilities.py",
+      "git_blob_sha": "61242f50d3dfc8958581b42a2ff9609e8c4782ef",
+      "sha256": "759b52d2daed56fead8b057e6f054cf566aaaac269eb3dc45d5f73078084dab7",
+      "bytes": 24740
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "b5811a4f08bfdbfc4f2f7655fc99d21a24acdad5",
+      "sha256": "5cf48f8b0ad0039ff873e540bc121aaf5a5241941806dee767ffa76248bf1b99",
+      "bytes": 3301
+    },
+    {
+      "path": "build/lib/OpenMORe/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "build/lib/OpenMORe/classification.py",
+      "git_blob_sha": "bbb211a8588d44ff791d526d69b46458a7071e46",
+      "sha256": "b4c5445b090f7583faaa57a7d41bf6defa1ff4fb17dd959705b8cd23edbc16fb",
+      "bytes": 3370
+    },
+    {
+      "path": "build/lib/OpenMORe/clustering.py",
+      "git_blob_sha": "d198f2139f50f808207445ca0679ef21d4b41b34",
+      "sha256": "701a0dc6a24f6849ccf573bde0e03859f42589246550ff8d952b426c23477687",
+      "bytes": 78691
+    },
+    {
+      "path": "build/lib/OpenMORe/model_order_reduction.py",
+      "git_blob_sha": "08a5aaa9c0d4ddd61bfd2fb29d6ea038a2ceb7b5",
+      "sha256": "9794dc5897a3f92e43cc802dc0f3c330d2caec88b78ef5791473796ed8c1c61c",
+      "bytes": 124337
+    },
+    {
+      "path": "build/lib/OpenMORe/utilities.py",
+      "git_blob_sha": "61242f50d3dfc8958581b42a2ff9609e8c4782ef",
+      "sha256": "759b52d2daed56fead8b057e6f054cf566aaaac269eb3dc45d5f73078084dab7",
+      "bytes": 24740
+    },
+    {
+      "path": "examples/clustering/lpcaExample.py",
+      "git_blob_sha": "a37617400f14891ed91e24f162ae5461494f33b6",
+      "sha256": "c9b8f1856f85eafcc48d755ac99562c239cc222402de39833b7e0d40af498df0",
+      "bytes": 4350
+    },
+    {
+      "path": "examples/clustering/setNumberClusters.py",
+      "git_blob_sha": "d83f131c024749b0f0fdb6d39ea0ca1a75371d2f",
+      "sha256": "e504f6a82f341082a26ce6de5abf8df5a943c6321e0430a0b9d3fc01695073f8",
+      "bytes": 3253
+    },
+    {
+      "path": "examples/clustering/spectralExample.py",
+      "git_blob_sha": "26176e9a5cfc0fc51eb2a467dc26a5ec954aa5aa",
+      "sha256": "fb766cbb584f9f4e8e7505eb5beeda63c1adfb8a1c02039007b79b954bef8834",
+      "bytes": 2295
+    },
+    {
+      "path": "examples/clustering/tryMiniBatch.py",
+      "git_blob_sha": "7562aa134f290b8616310e78d5c9bc33ae2c9f10",
+      "sha256": "668a7e2578009947c886f485567935c4bcddb5e7e89e09c85ad27e8611b52fe2",
+      "bytes": 3520
+    },
+    {
+      "path": "examples/clustering/vectorQuantizationClass.py",
+      "git_blob_sha": "f41bd6c12c199476045589ef330924b384f8f570",
+      "sha256": "7630b7bab45c6912f99787333999c2b46fbd8baee12b87074b9426fa489f83c0",
+      "bytes": 3073
+    },
+    {
+      "path": "examples/dimensionality_reduction/kpcaFeatureExtraction.py",
+      "git_blob_sha": "18c1f610caf9e541e6fff9f06e691c64c34b94d0",
+      "sha256": "fdffd83b46b5cd370c55fc1843e557662eb57679e5fe887dca91e34589f89261",
+      "bytes": 2757
+    },
+    {
+      "path": "examples/dimensionality_reduction/lpcaFeatureExtraction.py",
+      "git_blob_sha": "550b5d260b7a8929d1e6620b02a5170b379d2407",
+      "sha256": "6783dcfe377b0f572276cc04d2c978a44c7cbc5f042259c249d8707a0ede9720",
+      "bytes": 2266
+    },
+    {
+      "path": "examples/dimensionality_reduction/pcaFeatureExtraction.py",
+      "git_blob_sha": "0848cf3c2bb2b69f50a98dd8d57022ee631da3ca",
+      "sha256": "6776d728604b06301f3c846e521f640889806dd7bcd0600c60c5973b413577cc",
+      "bytes": 3540
+    },
+    {
+      "path": "examples/dimensionality_reduction/pcaFeatureExtraction_optimalRank.py",
+      "git_blob_sha": "192dec804cb3bf6eb3007b6159b90072ce662467",
+      "sha256": "64e0227e988daf76aea9fbd730de860f6c41133eaf0facd71b82d541bceb6bb8",
+      "bytes": 2659
+    },
+    {
+      "path": "examples/model_order_reduction/MG-L-PCA.py",
+      "git_blob_sha": "38c980f6b3faa8d880d8b321400db364001c046c",
+      "sha256": "f83d20a5be456851599770a8ce7218425c5e292530de8fee1a375b6c19caf63c",
+      "bytes": 5634
+    },
+    {
+      "path": "examples/model_order_reduction/MGPCA.py",
+      "git_blob_sha": "1c87b5cddc159f9990ee5be038d54ff18c700b5d",
+      "sha256": "1ac502e8e40b65d97dd35d04ccb2b173ed7389aeb9d60f7af44b6794bdcd3f9e",
+      "bytes": 4521
+    },
+    {
+      "path": "examples/others_general/matrixSampling.py",
+      "git_blob_sha": "34e148303750c9b8141b3964933a3e4789d558e6",
+      "sha256": "51842ff3199a8b1923298c3d79b1a9aaee3c4fda9fda59f7817af1bab1be8122",
+      "bytes": 3881
+    },
+    {
+      "path": "examples/others_general/outliersRemoval.py",
+      "git_blob_sha": "00d837e85c82a691d1e079bc88aa5078c1df7f7b",
+      "sha256": "d1a1ade1c0ddf28eec4e2ffa0636f463fb41a985b90ff9f990e02f809ace2264",
+      "bytes": 3006
+    },
+    {
+      "path": "examples/others_general/setLPCAparam.py",
+      "git_blob_sha": "2725f0ef58edaa38a306be04c2b773021f4466f0",
+      "sha256": "e599c0c5ed70cb318504a2e0bb04f28cbe5809c6d105a43daae770d5e3e62147",
+      "bytes": 5169
+    },
+    {
+      "path": "examples/others_general/setNumberClusters.py",
+      "git_blob_sha": "c28a1983ca4a38d89a509a2e787fdd72463777a3",
+      "sha256": "979bef866928a979a030dfca9e6d700d1b8a735a18403dfdf2184a7950260444",
+      "bytes": 2908
+    },
+    {
+      "path": "examples/others_general/setNumberEigens.py",
+      "git_blob_sha": "ee80eaaa93c682b9a1ad191750754e31b89f5cdf",
+      "sha256": "2f52f8276a6b114a445b4a65ba7ff072f1e72ffdd4bc2df201878f9ce40ecd90",
+      "bytes": 2807
+    },
+    {
+      "path": "examples/others_general/varimaxRotation.py",
+      "git_blob_sha": "94bf606b4769dce0cf6a55b2875b0b810ce2c844",
+      "sha256": "d0788d099b4b6777ee6be231b37f38557cdc61b479720eed62aee5f9c58e44e3",
+      "bytes": 1992
+    },
+    {
+      "path": "examples/variables_selection/pcaVarSelection.py",
+      "git_blob_sha": "1054a8f3b69092ff1fa62a789c8215963c2c4940",
+      "sha256": "d9eb9f02782aa593180bf698a97e67feaf1328ae90b4df862302b2169f78c44a",
+      "bytes": 1732
+    },
+    {
+      "path": "requirements.txt",
+      "git_blob_sha": "ca032913cff7c37a4700ba32adb8dbbc10c7c715",
+      "sha256": "90de569f61a9180a4cf48ad1f0bd06015190b2380542fdd2bab34a37bec86db1",
+      "bytes": 37
+    },
+    {
+      "path": "setup.py",
+      "git_blob_sha": "d357831ff8f98e3c568bf92e0eb37fa7866cafeb",
+      "sha256": "0e17c77f4ba60642f8abcb34b7e226d29d052fcd32f60baed305bcf9437dca5e",
+      "bytes": 424
+    },
+    {
+      "path": "tests/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "tests/test_PCA.py",
+      "git_blob_sha": "6b01a5e0c9accab3c4e7f69a12f88d15cbf7cb45",
+      "sha256": "bcb03c813661dfe2bc5903c8c01449c3e028f609a67b5fa33c1d9a34013286d1",
+      "bytes": 2111
+    },
+    {
+      "path": "tests/test_clustering.py",
+      "git_blob_sha": "fc879d3be51a09fb310d91a36bfe0f142f8ca044",
+      "sha256": "fb654cc58a112849a4a789e48310a6dad659d4be70b355fbd9ddcf23a7947e7a",
+      "bytes": 1871
+    },
+    {
+      "path": "tests/test_sampling.py",
+      "git_blob_sha": "c70f804d3f35e7d3a74a678ee86445a4369f6ee2",
+      "sha256": "e6995b87f753f5c472a8fd3ea86b6c16aef86afb7644694cc5808dc5800dc815",
+      "bytes": 1472
+    }
+  ],
+  "excluded_paths": [
+    ".gitignore",
+    "MANIFEST",
+    "OpenMORe",
+    "OpenMORe/__pycache__",
+    "OpenMORe/__pycache__/__init__.cpython-39.pyc",
+    "OpenMORe/__pycache__/clustering.cpython-39.pyc",
+    "OpenMORe/__pycache__/model_order_reduction.cpython-39.pyc",
+    "OpenMORe/__pycache__/utilities.cpython-39.pyc",
+    "build",
+    "build/lib",
+    "build/lib/OpenMORe",
+    "data",
+    "data/.DS_Store",
+    "data/dataDescription.txt",
+    "data/dummy_data",
+    "data/dummy_data/blobs.csv",
+    "data/dummy_data/circles.csv",
+    "data/dummy_data/hyperplanes-3D-data-sets-three-planes-connected.csv",
+    "data/dummy_data/hyperplanes-3D-data-sets-three-planes-connected.png",
+    "data/dummy_data/moons.csv",
+    "data/dummy_data/moonsLabels.csv",
+    "data/dummy_data/outlier_data.csv",
+    "data/reactive_flow",
+    "data/reactive_flow/cfdf.csv",
+    "data/reactive_flow/fluid_var.csv",
+    "data/reactive_flow/idx.txt",
+    "data/reactive_flow/labels.csv",
+    "data/reactive_flow/laminar2D.csv",
+    "data/reactive_flow/mesh_laminar.csv",
+    "data/reactive_flow/mesh_turbo.csv",
+    "data/reactive_flow/turbo2D.csv",
+    "documentation",
+    "documentation/Detailed_documentation.pdf",
+    "examples",
+    "examples/clustering",
+    "examples/dimensionality_reduction",
+    "examples/model_order_reduction",
+    "examples/others_general",
+    "examples/variables_selection",
+    "tests",
+    "tests/__pycache__",
+    "tests/__pycache__/__init__.cpython-39.pyc",
+    "tests/__pycache__/test_PCA.cpython-39.pyc",
+    "tests/__pycache__/test_clustering.cpython-39.pyc",
+    "tests/__pycache__/test_sampling.cpython-39.pyc"
+  ]
+}

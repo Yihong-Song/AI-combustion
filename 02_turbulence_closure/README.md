@@ -2,7 +2,7 @@
 
 大涡模拟看不清所有小火焰结构，需要模型补上未解析尺度对反应和混合的影响。
 
-本目录含 24 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
+本目录含 26 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
 
 [返回首页](../README.md) · [全局地图](../00_literature_map/README.md) · [方法与范围](../docs/METHODOLOGY.md)
 
@@ -38,7 +38,7 @@ a priori 优秀不保证 a posteriori 稳定。滤波和边界处理不一致会
 
 分区栏为二级来源线索；Q? 为待核实。代码 ✓ 仅表示论文链接已核对，不表示执行成功。
 
-### [闭合、PDF 与热化学流形](01_closures_manifolds/README.md)（24）
+### [闭合、PDF 与热化学流形](01_closures_manifolds/README.md)（26）
 
 | 年份 | 论文 | 分区线索 | 代码 |
 |---|---|---|---|
@@ -49,8 +49,10 @@ a priori 优秀不保证 a posteriori 稳定。滤波和边界处理不一致会
 | 2025 | [A Data-Driven Approach to Refine the Partially Stirred Reactor Closure for Turbulent Premixed Flames](01_closures_manifolds/P8badc7f206/README.md) | Q? | ✓ |
 | 2025 | [Neural network-augmented eddy viscosity closures for turbulent premixed jet flames](01_closures_manifolds/P6c7bc45f38/README.md) | Q1 | 待核对 |
 | 2025 | [Neural network-based 3D reconstruction of temperature and velocity for turbulent flames from 2D measurements](01_closures_manifolds/P5829fd4f5a/README.md) | Q1 | 待核对 |
+| 2025 | [a priori uncertainty quantification of reacting turbulence closure models using Bayesian neural networks](01_closures_manifolds/P71c16d5cb2/README.md) | Q1 | ✓ |
 | 2025 | [A TVD neural network closure and application to turbulent combustion](01_closures_manifolds/P26d7efc82b/README.md) | Q? | 待核对 |
 | 2025 | [Machine learning-based prediction of species mass fraction and flame characteristics in partially premixed turbulent jet flame](01_closures_manifolds/Pb8ed01f292/README.md) | Q? | 待核对 |
+| 2024 | [Data-based instantaneous conditional progress variable dissipation rate modeling for turbulent premixed combustion](01_closures_manifolds/P2fc75bd437/README.md) | Q1 | ✓ |
 | 2024 | [Reconstructing temperature fields from OH distribution and soot volume fraction in turbulent flames using an artificial neural network](01_closures_manifolds/Pc3ae0f1897/README.md) | Q1 | 待核对 |
 | 2024 | [Flame lift-off detector based on deep learning neural networks](01_closures_manifolds/P9d8c588bd0/README.md) | Q1 | 待核对 |
 | 2024 | [High-resolution reconstruction of turbulent flames from sparse data with physics-informed neural networks](01_closures_manifolds/P2098eae71a/README.md) | Q1 | 待核对 |

@@ -1,0 +1,399 @@
+{
+  "query": "combustion \"transformer\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:49:07.618772+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 680,
+  "url": "https://api.github.com/search/repositories?q=combustion+%22transformer%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "cladius/agentic-ai",
+      "description": "A no-nonsense repo to help people jumpstart their Agentic AI journey.",
+      "html_url": "https://github.com/cladius/agentic-ai",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 34685,
+      "fork": false,
+      "updated_at": "2026-09-22T16:12:57Z"
+    },
+    {
+      "full_name": "AI4Science-WestlakeU/RealPDEBench",
+      "description": "[🔥ICLR26 Oral] RealPDEBench: A Benchmark for Complex Physical Systems with Paired Real-World and Simulated Data",
+      "html_url": "https://github.com/AI4Science-WestlakeU/RealPDEBench",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 3938,
+      "fork": false,
+      "updated_at": "2026-11-11T12:36:47Z"
+    },
+    {
+      "full_name": "lbnlp/MatBERT",
+      "description": "A pretrained BERT model on materials science literature",
+      "html_url": "https://github.com/lbnlp/MatBERT",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3911,
+      "fork": false,
+      "updated_at": "2026-08-14T14:56:58Z"
+    },
+    {
+      "full_name": "ArnauMiro/pyLowOrder",
+      "description": "High performance parallel reduced order Modelling library",
+      "html_url": "https://github.com/ArnauMiro/pyLowOrder",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 230435,
+      "fork": false,
+      "updated_at": "2026-10-17T19:59:15Z"
+    },
+    {
+      "full_name": "GiovanniGatti/socratic-llm",
+      "description": "Training pipeline for fine tuning Phi-3-mini-instruct to follow the Socratic method",
+      "html_url": "https://github.com/GiovanniGatti/socratic-llm",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 5593,
+      "fork": false,
+      "updated_at": "2026-08-29T14:11:20Z"
+    },
+    {
+      "full_name": "daveshap/NaturalLanguageCognitiveArchitecture",
+      "description": "Open source copy of my book Natural Language Cognitive Architecture",
+      "html_url": "https://github.com/daveshap/NaturalLanguageCognitiveArchitecture",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 9624,
+      "fork": false,
+      "updated_at": "2026-10-22T20:44:16Z"
+    },
+    {
+      "full_name": "hanjuku-kaso/awesome-offline-rl",
+      "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
+      "html_url": "https://github.com/hanjuku-kaso/awesome-offline-rl",
+      "license": null,
+      "size": 300,
+      "fork": false,
+      "updated_at": "2026-11-02T12:10:58Z"
+    },
+    {
+      "full_name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "html_url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 69,
+      "fork": false,
+      "updated_at": "2026-11-04T13:01:27Z"
+    },
+    {
+      "full_name": "caxapexac/TerrariaGregTech",
+      "description": "This definitely should exist",
+      "html_url": "https://github.com/caxapexac/TerrariaGregTech",
+      "license": {
+        "key": "lgpl-3.0",
+        "name": "GNU Lesser General Public License v3.0",
+        "spdx_id": "LGPL-3.0",
+        "url": "https://api.github.com/licenses/lgpl-3.0",
+        "node_id": "MDc6TGljZW5zZTEy"
+      },
+      "size": 10751,
+      "fork": false,
+      "updated_at": "2026-10-29T11:50:35Z"
+    },
+    {
+      "full_name": "Rohan-Thoma/Multiple-choice-question-generator-using-NLP",
+      "description": "Project aims at generating multiple choice questions along with the options and correct answer using NLP and Large Language Models, so that given any text from any text book , the model will generate multiple choice questions , so that it can aid educators in creating engaging and challenging assessments for their students.",
+      "html_url": "https://github.com/Rohan-Thoma/Multiple-choice-question-generator-using-NLP",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 33,
+      "fork": false,
+      "updated_at": "2026-07-27T20:27:01Z"
+    },
+    {
+      "full_name": "AI4Electricity/Awesome-AI-for-Electricity",
+      "description": "Awesome AI for Electricity",
+      "html_url": "https://github.com/AI4Electricity/Awesome-AI-for-Electricity",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3117,
+      "fork": false,
+      "updated_at": "2026-11-02T18:48:23Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "YuAn-06/Industrial-Time-Series-Soft-Sensor",
+      "description": "A Unified Soft Sensor Library and Benchmark",
+      "html_url": "https://github.com/YuAn-06/Industrial-Time-Series-Soft-Sensor",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 5509,
+      "fork": false,
+      "updated_at": "2026-11-06T02:42:37Z"
+    },
+    {
+      "full_name": "pedrocmota/faktocraft",
+      "description": "A modern sucessor of IndustrialCraft 2, BuildCraft and Logistics Pipes brought together into a single mod: electrical machines, power grids, item and fluid pipes, and logistics.",
+      "html_url": "https://github.com/pedrocmota/faktocraft",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 18870,
+      "fork": false,
+      "updated_at": "2026-11-10T13:19:14Z"
+    },
+    {
+      "full_name": "uxlfoundation/awesome-oneapi",
+      "description": "An Awesome list of oneAPI projects",
+      "html_url": "https://github.com/uxlfoundation/awesome-oneapi",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 311,
+      "fork": false,
+      "updated_at": "2026-10-07T17:06:27Z"
+    },
+    {
+      "full_name": "smart-data-models/dataModel.EnergyCIM",
+      "description": "Common Information Model (CIM) specified by the IEC61970 standard data models repository ",
+      "html_url": "https://github.com/smart-data-models/dataModel.EnergyCIM",
+      "license": null,
+      "size": 39403,
+      "fork": false,
+      "updated_at": "2026-10-04T21:23:57Z"
+    },
+    {
+      "full_name": "lizhihao2022/Awesome-AI4PDE",
+      "description": "Awesome AI4PDE is a curated list of resources and literature focusing on the intersection of Artificial Intelligence and Partial Differential Equations (PDEs).",
+      "html_url": "https://github.com/lizhihao2022/Awesome-AI4PDE",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 359,
+      "fork": false,
+      "updated_at": "2026-11-08T14:40:02Z"
+    },
+    {
+      "full_name": "deepflame-ai/REALM",
+      "description": "A comprehensive benchmark for machine learning multiphysics flows",
+      "html_url": "https://github.com/deepflame-ai/REALM",
+      "license": null,
+      "size": 6068,
+      "fork": false,
+      "updated_at": "2026-10-11T03:02:46Z"
+    },
+    {
+      "full_name": "Supermagnum/piezoelectric",
+      "description": "A write-up with links to different versions of impedance buffer and amplifiers for piezoelectric elements.",
+      "html_url": "https://github.com/Supermagnum/piezoelectric",
+      "license": null,
+      "size": 1673,
+      "fork": false,
+      "updated_at": "2026-09-20T15:22:28Z"
+    },
+    {
+      "full_name": "chiachihchen/BannerGen",
+      "description": null,
+      "html_url": "https://github.com/chiachihchen/BannerGen",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 259305,
+      "fork": false,
+      "updated_at": "2023-12-06T05:42:21Z"
+    },
+    {
+      "full_name": "drceph/petroleumgenerator",
+      "description": "A buildcraft <> IC2 crossover mod. Tasty on its own; Delicious served as a side to a main course of Forestry.",
+      "html_url": "https://github.com/drceph/petroleumgenerator",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 1536,
+      "fork": false,
+      "updated_at": "2022-05-11T14:43:57Z"
+    },
+    {
+      "full_name": "small-dumpling/Foundation-Neural-Operators-A-Survey",
+      "description": "A curated paper list for \"Foundation Neural Operators: A Survey on Pretraining Methods, Data Ecosystems, and Efficient Adaptation\".",
+      "html_url": "https://github.com/small-dumpling/Foundation-Neural-Operators-A-Survey",
+      "license": null,
+      "size": 54,
+      "fork": false,
+      "updated_at": "2026-10-22T12:14:42Z"
+    },
+    {
+      "full_name": "JohnsonKlose/awesome-science-foundation-model",
+      "description": "Curated list of 1,000+ scientific foundation models spanning life sciences, chemistry, physics, medicine, and more.",
+      "html_url": "https://github.com/JohnsonKlose/awesome-science-foundation-model",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 3314,
+      "fork": false,
+      "updated_at": "2026-10-31T16:33:52Z"
+    },
+    {
+      "full_name": "eetongsu/SafeRL-Power-System",
+      "description": "A Review of Safe Reinforcement Learning Methods for Modern Power Systems",
+      "html_url": "https://github.com/eetongsu/SafeRL-Power-System",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 274,
+      "fork": false,
+      "updated_at": "2026-10-31T16:38:46Z"
+    },
+    {
+      "full_name": "gbstack/AAAI-2022-papers",
+      "description": "AAAI 2022 papers with code",
+      "html_url": "https://github.com/gbstack/AAAI-2022-papers",
+      "license": null,
+      "size": 74,
+      "fork": false,
+      "updated_at": "2026-11-02T06:04:52Z"
+    },
+    {
+      "full_name": "Yuan-ManX/audio-development-tools",
+      "description": "Audio Development Tools (ADT) is a project for advancing sound, speech, and music technologies, featuring components for machine learning, sound synthesis, speech and music generation, signal processing, game audio, digital audio workstations (DAWs), and more.",
+      "html_url": "https://github.com/Yuan-ManX/audio-development-tools",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 926,
+      "fork": false,
+      "updated_at": "2026-10-24T20:44:30Z"
+    },
+    {
+      "full_name": "kimimgo/awesome-ai-cae",
+      "description": "A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers.",
+      "html_url": "https://github.com/kimimgo/awesome-ai-cae",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 1961,
+      "fork": false,
+      "updated_at": "2026-11-10T07:23:00Z"
+    },
+    {
+      "full_name": "rudybear/cross-domain-analogy",
+      "description": "Discover structural analogies between disconnected knowledge domains using transformer embedding geometry. Runs locally on CPU.",
+      "html_url": "https://github.com/rudybear/cross-domain-analogy",
+      "license": null,
+      "size": 594,
+      "fork": false,
+      "updated_at": "2026-09-17T14:27:41Z"
+    },
+    {
+      "full_name": "jovicumon/vehiculo-tdd",
+      "description": null,
+      "html_url": "https://github.com/jovicumon/vehiculo-tdd",
+      "license": null,
+      "size": 33,
+      "fork": false,
+      "updated_at": "2025-04-08T21:25:04Z"
+    }
+  ]
+}

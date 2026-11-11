@@ -1,0 +1,36 @@
+{
+  "journal": "Computer Methods in Applied Mechanics and Engineering",
+  "retrieved_at": "2026-11-11T16:58:33.991024+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Computer+Methods+in+Applied+Mechanics+and+Engineering",
+  "page_title": "LetPub - Scientific Journal Selector | COMPUTER METHODS IN APPLIED MECHANICS AND ENGINEERING - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/1988",
+  "journal_id": "1988",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, MULTIDISCIPLINARY SCIE Q1 7/179 Category: MATHEMATICS, INTERDISCIPLINARY APPLICATIONS SCIE Q1 3/137 Category: MECHANICS SCIE Q1 9/172",
+  "categories": [
+    {
+      "category": "ENGINEERING, MULTIDISCIPLINARY",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "7/179"
+    },
+    {
+      "category": "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "3/137"
+    },
+    {
+      "category": "MECHANICS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "9/172"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

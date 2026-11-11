@@ -1,0 +1,11 @@
+{
+  "repository": "IHPC-Physics-AI/PINNs-4-Ammonia",
+  "url": "https://github.com/IHPC-Physics-AI/PINNs-4-Ammonia",
+  "retrieved_at": "2026-11-11T16:49:28.651925+00:00",
+  "commit": "0d47904e754e802754bc064a22a878b5a9a5a2d4",
+  "readme_path": "evidence/upstream/IHPC-Physics-AI__PINNs-4-Ammonia.readme.txt",
+  "readme_url": "https://github.com/IHPC-Physics-AI/PINNs-4-Ammonia/blob/0d47904e754e802754bc064a22a878b5a9a5a2d4/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api_or_root_tree",
+  "api_checked_at": "2026-11-11T16:49:46.665681+00:00"
+}

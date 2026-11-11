@@ -1,0 +1,76 @@
+{
+  "id": "P0783e678e5",
+  "doi": "10.1016/j.cma.2023.116502",
+  "title": "Inferring unknown unknowns: Regularized bias-aware ensemble Kalman filter",
+  "year": 2024,
+  "journal": "Computer Methods in Applied Mechanics and Engineering",
+  "authors": [
+    "Andrea Nóvoa",
+    "Alberto Racca",
+    "Luca Magri"
+  ],
+  "category": "04_instability_control",
+  "subcategory": "01_prediction_identification",
+  "path": "04_instability_control/01_prediction_identification/P0783e678e5",
+  "doi_url": "https://doi.org/10.1016/j.cma.2023.116502",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.cma.2023.116502",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "7/179"
+      },
+      {
+        "category": "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "3/137"
+      },
+      {
+        "category": "MECHANICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "9/172"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/1988",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "MagriLab/rBA-EnKF",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "641e422240f360300dcbd6fe6d543da358ece74c",
+    "license": "MIT",
+    "package_id": "MagriLab__rBA-EnKF",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "MagriLab/rBA-EnKF",
+    "category": "04_instability_control",
+    "subcategory": "01_prediction_identification",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "在热声等动力系统同化中，同时处理状态不确定性与未知模型偏差。",
+    "method": "README 明确指定本文 DOI，并说明正则化偏差感知集合 Kalman 方法的实现及勘误。该通用方法在本库按热声应用阅读。",
+    "entry": "先读仓库 Erratum.pdf 与实现，再定位热声配置；新维护版入口为 andreanovoa/real-time-bias-aware-DA。",
+    "dependencies": "固定旧版依赖与对应实验设置；新版 API、模块布局和默认参数已变化，不能混用。",
+    "evaluation": "同一观测噪声和集合预算下比较不校正偏差、普通 EnKF 与正则偏差校正，报告状态误差、偏差估计和稳定性。",
+    "limitations": "MIT。README 明说原文式(15)–(16)有排版错误，仓库及勘误为更正依据；必须在复现报告中说明。"
+  }
+}

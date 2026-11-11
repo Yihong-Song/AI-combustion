@@ -1,0 +1,351 @@
+{
+  "query": "flame \"super-resolution\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:46:53.942609+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 266,
+  "url": "https://api.github.com/search/repositories?q=flame+%22super-resolution%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
+      "description": "Diffusion model papers, survey, and taxonomy",
+      "html_url": "https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
+      "license": null,
+      "size": 303,
+      "fork": false,
+      "updated_at": "2026-11-09T18:48:16Z"
+    },
+    {
+      "full_name": "fluttergems/awesome-open-source-flutter-apps",
+      "description": "A curated list of awesome open source Flutter apps",
+      "html_url": "https://github.com/fluttergems/awesome-open-source-flutter-apps",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1059,
+      "fork": false,
+      "updated_at": "2026-11-11T09:47:27Z"
+    },
+    {
+      "full_name": "thunil/Physics-Based-Deep-Learning",
+      "description": "Links to works on deep learning algorithms for physics problems, TUM-I15 and beyond",
+      "html_url": "https://github.com/thunil/Physics-Based-Deep-Learning",
+      "license": null,
+      "size": 356,
+      "fork": false,
+      "updated_at": "2026-11-09T18:47:02Z"
+    },
+    {
+      "full_name": "ChanChiChoi/awesome-Face_Recognition",
+      "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
+      "html_url": "https://github.com/ChanChiChoi/awesome-Face_Recognition",
+      "license": null,
+      "size": 468,
+      "fork": false,
+      "updated_at": "2026-11-11T09:32:28Z"
+    },
+    {
+      "full_name": "diff-usion/Awesome-Diffusion-Models",
+      "description": " A collection of resources and papers on Diffusion Models",
+      "html_url": "https://github.com/diff-usion/Awesome-Diffusion-Models",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1925,
+      "fork": false,
+      "updated_at": "2026-11-11T08:01:03Z"
+    },
+    {
+      "full_name": "ChunmingHe/awesome-multimodal-large-language-models-in-low-level-vision",
+      "description": null,
+      "html_url": "https://github.com/ChunmingHe/awesome-multimodal-large-language-models-in-low-level-vision",
+      "license": null,
+      "size": 169,
+      "fork": false,
+      "updated_at": "2026-10-22T02:05:03Z"
+    },
+    {
+      "full_name": "satellite-image-deep-learning/datasets",
+      "description": "Datasets for deep learning with satellite & aerial imagery",
+      "html_url": "https://github.com/satellite-image-deep-learning/datasets",
+      "license": null,
+      "size": 417,
+      "fork": false,
+      "updated_at": "2026-11-10T04:14:51Z"
+    },
+    {
+      "full_name": "rlczddl/awesome-3d-human-reconstruction",
+      "description": null,
+      "html_url": "https://github.com/rlczddl/awesome-3d-human-reconstruction",
+      "license": null,
+      "size": 173,
+      "fork": false,
+      "updated_at": "2026-11-07T03:27:13Z"
+    },
+    {
+      "full_name": "Kedreamix/Awesome-Talking-Head-Synthesis",
+      "description": "💬 An extensive collection of exceptional resources dedicated to the captivating world of talking face synthesis!   ⭐ If you find this repo useful, please give it a star! 🤩",
+      "html_url": "https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 627,
+      "fork": false,
+      "updated_at": "2026-11-11T09:52:55Z"
+    },
+    {
+      "full_name": "zhusiling/super-resolution-with-GAN",
+      "description": null,
+      "html_url": "https://github.com/zhusiling/super-resolution-with-GAN",
+      "license": null,
+      "size": 103,
+      "fork": false,
+      "updated_at": "2026-03-04T08:29:35Z"
+    },
+    {
+      "full_name": "52CV/CVPR-2025-Papers",
+      "description": null,
+      "html_url": "https://github.com/52CV/CVPR-2025-Papers",
+      "license": null,
+      "size": 251,
+      "fork": false,
+      "updated_at": "2026-11-11T01:45:28Z"
+    },
+    {
+      "full_name": "deepmancer/HairPort",
+      "description": "🔥 (SIGGRAPH 2026) 3D-aware hairstyle transfer for images: in-context bald conversion, pose-aligned hair import, and identity-preserving synthesis.",
+      "html_url": "https://github.com/deepmancer/HairPort",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 174043,
+      "fork": false,
+      "updated_at": "2026-10-24T09:25:21Z"
+    },
+    {
+      "full_name": "LorenzoPiu/aPriori",
+      "description": "A python package to process Direct Numerical Simulations",
+      "html_url": "https://github.com/LorenzoPiu/aPriori",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 2677524,
+      "fork": false,
+      "updated_at": "2026-10-30T14:16:41Z"
+    },
+    {
+      "full_name": "DirtyHarryLYL/Transformer-in-Vision",
+      "description": "Recent Transformer-based CV and related works.",
+      "html_url": "https://github.com/DirtyHarryLYL/Transformer-in-Vision",
+      "license": null,
+      "size": 1929,
+      "fork": false,
+      "updated_at": "2026-11-10T09:13:32Z"
+    },
+    {
+      "full_name": "xiaoxiaokongxi/Learning-to-Reconstruct-3D-Faces-by-Watching-TV",
+      "description": "3D Vision course project from ETHZ, generate person-specific high-quality 3D face models from TV videos ",
+      "html_url": "https://github.com/xiaoxiaokongxi/Learning-to-Reconstruct-3D-Faces-by-Watching-TV",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 194077,
+      "fork": false,
+      "updated_at": "2025-05-17T20:46:09Z"
+    },
+    {
+      "full_name": "jlrouzies-fr/DLSS5-Feeder",
+      "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
+      "html_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 7058,
+      "fork": false,
+      "updated_at": "2026-11-10T23:16:43Z"
+    },
+    {
+      "full_name": "ChanChiChoi/awesome-GAN-papers",
+      "description": "papers and codes about GAN",
+      "html_url": "https://github.com/ChanChiChoi/awesome-GAN-papers",
+      "license": null,
+      "size": 3353,
+      "fork": false,
+      "updated_at": "2026-05-17T00:57:03Z"
+    },
+    {
+      "full_name": "yang226159802/super-resolution",
+      "description": "用深度学习重建湍流射流火焰",
+      "html_url": "https://github.com/yang226159802/super-resolution",
+      "license": null,
+      "size": 53,
+      "fork": false,
+      "updated_at": "2026-02-15T12:35:46Z"
+    },
+    {
+      "full_name": "SR-Wiki/FLAMEm",
+      "description": null,
+      "html_url": "https://github.com/SR-Wiki/FLAMEm",
+      "license": null,
+      "size": 3005,
+      "fork": false,
+      "updated_at": "2026-05-02T08:41:45Z"
+    },
+    {
+      "full_name": "Hiilay/Physically-Consistent-Diffusion-Model",
+      "description": null,
+      "html_url": "https://github.com/Hiilay/Physically-Consistent-Diffusion-Model",
+      "license": null,
+      "size": 15968,
+      "fork": false,
+      "updated_at": "2025-07-01T10:40:19Z"
+    },
+    {
+      "full_name": "Kristijan1001/Hytale-Aurora-Shaders",
+      "description": "Aurora Shaders: a shader pack for Hytale - soft shadows, volumetric clouds, light shafts, reflective water, ray-traced bounce light - with an in-game options menu and a one-click installer.",
+      "html_url": "https://github.com/Kristijan1001/Hytale-Aurora-Shaders",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 1093,
+      "fork": false,
+      "updated_at": "2026-11-09T19:43:33Z"
+    },
+    {
+      "full_name": "zhiqic/Awesome-Video-Generation",
+      "description": null,
+      "html_url": "https://github.com/zhiqic/Awesome-Video-Generation",
+      "license": null,
+      "size": 901,
+      "fork": false,
+      "updated_at": "2026-09-23T11:02:17Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "thomasXwang/flame-ai-challenge",
+      "description": "Submission to the Stanford FLAME AI 2023 - ML Challenge",
+      "html_url": "https://github.com/thomasXwang/flame-ai-challenge",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 39661,
+      "fork": false,
+      "updated_at": "2026-06-04T14:38:03Z"
+    },
+    {
+      "full_name": "samuelburbulla/FLAME-AI",
+      "description": "Kaggle challenge on turbulent super-resolution",
+      "html_url": "https://github.com/samuelburbulla/FLAME-AI",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 448,
+      "fork": false,
+      "updated_at": "2023-09-15T17:13:02Z"
+    },
+    {
+      "full_name": "divijghose/flame-super-resolution-challenge",
+      "description": "Codes and weights for the Stanford FLAME super-resolution challenge. ",
+      "html_url": "https://github.com/divijghose/flame-super-resolution-challenge",
+      "license": null,
+      "size": 36333,
+      "fork": false,
+      "updated_at": "2023-09-18T05:21:23Z"
+    },
+    {
+      "full_name": "xiaozhi34624562/cs_learning",
+      "description": null,
+      "html_url": "https://github.com/xiaozhi34624562/cs_learning",
+      "license": null,
+      "size": 222318,
+      "fork": false,
+      "updated_at": "2024-08-04T12:17:23Z"
+    },
+    {
+      "full_name": "praneeth999/Super-resolution-for-Turbulence-Data",
+      "description": null,
+      "html_url": "https://github.com/praneeth999/Super-resolution-for-Turbulence-Data",
+      "license": null,
+      "size": 14,
+      "fork": false,
+      "updated_at": "2023-10-17T14:18:19Z"
+    },
+    {
+      "full_name": "Arunangshu2000/AI-FLAME-challenge-2023-model",
+      "description": "contains AI super resolution model for the solution",
+      "html_url": "https://github.com/Arunangshu2000/AI-FLAME-challenge-2023-model",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1,
+      "fork": false,
+      "updated_at": "2023-09-18T13:23:24Z"
+    },
+    {
+      "full_name": "criso2hd-alt/DLSS5-Image-Converter",
+      "description": "DLSS 5 Image & Video Converter - run NVIDIA's DLSS 5 neural renderer over your own photos and videos. Drag, drop, paste, convert.",
+      "html_url": "https://github.com/criso2hd-alt/DLSS5-Image-Converter",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 54792,
+      "fork": false,
+      "updated_at": "2026-11-04T13:01:20Z"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-12",
+  "minimum_target": 100,
+  "q1_secondary_candidates": 377,
+  "scope_excluded": 0,
+  "code_links_reviewed": 34,
+  "official_q1_confirmed": 0,
+  "accepted_reproductions": 0,
+  "remaining_to_target": 100,
+  "execution_status_counts": {
+    "not_executed": 375,
+    "author_demo_executed_not_paper_metric_reproduction": 1,
+    "trained_preprint_subcase_compared": 1
+  }
+}

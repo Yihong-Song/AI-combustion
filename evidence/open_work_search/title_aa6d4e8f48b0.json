@@ -1,0 +1,23 @@
+{
+  "title_query": "Deep learning for continuous lead-time prediction of thermoacoustic instabilities in an annular combustor",
+  "retrieved_at": "2026-11-11T16:51:44.110914+00:00",
+  "url": "https://api.crossref.org/works?query.title=Deep+learning+for+continuous+lead-time+prediction+of+thermoacoustic+instabilities+in+an+annular+combustor&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.proci.2026.106547",
+      "title": "Deep learning for continuous lead-time prediction of thermoacoustic instabilities in an annular combustor",
+      "score": 1.0
+    },
+    {
+      "doi": "10.2514/1.b37044",
+      "title": "Thermoacoustic Instabilities in an Annular Rotating Detonation Combustor Under Off-Design Condition",
+      "score": 0.5222222222222223
+    },
+    {
+      "doi": "10.15231/jksc.2023.28.1.040",
+      "title": "Influence of Pairing Asymmetry on Thermoacoustic Instabilities in a Can-annular Combustor",
+      "score": 0.6823529411764706
+    }
+  ],
+  "matched_doi": "10.1016/j.proci.2026.106547"
+}

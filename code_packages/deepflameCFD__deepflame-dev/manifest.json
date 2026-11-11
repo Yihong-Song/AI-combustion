@@ -4,8 +4,10 @@
   "url": "https://github.com/deepflameCFD/deepflame-dev",
   "commit": "29529093a73717fcac676f1f1ceed24c0cc932c7",
   "retrieved_at": "2026-11-11T13:09:39.276251+00:00",
-  "relationship": "supporting_tool",
-  "paper_dois": [],
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.cpc.2023.108842"
+  ],
   "note": "OpenFOAM/Cantera/LibTorch 反应流框架；README 的部分 DNN 权重需向作者申请，不能保证直接运行。",
   "license": "GPL-3.0 (inspect upstream terms)",
   "redistribution_enabled": true,
@@ -20,13 +22,16 @@
     "repository": "deepflameCFD/deepflame-dev",
     "commit": "29529093a73717fcac676f1f1ceed24c0cc932c7",
     "source_url": "https://api.github.com/repos/deepflameCFD/deepflame-dev/tarball/29529093a73717fcac676f1f1ceed24c0cc932c7",
-    "retrieved_at": "2026-11-11T13:44:51.402160+00:00",
+    "retrieved_at": "2026-11-11T16:59:04.189963+00:00",
     "license": "GPL-3.0 (inspect upstream terms)",
     "execution": "not_executed",
     "resolved_source_url": "https://codeload.github.com/deepflameCFD/deepflame-dev/legacy.tar.gz/29529093a73717fcac676f1f1ceed24c0cc932c7",
-    "status": "not_collected",
-    "error": "archive exceeds configured byte limit; use pinned upstream download"
+    "status": "downloaded",
+    "path": "code_packages/deepflameCFD__deepflame-dev/29529093a737.tar.gz",
+    "bytes": 7714325,
+    "sha256": "42b519be3f18f9fc0532b4a02799ffe2eee156c546119b20635dcdb0f0bded0f"
   },
+  "collection_status": "source_archive_collected",
   "source_snapshot": {
     "status": "collected",
     "collection_type": "partial_source_snapshot",
@@ -1479,6 +1484,5 @@
       "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidProperties/solidPropertiesI.H",
       "src/thermophysicalModels/thermophysicalProperties/solidProperties/solidProperties/solidPropertiesNew.C"
     ]
-  },
-  "collection_status": "partial_source_snapshot_collected"
+  }
 }

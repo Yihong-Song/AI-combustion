@@ -1,0 +1,11 @@
+{
+  "repository": "MagriLab/IN22-Bias-aware-TADA",
+  "url": "https://github.com/MagriLab/IN22-Bias-aware-TADA",
+  "retrieved_at": "2026-11-11T16:47:41.703451+00:00",
+  "commit": "54aa55fa0dfdfcccd18b451ede1258503101c603",
+  "readme_path": "evidence/upstream/MagriLab__IN22-Bias-aware-TADA.readme.txt",
+  "readme_url": "https://github.com/MagriLab/IN22-Bias-aware-TADA/blob/54aa55fa0dfdfcccd18b451ede1258503101c603/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api_or_root_tree",
+  "api_checked_at": "2026-11-11T16:47:58.554909+00:00"
+}

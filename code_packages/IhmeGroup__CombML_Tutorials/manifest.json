@@ -1,0 +1,20 @@
+{
+  "id": "IhmeGroup__CombML_Tutorials",
+  "repository": "IhmeGroup/CombML_Tutorials",
+  "url": "https://github.com/IhmeGroup/CombML_Tutorials",
+  "commit": "f00cca1d03dd3fa115ab0ee3d6644a2710e126c0",
+  "retrieved_at": "2026-11-11T16:49:03.942711+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.pecs.2022.101010"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/IhmeGroup__CombML_Tutorials.json",
+  "pinned_url": "https://github.com/IhmeGroup/CombML_Tutorials/tree/f00cca1d03dd3fa115ab0ee3d6644a2710e126c0",
+  "archive_url": "https://api.github.com/repos/IhmeGroup/CombML_Tutorials/tarball/f00cca1d03dd3fa115ab0ee3d6644a2710e126c0",
+  "readme_source": "https://github.com/IhmeGroup/CombML_Tutorials/blob/f00cca1d03dd3fa115ab0ee3d6644a2710e126c0/README.md",
+  "collection_status": "link_only"
+}

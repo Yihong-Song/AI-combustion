@@ -1,0 +1,14 @@
+{
+  "repository": "Seauagain/GBCT",
+  "url": "https://github.com/Seauagain/GBCT",
+  "retrieved_at": "2026-11-11T16:49:28.647277+00:00",
+  "commit": "982e58954af5c5e8e3860d3057363b83bcbaeac6",
+  "readme_path": "evidence/upstream/Seauagain__GBCT.readme.txt",
+  "readme_url": "https://github.com/Seauagain/GBCT/blob/982e58954af5c5e8e3860d3057363b83bcbaeac6/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/Seauagain__GBCT.license.txt",
+  "license_url": "https://github.com/Seauagain/GBCT/blob/982e58954af5c5e8e3860d3057363b83bcbaeac6/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:32.943344+00:00"
+}

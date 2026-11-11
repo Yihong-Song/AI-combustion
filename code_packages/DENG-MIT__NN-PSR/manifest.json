@@ -1,0 +1,18 @@
+{
+  "id": "DENG-MIT__NN-PSR",
+  "repository": "DENG-MIT/NN-PSR",
+  "url": "https://github.com/DENG-MIT/NN-PSR",
+  "commit": "c0eeca1668a1f45c490f881d829525798e002950",
+  "retrieved_at": "2026-11-11T16:48:06.704330+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "可微全混反应器，README 给出燃料切换与流入波动逆建模示例。未建立明确期刊对应；作为可微反应器工具。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/DENG-MIT__NN-PSR.json",
+  "pinned_url": "https://github.com/DENG-MIT/NN-PSR/tree/c0eeca1668a1f45c490f881d829525798e002950",
+  "archive_url": "https://api.github.com/repos/DENG-MIT/NN-PSR/tarball/c0eeca1668a1f45c490f881d829525798e002950",
+  "readme_source": "https://github.com/DENG-MIT/NN-PSR/blob/c0eeca1668a1f45c490f881d829525798e002950/README.md",
+  "collection_status": "link_only"
+}

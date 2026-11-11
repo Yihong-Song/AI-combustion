@@ -1,0 +1,22 @@
+{
+  "title_query": "Feature extraction and artificial neural networks for the on-the-fly classification of high-dimensional thermochemical spaces in adaptive-chemistry simulations",
+  "retrieved_at": "2026-11-11T16:51:41.609471+00:00",
+  "url": "https://api.crossref.org/works?query.title=Feature+extraction+and+artificial+neural+networks+for+the+on-the-fly+classification+of+high-dimensional+thermochemical+spaces+in+adaptive-chemistry+simulations&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1017/dce.2022.12",
+      "title": "Feature extraction and artificial neural networks for the on-the-fly classification of high-dimensional thermochemical spaces in adaptive-chemistry simulations—ADDENDUM",
+      "score": 0.972027972027972
+    },
+    {
+      "doi": "10.1017/dce.2021.4",
+      "title": "Feature extraction and artificial neural networks for the on-the-fly classification of high-dimensional thermochemical spaces in adaptive-chemistry simulations – ERRATUM",
+      "score": 0.9754385964912281
+    },
+    {
+      "doi": "10.1017/dce.2021.2",
+      "title": "Feature extraction and artificial neural networks for the <i>on-the-fly</i> classification of high-dimensional thermochemical spaces in adaptive-chemistry simulations",
+      "score": 1.0
+    }
+  ]
+}

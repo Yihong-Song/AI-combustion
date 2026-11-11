@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.proci.2026.106597",
+  "title": "Efficient modelling of non-grey radiation in a swirl turbulent ammonia flame using compensatory physics-informed neural networks",
+  "query": "\"Efficient modelling of non-grey radiation in a swirl turbulent ammonia flame using\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:47:50.720445+00:00",
+  "total_count": 0,
+  "items": []
+}

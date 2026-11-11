@@ -15,8 +15,8 @@
   "path": "01_chemistry_kinetics/01_surrogates_reduction/P208595837d",
   "doi_url": "https://doi.org/10.1016/j.fuel.2026.138904",
   "metadata_source": "https://api.crossref.org/works/10.1016/j.fuel.2026.138904",
-  "metadata_retrieved_date": "2026-11-11",
-  "reading_level": "title_screen_only_fulltext_pending",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
   "screening": "candidate_not_systematic_review_inclusion",
   "scope": "combustion_and_adjacent_thermal_conversion",
   "jcr": {
@@ -43,12 +43,12 @@
     "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
   },
   "code": {
-    "status": "searched_no_confirmed_match",
-    "repository": null,
-    "relationship": null,
-    "commit": null,
-    "license": null,
-    "package_id": null,
+    "status": "reviewed_paper_link",
+    "repository": "deepflame-ai/DFODE-kit",
+    "relationship": "author_related_work_readme_explicit",
+    "commit": "bc65e84bc7644675b9996e3eea08f0d38cbceaad",
+    "license": "GPL-3.0 (inspect upstream terms)",
+    "package_id": "deepflame-ai__DFODE-kit",
     "search_hits": 0,
     "search_evidence": "evidence/code_search/208595837d46.json"
   },
@@ -56,5 +56,16 @@
     "status": "not_executed",
     "paper_metrics_reproduced": false
   },
-  "curated_note": null
+  "curated_note": {
+    "repository": "deepflame-ai/DFODE-kit",
+    "category": "01_chemistry_kinetics",
+    "subcategory": "01_surrogates_reduction",
+    "relationship": "author_related_work_readme_explicit",
+    "problem": "改善氨/天然气燃烧化学学习中状态覆盖与不同时间尺度的处理。",
+    "method": "DFODE-kit 固定 README 在 Physics-aware data augmentation and scale separation 部分明确列出本文题名、作者、Fuel 卷和文章号。该证据确认同一软件生态的相关工作，不保证论文的增广配置与尺度分离消融完整包含在当前默认流程。",
+    "entry": "从 augment、label、train 三个命令及数据变换配置入手；逐项比对原文的状态扰动、筛选准则与尺度分离方式。",
+    "dependencies": "同 DFODE-kit 的基础依赖；另需原文所用氨/天然气机理、混合物定义、训练状态与后验反应流算例。",
+    "evaluation": "在固定数据预算下分别消融物理筛选、增广和尺度分离；独立保留混合比、压力及温度，比较痕量组分、守恒和滚动误差。",
+    "limitations": "关联类型为 related work，不能计为全文实验已打包；与 DFODE 软件论文共享一个包。"
+  }
 }

@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.fuel.2026.139155",
+  "title": "Machine learning assisted particle swarm optimization of NH3/H2 combustion mechanism for laminar flame speeds",
+  "query": "\"Machine learning assisted particle swarm optimization of NH3 H2 combustion mechanism for\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:43:57.232704+00:00",
+  "total_count": 0,
+  "items": []
+}

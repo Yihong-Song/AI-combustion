@@ -1,0 +1,23 @@
+{
+  "title_query": "Inferring unknown unknowns: Regularized bias-aware ensemble Kalman filter",
+  "retrieved_at": "2026-11-11T16:51:32.056328+00:00",
+  "url": "https://api.crossref.org/works?query.title=Inferring+unknown+unknowns%3A+Regularized+bias-aware+ensemble+Kalman+filter&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.cma.2023.116502",
+      "title": "Inferring unknown unknowns: Regularized bias-aware ensemble Kalman filter",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1111/j.1600-0870.2008.00378.x",
+      "title": "Observation bias correction with an ensemble Kalman filter",
+      "score": 0.5217391304347826
+    },
+    {
+      "doi": "10.1155/2014/623930",
+      "title": "Multiple Adaptive Fading Schmidt‐Kalman Filter for Unknown Bias",
+      "score": 0.33613445378151263
+    }
+  ],
+  "matched_doi": "10.1016/j.cma.2023.116502"
+}

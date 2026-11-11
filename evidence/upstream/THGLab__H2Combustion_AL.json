@@ -1,0 +1,14 @@
+{
+  "repository": "THGLab/H2Combustion_AL",
+  "url": "https://github.com/THGLab/H2Combustion_AL",
+  "retrieved_at": "2026-11-11T16:48:47.934005+00:00",
+  "commit": "a42833dac8d9f671393527f07d7335fe16c23300",
+  "readme_path": "evidence/upstream/THGLab__H2Combustion_AL.readme.txt",
+  "readme_url": "https://github.com/THGLab/H2Combustion_AL/blob/a42833dac8d9f671393527f07d7335fe16c23300/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/THGLab__H2Combustion_AL.license.txt",
+  "license_url": "https://github.com/THGLab/H2Combustion_AL/blob/a42833dac8d9f671393527f07d7335fe16c23300/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:48:54.010623+00:00"
+}

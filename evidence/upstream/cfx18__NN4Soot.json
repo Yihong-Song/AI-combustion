@@ -1,0 +1,11 @@
+{
+  "repository": "cfx18/NN4Soot",
+  "url": "https://github.com/cfx18/NN4Soot",
+  "retrieved_at": "2026-11-11T16:48:47.932671+00:00",
+  "commit": "d06d5cf026d62f0f61338d6ad6650c6532a211f2",
+  "readme_path": "evidence/upstream/cfx18__NN4Soot.readme.txt",
+  "readme_url": "https://github.com/cfx18/NN4Soot/blob/d06d5cf026d62f0f61338d6ad6650c6532a211f2/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api_or_root_tree",
+  "api_checked_at": "2026-11-11T16:48:54.895064+00:00"
+}

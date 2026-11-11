@@ -39,8 +39,10 @@ def main():
 | 代码/支撑工具仓库 | {stats['code_packages']} | 一仓库多文只计一个包 |
 | 明确可再分发许可 / 已附源归档 | {stats['licensed_for_collection']} / {stats['archives_collected']} | 其余为固定链接或许可受限 |
 | 已附部分源码快照 | {stats.get('partial_source_snapshots_collected',0)} | 不包含完整数据/权重，另记数量 |
+| 已附源码的去重仓库 | {stats.get('unique_packages_with_source',0)} | 完整归档和部分源码按仓库去重 |
 | 已执行独立基线 / 原文指标复现 | 2 / 0 | 不将独立基线冒充论文复现 |
 | 已执行作者演示 | {stats.get('executed_author_demos',0)} | 固定版本和原始数据推理，未重训 |
+| 已训练预印本子算例 | 1 | FlamePINN 单工况；完整论文复现仍为 0 |
 
 统计源：[stats.json](catalog/stats.json)。这是有检索边界的一轮整理，没有数量上限，但也没有证明覆盖所有文献。OA 论文、可见源码、有许可代码、数据权重齐备和复现成功分别记录。
 
@@ -54,7 +56,11 @@ def main():
 
 初次接触这些方法，可先读 [术语、指标与论文阅读指南](docs/GLOSSARY.md)，理解 PINN、LES、神经算子和误差数字的实际含义。
 
+新增：[详细研究路线与思维导图](00_literature_map/RESEARCH_ROADMAP.md) · [逐篇开源工作、数据与依赖](00_literature_map/OPEN_WORK_INDEX.md)。
+
 已执行的上游期刊代码：[C01 氨燃烧 PINN-WSGG 辐射演示](reproductions/C01_wsgg_author_demo/README.md)，含逐点数值、误差定义和适配说明。
+
+当前按用户安排优先收录上游工作，正式训练留待服务器接入。本机已确认有 AMD RX 9060 XT，现有 PyTorch 为 CPU 版本，详见 [环境记录](docs/LOCAL_COMPUTE.md)。此前已跑完的 [C02 FlamePINN 单工况](reproductions/C02_flamepinn_case1/README.md) 保留真实结果；[100 篇 Q1 目标队列](reproductions/target_100_q1/README.md) 继续跟踪，不把归档当作复现。
 
 ## 大方向导航
 
@@ -139,6 +145,8 @@ python tools/fetch_packages.py
 - [2024–2026 年新文献](RECENT_2024_2026.md)：按方向组织，保留 DOI 与论文卡。
 - [方法×问题×数据矩阵](METHOD_PROBLEM_MATRIX.md)：理解任务与评价，避免只按模型名字追热点。
 - [代码优先阅读路线](CODE_READING_ROUTE.md)：目前已核对论文—代码的工作。
+- [详细研究路线与思维导图](RESEARCH_ROADMAP.md)：物理问题、模型层级、源码和评价设计。
+- [逐篇开源可用性](OPEN_WORK_INDEX.md)：入口、依赖、数据和缺失项。
 - [研究问题与证据缺口](RESEARCH_QUESTIONS.md)：可验证的研究设计，不把检索未见说成全球空白。
 - [JCR 类别证据](JCR_EVIDENCE.md)：解释多类别分区、二级来源和待核实条目。
 - [本地交互检索](explorer.html)：搜索题名/作者/DOI，筛选年份、方向、分区和代码。
@@ -169,7 +177,7 @@ python tools/fetch_packages.py
     matrix += ["", "## 燃料/对象这条横轴", "", "氢/氨：差异扩散、痕量 NOx 和高压工况；烃燃料：详细化学与组分尺度跨度；生物质/煤：材料组成、升温速率与尺度效应；电池：热失控反应可辨识性；金属/固体推进剂：多相与界面。单燃料高精度并不证明跨燃料泛化。", "", "## 贯穿所有分支的比较标准", "", "物理单位一致 → 数据/机理可追溯 → 独立工况切分 → 明确传统基线 → 外推和失效分析 → 不确定度 → 全链路成本 → 后验/实验验证。多方法组合须分别做消融，不能把所有改进归因于新模型名字。"]
     write("00_literature_map/METHOD_PROBLEM_MATRIX.md", "\n".join(matrix))
     code_papers = [paper for paper in papers if paper["curated_note"]]
-    write("00_literature_map/CODE_READING_ROUTE.md", "# 代码优先阅读路线\n\n先看许可与数据，再看入口。表中链接已核对，但原始训练未执行。建议顺序：轻量辐射演示 → FlamePINN 简化算例 → SL-GPS 自燃 → CMLM 预存数据 → Bayesian CRNN → 详细化学/CFD。受限或缺许可的代码只保留链接。\n\n" + table(code_papers) + "\n\n[全部代码与支撑工具](../code_packages/README.md) · [复现协议](../docs/REPRODUCTION_PROTOCOL.md)")
+    write("00_literature_map/CODE_READING_ROUTE.md", "# 代码优先阅读路线\n\n先看许可与数据，再看入口。表中有作者实现、组件、教程、相关工作与题名匹配；详细关系见论文卡。除 C01 作者推理演示与 C02 预印本单工况外，未执行训练；完整期刊论文复现仍未验收。建议顺序：轻量辐射 → FlamePINN → SL-GPS/CMLM → CRNN → 后验 CFD。受限或缺许可的代码保留固定链接。\n\n[详细研究路线](RESEARCH_ROADMAP.md) · [逐篇入口和数据可用性](OPEN_WORK_INDEX.md)\n\n" + table(code_papers) + "\n\n[全部代码与支撑工具](../code_packages/README.md) · [复现协议](../docs/REPRODUCTION_PROTOCOL.md)")
     journals = json.loads((ROOT / "catalog/journals.json").read_text(encoding="utf-8"))
     jcr_lines = ["# JCR 分区证据及待核实表", "", "**本轮官方 JCR 确认数为 0；所有二级来源记录的 JCR 版本均未知。** 这里只转录 JIF 类别分区，不使用 SJR、中科院分区或 JCI。最佳类别 Q1 不等于 Energy & Fuels 类别 Q1。", "", "| 期刊 | 二级最佳线索 | 官方核实 | JCR 版本 | 来源/情况 |", "|---|---|---|---|---|"]
     for journal in sorted(journals, key=lambda item: item["journal"]):
@@ -214,7 +222,7 @@ Transformer、KAN、flow matching、Neural Operator 等新方法可作比较对�
 <div class="controls"><input id="query" type="search" aria-label="检索" placeholder="题名 / DOI / 作者 / PINN / ammonia…"><select id="direction" aria-label="方向"><option value="">全部方向</option></select><select id="year" aria-label="年份"><option value="">全部年份</option></select><select id="jcr" aria-label="分区状态"><option value="">全部分区状态</option><option value="provisional_q1_q2">二级来源 Q1/Q2 候选</option><option value="pending_jcr">JCR 待核实</option><option value="adjacent_q3_q4">Q3/Q4 附录</option></select><label><input type="checkbox" id="code">仅已核对代码论文</label><button id="reset">重置</button></div>
 <p class="count" id="count" aria-live="polite"></p><div id="results"></div><footer>整理：2026-11-11 · <a href="README.md">思维导图</a> · <a href="../docs/METHODOLOGY.md">证据与方法</a> · 下载整个仓库后可打开相对路径论文卡；GitHub 不直接执行此 HTML。</footer></main>
 <script>const papers=__DATA__;const controls=['query','direction','year','jcr','code'].map(name=>document.getElementById(name));const [query,direction,year,jcr,code]=controls;const labels={provisional_q1_q2:'二级来源 Q1/Q2，版本待核实',pending_jcr:'JCR 待核实',adjacent_q3_q4:'Q3/Q4 附录'};function option(select,value,label){const node=document.createElement('option');node.value=value;node.textContent=label;select.append(node)}[...new Map(papers.map(paper=>[paper.category,paper.direction]))].sort().forEach(([value,label])=>option(direction,value,label));[...new Set(papers.map(paper=>paper.year))].sort((first,second)=>second-first).forEach(value=>option(year,value,value));function render(){const needle=query.value.trim().toLowerCase();const chosen=papers.filter(paper=>(!needle||[paper.title,paper.doi,paper.authors,paper.journal].join(' ').toLowerCase().includes(needle))&&(!direction.value||paper.category===direction.value)&&(!year.value||paper.year===Number(year.value))&&(!jcr.value||paper.jcr===jcr.value)&&(!code.checked||paper.code));document.getElementById('count').textContent=`显示 ${chosen.length} / ${papers.length} 条候选`;const results=document.getElementById('results');results.replaceChildren();chosen.forEach(paper=>{const card=document.createElement('article');card.className='card';const meta=document.createElement('div');meta.className='meta';meta.textContent=`${paper.year} · ${paper.journal} · ${paper.id}`;const title=document.createElement('h2');const link=document.createElement('a');link.href=paper.path;link.textContent=paper.title;title.append(link);const tags=document.createElement('div');tags.className='tags';tags.textContent=`${paper.direction} · ${labels[paper.jcr]} · ${paper.code?'代码链接已核对 / '+paper.license:'代码未确认'}`;const authors=document.createElement('div');authors.className='meta';authors.textContent=paper.authors;const doi=document.createElement('a');doi.href='https://doi.org/'+paper.doi;doi.textContent=paper.doi;doi.target='_blank';doi.rel='noopener noreferrer';card.append(meta,title,tags,authors,doi);results.append(card)})}controls.forEach(control=>control.addEventListener('input',render));document.getElementById('reset').addEventListener('click',()=>{query.value='';direction.value='';year.value='';jcr.value='';code.checked=false;render()});render();</script></html>"""
-    write("00_literature_map/explorer.html", explorer.replace("__DATA__", data_text))
+    write("00_literature_map/explorer.html", explorer.replace("__DATA__", data_text).replace("整理：2026-11-11", "整理：" + DATE))
     print("Overview built:", stats["candidate_papers"], "papers;", stats["archives_collected"], "archives")
 
 

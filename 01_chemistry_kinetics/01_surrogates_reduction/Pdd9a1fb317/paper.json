@@ -1,0 +1,60 @@
+{
+  "id": "Pdd9a1fb317",
+  "doi": "10.1063/5.0248582",
+  "title": "Comprehensive deep learning for combustion chemistry integration: Multi-fuel generalization and a posteriori validation in reacting flow",
+  "year": 2025,
+  "journal": "Physics of Fluids",
+  "authors": [
+    "Han Li",
+    "Ruixin Yang",
+    "Yangchen Xu",
+    "Min Zhang",
+    "Runze Mao",
+    "Zhi X. Chen"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/Pdd9a1fb317",
+  "doi_url": "https://doi.org/10.1063/5.0248582",
+  "metadata_source": "https://api.crossref.org/works/10.1063/5.0248582",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": "https://www.letpub.com/journal-selector/journal/6673",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "deepflame-ai/DFODE-kit",
+    "relationship": "author_related_work_readme_explicit",
+    "commit": "bc65e84bc7644675b9996e3eea08f0d38cbceaad",
+    "license": "GPL-3.0 (inspect upstream terms)",
+    "package_id": "deepflame-ai__DFODE-kit",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "deepflame-ai/DFODE-kit",
+    "category": "01_chemistry_kinetics",
+    "subcategory": "01_surrogates_reduction",
+    "relationship": "author_related_work_readme_explicit",
+    "problem": "评估燃烧化学神经积分器跨燃料泛化及耦合反应流后的实际表现。",
+    "method": "README 在 Multi-fuel generalization and a posteriori validation 小节明确列出本文。当前工具提供数据与训练管线，但本文各燃料模型、权重和 CFD 验证配置是否完整需逐文件确认。",
+    "entry": "沿 canonical_cases、数据生成/增广/标注及 training 配置查找各燃料设置，再核对 DeepFlame 的模型部署接口。",
+    "dependencies": "Python/Cantera/DeepFlame/OpenFOAM 及每个燃料的机理；不能把换用新机理所得实验写作原文复现。",
+    "evaluation": "按燃料与独立流场留出，分别报告逐步拟合与长时后验结果，保持化学时间步、误差控制与硬件相同。",
+    "limitations": "只确认相关软件关系，尚未核验完整原文实验；多个燃料不能重复计为多篇论文。"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "query": "thermoacoustic \"reservoir\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:46:28.171990+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 11,
+  "url": "https://api.github.com/search/repositories?q=thermoacoustic+%22reservoir%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "andreanovoa/real-time-bias-aware-DA",
+      "description": null,
+      "html_url": "https://github.com/andreanovoa/real-time-bias-aware-DA",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 802797,
+      "fork": false,
+      "updated_at": "2026-11-10T12:46:59Z"
+    },
+    {
+      "full_name": "MagriLab/Real-time-TA-DA",
+      "description": "Real-time thermoacoustics data assimilation",
+      "html_url": "https://github.com/MagriLab/Real-time-TA-DA",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 119527,
+      "fork": false,
+      "updated_at": "2026-11-06T00:04:51Z"
+    },
+    {
+      "full_name": "paulcon/as-data-sets",
+      "description": "Active Subspace Data Sets",
+      "html_url": "https://github.com/paulcon/as-data-sets",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 544197,
+      "fork": false,
+      "updated_at": "2026-11-11T15:55:30Z"
+    },
+    {
+      "full_name": "mohammedbasra-star/mohammedbasra-star",
+      "description": null,
+      "html_url": "https://github.com/mohammedbasra-star/mohammedbasra-star",
+      "license": null,
+      "size": 15,
+      "fork": false,
+      "updated_at": "2026-10-24T17:25:20Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "asjad99/Data-Science-Applications",
+      "description": null,
+      "html_url": "https://github.com/asjad99/Data-Science-Applications",
+      "license": null,
+      "size": 3731,
+      "fork": false,
+      "updated_at": "2024-07-23T01:11:37Z"
+    },
+    {
+      "full_name": "LENS-AI4S/awesome-geofm-papers",
+      "description": "geofundamental paper",
+      "html_url": "https://github.com/LENS-AI4S/awesome-geofm-papers",
+      "license": null,
+      "size": 355760,
+      "fork": false,
+      "updated_at": "2026-11-11T02:45:03Z"
+    },
+    {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4polymer",
+      "description": "🎓Automatically Update AI4Polymer Papers Daily using Github Actions",
+      "html_url": "https://github.com/YuzeHao2023/daily-arxiv-ai4polymer",
+      "license": null,
+      "size": 7794,
+      "fork": false,
+      "updated_at": "2026-11-02T17:55:10Z"
+    },
+    {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4cheme",
+      "description": "🎓Automatically Update AI4Chemical-Engineering Papers Daily using Github Actions",
+      "html_url": "https://github.com/YuzeHao2023/daily-arxiv-ai4cheme",
+      "license": null,
+      "size": 2439,
+      "fork": false,
+      "updated_at": "2026-11-09T18:34:05Z"
+    }
+  ]
+}

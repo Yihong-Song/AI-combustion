@@ -1,0 +1,59 @@
+{
+  "id": "P3fe49a4002",
+  "doi": "10.1038/s41467-021-21331-z",
+  "title": "Learning dominant physical processes with data-driven balance models",
+  "year": 2021,
+  "journal": "Nature Communications",
+  "authors": [
+    "Jared L. Callaham",
+    "James V. Koch",
+    "Bingni W. Brunton",
+    "J. Nathan Kutz",
+    "Steven L. Brunton"
+  ],
+  "category": "07_engineering_design",
+  "subcategory": "03_supersonic_detonation",
+  "path": "07_engineering_design/03_supersonic_detonation/P3fe49a4002",
+  "doi_url": "https://doi.org/10.1038/s41467-021-21331-z",
+  "metadata_source": "https://api.crossref.org/works/10.1038/s41467-021-21331-z",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "dynamicslab/dominant-balance",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+    "license": "MIT",
+    "package_id": "dynamicslab__dominant-balance",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "dynamicslab/dominant-balance",
+    "category": "07_engineering_design",
+    "subcategory": "03_supersonic_detonation",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "从方程项数据识别不同区域的主导物理平衡，并在旋转爆轰简化模型中解释反应与输运竞争。",
+    "method": "README 明确链接同题预印本，提供多物理例题；第七项是旋转爆轰发动机的 Majda–Burgers 简化模型。燃烧方向只对应这个子例，其余例题属于通用方法背景。",
+    "entry": "先阅读 Burgers 的解释性 notebook，再定位 Rotating detonation engine analogue；生成 RDE 数据需 pyclaw。",
+    "dependencies": "scikit-learn、NumPy、SciPy、Matplotlib、seaborn；pyclaw 用于 RDE 数值数据，其他例题可能需要 pymech 或 MATLAB。",
+    "evaluation": "检验聚类/稀疏识别的稳定性、噪声敏感度和物理分区解释；不能把简化模型结果推广为详细多组分爆轰验证。",
+    "limitations": "MIT；期刊正式版与预印本对应以题名核对，燃烧案例仅是跨领域方法论文的一部分。"
+  }
+}

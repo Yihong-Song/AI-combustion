@@ -1,0 +1,38 @@
+# Early detection of thermoacoustic combustion oscillations using a methodology combining statistical complexity and machine learning
+
+P74cbb6fbf7 · 2019 · Chaos: An Interdisciplinary Journal of Nonlinear Science
+
+作者：Takayoshi Hachijo; Shinga Masuda; Takuya Kurosaka; Hiroshi Gotoda
+
+- DOI：[原文入口](https://doi.org/10.1063/1.5120815)
+- 分类：热声不稳定性预测、辨识与控制 / 预警与系统辨识
+- JCR：**JCR 分区待核实**；报告最佳分区 未知；版本未知；官方核实：否。
+- 阅读深度：标题与元数据筛选，待摘要/全文复核。
+- 完整期刊论文复现：**尚未验收**。
+- [统一方法与证据等级](../../../docs/METHODOLOGY.md) · [方向说明](../../../04_instability_control/README.md) · [全局地图](../../../00_literature_map/README.md)
+
+## 这条记录目前能说明什么
+
+标题和期刊元数据表明它可能属于本方向；本卡不提供未经全文核实的架构、数据量、速度提升或结论。下列内容是该方向的阅读问题与复现设计，不是对本文结果的转述。
+
+## 精读与复现提取清单
+
+1. 明确本文的物理目标：任务是当前状态分类、未来提前量预测、火焰传递函数辨识还是闭环控制？这些任务不能共用一个模糊的准确率。
+2. 提取数据生成/测量协议：同步压力、速度、热释放代理和控制信号；保留采样频率、同步误差、操作条件变化及振荡起始定义。
+3. 对照原文确认切分：整次试验或整台燃烧器留出，滑动窗口须设置时间隔离区；不能让同一事件相邻窗口跨训练测试。
+4. 找到原文表/图及指标定义：提前量、误报/漏报、按实验统计的 PR-AUC、概率校准；辨识用增益/相位；控制用压力 RMS、执行器能量、约束违背与恢复时间。
+5. 记录完整依赖、机理/数据许可证、随机种子、设备、训练预算和失败运行。
+6. 建立公式—代码对应表，先运行最小基线，再对同一数据切分复现目标图表。
+
+## 代码检索状态
+
+`not_searched_per_doi`。DOI 精确 GitHub README 检索会漏掉未写 DOI 的实现；搜到引用也不能认定为本文代码。未确认实现不意味着作者没有开源。
+
+## 待完成的学术核验
+
+- 官方 JCR 年份、类别、排名与分区证据。
+- 原文数据范围、训练/测试切分、主要定量结论、消融与误差条。
+- 代码—论文版本一致性，数据及预训练权重是否齐全。
+- 论文指标同口径复现及差异分析。
+
+元数据来源：[Crossref](https://api.crossref.org/works/10.1063/1.5120815)；本轮整理日期 2026-11-12。完整元数据见同目录 `paper.json`。

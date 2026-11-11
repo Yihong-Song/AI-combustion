@@ -1,0 +1,834 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "deepflame-ai/DFODE-kit",
+  "commit": "bc65e84bc7644675b9996e3eea08f0d38cbceaad",
+  "date": "2026-11-11",
+  "path": "code_packages/deepflame-ai__DFODE-kit/bc65e84bc764-source-only.tar.gz",
+  "bytes": 90439,
+  "sha256": "946ae6234ac2636a845292ad4c3c9201ce5d572af17888916cfa833371106568",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": ".github/workflows/docs-pages.yml",
+      "git_blob_sha": "6d23bf28945af6dff5116891a9f5b94df23e922d",
+      "sha256": "e2fbb0186b1d5d540397346e41c9fa5992a6b7c81bb943b55cc0d78a8a6dd491",
+      "bytes": 1274
+    },
+    {
+      "path": ".github/workflows/harness.yml",
+      "git_blob_sha": "5efa1a9f6676d553bfba200318660704e15e58e9",
+      "sha256": "e4bf3567707343676504d712669ee3c901ab0defc5bc9e6b760da6b58438dc7e",
+      "bytes": 623
+    },
+    {
+      "path": "AGENTS.md",
+      "git_blob_sha": "0c4ee8a4c73f37bde2fb9731356c33b09996e59a",
+      "sha256": "300c02e264331a1152cbdfc48c57c4ba0798675af655efa40d6a30167f7627fb",
+      "bytes": 2286
+    },
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "a75b735dd166611839b2e823e94e8ea2992bb85d",
+      "sha256": "ec663b5e74d15fcd6d3f96f83be7e15586af92b2a0dc0c2d60b289eb17a8c990",
+      "bytes": 8928
+    },
+    {
+      "path": "canonical_cases/README.md",
+      "git_blob_sha": "5dcebcf765b3f27621ec86bc08bd1534842e89de",
+      "sha256": "ffc6e5e1b9cd682c316c05163c387e02ed819baa10e446c2d1347c1ebe689eb3",
+      "bytes": 2175
+    },
+    {
+      "path": "canonical_cases/oneD_freely_propagating_flame/dfode_kit_init.ipynb",
+      "git_blob_sha": "f24e8b43dde5decbe18e1dd2c75bad7495acfc0e",
+      "sha256": "b67d612928fd9f36aba4a1167dd0a7df479da436883e6f8b2da0a6919d60e7ce",
+      "bytes": 4310
+    },
+    {
+      "path": "dfode_kit/__init__.py",
+      "git_blob_sha": "5435bc1733b348123001d8290486f3bcc69bc12f",
+      "sha256": "83b8ccce1a577dc1ace9d69b0444d1be4a04210a08dc19d366ddf74580effc4b",
+      "bytes": 1729
+    },
+    {
+      "path": "dfode_kit/cases/__init__.py",
+      "git_blob_sha": "32af3cae059eb9b7a2cc679e61cb5110d95d362c",
+      "sha256": "e9c9fb1d92572bd7c9cb5c83f8b76fb55e335437607eb2a426a83fb0659da376",
+      "bytes": 2280
+    },
+    {
+      "path": "dfode_kit/cases/deepflame.py",
+      "git_blob_sha": "e8c4d60c73693940c173407dd531a0a276bd40e8",
+      "sha256": "0cbd081a7a907dab3e47a8f821a5dfbb8f66133e09df9f82833de43380d9addd",
+      "bytes": 4238
+    },
+    {
+      "path": "dfode_kit/cases/init.py",
+      "git_blob_sha": "91a7fc2ebc0b7bd410b6a2407e896aaa1c74344e",
+      "sha256": "e3607c75275bdb30811436ed6e4b062ec0ee8a6a8a25d033ddc3face864d64a4",
+      "bytes": 4803
+    },
+    {
+      "path": "dfode_kit/cases/presets.py",
+      "git_blob_sha": "75fb90eae42984fb40d5375f02e1c10c5d71c72b",
+      "sha256": "94cc635b0783152d1e40cba48b6eca6c33ac264e578c11397961e0ab19464d76",
+      "bytes": 4463
+    },
+    {
+      "path": "dfode_kit/cases/sampling.py",
+      "git_blob_sha": "3ca0dbab86e5b4f08d550bf539fb84deeeb71997",
+      "sha256": "8b70eae694a4cd8949ef8a5323a6d8e4747790cb8044f5ba282954bf052bc7d3",
+      "bytes": 3880
+    },
+    {
+      "path": "dfode_kit/cli/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dfode_kit/cli/command_loader.py",
+      "git_blob_sha": "3e3321c89848da68d02eaeafa17f71b1e5060279",
+      "sha256": "edae8e23c85610a9907fd056756e8ed004324f66db38914e65b768b4f5570667",
+      "bytes": 1489
+    },
+    {
+      "path": "dfode_kit/cli/commands/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "dfode_kit/cli/commands/augment.py",
+      "git_blob_sha": "e59eeaf3b08875e5cf9551e86de7a655cadf219e",
+      "sha256": "700e223ada2ca6dd7bd1bfc0aa94b4e6f7a33ca8626f49c2c49960de5899eeb6",
+      "bytes": 3825
+    },
+    {
+      "path": "dfode_kit/cli/commands/augment_helpers.py",
+      "git_blob_sha": "4d368d52dd7096e4c010c627a42e6a7a2cea2016",
+      "sha256": "72d2f6ea475d77c5bd7bc35134146ba5a445d52829b183c99cc3e47837479020",
+      "bytes": 8986
+    },
+    {
+      "path": "dfode_kit/cli/commands/config.py",
+      "git_blob_sha": "7855545c9bda41b3b646c0cce10dd62a64243a98",
+      "sha256": "3baf015d13b4774069363b011989e63a300ddc9de6a08a0a5aecc61ab7e0052a",
+      "bytes": 3338
+    },
+    {
+      "path": "dfode_kit/cli/commands/h52npy.py",
+      "git_blob_sha": "e3c572539c064867f8b01672abafb3292257280a",
+      "sha256": "7555615ab7d6b0f4cb25abce7af7140d6ac45c778e7bac0ed371aaff91b1fb95",
+      "bytes": 1232
+    },
+    {
+      "path": "dfode_kit/cli/commands/init.py",
+      "git_blob_sha": "86d44152cb5babad5119d99be3a12c998c498da7",
+      "sha256": "e0276526ad73a4b627c102e4346b95ede5fddc943b8f466d835377cbc8a9c5e2",
+      "bytes": 5680
+    },
+    {
+      "path": "dfode_kit/cli/commands/init_helpers.py",
+      "git_blob_sha": "48232a68de89954c2539e902d5c530233b4202ee",
+      "sha256": "d9600c8b067384b6eba5f6310644a414a42fda652853e9d70a13cefb9b6b1485",
+      "bytes": 5426
+    },
+    {
+      "path": "dfode_kit/cli/commands/label.py",
+      "git_blob_sha": "d4b226fb8c655a336a08d5548000168296a26923",
+      "sha256": "7d856872508a11251635a6578090f3ccfa125a0bdfcc4506274666f2ca1ed646",
+      "bytes": 1279
+    },
+    {
+      "path": "dfode_kit/cli/commands/run_case.py",
+      "git_blob_sha": "bf765576f91b07f1f6a52aac40dd69b713264c0b",
+      "sha256": "2691950daa78ee076facdc5b77104abb7d2381958e5fb43f3880df62a12ff160",
+      "bytes": 3368
+    },
+    {
+      "path": "dfode_kit/cli/commands/run_case_helpers.py",
+      "git_blob_sha": "2b5b87c0070d7fdf55438cc73a50fc98a6abc2c1",
+      "sha256": "88f6d3870180ffcb3ddef58a2e4460a2d0c98c633d0fa9df748e389f14246096",
+      "bytes": 125
+    },
+    {
+      "path": "dfode_kit/cli/commands/sample.py",
+      "git_blob_sha": "84924b307392ec8dedfbb88b9b57ef178692ccff",
+      "sha256": "40afd5dcc154c1f49c8c6832b24eea17a9d36eec79ff9eb715a791c06800cd21",
+      "bytes": 991
+    },
+    {
+      "path": "dfode_kit/cli/commands/train.py",
+      "git_blob_sha": "2a4b62e916d0136e9a7f67e97d422c266b192177",
+      "sha256": "794c4a49d5953453d0a2ff9d8a66a691313f148d5df701be11dc784b50aeb81a",
+      "bytes": 801
+    },
+    {
+      "path": "dfode_kit/cli/main.py",
+      "git_blob_sha": "ff0e45815670b4b06373002058be4686cd2b7e91",
+      "sha256": "1694ae546285d451b61a2903fe5394c57bcd92264e501537e418287f1f512703",
+      "bytes": 2594
+    },
+    {
+      "path": "dfode_kit/data/__init__.py",
+      "git_blob_sha": "e81f5c5280d47c84a84b6c21f60bb23faac39c51",
+      "sha256": "8d83ec1b9db23a397faa80fe1a36c3822a8d1e9e644aef29649ecdfce432fbc0",
+      "bytes": 1924
+    },
+    {
+      "path": "dfode_kit/data/augment.py",
+      "git_blob_sha": "9be887697fa334a469c6d4e6aa8c598bab7eadce",
+      "sha256": "5b3d0d97e170242e82e9c75d9b139ac1f731ee147401c7397145fb1755fecb6c",
+      "bytes": 5894
+    },
+    {
+      "path": "dfode_kit/data/contracts.py",
+      "git_blob_sha": "1e5ade0e5786bc516f594037ab6519bd56190e4a",
+      "sha256": "3eff3b5d3854f286c5d424d5abcd5a609d26588cef8acce59607b418f73617fa",
+      "bytes": 2326
+    },
+    {
+      "path": "dfode_kit/data/integration.py",
+      "git_blob_sha": "29397aeb498ff6fc8347a1185c2f5b019d86b5e3",
+      "sha256": "eefc5b694ffe39286a04b325334a82eac1ed4b772964e6b0fb645bcb3edc1f32",
+      "bytes": 6729
+    },
+    {
+      "path": "dfode_kit/data/io_hdf5.py",
+      "git_blob_sha": "a77282e870e780d54463ac63f34b1edeaff7da77",
+      "sha256": "9f9a577c550a3adfaf45c6d95bbcb85770cbcf6bac27a5baea694747718bcb2f",
+      "bytes": 1523
+    },
+    {
+      "path": "dfode_kit/data/label.py",
+      "git_blob_sha": "dc633492048a5e5a1d8d6894307c0dfccdb1d79a",
+      "sha256": "b8a09a7f2872b5ea613f0cb51c3644d41f19a4dfec23085669967721bc7c5e6a",
+      "bytes": 1041
+    },
+    {
+      "path": "dfode_kit/models/__init__.py",
+      "git_blob_sha": "c571f0f08d6504d139da4026051ccec7570564fe",
+      "sha256": "f8ef02e1ce93e81d0ac1d65a3f407f58f7a97d4968633cfe60732f0ab4293af7",
+      "bytes": 977
+    },
+    {
+      "path": "dfode_kit/models/mlp.py",
+      "git_blob_sha": "d7d6aca07a826392b1bc0207adc7d9b9cd01a601",
+      "sha256": "b3842230fb96272b3fd6b883a9edcfd4e217072805626d11141cf17a5879ec16",
+      "bytes": 890
+    },
+    {
+      "path": "dfode_kit/models/registry.py",
+      "git_blob_sha": "88c33e01d585354da5fbadbc05f038db9d447f26",
+      "sha256": "e7cc428fc17420bd1f4e71fd68236d23f92ba8211cb08d05b2e74888f4daaf53",
+      "bytes": 768
+    },
+    {
+      "path": "dfode_kit/runtime/__init__.py",
+      "git_blob_sha": "1868a25546f643086e2d0c4683e6f2846ab6f320",
+      "sha256": "bc376e42ee60c9c144458d33466190bb6e4f9838dee5407edc8a0a90037dbfe2",
+      "bytes": 846
+    },
+    {
+      "path": "dfode_kit/runtime/config.py",
+      "git_blob_sha": "7117a808bba5a24dffade78b2c04414c8cd283dd",
+      "sha256": "e2e2dbd995bd45475d42f17633212004bbfcf0a05e247c3d34cbe9aa478d51c2",
+      "bytes": 3168
+    },
+    {
+      "path": "dfode_kit/runtime/run_case.py",
+      "git_blob_sha": "deca95ad1ce728d7d6ab04cd804d5e1679173080",
+      "sha256": "89654bfe0c08fcdb75b75325f7b772b1dd7ec5437e5f4ea051db8ab3db49b56e",
+      "bytes": 3468
+    },
+    {
+      "path": "dfode_kit/training/__init__.py",
+      "git_blob_sha": "92ff2bcf9b6883cd46123d301d91b6a1fe242b4d",
+      "sha256": "0a14ed4ae8a5a24e81575cfe6f87ba5e3a089be6effe04fe793b6350de2ee0b6",
+      "bytes": 1644
+    },
+    {
+      "path": "dfode_kit/training/config.py",
+      "git_blob_sha": "c5ec494783a12ea3d4f38623a546c9399f051f55",
+      "sha256": "baffc8049ae43c7082cdd9f79ba26499ac2afc0832f1ee2805b46798039d2648",
+      "bytes": 1504
+    },
+    {
+      "path": "dfode_kit/training/formation.py",
+      "git_blob_sha": "5cdede04ded149017f4b8dbf8530948dadb7c5b0",
+      "sha256": "4ada7fbfdae5ea2f32a4f42a5720bae559d6f531754a93892ba2b88a318d22af",
+      "bytes": 302
+    },
+    {
+      "path": "dfode_kit/training/preprocess.py",
+      "git_blob_sha": "70838fe864a10a95cfde4e11fcf7b29c78ed461e",
+      "sha256": "cb4bbeb7859615bccb30570ba2edab2e9bb931690929ad7b2ba65e6943b3a03f",
+      "bytes": 5395
+    },
+    {
+      "path": "dfode_kit/training/registry.py",
+      "git_blob_sha": "5658e16877b388c7ed7ba396a77243c89b95cdf6",
+      "sha256": "90192b8f7b58179b5f2d8cf240c0b9cecb9bca126fc446813e2a4cb507b6ca00",
+      "bytes": 802
+    },
+    {
+      "path": "dfode_kit/training/supervised_physics.py",
+      "git_blob_sha": "59f9757668f5a61650144961683b0efb92e20a5e",
+      "sha256": "dcc64f7896767dab6eba5f3522c19bff4a002f3da04f9f0822e181db7e4bb657",
+      "bytes": 3679
+    },
+    {
+      "path": "dfode_kit/training/train.py",
+      "git_blob_sha": "c6b11a9d9055543b78fee68678ea694cc000da9a",
+      "sha256": "d8930679a3beaa905d7c3043ce98656620d21db953dad241bf98d28895a4d79f",
+      "bytes": 4684
+    },
+    {
+      "path": "dfode_kit/utils.py",
+      "git_blob_sha": "72cc073001dff1514f03888c54d406f8fb2566f7",
+      "sha256": "3a82663682d7c5349c2b82af32598b1ace261e12051dd4080fae77cbdc9b303b",
+      "bytes": 3985
+    },
+    {
+      "path": "docs/agents/README.md",
+      "git_blob_sha": "518bee56acd58fc2081e31b0073172ac65521888",
+      "sha256": "aaa29bd26e68dff8f1f61066b2de3486bea5466b3a546d04da07410fb4e0d1e9",
+      "bytes": 1234
+    },
+    {
+      "path": "docs/agents/ci-tests-plan.md",
+      "git_blob_sha": "298b4af106b25a9328f5148f1b735f0315141116",
+      "sha256": "45a6503f9484b0248569b8bca4ed8288767e2a6ed04dad1fa4502cbd36ec3e24",
+      "bytes": 937
+    },
+    {
+      "path": "docs/agents/cli-usability-plan.md",
+      "git_blob_sha": "747a59524978f1dbb5f9784a8b52e93e809f6966",
+      "sha256": "96ca1f16663894874f023d5210d1676e4884e416fef7b60ce73e9cbfd4a0d84a",
+      "bytes": 1426
+    },
+    {
+      "path": "docs/agents/data-io-contract-plan.md",
+      "git_blob_sha": "27ecb166eef0211723319a87bf5aa5bdfd477385",
+      "sha256": "e4c9cfb0b55e2cc07ee1d8c1c1a1d9d585f7f26126658f5d3358a53d5f98cdac",
+      "bytes": 1378
+    },
+    {
+      "path": "docs/agents/package-topology-migration-plan.md",
+      "git_blob_sha": "2fcbd8c37ce0b5abeb9b3304293a3cf55cd07d0c",
+      "sha256": "1b6b59f14a6e8e83931bf0506a07acb0f4325a38c5d14d926da4576f630ff13b",
+      "bytes": 5731
+    },
+    {
+      "path": "docs/agents/package-topology-spec.md",
+      "git_blob_sha": "3deb037a8b339dd049dbb02d63104e64d7b1788d",
+      "sha256": "48010afb0882fbf73aa61927e915ac3b42b43427576b950720324088bd16f459",
+      "bytes": 8476
+    },
+    {
+      "path": "docs/agents/roadmap.md",
+      "git_blob_sha": "b92f086cd34bdf7c0adeb24d2ec15feb4a34f331",
+      "sha256": "c9f926a769f824713d6692baa04a0ac2c9c185069ddc29b3faeda30c8915d4e4",
+      "bytes": 900
+    },
+    {
+      "path": "docs/agents/topology.md",
+      "git_blob_sha": "d4e358dd430dd593e86dc76eb8c6d386faf4df0e",
+      "sha256": "f407e197059261d67c8d9d530e6765560348a0ea4d5b2f0ecc5fd43c224ff5d8",
+      "bytes": 429
+    },
+    {
+      "path": "docs/agents/train-config-plan.md",
+      "git_blob_sha": "79c5252b48869c80704cb4c07e4ccbbf766d6cee",
+      "sha256": "5138f1cb518ff74626ccd512032577711180e9b00382037bf4155e3ebcbab22f",
+      "bytes": 2571
+    },
+    {
+      "path": "docs/agents/verification.md",
+      "git_blob_sha": "6621062f2476152f617f97e598c98ce3664e715b",
+      "sha256": "ac3e36a25dbabd8445fd879d8d28f84af08902426e6b61d4f6478ae742b9e317",
+      "bytes": 858
+    },
+    {
+      "path": "docs/agents/worktrees.md",
+      "git_blob_sha": "1a437ba2e838f0307e7d326aaaf9d70c31d1e6ee",
+      "sha256": "fd99b2a6e6191364931b12fa3f879ad2ba63d6c00d1e9a7caa6f9e373822f295",
+      "bytes": 793
+    },
+    {
+      "path": "docs/architecture.md",
+      "git_blob_sha": "aa030255c941cf9daa4c8f829339af540dc7f409",
+      "sha256": "ce03e6ce984cfeb3ab9a564a08b0d315d4410d77ac5d2dd6c2b1572a5fdd4491",
+      "bytes": 2015
+    },
+    {
+      "path": "docs/augment.md",
+      "git_blob_sha": "c34a91b8e53e33e2268d0f035a3ac35641000ac7",
+      "sha256": "cad4ac9ddb688b8f5a92ee391287155c7e0e1c9d9f1fe401cdc358ad7b2ff79c",
+      "bytes": 3509
+    },
+    {
+      "path": "docs/cli.md",
+      "git_blob_sha": "2eb78ced36fcc21c0153270151c400eddd891944",
+      "sha256": "5fa651e68aeeb5c9e3852cb02d73a02a1f5f1fae501b5ed4b561e00e2f392e2c",
+      "bytes": 3082
+    },
+    {
+      "path": "docs/data-workflow.md",
+      "git_blob_sha": "0efac0110235fb37a686bc7e321bc10c117098c0",
+      "sha256": "385436fe2481248d11f980bc4de94a8bc60851b2427838728decfa301f78febf",
+      "bytes": 4438
+    },
+    {
+      "path": "docs/getting-started.md",
+      "git_blob_sha": "e59eb5b977e5ff208ae432d35104c7ec367a439e",
+      "sha256": "78758a83b726d85a70e8004c4d691dcaf33d2d6e1d527ddef315cad0c512525d",
+      "bytes": 1721
+    },
+    {
+      "path": "docs/index.md",
+      "git_blob_sha": "7ce9bc8263fbab4f97b3b967207cf934bec9cb78",
+      "sha256": "56a994650b7b467e879db21cf53e3b3bcfb35c69735324579c904be83e837849",
+      "bytes": 1693
+    },
+    {
+      "path": "docs/init.md",
+      "git_blob_sha": "2d1a16a27f57e2ac84fc0e07c615725c37da487a",
+      "sha256": "433d453a05c65e76b40c3cbc2a58b0a17d17f95b5335badd709580d32acc5e87",
+      "bytes": 4917
+    },
+    {
+      "path": "docs/run-case.md",
+      "git_blob_sha": "1a5c3d3f8b4e6d62755444fd19e02fa47357f0f3",
+      "sha256": "d4403521a1dce0a9206a99299e41d8029168e524e8f651f8507e739972ebfd21",
+      "bytes": 5577
+    },
+    {
+      "path": "docs/tutorials.md",
+      "git_blob_sha": "4668825d0626d88a2a76fe0f9deb50b91acb8935",
+      "sha256": "92b1ca3b2543c9b48b8d40aa4ae2aa0283d11473fe3beb14fbd2e8339f0f4130",
+      "bytes": 1234
+    },
+    {
+      "path": "mechanisms/Burke2012_s9r23.yaml",
+      "git_blob_sha": "d77a77bbf8083085f98f273b80a5881af9937a61",
+      "sha256": "8c7b50a2e47cac42e0d89cb6bcbc70455b5742a8d91bb5eb8f9c9d31faef4e4e",
+      "bytes": 7606
+    },
+    {
+      "path": "mkdocs.yml",
+      "git_blob_sha": "742c766b187f9f92a881d73b1e8426824ea6c803",
+      "sha256": "092fccfa8ca8fc8ef7d6e88b5df26397d36cb3ea57bcab05668965a548ecd0cf",
+      "bytes": 1644
+    },
+    {
+      "path": "pyproject.toml",
+      "git_blob_sha": "04bf4b31f3ea2fd062f1157338b27dea2dfe89e9",
+      "sha256": "a7f9703f4ec3c0b7d35cbf361b760b5d826c3fa21e71f034a1c550329362f04a",
+      "bytes": 398
+    },
+    {
+      "path": "requirements-docs.txt",
+      "git_blob_sha": "294fecc96a7110a212183bf0df0fa2c5bf25ab8b",
+      "sha256": "e76071e583a608e97790500fb2830c382a664c984bbc750e1f5b931e0c957b07",
+      "bytes": 58
+    },
+    {
+      "path": "tests/test_augment_cli.py",
+      "git_blob_sha": "7ef17e0adadf7ae7d19a4e2cc9da49f624a1c1e6",
+      "sha256": "29f9a97dce90672b574c6f455749b2f5389623520eb4ba40696a955c718bf68b",
+      "bytes": 5187
+    },
+    {
+      "path": "tests/test_case_init.py",
+      "git_blob_sha": "456a1db2443736a8d9fe003177d2f0410628ec79",
+      "sha256": "657dedf0af3c34e2e8294fce418100594a719bb72465030adf0877ecded185ec",
+      "bytes": 1398
+    },
+    {
+      "path": "tests/test_cases_shims.py",
+      "git_blob_sha": "9fbb4343e7ebaa202b31bdc233dc835fcefc24ae",
+      "sha256": "e19829dda37d1d59ef96c3a76a53318393d076943de99fb3015ee79876d5e87b",
+      "bytes": 221
+    },
+    {
+      "path": "tests/test_cli_main.py",
+      "git_blob_sha": "1801ae827e2258f633e6477079c7bfa8ebf867f6",
+      "sha256": "12644c5f838e7c1b723d758d4ffb6b68ed5e76093eed062b3b255d25200de465",
+      "bytes": 5066
+    },
+    {
+      "path": "tests/test_data_contracts.py",
+      "git_blob_sha": "c777545ff970fe3d3023d0d504d2bcbddaf78d30",
+      "sha256": "e6ab3d7512fae8e6e1949eb35becd13d28b96dc6fcbf1bbe2dd4b79c47265e3b",
+      "bytes": 2858
+    },
+    {
+      "path": "tests/test_data_integration_shims.py",
+      "git_blob_sha": "d4d7c6e3492adba06ed3bfd989e6b7bc47a7ae9d",
+      "sha256": "1e069c65f865d09091fd03e96314ebd8d54bb36db378c1bf299b66af8672ab4c",
+      "bytes": 459
+    },
+    {
+      "path": "tests/test_data_io_hdf5.py",
+      "git_blob_sha": "a55f1bd466f1770bf2ed22c5f92392eeb9f2cc25",
+      "sha256": "5adc0c8784e3fe7cf47d36c838b80aa24227e4a01c38fcfbc7214cc1dea88226",
+      "bytes": 1626
+    },
+    {
+      "path": "tests/test_data_module_exports.py",
+      "git_blob_sha": "6945ab56325fd619c2d724312b6863e905caa047",
+      "sha256": "175436ed1a272b7af4f8f935f81216229fb3f4e6f3aeff990b4e8c9c5be18c2a",
+      "bytes": 398
+    },
+    {
+      "path": "tests/test_harness_files.py",
+      "git_blob_sha": "39367b26b95751d47ee19d74a5a011255a8ae8ea",
+      "sha256": "0570a2d62fac5577884b7190a3dafadc2fd6d41be78b13ba9723cf0173bd58fb",
+      "bytes": 1795
+    },
+    {
+      "path": "tests/test_init_cli.py",
+      "git_blob_sha": "779194d2eca6ff3e624ec653d430bb65614e09f1",
+      "sha256": "c6d87d5d3cf4366d35432b70852e08ee00b6fbdef32173a76b69c9b9c718b8d6",
+      "bytes": 3605
+    },
+    {
+      "path": "tests/test_run_case_cli.py",
+      "git_blob_sha": "12de4fe5d450440c67030f5e4c1340fd1808994a",
+      "sha256": "2e02cd99f892d0b0d735b17955f5cc36498787acbd26706145b8ea4ad89ca30d",
+      "bytes": 2817
+    },
+    {
+      "path": "tests/test_runtime_config.py",
+      "git_blob_sha": "67e17f132db11e2ba1688c4f73c1516f0ee6f2a2",
+      "sha256": "b17c372132cd263dc1660e471bca5f64582b26dea7694dc2465b63ab82c43336",
+      "bytes": 1092
+    },
+    {
+      "path": "tests/test_train_config_architecture.py",
+      "git_blob_sha": "971dc43578f889bfb7eaedc644623a2773151d2f",
+      "sha256": "b3a8f0bb8be403d087237ddc3579b7784eb338dc5f31c0c64757f42705a325f4",
+      "bytes": 3762
+    },
+    {
+      "path": "tests/test_utils_module.py",
+      "git_blob_sha": "91e1d5059f859ef65f4e0d07883f887f9c2d8062",
+      "sha256": "5e978603b00c755b21c34d92ffeea59a46264793b0710e25ef10df9c7522993d",
+      "bytes": 1458
+    },
+    {
+      "path": "tutorials/README.md",
+      "git_blob_sha": "35af0f8d58de3470ce26fa6b1eab9c2c56ca9667",
+      "sha256": "91addefdbe930d3eea1efc929dfd5374fd7a999040bbbb2cde376494697b3527",
+      "bytes": 4062
+    },
+    {
+      "path": "tutorials/oneD_freely_propagating_flame/1_sample_train/dfode_kit_init.ipynb",
+      "git_blob_sha": "3bdda39c9b988eea2ad2f5f5633477d58faa964a",
+      "sha256": "e4a88f45f8c5cabce1c572e6902a6a8616347fd0841d44599a424cb3d2456212",
+      "bytes": 4046
+    },
+    {
+      "path": "tutorials/oneD_freely_propagating_flame/1_sample_train/dfode_kit_tutorial.ipynb",
+      "git_blob_sha": "8d0be27316327b7e13bebbef3adbdc8fff99e994",
+      "sha256": "872ada5983e4ef56dcedf100e50213520fd4eb5cf70df5aaf5fa01e12b1eef1d",
+      "bytes": 14303
+    },
+    {
+      "path": "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/Burke2012_s9r23.yaml",
+      "git_blob_sha": "d77a77bbf8083085f98f273b80a5881af9937a61",
+      "sha256": "8c7b50a2e47cac42e0d89cb6bcbc70455b5742a8d91bb5eb8f9c9d31faef4e4e",
+      "bytes": 7606
+    },
+    {
+      "path": "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/inference.py",
+      "git_blob_sha": "567d882b40c908ae3ce9cdd819d7eac41b88c762",
+      "sha256": "f079870e1afa580d9979a9ce9a65e68bf7343c691ebe8bd0f254f4902845270e",
+      "bytes": 5903
+    },
+    {
+      "path": "tutorials/oneD_freely_propagating_flame/2_model_test/priori/test.py",
+      "git_blob_sha": "1ede131687268ca0abdd1bbf81a899566627562f",
+      "sha256": "dbcdf5723d35bb0adf729e8805e880aa73ff2c1c3ad9ba1f4498ea3513a27bc4",
+      "bytes": 1132
+    },
+    {
+      "path": "tutorials/twoD_HIT_flame/1_sample_train/dfode_kit_init.ipynb",
+      "git_blob_sha": "2790b235ef77186e0d79906c5ad5f1e9b52b1ab3",
+      "sha256": "b06ef71de77c0adb5f356489da1c5f8fe554919f30f04282bea6353aa40ecbec",
+      "bytes": 5519
+    },
+    {
+      "path": "tutorials/twoD_HIT_flame/1_sample_train/dfode_kit_tutorial.ipynb",
+      "git_blob_sha": "5d5d347113c048eaa85eaf7076d2f773834c0032",
+      "sha256": "dcbb497127ed82a87f9a38ae47855814e3192a0eece8411569bafb3f52b7fd3c",
+      "bytes": 15417
+    },
+    {
+      "path": "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/Burke2012_s9r23.yaml",
+      "git_blob_sha": "d77a77bbf8083085f98f273b80a5881af9937a61",
+      "sha256": "8c7b50a2e47cac42e0d89cb6bcbc70455b5742a8d91bb5eb8f9c9d31faef4e4e",
+      "bytes": 7606
+    },
+    {
+      "path": "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/inference.py",
+      "git_blob_sha": "567d882b40c908ae3ce9cdd819d7eac41b88c762",
+      "sha256": "f079870e1afa580d9979a9ce9a65e68bf7343c691ebe8bd0f254f4902845270e",
+      "bytes": 5903
+    },
+    {
+      "path": "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/Burke2012_s9r23.yaml",
+      "git_blob_sha": "d77a77bbf8083085f98f273b80a5881af9937a61",
+      "sha256": "8c7b50a2e47cac42e0d89cb6bcbc70455b5742a8d91bb5eb8f9c9d31faef4e4e",
+      "bytes": 7606
+    },
+    {
+      "path": "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/inference.py",
+      "git_blob_sha": "8461d674bad433eaebed580131040c75a82d3bff",
+      "sha256": "b06aa6d8c4defbfe217fe9748aed0460432a95e8d3d82e505b5a05220e74c008",
+      "bytes": 5906
+    },
+    {
+      "path": "tutorials/twoD_HIT_flame/2_model_test/priori/test.py",
+      "git_blob_sha": "f153ac0e164b8034e2841dc181d307d810a5012d",
+      "sha256": "c78fff88dc09929504ac05fee563479b3585ffdaee9c72801c623a57600a40ec",
+      "bytes": 1091
+    }
+  ],
+  "excluded_paths": [
+    ".github",
+    ".github/workflows",
+    ".gitignore",
+    "Makefile",
+    "canonical_cases",
+    "canonical_cases/oneD_freely_propagating_flame",
+    "canonical_cases/oneD_freely_propagating_flame/0",
+    "canonical_cases/oneD_freely_propagating_flame/0/T.orig",
+    "canonical_cases/oneD_freely_propagating_flame/0/U.orig",
+    "canonical_cases/oneD_freely_propagating_flame/0/Ydefault.orig",
+    "canonical_cases/oneD_freely_propagating_flame/0/p.orig",
+    "canonical_cases/oneD_freely_propagating_flame/Allclean",
+    "canonical_cases/oneD_freely_propagating_flame/Allrun",
+    "canonical_cases/oneD_freely_propagating_flame/constant",
+    "canonical_cases/oneD_freely_propagating_flame/constant/CanteraTorchProperties",
+    "canonical_cases/oneD_freely_propagating_flame/constant/combustionProperties",
+    "canonical_cases/oneD_freely_propagating_flame/constant/g",
+    "canonical_cases/oneD_freely_propagating_flame/constant/sprayCloudProperties",
+    "canonical_cases/oneD_freely_propagating_flame/constant/thermophysicalProperties",
+    "canonical_cases/oneD_freely_propagating_flame/constant/turbulenceProperties",
+    "canonical_cases/oneD_freely_propagating_flame/system",
+    "canonical_cases/oneD_freely_propagating_flame/system/blockMeshDict",
+    "canonical_cases/oneD_freely_propagating_flame/system/controlDict",
+    "canonical_cases/oneD_freely_propagating_flame/system/decomposeParDict",
+    "canonical_cases/oneD_freely_propagating_flame/system/fvSchemes",
+    "canonical_cases/oneD_freely_propagating_flame/system/fvSolution",
+    "canonical_cases/oneD_freely_propagating_flame/system/sampleConfigDict",
+    "canonical_cases/oneD_freely_propagating_flame/system/sampleConfigDict.orig",
+    "canonical_cases/oneD_freely_propagating_flame/system/setFieldsDict",
+    "canonical_cases/oneD_freely_propagating_flame/system/setFieldsDict.orig",
+    "dfode_kit",
+    "dfode_kit/cases",
+    "dfode_kit/cli",
+    "dfode_kit/cli/commands",
+    "dfode_kit/data",
+    "dfode_kit/models",
+    "dfode_kit/runtime",
+    "dfode_kit/training",
+    "docs",
+    "docs/agents",
+    "mechanisms",
+    "pytest.ini",
+    "tests",
+    "tutorials",
+    "tutorials/oneD_freely_propagating_flame",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/0",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/0/T.orig",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/0/U.orig",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/0/Ydefault.orig",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/0/p.orig",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/Allclean",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/Allrun",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/constant",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/constant/CanteraTorchProperties",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/constant/combustionProperties",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/constant/g",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/constant/sprayCloudProperties",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/constant/thermophysicalProperties",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/constant/turbulenceProperties",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system/blockMeshDict",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system/controlDict",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system/decomposeParDict",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system/fvSchemes",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system/fvSolution",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system/sampleConfigDict",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system/sampleConfigDict.orig",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system/setFieldsDict",
+    "tutorials/oneD_freely_propagating_flame/1_sample_train/system/setFieldsDict.orig",
+    "tutorials/oneD_freely_propagating_flame/2_model_test",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/H.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/H2.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/H2O.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/H2O2.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/HO2.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/N2.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/O.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/O2.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/OH.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/T.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/U",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/Ydefault",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/p",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/Allclean",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/Allrun",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/CanteraTorchProperties",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/combustionProperties",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/g",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/boundary",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/faces.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/neighbour.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/owner.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/points.gz",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/sprayCloudProperties",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/thermophysicalProperties",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/turbulenceProperties",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/blockMeshDict",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/controlDict",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/decomposeParDict",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/fvSchemes",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/fvSolution",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/sample",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/priori",
+    "tutorials/oneD_freely_propagating_flame/2_model_test/priori/model.pt",
+    "tutorials/twoD_HIT_flame",
+    "tutorials/twoD_HIT_flame/1_sample_train",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/H.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/H2.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/H2O.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/H2O2.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/HO2.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/N2.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/O.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/O2.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/OH.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/T.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/U.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/Ydefault.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/0/p.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/Allclean",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/Allrun",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/constant",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/constant/CanteraTorchProperties",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/constant/combustionProperties",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/constant/g",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/constant/sprayCloudProperties",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/constant/thermophysicalProperties",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/constant/turbulenceProperties",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system/blockMeshDict",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system/controlDict",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system/decomposeParDict",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system/fvSchemes",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system/fvSolution",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system/sampleConfigDict",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system/sampleConfigDict.orig",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system/setFieldsDict",
+    "tutorials/twoD_HIT_flame/1_sample_train/standard_case_for_sampling/system/setFieldsDict.orig",
+    "tutorials/twoD_HIT_flame/2_model_test",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/H.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/H2.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/H2O.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/H2O2.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/HO2.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/N2.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/O.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/O2.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/OH.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/T.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/U",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/Ydefault",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/0/p",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/Allclean",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/Allrun",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/CanteraTorchProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/combustionProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/g",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/boundary",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/faces.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/neighbour.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/owner.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/polyMesh/points.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/sprayCloudProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/thermophysicalProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/constant/turbulenceProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/blockMeshDict",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/controlDict",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/decomposeParDict",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/fvSchemes",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/fvSolution",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/oneD_freely_propagating_flame/system/sample",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/H",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/H2",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/H2O",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/H2O2",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/HO2",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/N2",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/O",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/O2",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/OH",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/T",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/U",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/0/p",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/Allclean",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/Allrun",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/CanteraTorchProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/combustionProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/g",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/polyMesh",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/polyMesh/boundary",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/polyMesh/faces.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/polyMesh/neighbour.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/polyMesh/owner.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/polyMesh/points.gz",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/sprayCloudProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/thermophysicalProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/constant/turbulenceProperties",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/submission.pt",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/system",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/system/blockMeshDict",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/system/controlDict",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/system/decomposeParDict",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/system/fvSchemes",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/system/fvSolution",
+    "tutorials/twoD_HIT_flame/2_model_test/posteriori/twoD_HIT_flame/system/setFieldsDict",
+    "tutorials/twoD_HIT_flame/2_model_test/priori",
+    "tutorials/twoD_HIT_flame/2_model_test/priori/model.pt"
+  ]
+}

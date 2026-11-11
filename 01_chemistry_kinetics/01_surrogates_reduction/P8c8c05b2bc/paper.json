@@ -1,0 +1,89 @@
+{
+  "id": "P8c8c05b2bc",
+  "doi": "10.1016/j.combustflame.2019.09.010",
+  "title": "Adaptive chemistry via pre-partitioning of composition space and mechanism reduction",
+  "year": 2020,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Giuseppe D’Alessio",
+    "Alessandro Parente",
+    "Alessandro Stagni",
+    "Alberto Cuoci"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/P8c8c05b2bc",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2019.09.010",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2019.09.010",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "gdalessi/adaptiveChemistry",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "391004914401dc2f887c280640a898f88041d7c9",
+    "license": "not_located",
+    "package_id": "gdalessi__adaptiveChemistry",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "gdalessi/adaptiveChemistry",
+    "category": "01_chemistry_kinetics",
+    "subcategory": "01_surrogates_reduction",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "将热化学组成空间分区并配置局部缩减机理，降低 CFD 化学计算量。",
+    "method": "README 的 How to cite 明确列本文题名和卷页，说明实现 OpenFOAM 求解器的在线分类与自适应化学配置；分类器和局部机理构建需与原文对照。",
+    "entry": "SPARC 对 laminarSMOKE/edcSMOKE 的扩展；先建立传统化学基准，再查看组成空间分类和局部机理选择接口。",
+    "dependencies": "OpenFOAM、laminarSMOKE/edcSMOKE、所需缩减机理及分类器；OpenMORe 是相关降阶工具，版本应单独固定。",
+    "evaluation": "比较分类开销、机理切换、点火/火焰特性与 CFD 总耗时；在未见热化学区域记录回退与失败。",
+    "limitations": "未定位许可证，只保留固定链接。预分区误差与局部机理误差需要分开归因。"
+  }
+}

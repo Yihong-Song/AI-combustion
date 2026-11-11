@@ -1,0 +1,5 @@
+{
+  "title_query": "Hard-constrained neural networks for modelling nonlinear acoustics",
+  "retrieved_at": "2026-11-11T16:51:29.736949+00:00",
+  "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Hard-constrained+neural+networks+for+modelling+nonlinear+acoustics&rows=3&filter=type%3Ajournal-article"
+}

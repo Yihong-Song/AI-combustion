@@ -1,0 +1,36 @@
+{
+  "journal": "International Journal of Engine Research",
+  "retrieved_at": "2026-11-11T16:58:42.634166+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=International+Journal+of+Engine+Research",
+  "page_title": "LetPub - Scientific Journal Selector | International Journal of Engine Research - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/3727",
+  "journal_id": "3727",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, MECHANICAL SCIE Q3 103/184 Category: THERMODYNAMICS SCIE Q3 48/78 Category: TRANSPORTATION SCIENCE & TECHNOLOGY SCIE Q3 52/80",
+  "categories": [
+    {
+      "category": "ENGINEERING, MECHANICAL",
+      "collection": "SCIE",
+      "quartile": "Q3",
+      "rank": "103/184"
+    },
+    {
+      "category": "THERMODYNAMICS",
+      "collection": "SCIE",
+      "quartile": "Q3",
+      "rank": "48/78"
+    },
+    {
+      "category": "TRANSPORTATION SCIENCE & TECHNOLOGY",
+      "collection": "SCIE",
+      "quartile": "Q3",
+      "rank": "52/80"
+    }
+  ],
+  "reported_best_quartile": "Q3"
+}

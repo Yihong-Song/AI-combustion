@@ -1,0 +1,14 @@
+{
+  "repository": "lucvervisch/ORCh_2022",
+  "url": "https://github.com/lucvervisch/ORCh_2022",
+  "retrieved_at": "2026-11-11T16:48:47.940564+00:00",
+  "commit": "fac955cc7f3af611ed2997ca5ac7519c7bf9d285",
+  "readme_path": "evidence/upstream/lucvervisch__ORCh_2022.readme.txt",
+  "readme_url": "https://github.com/lucvervisch/ORCh_2022/blob/fac955cc7f3af611ed2997ca5ac7519c7bf9d285/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/lucvervisch__ORCh_2022.license.txt",
+  "license_url": "https://github.com/lucvervisch/ORCh_2022/blob/fac955cc7f3af611ed2997ca5ac7519c7bf9d285/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "BSD-3-Clause",
+  "api_checked_at": "2026-11-11T16:49:16.657252+00:00"
+}

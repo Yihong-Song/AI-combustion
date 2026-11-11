@@ -147,7 +147,26 @@ def main():
     near(mae / (max(truth) - min(truth)), metrics["mae_divided_by_reference_range"], "C01 normalized MAE")
     near(math.sqrt(sum(error * error for error in errors) / sum(value * value for value in truth)), metrics["relative_L2_error"], "C01 relative L2")
     near(max(abs(error) for error in errors), metrics["max_absolute_error_W_m3"], "C01 max error")
+    predictions = rows("reproductions/C02_flamepinn_case1/results/seed42/predictions.csv")
+    metrics = load("reproductions/C02_flamepinn_case1/results/metrics.json")
+    check(len(predictions) == metrics["evaluation_points"], "C02 prediction point count", "metrics")
+    for field, values in metrics["fields"].items():
+        truth = [float(row[field + "_reference"]) for row in predictions]
+        errors = [float(row[field + "_pinn"]) - actual for row, actual in zip(predictions, truth)]
+        near(math.sqrt(sum(error * error for error in errors) / sum(value * value for value in truth)), values["relative_L2"], "C02 " + field + " L2")
+        near(sum(abs(error) for error in errors) / len(errors), values["mae"], "C02 " + field + " MAE")
+    upstream_text = (ROOT / "reproductions/C02_flamepinn_case1/results/seed42/metrics.txt").read_text(encoding="utf-8")
+    speed_error = float(re.search(r"^relative error:\s+([-+0-9.eE]+)%", upstream_text, re.M).group(1)) / 100
+    near(speed_error, metrics["sL_relative_error_from_upstream_summary"], "C02 speed summary")
+    check(not metrics["strict_q1_accepted"] and not metrics["paper_metrics_reproduced"], "C02 full-paper status overstated", "catalog")
+    check(not any(re.search(r"wildfire|wildland|forest.fire|satellite|remote.sens|global.fire", paper["title"], re.I) for paper in papers), "out-of-scope wildfire paper", "catalog")
+    queue = load("reproductions/target_100_q1/queue.json")
+    check(len({item["doi"] for item in queue}) == len(queue), "queue DOI duplicates", "catalog")
+    check(not any(item["accepted_q1_reproduction"] for item in queue), "unverified accepted reproduction", "catalog")
+    open_stats = load("catalog/open_work_stats.json")
+    check(open_stats["reviewed_paper_links"] == stats["reviewed_paper_code_links"], "open work index counts", "catalog")
     report = {"date": "2026-11-11", "status": "passed" if not failures else "failed", "scope": "Local catalog consistency, relative Markdown file targets, source/archive/license hashes, source compilation, token patterns, independent recomputation of saved prediction metrics. Does not validate external URLs, full-text claims, official JCR, original-paper metrics, or B02 differential residual from saved CSV.", "candidate_papers": len(papers), "packages": len(packages), "files_inspected": len(paths), "checks": dict(checks), "failures": failures}
+    report["date"] = "2026-11-12"
     (ROOT / "evidence/validation.json").write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(json.dumps(report, ensure_ascii=False, indent=2))
     if failures:

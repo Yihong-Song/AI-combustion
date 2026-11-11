@@ -1,0 +1,23 @@
+{
+  "title_query": "Robust Identification of Flame Frequency Response via Multi-Fidelity Gaussian Process Approach",
+  "retrieved_at": "2026-11-11T16:54:29.380583+00:00",
+  "url": "https://api.crossref.org/works?query.title=Robust+Identification+of+Flame+Frequency+Response+via+Multi-Fidelity+Gaussian+Process+Approach&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.jsv.2021.116083",
+      "title": "Robust identification of flame frequency response via multi-fidelity Gaussian process approach",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1613/jair.1.11288",
+      "title": "Multi-fidelity Gaussian Process Bandit Optimisation",
+      "score": 0.4806201550387597
+    },
+    {
+      "doi": "10.1007/s11044-026-10168-3",
+      "title": "Robust multi-body system parameter identification via the enhanced response sensitivity approach",
+      "score": 0.5595238095238095
+    }
+  ],
+  "matched_doi": "10.1016/j.jsv.2021.116083"
+}

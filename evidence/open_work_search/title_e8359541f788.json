@@ -1,0 +1,23 @@
+{
+  "title_query": "DFODE-kit: Deep learning package for solving Flame chemical kinetics with high-dimensional stiff Ordinary Differential Equations",
+  "retrieved_at": "2026-11-11T16:51:28.117338+00:00",
+  "url": "https://api.crossref.org/works?query.title=DFODE-kit%3A+Deep+learning+package+for+solving+Flame+chemical+kinetics+with+high-dimensional+stiff+Ordinary+Differential+Equations&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.cpc.2025.110013",
+      "title": "DFODE-Kit: Deep learning package for solving flame chemical kinetics with high-dimensional stiff ordinary differential equations",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1080/00207160410001661744",
+      "title": "Explicit methods in solving stiff ordinary differential equations",
+      "score": 0.5325443786982249
+    },
+    {
+      "doi": "10.1073/pnas.1718942115",
+      "title": "Solving high-dimensional partial differential equations using deep learning",
+      "score": 0.5168539325842697
+    }
+  ],
+  "matched_doi": "10.1016/j.cpc.2025.110013"
+}

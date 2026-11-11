@@ -1,0 +1,23 @@
+{
+  "title_query": "Data-driven computation of adjoint sensitivities without adjoint solvers: An application to thermoacoustics",
+  "retrieved_at": "2026-11-11T16:53:05.532303+00:00",
+  "url": "https://api.crossref.org/works?query.title=Data-driven+computation+of+adjoint+sensitivities+without+adjoint+solvers%3A+An+application+to+thermoacoustics&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1103/physrevfluids.9.103902",
+      "title": "Data-driven computation of adjoint sensitivities without adjoint solvers: An application to thermoacoustics",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1115/1.4042821",
+      "title": "Adjoint Methods as Design Tools in Thermoacoustics",
+      "score": 0.4782608695652174
+    },
+    {
+      "doi": "10.2514/1.29123",
+      "title": "ADjoint: An Approach for the Rapid Development of Discrete Adjoint Solvers",
+      "score": 0.33121019108280253
+    }
+  ],
+  "matched_doi": "10.1103/physrevfluids.9.103902"
+}

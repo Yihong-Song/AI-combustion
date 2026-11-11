@@ -66,13 +66,17 @@ def main():
     included = []
     exclusions = []
     curated = json.loads((ROOT / "literature/curation.json").read_text(encoding="utf-8"))
+    curated.update(json.loads((ROOT / "literature/open_work_additions.json").read_text(encoding="utf-8")))
+    extra_journals = {"computer methods in applied mechanics and engineering", "engineering applications of artificial intelligence", "journal of sound and vibration", "international journal of engine research", "chaos: an interdisciplinary journal of nonlinear science", "data-centric engineering"}
     for doi, item in sorted(items.items()):
         title = re.sub(r"\s+", " ", html.unescape(re.sub("<[^>]+>", "", item.get("title", [""])[0]))).strip()
         journal = html.unescape(item.get("container-title", [""])[0])
         year = item.get("published", {}).get("date-parts", [[0]])[0][0]
         if re.search(r"fuel.cell|proton.exchange.membrane|post.combustion.*capture|post.combustion.carbon|heat.transformer|transformer.oil|hydrogen.*production|fuel.production|wind.driven.green|lipid.production|electricity,.cooling,.and.desalinated|iron.from.copper.slag|thermoacoustic.core|hydrodenitrogenation|hydrodesulfurization|\bhydrocrack", title, re.I):
             reason = "adjacent_energy_topic_outside_combustion_ai_scope"
-        elif journal.lower() not in JOURNALS:
+        elif re.search(r"wildfire|wildland|forest.fire|vegetation.fire|landscape.fire|burned.area|burnt.area|satellite|remote.sens|global.fire", title, re.I):
+            reason = "excluded_landscape_wildfire_or_remote_sensing_by_user_scope"
+        elif journal.lower() not in JOURNALS and journal.lower() not in extra_journals:
             reason = "journal_outside_current_screening_list"
         elif not AI.search(title) and doi not in curated:
             reason = "no_explicit_ai_method_in_title"

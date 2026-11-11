@@ -133,6 +133,19 @@
     "reported_best_quartile": "Q1"
   },
   {
+    "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+    "retrieved_at": "2026-11-11T16:58:45.481020+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Chaos%3A+An+Interdisciplinary+Journal+of+Nonlinear+Science",
+    "error": "Exact journal match not located in LetPub search",
+    "categories": [],
+    "reported_best_quartile": null
+  },
+  {
     "journal": "Chemical Engineering Journal",
     "retrieved_at": "2026-11-11T12:40:52.780562+00:00",
     "source_type": "secondary_crowdsourced_letpub",
@@ -302,6 +315,42 @@
     "reported_best_quartile": null
   },
   {
+    "journal": "Computer Methods in Applied Mechanics and Engineering",
+    "retrieved_at": "2026-11-11T16:58:33.991024+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Computer+Methods+in+Applied+Mechanics+and+Engineering",
+    "page_title": "LetPub - Scientific Journal Selector | COMPUTER METHODS IN APPLIED MECHANICS AND ENGINEERING - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/1988",
+    "journal_id": "1988",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, MULTIDISCIPLINARY SCIE Q1 7/179 Category: MATHEMATICS, INTERDISCIPLINARY APPLICATIONS SCIE Q1 3/137 Category: MECHANICS SCIE Q1 9/172",
+    "categories": [
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "7/179"
+      },
+      {
+        "category": "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "3/137"
+      },
+      {
+        "category": "MECHANICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "9/172"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
     "journal": "Energy",
     "retrieved_at": "2026-11-11T12:43:58.884427+00:00",
     "source_type": "secondary_crowdsourced_letpub",
@@ -376,6 +425,48 @@
         "collection": "SCIE",
         "quartile": "Q1",
         "rank": "45/183"
+      }
+    ],
+    "reported_best_quartile": "Q1"
+  },
+  {
+    "journal": "Engineering Applications of Artificial Intelligence",
+    "retrieved_at": "2026-11-11T16:58:36.933738+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Engineering+Applications+of+Artificial+Intelligence",
+    "page_title": "LetPub - Scientific Journal Selector | ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/2513",
+    "journal_id": "2513",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: AUTOMATION & CONTROL SYSTEMS SCIE Q1 9/88 Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE SCIE Q1 30/210 Category: ENGINEERING, ELECTRICAL & ELECTRONIC SCIE Q1 28/370 Category: ENGINEERING, MULTIDISCIPLINARY SCIE Q1 6/179",
+    "categories": [
+      {
+        "category": "AUTOMATION & CONTROL SYSTEMS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "9/88"
+      },
+      {
+        "category": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "30/210"
+      },
+      {
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "28/370"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "6/179"
       }
     ],
     "reported_best_quartile": "Q1"
@@ -488,6 +579,42 @@
     "reported_best_quartile": "Q1"
   },
   {
+    "journal": "International Journal of Engine Research",
+    "retrieved_at": "2026-11-11T16:58:42.634166+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=International+Journal+of+Engine+Research",
+    "page_title": "LetPub - Scientific Journal Selector | International Journal of Engine Research - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/3727",
+    "journal_id": "3727",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ENGINEERING, MECHANICAL SCIE Q3 103/184 Category: THERMODYNAMICS SCIE Q3 48/78 Category: TRANSPORTATION SCIENCE & TECHNOLOGY SCIE Q3 52/80",
+    "categories": [
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "103/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "48/78"
+      },
+      {
+        "category": "TRANSPORTATION SCIENCE & TECHNOLOGY",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "52/80"
+      }
+    ],
+    "reported_best_quartile": "Q3"
+  },
+  {
     "journal": "International Journal of Hydrogen Energy",
     "retrieved_at": "2026-11-11T12:44:05.568893+00:00",
     "source_type": "secondary_crowdsourced_letpub",
@@ -548,6 +675,42 @@
     "error": "Exact journal match not located in LetPub search",
     "categories": [],
     "reported_best_quartile": null
+  },
+  {
+    "journal": "Journal of Sound and Vibration",
+    "retrieved_at": "2026-11-11T16:58:39.927920+00:00",
+    "source_type": "secondary_crowdsourced_letpub",
+    "jcr_edition": null,
+    "jif_year": null,
+    "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+    "officially_verified": false,
+    "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Journal+of+Sound+and+Vibration",
+    "page_title": "LetPub - Scientific Journal Selector | JOURNAL OF SOUND AND VIBRATION - Review, Submission, Impact Factor, Acceptance, Speed",
+    "source_url": "https://www.letpub.com/journal-selector/journal/5164",
+    "journal_id": "5164",
+    "identity_in_page": true,
+    "jif_evidence_text": "Collection Quartile Rank Percentage Category: ACOUSTICS SCIE Q1 2/41 Category: ENGINEERING, MECHANICAL SCIE Q1 26/184 Category: MECHANICS SCIE Q1 19/172",
+    "categories": [
+      {
+        "category": "ACOUSTICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "2/41"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "26/184"
+      },
+      {
+        "category": "MECHANICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "19/172"
+      }
+    ],
+    "reported_best_quartile": "Q1"
   },
   {
     "journal": "Measurement",

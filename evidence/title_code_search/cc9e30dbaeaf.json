@@ -1,0 +1,18 @@
+{
+  "doi": "10.1016/j.proci.2026.106482",
+  "title": "Data-driven model for reduced combustion chemistry via Bayesian Optimization",
+  "query": "\"Data-driven model for reduced combustion chemistry via Bayesian Optimization\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:47:05.121288+00:00",
+  "total_count": 1,
+  "items": [
+    {
+      "full_name": "Adrivero/Adrivero",
+      "html_url": "https://github.com/Adrivero/Adrivero",
+      "description": null,
+      "license": null,
+      "size": 17,
+      "fork": false
+    }
+  ]
+}

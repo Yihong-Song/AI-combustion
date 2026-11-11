@@ -1,0 +1,11 @@
+{
+  "repository": "MagriLab/real-time-bias-aware-DA",
+  "url": "https://github.com/MagriLab/real-time-bias-aware-DA",
+  "retrieved_at": "2026-11-11T16:48:47.938028+00:00",
+  "commit": "c7230788ba7458c40fb9899f1f3a2b3853468182",
+  "readme_path": "evidence/upstream/MagriLab__real-time-bias-aware-DA.readme.txt",
+  "readme_url": "https://github.com/MagriLab/real-time-bias-aware-DA/blob/c7230788ba7458c40fb9899f1f3a2b3853468182/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api_or_root_tree",
+  "api_checked_at": "2026-11-11T16:49:08.141832+00:00"
+}

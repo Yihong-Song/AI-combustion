@@ -1,0 +1,14 @@
+{
+  "repository": "DENG-MIT/CRNN-PINN.jl",
+  "url": "https://github.com/DENG-MIT/CRNN-PINN.jl",
+  "retrieved_at": "2026-11-11T16:47:41.706137+00:00",
+  "commit": "921e5e3b7721612eda548398f9569c2b8e35dc62",
+  "readme_path": "evidence/upstream/DENG-MIT__CRNN-PINN.jl.readme.txt",
+  "readme_url": "https://github.com/DENG-MIT/CRNN-PINN.jl/blob/921e5e3b7721612eda548398f9569c2b8e35dc62/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/DENG-MIT__CRNN-PINN.jl.license.txt",
+  "license_url": "https://github.com/DENG-MIT/CRNN-PINN.jl/blob/921e5e3b7721612eda548398f9569c2b8e35dc62/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:48:08.032224+00:00"
+}

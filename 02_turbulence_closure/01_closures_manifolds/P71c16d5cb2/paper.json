@@ -1,0 +1,82 @@
+{
+  "id": "P71c16d5cb2",
+  "doi": "10.1016/j.engappai.2024.109821",
+  "title": "a priori uncertainty quantification of reacting turbulence closure models using Bayesian neural networks",
+  "year": 2025,
+  "journal": "Engineering Applications of Artificial Intelligence",
+  "authors": [
+    "Graham Pash",
+    "Malik Hassanaly",
+    "Shashank Yellapantula"
+  ],
+  "category": "02_turbulence_closure",
+  "subcategory": "01_closures_manifolds",
+  "path": "02_turbulence_closure/01_closures_manifolds/P71c16d5cb2",
+  "doi_url": "https://doi.org/10.1016/j.engappai.2024.109821",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.engappai.2024.109821",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "AUTOMATION & CONTROL SYSTEMS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "9/88"
+      },
+      {
+        "category": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "30/210"
+      },
+      {
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "28/370"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "6/179"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/2513",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "NatLabRockies/mluq-prop",
+    "relationship": "title_match_repository_readme",
+    "commit": "a4e0ae008fc6edb343967388bab5c7166dd98944",
+    "license": "BSD-3-Clause-Clear",
+    "package_id": "NatLabRockies__mluq-prop",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "NatLabRockies/mluq-prop",
+    "category": "02_turbulence_closure",
+    "subcategory": "01_closures_manifolds",
+    "relationship": "title_match_repository_readme",
+    "problem": "用贝叶斯神经网络估计预混湍流闭合预测及认知/随机不确定度。",
+    "method": "README 引用 arXiv:2402.18729，题名与 Crossref 期刊版一致；明确以亚滤波进度变量耗散率为目标。保留预印本到正式版配置核对待办。",
+    "entry": "从项目安装和模型/训练配置开始，核对变分推断、网络参数分布与预测采样；Python 3.10 环境为上游建议。",
+    "dependencies": "项目 Python 依赖与 HPC/MPI 配置需依固定提交核查；预混 DNS 数据及预处理不因源码可见而视为齐备。",
+    "evaluation": "除均方误差外，比较预测区间覆盖、校准、域外不确定度与区间宽度；按独立火焰和滤波尺度划分。",
+    "limitations": "BSD-3-Clause-Clear；先验不确定度表现不能直接证明后验 LES 安全或模型已校准。"
+  }
+}

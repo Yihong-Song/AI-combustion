@@ -1,0 +1,429 @@
+{
+  "query": "combustion \"differentiable\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:47:02.675102+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 572,
+  "url": "https://api.github.com/search/repositories?q=combustion+%22differentiable%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "DENG-MIT/Arrhenius.jl",
+      "description": "Differentiable Reacting Flow Modeling Software",
+      "html_url": "https://github.com/DENG-MIT/Arrhenius.jl",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 7877,
+      "fork": false,
+      "updated_at": "2026-10-20T07:34:45Z"
+    },
+    {
+      "full_name": "Autodesk/XLB",
+      "description": "XLB: Accelerated Lattice Boltzmann (XLB) for Physics-based ML",
+      "html_url": "https://github.com/Autodesk/XLB",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 76876,
+      "fork": false,
+      "updated_at": "2026-11-10T14:30:54Z"
+    },
+    {
+      "full_name": "pyrometheus/pyrometheus",
+      "description": "Code generation for thermochemistry",
+      "html_url": "https://github.com/pyrometheus/pyrometheus",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 1523,
+      "fork": false,
+      "updated_at": "2026-11-09T16:18:14Z"
+    },
+    {
+      "full_name": "Mohamedelrefaie/DrivAerNet",
+      "description": "A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks",
+      "html_url": "https://github.com/Mohamedelrefaie/DrivAerNet",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 1018,
+      "fork": false,
+      "updated_at": "2026-11-11T15:51:29Z"
+    },
+    {
+      "full_name": "DAFoam/OpenFOAM-v1812-AD",
+      "description": "Automatic differentiation of OpenFOAM source code in forward and reverse modes",
+      "html_url": "https://github.com/DAFoam/OpenFOAM-v1812-AD",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 71353,
+      "fork": false,
+      "updated_at": "2026-09-22T06:05:30Z"
+    },
+    {
+      "full_name": "AllinSim/JANC",
+      "description": "A fully-differentiable compressible reacting flow solver based on JAX-AMR",
+      "html_url": "https://github.com/AllinSim/JANC",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 23884,
+      "fork": false,
+      "updated_at": "2026-09-23T05:11:38Z"
+    },
+    {
+      "full_name": "thw1021/Code4CFD",
+      "description": "A curated list of repositories related to fluid dynamics.",
+      "html_url": "https://github.com/thw1021/Code4CFD",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 135,
+      "fork": false,
+      "updated_at": "2026-10-24T03:07:28Z"
+    },
+    {
+      "full_name": "kimimgo/awesome-ai-cae",
+      "description": "A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers.",
+      "html_url": "https://github.com/kimimgo/awesome-ai-cae",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 1961,
+      "fork": false,
+      "updated_at": "2026-11-10T07:23:00Z"
+    },
+    {
+      "full_name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "html_url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 69,
+      "fork": false,
+      "updated_at": "2026-11-04T13:01:27Z"
+    },
+    {
+      "full_name": "uxlfoundation/awesome-oneapi",
+      "description": "An Awesome list of oneAPI projects",
+      "html_url": "https://github.com/uxlfoundation/awesome-oneapi",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 311,
+      "fork": false,
+      "updated_at": "2026-10-07T17:06:27Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "rdoerfler/ptr-model",
+      "description": "This repository contains the implementation and trained models for the  Pulse-Train-Resonator (PTR), a deep learning architecture for engine sound  synthesis that directly models combustion pressure pulses and exhaust  propagation through differentiable synthesis components.",
+      "html_url": "https://github.com/rdoerfler/ptr-model",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 49,
+      "fork": false,
+      "updated_at": "2026-10-06T20:10:33Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-pinns",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 507,
+      "fork": false,
+      "updated_at": "2026-11-11T05:40:41Z"
+    },
+    {
+      "full_name": "DLR-Institute-of-Future-Fuels/gaspype",
+      "description": "Performant library for thermodynamic calculations and equilibrium reactions",
+      "html_url": "https://github.com/DLR-Institute-of-Future-Fuels/gaspype",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 698,
+      "fork": false,
+      "updated_at": "2026-11-09T13:47:02Z"
+    },
+    {
+      "full_name": "comocheng/jax-reactor",
+      "description": "Differentiable and hardware accelerated chemical kinetics simulations in python using JAX",
+      "html_url": "https://github.com/comocheng/jax-reactor",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 291,
+      "fork": false,
+      "updated_at": "2024-10-15T12:12:27Z"
+    },
+    {
+      "full_name": "DENG-MIT/ArrheniusActiveSubspace",
+      "description": "Use Arrhenius.jl to compute active subspace",
+      "html_url": "https://github.com/DENG-MIT/ArrheniusActiveSubspace",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 15456,
+      "fork": false,
+      "updated_at": "2025-03-08T20:59:42Z"
+    },
+    {
+      "full_name": "looms-polimi/SOFCPoliMi",
+      "description": "Modelica models of Solid Oxyde Fuel Cells developed at Politecnico di Milano",
+      "html_url": "https://github.com/looms-polimi/SOFCPoliMi",
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "size": 230,
+      "fork": false,
+      "updated_at": "2026-11-07T18:19:14Z"
+    },
+    {
+      "full_name": "EvertBunschoten/MLPCpp",
+      "description": "Multi-layer perceptron organization and evaluation algorithm",
+      "html_url": "https://github.com/EvertBunschoten/MLPCpp",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 7383,
+      "fork": false,
+      "updated_at": "2026-08-23T12:37:49Z"
+    },
+    {
+      "full_name": "Weihu22/Neural-Implicit-Reconstruction-for-BOS",
+      "description": null,
+      "html_url": "https://github.com/Weihu22/Neural-Implicit-Reconstruction-for-BOS",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 482672,
+      "fork": false,
+      "updated_at": "2026-08-30T02:09:52Z"
+    },
+    {
+      "full_name": "Sain-Kai/ForeSight",
+      "description": "A comprehensive physics-informed machine learning framework for predicting laminar-to-turbulent transition in hypersonic flows. This repository combines traditional stability analysis with modern deep learning techniques to accurately estimate critical transition parameters for aerospace vehicle design.",
+      "html_url": "https://github.com/Sain-Kai/ForeSight",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 14913,
+      "fork": false,
+      "updated_at": "2026-11-11T13:21:20Z"
+    },
+    {
+      "full_name": "m-kulichenko/DFTorch",
+      "description": null,
+      "html_url": "https://github.com/m-kulichenko/DFTorch",
+      "license": null,
+      "size": 135897,
+      "fork": false,
+      "updated_at": "2026-10-01T22:08:56Z"
+    },
+    {
+      "full_name": "Yuan-ManX/audio-development-tools",
+      "description": "Audio Development Tools (ADT) is a project for advancing sound, speech, and music technologies, featuring components for machine learning, sound synthesis, speech and music generation, signal processing, game audio, digital audio workstations (DAWs), and more.",
+      "html_url": "https://github.com/Yuan-ManX/audio-development-tools",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 926,
+      "fork": false,
+      "updated_at": "2026-10-24T20:44:30Z"
+    },
+    {
+      "full_name": "Sounio-lang/sounio",
+      "description": "An epistemic systems language for scientific computing — uncertainty, units and effects, with a self-hosted compiler and libraries spanning physics, pharmacology and quantum computing.",
+      "html_url": "https://github.com/Sounio-lang/sounio",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 1777733,
+      "fork": false,
+      "updated_at": "2026-11-10T21:56:23Z"
+    },
+    {
+      "full_name": "QuantGenAIPhr34kW1z/minotaur",
+      "description": "MINOTAUR is a deterministic numerical framework for reduced-order modeling of compact low-bypass turbofan cycles operating in constrained subsonic regimes. The framework emphasizes physical admissibility, conservation-law invariants, and bitwise reproducibility",
+      "html_url": "https://github.com/QuantGenAIPhr34kW1z/minotaur",
+      "license": null,
+      "size": 119,
+      "fork": false,
+      "updated_at": "2026-01-26T13:21:17Z"
+    },
+    {
+      "full_name": "Beliavsky/Fortran-code-on-GitHub",
+      "description": "Directory of Fortran codes on GitHub, arranged by topic",
+      "html_url": "https://github.com/Beliavsky/Fortran-code-on-GitHub",
+      "license": {
+        "key": "unlicense",
+        "name": "The Unlicense",
+        "spdx_id": "Unlicense",
+        "url": "https://api.github.com/licenses/unlicense",
+        "node_id": "MDc6TGljZW5zZTE1"
+      },
+      "size": 9099,
+      "fork": false,
+      "updated_at": "2026-11-11T12:36:26Z"
+    },
+    {
+      "full_name": "estebanlabrador/Combustion",
+      "description": null,
+      "html_url": "https://github.com/estebanlabrador/Combustion",
+      "license": null,
+      "size": 577,
+      "fork": false,
+      "updated_at": "2025-05-23T17:50:34Z"
+    },
+    {
+      "full_name": "eetongsu/SafeRL-Power-System",
+      "description": "A Review of Safe Reinforcement Learning Methods for Modern Power Systems",
+      "html_url": "https://github.com/eetongsu/SafeRL-Power-System",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 274,
+      "fork": false,
+      "updated_at": "2026-10-31T16:38:46Z"
+    },
+    {
+      "full_name": "lizhihao2022/Awesome-AI4PDE",
+      "description": "Awesome AI4PDE is a curated list of resources and literature focusing on the intersection of Artificial Intelligence and Partial Differential Equations (PDEs).",
+      "html_url": "https://github.com/lizhihao2022/Awesome-AI4PDE",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 359,
+      "fork": false,
+      "updated_at": "2026-11-08T14:40:02Z"
+    },
+    {
+      "full_name": "MartinsAwojide/Process-System-Engineering-Catalogue",
+      "description": "Catalogue of Articles, Projects, Papers and Resources relating to PSE",
+      "html_url": "https://github.com/MartinsAwojide/Process-System-Engineering-Catalogue",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 117,
+      "fork": false,
+      "updated_at": "2026-06-16T20:59:46Z"
+    }
+  ]
+}

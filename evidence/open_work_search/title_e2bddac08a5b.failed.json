@@ -1,0 +1,5 @@
+{
+  "title_query": "Data-based instantaneous conditional progress variable dissipation rate modeling for turbulent premixed combustion",
+  "retrieved_at": "2026-11-11T16:51:39.318153+00:00",
+  "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Data-based+instantaneous+conditional+progress+variable+dissipation+rate+modeling+for+turbulent+premixed+combustion&rows=3&filter=type%3Ajournal-article"
+}

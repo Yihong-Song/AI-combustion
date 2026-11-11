@@ -1,0 +1,89 @@
+{
+  "id": "P2fc75bd437",
+  "doi": "10.1016/j.combustflame.2023.113139",
+  "title": "Data-based instantaneous conditional progress variable dissipation rate modeling for turbulent premixed combustion",
+  "year": 2024,
+  "journal": "Combustion and Flame",
+  "authors": [
+    "Cristian E. Lacey",
+    "Katie VanderKam",
+    "Sankaran Sundaresan",
+    "Michael E. Mueller"
+  ],
+  "category": "02_turbulence_closure",
+  "subcategory": "01_closures_manifolds",
+  "path": "02_turbulence_closure/01_closures_manifolds/P2fc75bd437",
+  "doi_url": "https://doi.org/10.1016/j.combustflame.2023.113139",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2023.113139",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "77/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "48/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "23/184"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "20/179"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "12/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "cristianlacey/data-based-dissipation-rates",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "ed1700e5cb5fcbfbd5bdcd48e615f6c3e9f9445d",
+    "license": "BSD-3-Clause-Clear",
+    "package_id": "cristianlacey__data-based-dissipation-rates",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "cristianlacey/data-based-dissipation-rates",
+    "category": "02_turbulence_closure",
+    "subcategory": "01_closures_manifolds",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "在预混湍流流形模型中预测瞬时条件进度变量耗散率剖面。",
+    "method": "README 明确给出作者、题名、Combustion and Flame 卷和文章号，模型输出进度变量空间中 32 点归一化耗散率剖面；输入为滤波进度变量、方差、梯度、应变和其他局部量。",
+    "entry": "先从 tf-gpu.yml 建立旧环境；依 README 的输入列名对齐特征，核对归一化参考点 Lambda_ref=0.5 与模型输出变换。",
+    "dependencies": "Python、TensorFlow 2.4.1 和固定 Anaconda 环境；训练 DNS 数据、模型文件与特征生成需分别清点。",
+    "evaluation": "跨滤波尺度、湍流条件及火焰工况留出；比较剖面与积分误差、条件平均和后验稳定性，避免随机拆分相邻 DNS 体素。",
+    "limitations": "Clear BSD 许可，包含不授予专利权的条款，保留原文；未执行模型。"
+  }
+}

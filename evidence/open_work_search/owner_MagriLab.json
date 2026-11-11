@@ -1,0 +1,358 @@
+{
+  "owner": "MagriLab",
+  "retrieved_at": "2026-11-11T16:47:13.985658+00:00",
+  "items": [
+    {
+      "full_name": "MagriLab/Real-time-TA-DA",
+      "description": "Real-time thermoacoustics data assimilation",
+      "html_url": "https://github.com/MagriLab/Real-time-TA-DA",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 119527
+    },
+    {
+      "full_name": "MagriLab/clvlib",
+      "description": "Library for computing Lyapunov exponents and covariant Lyapunov vectors.",
+      "html_url": "https://github.com/MagriLab/clvlib",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 7522
+    },
+    {
+      "full_name": "MagriLab/EchoStateNetwork",
+      "description": "Explore Echo State Networks (ESNs) with a comprehensive implementation, validation code, and step-by-step tutorial.",
+      "html_url": "https://github.com/MagriLab/EchoStateNetwork",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1255
+    },
+    {
+      "full_name": "MagriLab/Tutorials",
+      "description": "Tutorials: Predictions in Chaotic Dynamical Systems ",
+      "html_url": "https://github.com/MagriLab/Tutorials",
+      "fork": false,
+      "license": null,
+      "size": 6348
+    },
+    {
+      "full_name": "MagriLab/FlowReconstructionFromExperiment",
+      "description": "Flow reconstruction from experimental data with machine learning.",
+      "html_url": "https://github.com/MagriLab/FlowReconstructionFromExperiment",
+      "fork": false,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 97311
+    },
+    {
+      "full_name": "MagriLab/OptimalTraining_RFQRC",
+      "description": "Implementation of Recurrence-free QRC with denoising for optimal training",
+      "html_url": "https://github.com/MagriLab/OptimalTraining_RFQRC",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3848
+    },
+    {
+      "full_name": "MagriLab/DA-CAE-ESN",
+      "description": null,
+      "html_url": "https://github.com/MagriLab/DA-CAE-ESN",
+      "fork": false,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 25933
+    },
+    {
+      "full_name": "MagriLab/DA-RL",
+      "description": null,
+      "html_url": "https://github.com/MagriLab/DA-RL",
+      "fork": false,
+      "license": null,
+      "size": 104759
+    },
+    {
+      "full_name": "MagriLab/Extreme-events-dataset",
+      "description": null,
+      "html_url": "https://github.com/MagriLab/Extreme-events-dataset",
+      "fork": false,
+      "license": null,
+      "size": 73885
+    },
+    {
+      "full_name": "MagriLab/Stability_QRC_GS",
+      "description": "Robust QRCs with generalized synchronization",
+      "html_url": "https://github.com/MagriLab/Stability_QRC_GS",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 8359
+    },
+    {
+      "full_name": "MagriLab/KolSol",
+      "description": "Pseudospectral Kolmogorov Flow Solver",
+      "html_url": "https://github.com/MagriLab/KolSol",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 468
+    },
+    {
+      "full_name": "MagriLab/LatentStability",
+      "description": "Learning the stability properties of dissipative systems in the latent manifold. ",
+      "html_url": "https://github.com/MagriLab/LatentStability",
+      "fork": false,
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 15835
+    },
+    {
+      "full_name": "MagriLab/PISR",
+      "description": "Physics-Informed Super-Resolution",
+      "html_url": "https://github.com/MagriLab/PISR",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 131
+    },
+    {
+      "full_name": "MagriLab/CAE-ESN-Kolmogorov",
+      "description": "Implementation of the convolutional autoencoder echo state netowrk (CAE-ESN) applied to the Kolmogorov flow.",
+      "html_url": "https://github.com/MagriLab/CAE-ESN-Kolmogorov",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 67203
+    },
+    {
+      "full_name": "MagriLab/HCTA",
+      "description": "Hard-constrained neural networks for thermoacoustics",
+      "html_url": "https://github.com/MagriLab/HCTA",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 51338
+    },
+    {
+      "full_name": "MagriLab/real-time-bias-aware-DA",
+      "description": null,
+      "html_url": "https://github.com/MagriLab/real-time-bias-aware-DA",
+      "fork": true,
+      "license": null,
+      "size": 735648
+    },
+    {
+      "full_name": "MagriLab/Robust-Validation-ESN",
+      "description": "Validation strategies (including Recycle Validation and K-Fold Validation) for ESNs.  A.Racca and L.Magri, Neural Networks (2021).",
+      "html_url": "https://github.com/MagriLab/Robust-Validation-ESN",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 35024
+    },
+    {
+      "full_name": "MagriLab/ESN-MFE",
+      "description": "Prediction and control of turbulent shear flow with Echo State Networks. A. Racca and L. Magri, Lecture Notes in Computer Science (2022); Physical Review Fluids (2022).",
+      "html_url": "https://github.com/MagriLab/ESN-MFE",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3030
+    },
+    {
+      "full_name": "MagriLab/POLA-LSTM",
+      "description": "Create an LSTM to predict the time evolution of the Lorenz equations",
+      "html_url": "https://github.com/MagriLab/POLA-LSTM",
+      "fork": false,
+      "license": null,
+      "size": 15516481
+    },
+    {
+      "full_name": "MagriLab/.github",
+      "description": null,
+      "html_url": "https://github.com/MagriLab/.github",
+      "fork": false,
+      "license": null,
+      "size": 21
+    },
+    {
+      "full_name": "MagriLab/Adjoint-ESN",
+      "description": null,
+      "html_url": "https://github.com/MagriLab/Adjoint-ESN",
+      "fork": false,
+      "license": null,
+      "size": 173973
+    },
+    {
+      "full_name": "MagriLab/PICR",
+      "description": "Physics-Informed Corruption Removal",
+      "html_url": "https://github.com/MagriLab/PICR",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 786
+    },
+    {
+      "full_name": "MagriLab/rBA-EnKF",
+      "description": null,
+      "html_url": "https://github.com/MagriLab/rBA-EnKF",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 26687
+    },
+    {
+      "full_name": "MagriLab/MD-CNN-AE",
+      "description": "Mode decomposing autoencoder and related.",
+      "html_url": "https://github.com/MagriLab/MD-CNN-AE",
+      "fork": false,
+      "license": null,
+      "size": 224351
+    },
+    {
+      "full_name": "MagriLab/YellowstoneTest",
+      "description": "Quick code to test Yellowstone cluster",
+      "html_url": "https://github.com/MagriLab/YellowstoneTest",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3
+    },
+    {
+      "full_name": "MagriLab/riemax",
+      "description": "Riemannian geometry in JAX",
+      "html_url": "https://github.com/MagriLab/riemax",
+      "fork": true,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 2411
+    },
+    {
+      "full_name": "MagriLab/API-ESN",
+      "description": "Automatic-differentiated Physics-Informed Echo State Network (API-ESN) for the reconstruction of hidden states in dynamical systems.  A.Racca and L.Magri, Lecture Notes in Computer Science (2021).",
+      "html_url": "https://github.com/MagriLab/API-ESN",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 40999
+    },
+    {
+      "full_name": "MagriLab/NewtonWorkshop2023",
+      "description": "Code for the Newton Institute Workshop 2023",
+      "html_url": "https://github.com/MagriLab/NewtonWorkshop2023",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 23119
+    },
+    {
+      "full_name": "MagriLab/IN22-Bias-aware-TADA",
+      "description": "Bias-aware real-time thermoacoustic Data Assimilation. ",
+      "html_url": "https://github.com/MagriLab/IN22-Bias-aware-TADA",
+      "fork": false,
+      "license": null,
+      "size": 56765
+    }
+  ]
+}

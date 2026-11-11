@@ -1,0 +1,14 @@
+{
+  "repository": "deepflame-ai/DFODE-kit",
+  "url": "https://github.com/deepflame-ai/DFODE-kit",
+  "retrieved_at": "2026-11-11T16:47:41.699394+00:00",
+  "commit": "bc65e84bc7644675b9996e3eea08f0d38cbceaad",
+  "readme_path": "evidence/upstream/deepflame-ai__DFODE-kit.readme.txt",
+  "readme_url": "https://github.com/deepflame-ai/DFODE-kit/blob/bc65e84bc7644675b9996e3eea08f0d38cbceaad/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/deepflame-ai__DFODE-kit.license.txt",
+  "license_url": "https://github.com/deepflame-ai/DFODE-kit/blob/bc65e84bc7644675b9996e3eea08f0d38cbceaad/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "GPL-3.0",
+  "api_checked_at": "2026-11-11T16:47:47.862601+00:00"
+}

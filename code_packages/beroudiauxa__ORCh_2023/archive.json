@@ -1,0 +1,11 @@
+{
+  "repository": "beroudiauxa/ORCh_2023",
+  "commit": "1a1b5175078340cbd4585f0ef597a821aa262de4",
+  "source_url": "https://api.github.com/repos/beroudiauxa/ORCh_2023/tarball/1a1b5175078340cbd4585f0ef597a821aa262de4",
+  "retrieved_at": "2026-11-11T16:58:02.975381+00:00",
+  "license": "BSD-3-Clause",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/beroudiauxa/ORCh_2023/legacy.tar.gz/1a1b5175078340cbd4585f0ef597a821aa262de4",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

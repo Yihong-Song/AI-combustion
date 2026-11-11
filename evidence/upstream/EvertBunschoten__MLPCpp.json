@@ -1,0 +1,14 @@
+{
+  "repository": "EvertBunschoten/MLPCpp",
+  "url": "https://github.com/EvertBunschoten/MLPCpp",
+  "retrieved_at": "2026-11-11T16:48:47.938975+00:00",
+  "commit": "d1bf7cded532a48d08e7d09cf117b99f1fc9ac23",
+  "readme_path": "evidence/upstream/EvertBunschoten__MLPCpp.readme.txt",
+  "readme_url": "https://github.com/EvertBunschoten/MLPCpp/blob/d1bf7cded532a48d08e7d09cf117b99f1fc9ac23/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/EvertBunschoten__MLPCpp.license.txt",
+  "license_url": "https://github.com/EvertBunschoten/MLPCpp/blob/d1bf7cded532a48d08e7d09cf117b99f1fc9ac23/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:12.012677+00:00"
+}

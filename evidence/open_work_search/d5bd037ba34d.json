@@ -1,0 +1,105 @@
+{
+  "query": "\"flame transfer\" \"network\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:49:25.004606+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 8,
+  "url": "https://api.github.com/search/repositories?q=%22flame+transfer%22+%22network%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "yybelinda/yybelinda",
+      "description": null,
+      "html_url": "https://github.com/yybelinda/yybelinda",
+      "license": null,
+      "size": 27,
+      "fork": false,
+      "updated_at": "2026-09-21T06:19:32Z"
+    },
+    {
+      "full_name": "yybelinda/thermoacnet",
+      "description": "Thermoacoustic network stability analysis in Python — state-space elements with analytical-anchor verification",
+      "html_url": "https://github.com/yybelinda/thermoacnet",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 23,
+      "fork": false,
+      "updated_at": "2026-09-21T03:12:33Z"
+    },
+    {
+      "full_name": "mohammedbasra-star/thermoacoustic-instability-helmholtz-pinn",
+      "description": null,
+      "html_url": "https://github.com/mohammedbasra-star/thermoacoustic-instability-helmholtz-pinn",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1077,
+      "fork": false,
+      "updated_at": "2026-10-22T19:50:51Z"
+    },
+    {
+      "full_name": "FractonicMind/TernaryMoralLogic",
+      "description": "I've always believed that the hardest problems in AI aren't technical; they're architectural. We keep building systems that can't explain themselves, can't prove their own integrity, can't handle uncertainty without either freezing or lying. And then we act surprised when we don't trust them.",
+      "html_url": "https://github.com/FractonicMind/TernaryMoralLogic",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 889526,
+      "fork": false,
+      "updated_at": "2026-11-03T05:18:21Z"
+    },
+    {
+      "full_name": "romainschapira31/ThermoAcoustic-H2",
+      "description": "Low-order thermoacoustic stability model for premixed CH4/air and H2/air flames",
+      "html_url": "https://github.com/romainschapira31/ThermoAcoustic-H2",
+      "license": null,
+      "size": 785,
+      "fork": false,
+      "updated_at": "2026-10-25T10:12:00Z"
+    },
+    {
+      "full_name": "mohammedbasra-star/mohammedbasra-star",
+      "description": null,
+      "html_url": "https://github.com/mohammedbasra-star/mohammedbasra-star",
+      "license": null,
+      "size": 15,
+      "fork": false,
+      "updated_at": "2026-10-24T17:25:20Z"
+    },
+    {
+      "full_name": "Devihtisham01/AI-Survey-System-For-ecommerce",
+      "description": "Ai survey system for ecommerce",
+      "html_url": "https://github.com/Devihtisham01/AI-Survey-System-For-ecommerce",
+      "license": null,
+      "size": 99,
+      "fork": false,
+      "updated_at": "2025-05-07T19:17:46Z"
+    },
+    {
+      "full_name": "SilvaTML/TML",
+      "description": null,
+      "html_url": "https://github.com/SilvaTML/TML",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 183298,
+      "fork": false,
+      "updated_at": "2025-11-21T21:33:56Z"
+    }
+  ]
+}

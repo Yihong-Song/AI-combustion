@@ -1,0 +1,23 @@
+{
+  "title_query": "Learning dominant physical processes with data-driven balance models",
+  "retrieved_at": "2026-11-11T16:54:03.380530+00:00",
+  "url": "https://api.crossref.org/works?query.title=Learning+dominant+physical+processes+with+data-driven+balance+models&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1038/s41467-021-21331-z",
+      "title": "Learning dominant physical processes with data-driven balance models",
+      "score": 1.0
+    },
+    {
+      "doi": "10.30564/jcsr.v6i4.6984",
+      "title": "Learning Dominant Urban Flows around High-Rise Buildings with Data-Driven Balance Models",
+      "score": 0.7352941176470589
+    },
+    {
+      "doi": "10.1016/j.engappai.2022.105496",
+      "title": "Automated identification of dominant physical processes",
+      "score": 0.509090909090909
+    }
+  ],
+  "matched_doi": "10.1038/s41467-021-21331-z"
+}

@@ -1,0 +1,14 @@
+{
+  "repository": "MagriLab/HCTA",
+  "url": "https://github.com/MagriLab/HCTA",
+  "retrieved_at": "2026-11-11T16:47:41.702074+00:00",
+  "commit": "50bb41720424a732b28f06adf684e593c98fa0c7",
+  "readme_path": "evidence/upstream/MagriLab__HCTA.readme.txt",
+  "readme_url": "https://github.com/MagriLab/HCTA/blob/50bb41720424a732b28f06adf684e593c98fa0c7/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/MagriLab__HCTA.license.txt",
+  "license_url": "https://github.com/MagriLab/HCTA/blob/50bb41720424a732b28f06adf684e593c98fa0c7/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:47:52.626942+00:00"
+}

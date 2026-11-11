@@ -1,0 +1,14 @@
+{
+  "repository": "MagriLab/FlowReconstructionFromExperiment",
+  "url": "https://github.com/MagriLab/FlowReconstructionFromExperiment",
+  "retrieved_at": "2026-11-11T16:47:41.704318+00:00",
+  "commit": "ff1a1ee348933d9d2b59e4bb971f5aacdb4baf97",
+  "readme_path": "evidence/upstream/MagriLab__FlowReconstructionFromExperiment.readme.txt",
+  "readme_url": "https://github.com/MagriLab/FlowReconstructionFromExperiment/blob/ff1a1ee348933d9d2b59e4bb971f5aacdb4baf97/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/MagriLab__FlowReconstructionFromExperiment.license.txt",
+  "license_url": "https://github.com/MagriLab/FlowReconstructionFromExperiment/blob/ff1a1ee348933d9d2b59e4bb971f5aacdb4baf97/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "GPL-3.0",
+  "api_checked_at": "2026-11-11T16:48:02.374489+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "repository": "gdalessi/OpenMORe",
+  "url": "https://github.com/gdalessi/OpenMORe",
+  "retrieved_at": "2026-11-11T16:49:28.649593+00:00",
+  "commit": "101ca4b461f7b25b55cbed05e6724702774eec43",
+  "readme_path": "evidence/upstream/gdalessi__OpenMORe.readme.txt",
+  "readme_url": "https://github.com/gdalessi/OpenMORe/blob/101ca4b461f7b25b55cbed05e6724702774eec43/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/gdalessi__OpenMORe.license.txt",
+  "license_url": "https://github.com/gdalessi/OpenMORe/blob/101ca4b461f7b25b55cbed05e6724702774eec43/LICENSE.txt",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "NOASSERTION",
+  "api_checked_at": "2026-11-11T16:49:37.200644+00:00"
+}

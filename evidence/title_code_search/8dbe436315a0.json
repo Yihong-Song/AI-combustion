@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.combustflame.2025.114130",
+  "title": "An improved machine learning method for thermochemistry tabulation, with application to LES-PDF simulations of piloted diffusion and swirl-bluff-body stabilised flames with NOx formation",
+  "query": "\"An improved machine learning method for thermochemistry tabulation with application to LES-PDF\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:51:34.150301+00:00",
+  "total_count": 0,
+  "items": []
+}

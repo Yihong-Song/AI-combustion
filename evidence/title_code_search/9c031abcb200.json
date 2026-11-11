@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.proci.2026.106785",
+  "title": "Hierarchical data assimilation for learning pyrolysis and oxidation kinetics from heterogeneous data sources",
+  "query": "\"Hierarchical data assimilation for learning pyrolysis and oxidation kinetics from heterogeneous data\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:48:49.859398+00:00",
+  "total_count": 0,
+  "items": []
+}

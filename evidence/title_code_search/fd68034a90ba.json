@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.proci.2026.106252",
+  "title": "A new deep learning method for temperature determination from CPP fs-CARS spectra",
+  "query": "\"A new deep learning method for temperature determination from CPP fs-CARS spectra\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:45:44.534397+00:00",
+  "total_count": 0,
+  "items": []
+}

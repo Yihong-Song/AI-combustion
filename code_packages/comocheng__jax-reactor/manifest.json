@@ -1,0 +1,33 @@
+{
+  "id": "comocheng__jax-reactor",
+  "repository": "comocheng/jax-reactor",
+  "url": "https://github.com/comocheng/jax-reactor",
+  "commit": "2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2",
+  "retrieved_at": "2026-11-11T16:49:07.579994+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "JAX 可微化学反应器与 BDF 原型，读取 Cantera YAML；用于自动微分、向量化和化学雅可比，未建立独立期刊对应。旧 Python/Cantera 示例需独立环境。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/comocheng__jax-reactor.json",
+  "license_url": "https://github.com/comocheng/jax-reactor/blob/2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2/LICENSE",
+  "license_sha256": "7d03bca04911cd2374327fd652ce392d0ff930446c7d5f0194a48bb1fc23c95c",
+  "pinned_url": "https://github.com/comocheng/jax-reactor/tree/2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2",
+  "archive_url": "https://api.github.com/repos/comocheng/jax-reactor/tarball/2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2",
+  "readme_source": "https://github.com/comocheng/jax-reactor/blob/2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2/README.md",
+  "archive": {
+    "repository": "comocheng/jax-reactor",
+    "commit": "2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2",
+    "source_url": "https://api.github.com/repos/comocheng/jax-reactor/tarball/2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2",
+    "retrieved_at": "2026-11-11T16:58:30.368204+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/comocheng/jax-reactor/legacy.tar.gz/2295d3e707c0b0b8ec333fb3fb2f9a7817bdc9d2",
+    "status": "downloaded",
+    "path": "code_packages/comocheng__jax-reactor/2295d3e707c0.tar.gz",
+    "bytes": 54931,
+    "sha256": "483b0ff5b9476f98000e9dc175c8fa91614c19a981a652d165c5919a6dc07e37"
+  },
+  "collection_status": "source_archive_collected"
+}

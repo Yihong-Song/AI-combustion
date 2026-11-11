@@ -29,7 +29,7 @@
 | 2025 | [Scientific machine learning in combustion for discovery, simulation, and control](../../10_reviews_methods/01_reviews_datasets/Pebe9fe83d4/README.md) | 综述、数据集与共性方法 | provisional_q1_q2 | 待核对 |
 | 2022 | [BLASTNet: A call for community-involved big data in combustion machine learning](../../10_reviews_methods/01_reviews_datasets/P42e1959567/README.md) | 综述、数据集与共性方法 | pending_jcr | 已核对链接 |
 | 2022 | [Modeling, diagnostics, optimization, and control of internal combustion engines via modern machine learning techniques: A review and future directions](../../10_reviews_methods/01_reviews_datasets/Pec7a9b4537/README.md) | 综述、数据集与共性方法 | provisional_q1_q2 | 待核对 |
-| 2022 | [Combustion machine learning: Principles, progress and prospects](../../10_reviews_methods/01_reviews_datasets/Pb73c9cc517/README.md) | 综述、数据集与共性方法 | provisional_q1_q2 | 待核对 |
+| 2022 | [Combustion machine learning: Principles, progress and prospects](../../10_reviews_methods/01_reviews_datasets/Pb73c9cc517/README.md) | 综述、数据集与共性方法 | provisional_q1_q2 | 已核对链接 |
 | 2021 | [Machine learning technology in biodiesel research: A review](../../10_reviews_methods/01_reviews_datasets/P1c83a460e9/README.md) | 综述、数据集与共性方法 | provisional_q1_q2 | 待核对 |
 
 ## 共性方法与待细分条目
@@ -38,6 +38,7 @@
 |---|---|---|---|---|
 | 2025 | [Explainable machine learning for predicting thermogravimetric analysis of oxidatively torrefied spent coffee grounds combustion](../../10_reviews_methods/02_crosscutting_methods/P6ea796cd51/README.md) | 综述、数据集与共性方法 | pending_jcr | 待核对 |
 | 2025 | [Real-time combustion progress estimation using deep learning](../../10_reviews_methods/02_crosscutting_methods/P602d1ac2e6/README.md) | 综述、数据集与共性方法 | pending_jcr | 待核对 |
+| 2024 | [Graphics processing unit/artificial neural network-accelerated large-eddy simulation of swirling premixed flames](../../10_reviews_methods/02_crosscutting_methods/P7d1151e9b2/README.md) | 综述、数据集与共性方法 | pending_jcr | 待核对 |
 | 2023 | [Prediction of combustion promotion effect of high/low-frequency AC electric fields based on machine learning method](../../10_reviews_methods/02_crosscutting_methods/P8619f56868/README.md) | 综述、数据集与共性方法 | provisional_q1_q2 | 待核对 |
 | 2022 | [Criteria to switch from tabulation to neural networks in computational combustion](../../10_reviews_methods/02_crosscutting_methods/P1dcfd55c1e/README.md) | 综述、数据集与共性方法 | provisional_q1_q2 | 待核对 |
 | 2022 | [Investigation of co-combustion of sewage sludge and coffee industry residue by TG-FTIR and machine learning methods](../../10_reviews_methods/02_crosscutting_methods/Pcd4389342d/README.md) | 综述、数据集与共性方法 | provisional_q1_q2 | 待核对 |

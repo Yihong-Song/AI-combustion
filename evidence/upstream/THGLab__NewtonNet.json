@@ -1,0 +1,14 @@
+{
+  "repository": "THGLab/NewtonNet",
+  "url": "https://github.com/THGLab/NewtonNet",
+  "retrieved_at": "2026-11-11T16:51:39.222729+00:00",
+  "commit": "6c5567613dc16465234910e676033deb35a53ba2",
+  "readme_path": "evidence/upstream/THGLab__NewtonNet.readme.txt",
+  "readme_url": "https://github.com/THGLab/NewtonNet/blob/6c5567613dc16465234910e676033deb35a53ba2/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/THGLab__NewtonNet.license.txt",
+  "license_url": "https://github.com/THGLab/NewtonNet/blob/6c5567613dc16465234910e676033deb35a53ba2/license.txt",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "NOASSERTION",
+  "api_checked_at": "2026-11-11T16:51:43.478088+00:00"
+}

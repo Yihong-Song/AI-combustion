@@ -1,0 +1,23 @@
+{
+  "title_query": "Comprehensive deep learning for combustion chemistry integration: Multi-fuel generalization and a posteriori validation in reacting flow",
+  "retrieved_at": "2026-11-11T16:52:49.948498+00:00",
+  "url": "https://api.crossref.org/works?query.title=Comprehensive+deep+learning+for+combustion+chemistry+integration%3A+Multi-fuel+generalization+and+a+posteriori+validation+in+reacting+flow&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1063/5.0248582",
+      "title": "Comprehensive deep learning for combustion chemistry integration: Multi-fuel generalization and <i>a posteriori</i> validation in reacting flow",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/j.trc.2025.105143",
+      "title": "On the generalization properties of deep learning for aircraft fuel flow estimation models",
+      "score": 0.36548223350253806
+    },
+    {
+      "doi": "10.1016/j.fuel.2022.125983",
+      "title": "Fuel-lean ammonia/biogas combustion characteristics under the reacting swirl flow conditions",
+      "score": 0.4
+    }
+  ],
+  "matched_doi": "10.1063/5.0248582"
+}

@@ -1,0 +1,23 @@
+{
+  "title_query": "Learning stiff chemical kinetics using extended deep neural operators",
+  "retrieved_at": "2026-11-11T16:53:46.837300+00:00",
+  "url": "https://api.crossref.org/works?query.title=Learning+stiff+chemical+kinetics+using+extended+deep+neural+operators&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.cma.2023.116674",
+      "title": "Learning stiff chemical kinetics using extended deep neural operators",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/j.combustflame.2024.113847",
+      "title": "Extended Fourier Neural Operators to learn stiff chemical kinetics under unseen conditions",
+      "score": 0.5285714285714286
+    },
+    {
+      "doi": "10.1021/acs.jpca.1c05102",
+      "title": "Stiff-PINN: Physics-Informed Neural Network for Stiff Chemical Kinetics",
+      "score": 0.3770491803278688
+    }
+  ],
+  "matched_doi": "10.1016/j.cma.2023.116674"
+}

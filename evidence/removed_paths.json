@@ -1,0 +1,27 @@
+{
+  "reason": "Generated cards relocated after manual classification or JCR appendix review; landscape wildfire card removed under user scope. DOI records otherwise remain in their current catalog paths.",
+  "paths": [
+    "01_chemistry_kinetics/01_surrogates_reduction/P42f2fcf650/README.md",
+    "01_chemistry_kinetics/01_surrogates_reduction/P42f2fcf650/paper.json",
+    "01_chemistry_kinetics/01_surrogates_reduction/Pe31f2bea9d/README.md",
+    "01_chemistry_kinetics/01_surrogates_reduction/Pe31f2bea9d/paper.json",
+    "05_diagnostics_radiation/02_radiation_soot/P56771c427a/README.md",
+    "05_diagnostics_radiation/02_radiation_soot/P56771c427a/paper.json",
+    "05_diagnostics_radiation/03_soot_formation/Pe01c5a5aac/README.md",
+    "05_diagnostics_radiation/03_soot_formation/Pe01c5a5aac/paper.json",
+    "07_engineering_design/01_performance_emissions/P26072055f9/README.md",
+    "07_engineering_design/01_performance_emissions/P26072055f9/paper.json",
+    "07_engineering_design/02_control_optimization/P5d85dab835/README.md",
+    "07_engineering_design/02_control_optimization/P5d85dab835/paper.json",
+    "07_engineering_design/04_sprays_injection/Pd9e3925a87/README.md",
+    "07_engineering_design/04_sprays_injection/Pd9e3925a87/paper.json",
+    "08_solid_fuels_fire/01_kinetics_fire/Pa23de912d3/README.md",
+    "08_solid_fuels_fire/01_kinetics_fire/Pa23de912d3/paper.json",
+    "09_fuels_properties/01_hydrogen_ammonia_properties/P77d10357f3/README.md",
+    "09_fuels_properties/01_hydrogen_ammonia_properties/P77d10357f3/paper.json",
+    "09_fuels_properties/01_hydrogen_ammonia_properties/Pc4f2b5052f/README.md",
+    "09_fuels_properties/01_hydrogen_ammonia_properties/Pc4f2b5052f/paper.json",
+    "10_reviews_methods/02_crosscutting_methods/P67741bfd8c/README.md",
+    "10_reviews_methods/02_crosscutting_methods/P67741bfd8c/paper.json"
+  ]
+}

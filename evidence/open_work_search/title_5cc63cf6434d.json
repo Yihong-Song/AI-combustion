@@ -1,0 +1,23 @@
+{
+  "title_query": "Real-time thermoacoustic data assimilation",
+  "retrieved_at": "2026-11-11T16:51:31.309187+00:00",
+  "url": "https://api.crossref.org/works?query.title=Real-time+thermoacoustic+data+assimilation&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1017/jfm.2022.653",
+      "title": "Real-time thermoacoustic data assimilation",
+      "score": 1.0
+    },
+    {
+      "doi": "10.3397/in_2022_0271",
+      "title": "Bias-aware thermoacoustic data assimilation",
+      "score": 0.8311688311688312
+    },
+    {
+      "doi": "10.1175/jhm504.1",
+      "title": "Real-Time Data Assimilation for Operational Ensemble Streamflow Forecasting",
+      "score": 0.45714285714285713
+    }
+  ],
+  "matched_doi": "10.1017/jfm.2022.653"
+}

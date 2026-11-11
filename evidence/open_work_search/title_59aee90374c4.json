@@ -1,0 +1,23 @@
+{
+  "title_query": "A real-time digital twin of azimuthal thermoacoustic instabilities",
+  "retrieved_at": "2026-11-11T16:51:31.999676+00:00",
+  "url": "https://api.crossref.org/works?query.title=A+real-time+digital+twin+of+azimuthal+thermoacoustic+instabilities&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1017/jfm.2024.1052",
+      "title": "A real-time digital twin of azimuthal thermoacoustic instabilities",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/j.jsv.2020.115732",
+      "title": "Averaging of thermoacoustic azimuthal instabilities",
+      "score": 0.6666666666666666
+    },
+    {
+      "doi": "10.2514/2.6172",
+      "title": "Time-Averaged Gradient Control of Thermoacoustic Instabilities",
+      "score": 0.6491228070175439
+    }
+  ],
+  "matched_doi": "10.1017/jfm.2024.1052"
+}

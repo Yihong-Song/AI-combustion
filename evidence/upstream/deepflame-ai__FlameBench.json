@@ -1,0 +1,11 @@
+{
+  "repository": "deepflame-ai/FlameBench",
+  "url": "https://github.com/deepflame-ai/FlameBench",
+  "retrieved_at": "2026-11-11T16:47:41.700099+00:00",
+  "commit": "19584b08128787d07ca6e7b8aedf63c8e28227af",
+  "readme_path": "evidence/upstream/deepflame-ai__FlameBench.readme.txt",
+  "readme_url": "https://github.com/deepflame-ai/FlameBench/blob/19584b08128787d07ca6e7b8aedf63c8e28227af/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api_or_root_tree",
+  "api_checked_at": "2026-11-11T16:47:47.992212+00:00"
+}

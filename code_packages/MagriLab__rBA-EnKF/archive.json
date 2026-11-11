@@ -1,0 +1,13 @@
+{
+  "repository": "MagriLab/rBA-EnKF",
+  "commit": "641e422240f360300dcbd6fe6d543da358ece74c",
+  "source_url": "https://api.github.com/repos/MagriLab/rBA-EnKF/tarball/641e422240f360300dcbd6fe6d543da358ece74c",
+  "retrieved_at": "2026-11-11T17:00:07.534039+00:00",
+  "license": "MIT",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/MagriLab/rBA-EnKF/legacy.tar.gz/641e422240f360300dcbd6fe6d543da358ece74c",
+  "status": "downloaded",
+  "path": "code_packages/MagriLab__rBA-EnKF/641e422240f3.tar.gz",
+  "bytes": 247111,
+  "sha256": "ea685de910cfd03047949e2bced65b15ace00dfb468bcd00a9895a541070f016"
+}

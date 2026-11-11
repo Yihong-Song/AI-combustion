@@ -14,3 +14,5 @@ evidence/archive_cache/
 evidence/screening_console.txt
 evidence/publication_inventory.json
 evidence/publication_result.json
+evidence/fulltext_cache/
+reproductions/*/work/

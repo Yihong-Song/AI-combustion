@@ -1,0 +1,345 @@
+{
+  "query": "ammonia \"PINN\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:48:12.602966+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 32,
+  "url": "https://api.github.com/search/repositories?q=ammonia+%22PINN%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-pinns",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 507,
+      "fork": false,
+      "updated_at": "2026-11-11T05:40:41Z"
+    },
+    {
+      "full_name": "saikumarckr183/PINNs-for-modelling-Ammonothermal-GaN-growth",
+      "description": null,
+      "html_url": "https://github.com/saikumarckr183/PINNs-for-modelling-Ammonothermal-GaN-growth",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 989,
+      "fork": false,
+      "updated_at": "2026-11-07T20:50:33Z"
+    },
+    {
+      "full_name": "RanaGenedy/PINN-Ammonia-Forecasting",
+      "description": "This project implements a hybrid modeling approach, combining a traditional *Process-Based Model (PBM)* with a *deep learning model (LSTM)* to forecast ammonia (NH₃) emissions from manure storage facilities. ",
+      "html_url": "https://github.com/RanaGenedy/PINN-Ammonia-Forecasting",
+      "license": null,
+      "size": 166,
+      "fork": false,
+      "updated_at": "2025-09-22T20:48:20Z"
+    },
+    {
+      "full_name": "HongyuanDIKyotoU/Ammonia_PINN_Net",
+      "description": "This is a Compensatory Physics-Informed Neural Network (PINN) framework designed to efficiently model nongray radiation in turbulent combustion simulations.  This project was developed by Hongyuan Di.  For any questions, please contact me at: `di.hongyuan.74c@st.kyoto-u.ac.jp`",
+      "html_url": "https://github.com/HongyuanDIKyotoU/Ammonia_PINN_Net",
+      "license": null,
+      "size": 46,
+      "fork": false,
+      "updated_at": "2025-11-11T02:33:14Z"
+    },
+    {
+      "full_name": "TaoRen-Rad/WSGG-H2O-CO2-NH3",
+      "description": null,
+      "html_url": "https://github.com/TaoRen-Rad/WSGG-H2O-CO2-NH3",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 84,
+      "fork": false,
+      "updated_at": "2026-10-20T14:12:51Z"
+    },
+    {
+      "full_name": "IHPC-Physics-AI/PINNs-4-Ammonia",
+      "description": null,
+      "html_url": "https://github.com/IHPC-Physics-AI/PINNs-4-Ammonia",
+      "license": null,
+      "size": 1437,
+      "fork": false,
+      "updated_at": "2025-08-12T13:37:41Z"
+    },
+    {
+      "full_name": "AHSIlkhchi/AHSIlkhchi",
+      "description": "Config files for my GitHub profile.",
+      "html_url": "https://github.com/AHSIlkhchi/AHSIlkhchi",
+      "license": null,
+      "size": 1,
+      "fork": false,
+      "updated_at": "2025-04-15T20:12:18Z"
+    },
+    {
+      "full_name": "jiamingwang795-hash/PINNs-ammonia",
+      "description": null,
+      "html_url": "https://github.com/jiamingwang795-hash/PINNs-ammonia",
+      "license": null,
+      "size": 14964,
+      "fork": false,
+      "updated_at": "2026-06-05T04:20:23Z"
+    },
+    {
+      "full_name": "b1ktc6sr8d/green-fleet-optimization",
+      "description": "Deep PINN & GPU Quantum-Swarm (QPSO) Powered Maritime Voyage Optimization Engine for Fuel, Carbon Tax, and Schedule Management.",
+      "html_url": "https://github.com/b1ktc6sr8d/green-fleet-optimization",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1064,
+      "fork": false,
+      "updated_at": "2026-10-28T07:50:57Z"
+    },
+    {
+      "full_name": "Zorkendorfer/ammonia-dispatch-pinn",
+      "description": null,
+      "html_url": "https://github.com/Zorkendorfer/ammonia-dispatch-pinn",
+      "license": null,
+      "size": 0,
+      "fork": false,
+      "updated_at": "2026-07-10T06:17:16Z"
+    },
+    {
+      "full_name": "afadic/kinetics-dae-nn",
+      "description": "Neural Network surrogate model for chemical kinetics from differential algebraic equations solved using IDA Sundials",
+      "html_url": "https://github.com/afadic/kinetics-dae-nn",
+      "license": null,
+      "size": 23506,
+      "fork": false,
+      "updated_at": "2026-10-09T17:34:25Z"
+    },
+    {
+      "full_name": "Okohfrank/GasSensorPINN",
+      "description": null,
+      "html_url": "https://github.com/Okohfrank/GasSensorPINN",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1486,
+      "fork": false,
+      "updated_at": "2026-08-02T17:50:35Z"
+    },
+    {
+      "full_name": "sathwik-0910/Q-Fleet",
+      "description": null,
+      "html_url": "https://github.com/sathwik-0910/Q-Fleet",
+      "license": null,
+      "size": 95,
+      "fork": false,
+      "updated_at": "2026-10-05T08:28:13Z"
+    },
+    {
+      "full_name": "SourishSenapati/Synametrix",
+      "description": "Physics-informed computational models validating the thermodynamic constraints and chemical OPEX of Anaerobic Digestion and Microalgae Biorefineries.",
+      "html_url": "https://github.com/SourishSenapati/Synametrix",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 8533,
+      "fork": false,
+      "updated_at": "2026-07-10T05:10:58Z"
+    },
+    {
+      "full_name": "SaheelHussain/q_fleet",
+      "description": null,
+      "html_url": "https://github.com/SaheelHussain/q_fleet",
+      "license": null,
+      "size": 104,
+      "fork": false,
+      "updated_at": "2026-10-05T11:31:38Z"
+    },
+    {
+      "full_name": "Himavanthkumargutta/green-fleet-Finale---Copy",
+      "description": null,
+      "html_url": "https://github.com/Himavanthkumargutta/green-fleet-Finale---Copy",
+      "license": null,
+      "size": 1013,
+      "fork": false,
+      "updated_at": "2026-10-09T16:57:22Z"
+    },
+    {
+      "full_name": "srisadandesha/Continuous-Loop-Pulsating-Heat-Pipe-CLPHP-",
+      "description": null,
+      "html_url": "https://github.com/srisadandesha/Continuous-Loop-Pulsating-Heat-Pipe-CLPHP-",
+      "license": null,
+      "size": 2246,
+      "fork": false,
+      "updated_at": "2026-08-26T13:19:33Z"
+    },
+    {
+      "full_name": "KjvRajesh11/quantum_fleet",
+      "description": null,
+      "html_url": "https://github.com/KjvRajesh11/quantum_fleet",
+      "license": null,
+      "size": 312,
+      "fork": false,
+      "updated_at": "2026-10-20T04:38:17Z"
+    },
+    {
+      "full_name": "ThyanRevolter/sciml_pinns_xtfc",
+      "description": null,
+      "html_url": "https://github.com/ThyanRevolter/sciml_pinns_xtfc",
+      "license": null,
+      "size": 8443,
+      "fork": false,
+      "updated_at": "2025-12-10T19:48:58Z"
+    },
+    {
+      "full_name": "afridpasha/APEX-AirNet",
+      "description": "APEX-AirNet V2: Physics-informed deep learning for 72-hour PM2.5 forecasting across India. Integrates 16 WRF-Chem features into 172 dimensions using PINN, dual GNN, transformers, and Mamba. Achieves R²>0.97 with guaranteed 90% confidence intervals. Trained on 4 seasonal months with real-time dashboard.",
+      "html_url": "https://github.com/afridpasha/APEX-AirNet",
+      "license": null,
+      "size": 3829,
+      "fork": false,
+      "updated_at": "2026-07-01T09:00:12Z"
+    },
+    {
+      "full_name": "kushu18/cfcl-sec-optimization",
+      "description": "Production supervisory digital twin and Specific Energy Consumption (SEC) optimization engine for CFCL Gadepan ammonia-urea complex",
+      "html_url": "https://github.com/kushu18/cfcl-sec-optimization",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 20414,
+      "fork": false,
+      "updated_at": "2026-10-20T14:36:36Z"
+    },
+    {
+      "full_name": "om6868/Nautiq1",
+      "description": null,
+      "html_url": "https://github.com/om6868/Nautiq1",
+      "license": null,
+      "size": 105,
+      "fork": false,
+      "updated_at": "2026-09-10T16:07:34Z"
+    },
+    {
+      "full_name": "Veggies02/quantam",
+      "description": null,
+      "html_url": "https://github.com/Veggies02/quantam",
+      "license": null,
+      "size": 4009,
+      "fork": false,
+      "updated_at": "2026-09-30T13:05:07Z"
+    },
+    {
+      "full_name": "andrzimin72/Pipeline-Leak-Risk-Management",
+      "description": "This is an autonomous, multi-modal Physical AI platform designed for real-time Oil Pipeline integrity Monitoring, Predictive Risk Assessment, and Autonomous Leak Mitigation. The system integrates PINNs, MARL, GNNs for Swarm Intelligence, and Federated Learning for Privacy-Preserving Model Training. ",
+      "html_url": "https://github.com/andrzimin72/Pipeline-Leak-Risk-Management",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 84972,
+      "fork": false,
+      "updated_at": "2026-11-02T01:02:08Z"
+    },
+    {
+      "full_name": "Rosa-aa/fluid-hybrid-calculator",
+      "description": null,
+      "html_url": "https://github.com/Rosa-aa/fluid-hybrid-calculator",
+      "license": null,
+      "size": 464,
+      "fork": false,
+      "updated_at": "2026-10-15T12:04:36Z"
+    },
+    {
+      "full_name": "AspirinCode/awesome-AI4MolConformation-MD",
+      "description": "List of molecules (small molecules, RNA, peptide, protein, enzymes, antibody,  and PPIs)  conformations and molecular dynamics (force fields) using generative artificial intelligence and deep learning",
+      "html_url": "https://github.com/AspirinCode/awesome-AI4MolConformation-MD",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 10601,
+      "fork": false,
+      "updated_at": "2026-11-10T08:59:43Z"
+    },
+    {
+      "full_name": "exopoiesis/arxiv-radar-chem-eng",
+      "description": "Daily-curated chemical engineering-relevant papers from arXiv with abstracts, canonical tags, and generated Pages views.",
+      "html_url": "https://github.com/exopoiesis/arxiv-radar-chem-eng",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 8640,
+      "fork": false,
+      "updated_at": "2026-11-11T05:41:07Z"
+    },
+    {
+      "full_name": "devanshsanghavi-droid/CC",
+      "description": null,
+      "html_url": "https://github.com/devanshsanghavi-droid/CC",
+      "license": null,
+      "size": 33353,
+      "fork": false,
+      "updated_at": "2026-11-08T07:55:40Z"
+    },
+    {
+      "full_name": "zhtjtcz/Mine-Arxiv",
+      "description": null,
+      "html_url": "https://github.com/zhtjtcz/Mine-Arxiv",
+      "license": null,
+      "size": 18927,
+      "fork": false,
+      "updated_at": "2025-12-26T03:25:48Z"
+    },
+    {
+      "full_name": "Michele-Minervini/awesome-quantum-startups",
+      "description": "A curated directory of companies building the quantum technology ecosystem: quantum computing, sensing, communication, security, and the components that make it all work.",
+      "html_url": "https://github.com/Michele-Minervini/awesome-quantum-startups",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 473,
+      "fork": false,
+      "updated_at": "2026-10-19T06:09:44Z"
+    }
+  ]
+}

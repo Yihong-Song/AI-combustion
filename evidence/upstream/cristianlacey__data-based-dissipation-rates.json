@@ -1,0 +1,14 @@
+{
+  "repository": "cristianlacey/data-based-dissipation-rates",
+  "url": "https://github.com/cristianlacey/data-based-dissipation-rates",
+  "retrieved_at": "2026-11-11T16:49:28.650523+00:00",
+  "commit": "ed1700e5cb5fcbfbd5bdcd48e615f6c3e9f9445d",
+  "readme_path": "evidence/upstream/cristianlacey__data-based-dissipation-rates.readme.txt",
+  "readme_url": "https://github.com/cristianlacey/data-based-dissipation-rates/blob/ed1700e5cb5fcbfbd5bdcd48e615f6c3e9f9445d/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/cristianlacey__data-based-dissipation-rates.license.txt",
+  "license_url": "https://github.com/cristianlacey/data-based-dissipation-rates/blob/ed1700e5cb5fcbfbd5bdcd48e615f6c3e9f9445d/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "NOASSERTION",
+  "api_checked_at": "2026-11-11T16:49:41.414624+00:00"
+}

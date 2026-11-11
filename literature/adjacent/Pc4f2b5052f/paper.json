@@ -1,0 +1,66 @@
+{
+  "id": "Pc4f2b5052f",
+  "doi": "10.1177/14680874241226580",
+  "title": "Reinforcement learning applied to dilute combustion control for increased fuel efficiency",
+  "year": 2024,
+  "journal": "International Journal of Engine Research",
+  "authors": [
+    "Bryan P Maldonado",
+    "Brian C Kaul",
+    "Catherine D Schuman",
+    "Steven R Young"
+  ],
+  "category": "09_fuels_properties",
+  "subcategory": "01_hydrogen_ammonia_properties",
+  "path": "literature/adjacent/Pc4f2b5052f",
+  "doi_url": "https://doi.org/10.1177/14680874241226580",
+  "metadata_source": "https://api.crossref.org/works/10.1177/14680874241226580",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "adjacent_q3_q4",
+    "reported_best_quartile": "Q3",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "103/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "48/78"
+      },
+      {
+        "category": "TRANSPORTATION SCIENCE & TECHNOLOGY",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "52/80"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/3727",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "not_searched_per_doi",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

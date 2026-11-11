@@ -1,0 +1,23 @@
+{
+  "title_query": "Data-based filtered dissipation rate modelling for multi-modal turbulent combustion: Evaluating a priori model generalizability",
+  "retrieved_at": "2026-11-11T16:51:40.278047+00:00",
+  "url": "https://api.crossref.org/works?query.title=Data-based+filtered+dissipation+rate+modelling+for+multi-modal+turbulent+combustion%3A+Evaluating+a+priori+model+generalizability&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1080/13647830.2026.2621012",
+      "title": "Data-based filtered dissipation rate modelling for multi-modal turbulent combustion: evaluating\n                    <i>a priori</i>\n                    model generalizability",
+      "score": 1.0
+    },
+    {
+      "doi": "10.3390/computation9030026",
+      "title": "Modelling of Conditional Scalar Dissipation Rate in Turbulent Premixed Combustion",
+      "score": 0.44808743169398907
+    },
+    {
+      "doi": "10.1016/j.combustflame.2026.114802",
+      "title": "Modelling turbulent multi-regime combustion in LES with filtered tabulated chemistry",
+      "score": 0.3891891891891892
+    }
+  ],
+  "matched_doi": "10.1080/13647830.2026.2621012"
+}

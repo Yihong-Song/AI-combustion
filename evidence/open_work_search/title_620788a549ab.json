@@ -1,0 +1,23 @@
+{
+  "title_query": "Hard-constrained neural networks for modelling nonlinear acoustics",
+  "retrieved_at": "2026-11-11T16:53:00.617903+00:00",
+  "url": "https://api.crossref.org/works?query.title=Hard-constrained+neural+networks+for+modelling+nonlinear+acoustics&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1103/physrevfluids.8.103201",
+      "title": "Hard-constrained neural networks for modeling nonlinear acoustics",
+      "score": 0.9914529914529915
+    },
+    {
+      "doi": "10.1016/j.cma.2025.118346",
+      "title": "Sharp-PINNs: Staggered hard-constrained physics-informed neural networks for phase field modelling of corrosion",
+      "score": 0.5548387096774193
+    },
+    {
+      "doi": "10.1049/ip-cta:19952255",
+      "title": "Fuzzy neural networks for nonlinear systems modelling",
+      "score": 0.49056603773584906
+    }
+  ],
+  "matched_doi": "10.1103/physrevfluids.8.103201"
+}

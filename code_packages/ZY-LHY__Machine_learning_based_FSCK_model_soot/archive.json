@@ -1,0 +1,11 @@
+{
+  "repository": "ZY-LHY/Machine_learning_based_FSCK_model_soot",
+  "commit": "12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+  "source_url": "https://api.github.com/repos/ZY-LHY/Machine_learning_based_FSCK_model_soot/tarball/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+  "retrieved_at": "2026-11-11T17:01:45.527326+00:00",
+  "license": "MIT",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot/legacy.tar.gz/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

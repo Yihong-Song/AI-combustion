@@ -1,0 +1,5 @@
+{
+  "title_query": "Active learning of hydrogen combustion with neural network potentials",
+  "retrieved_at": "2026-11-11T16:51:44.581269+00:00",
+  "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Active+learning+of+hydrogen+combustion+with+neural+network+potentials&rows=3&filter=type%3Ajournal-article"
+}

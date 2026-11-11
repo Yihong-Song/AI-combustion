@@ -2,7 +2,7 @@
 
 把守恒方程和边界条件加入模型，使稀疏数据下的正问题和逆问题更有物理约束。
 
-本目录含 9 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
+本目录含 10 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
 
 [返回首页](../README.md) · [全局地图](../00_literature_map/README.md) · [方法与范围](../docs/METHODOLOGY.md)
 
@@ -38,7 +38,7 @@ PINN、硬边界变换、分域/自适应残差采样、可微 ODE/PDE 与反向
 
 分区栏为二级来源线索；Q? 为待核实。代码 ✓ 仅表示论文链接已核对，不表示执行成功。
 
-### [正逆问题与可微求解](01_forward_inverse/README.md)（9）
+### [正逆问题与可微求解](01_forward_inverse/README.md)（10）
 
 | 年份 | 论文 | 分区线索 | 代码 |
 |---|---|---|---|
@@ -51,3 +51,4 @@ PINN、硬边界变换、分域/自适应残差采样、可微 ODE/PDE 与反向
 | 2024 | [Reconstructing soot fields in acoustically forced laminar sooting flames using physics-informed machine learning models](01_forward_inverse/Pd19bb828b9/README.md) | Q1 | 待核对 |
 | 2023 | [Application of a physics-informed neural network to solve the steady-state Bratu equation arising from solid biofuel combustion theory](01_forward_inverse/Pb552d55f67/README.md) | Q1 | 待核对 |
 | 2023 | [Physics-informed graph neural networks for predicting cetane number with systematic data quality analysis](01_forward_inverse/Pad01f0053d/README.md) | Q1 | ✓ |
+| 2022 | [Physics-informed neural networks and functional interpolation for stiff chemical kinetics](01_forward_inverse/P42f2fcf650/README.md) | Q? | ✓ |

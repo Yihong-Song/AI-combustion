@@ -5,12 +5,12 @@ OpenFOAM/Cantera/LibTorch 反应流框架；README 的部分 DNN 权重需向作
 - [原始仓库](https://github.com/deepflameCFD/deepflame-dev) · [固定版本](https://github.com/deepflameCFD/deepflame-dev/tree/29529093a73717fcac676f1f1ceed24c0cc932c7)
 - 提交：`29529093a73717fcac676f1f1ceed24c0cc932c7`
 - 许可：**GPL-3.0 (inspect upstream terms)**。
-- 收纳状态：`partial_source_snapshot_collected`；执行状态：`not_executed`。
+- 收纳状态：`source_archive_collected`；执行状态：`not_executed`。
 - 本包不自动安装、不自动运行。原始依赖、数据和子模块应在隔离环境逐项检查。
 
 ## 关联论文与入口
 
-具体期刊论文对应关系尚未建立；按支撑工具、会议或预印本处理。
+- [DeepFlame: A deep learning empowered open-source platform for reacting flow simulations](../../01_chemistry_kinetics/01_surrogates_reduction/P9b9c10a9d8/README.md) — 10.1016/j.cpc.2023.108842
 
 [上游 README（固定版本）](https://raw.githubusercontent.com/deepflameCFD/deepflame-dev/29529093a73717fcac676f1f1ceed24c0cc932c7/README.md)
 
@@ -28,7 +28,7 @@ python tools/fetch_packages.py --package deepflameCFD__deepflame-dev
 
 下载器仅保存源归档和 SHA-256，不执行上游代码。已附归档时可离线核验；归档不含 Git 历史，子模块和 LFS 数据可能不完整。
 
-完整归档本轮未收纳：`archive exceeds configured byte limit; use pinned upstream download`。这不表示上游未提供代码；固定下载入口仍可使用。
+已收纳文件：[29529093a737.tar.gz](29529093a737.tar.gz)；大小 7714325 bytes；SHA-256 `42b519be3f18f9fc0532b4a02799ffe2eee156c546119b20635dcdb0f0bded0f`。
 
 ## 部分源码快照
 

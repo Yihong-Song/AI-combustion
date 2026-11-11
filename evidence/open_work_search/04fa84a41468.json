@@ -1,0 +1,369 @@
+{
+  "query": "\"combustion\" \"diffusion model\" in:readme",
+  "retrieved_at": "2026-11-11T16:49:41.453334+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 107,
+  "url": "https://api.github.com/search/repositories?q=%22combustion%22+%22diffusion+model%22+in%3Areadme&per_page=30",
+  "items": [
+    {
+      "full_name": "ZSHtju/reactingDNS_OpenFOAM",
+      "description": "Incorporating detailed transport properties with OpenFOAM reactingFoam solver for direct numerical simulation of multi-component reacting flows",
+      "html_url": "https://github.com/ZSHtju/reactingDNS_OpenFOAM",
+      "license": null,
+      "size": 2317,
+      "fork": false,
+      "updated_at": "2026-09-11T21:39:56Z"
+    },
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "Aalto-CFD/DLBFoam-Hydrogen-Tutorials",
+      "description": "Advanced hydrogen combustion tutorial cases with enhanced transport modelling with FickianTransportFoam and chemistry acceleration with DLBFoam for OpenFOAM",
+      "html_url": "https://github.com/Aalto-CFD/DLBFoam-Hydrogen-Tutorials",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 22173,
+      "fork": false,
+      "updated_at": "2026-04-30T09:37:42Z"
+    },
+    {
+      "full_name": "zhtjtcz/Mine-Arxiv",
+      "description": null,
+      "html_url": "https://github.com/zhtjtcz/Mine-Arxiv",
+      "license": null,
+      "size": 18927,
+      "fork": false,
+      "updated_at": "2025-12-26T03:25:48Z"
+    },
+    {
+      "full_name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "html_url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 69,
+      "fork": false,
+      "updated_at": "2026-11-04T13:01:27Z"
+    },
+    {
+      "full_name": "ahmades/CMCsubPack",
+      "description": "A collection of Fortran subroutines aimed at the modelling of the probability density function, the conditional velocity and the conditional scalar dissipation rate, which appear unclosed in the  Conditional Moment Closure turbulent combustion model.",
+      "html_url": "https://github.com/ahmades/CMCsubPack",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 328,
+      "fork": false,
+      "updated_at": "2025-04-14T17:52:58Z"
+    },
+    {
+      "full_name": "paulcon/as-data-sets",
+      "description": "Active Subspace Data Sets",
+      "html_url": "https://github.com/paulcon/as-data-sets",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 544197,
+      "fork": false,
+      "updated_at": "2026-11-11T15:55:30Z"
+    },
+    {
+      "full_name": "Yuan-ManX/audio-development-tools",
+      "description": "Audio Development Tools (ADT) is a project for advancing sound, speech, and music technologies, featuring components for machine learning, sound synthesis, speech and music generation, signal processing, game audio, digital audio workstations (DAWs), and more.",
+      "html_url": "https://github.com/Yuan-ManX/audio-development-tools",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 926,
+      "fork": false,
+      "updated_at": "2026-10-24T20:44:30Z"
+    },
+    {
+      "full_name": "fredriclam/discrete-combustion-viz",
+      "description": "OpenGL 3D Temperature Field Visualization",
+      "html_url": "https://github.com/fredriclam/discrete-combustion-viz",
+      "license": null,
+      "size": 10638,
+      "fork": false,
+      "updated_at": "2024-08-03T10:32:42Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "mikaem/PMFpack",
+      "description": "PMFpack is a C++ implementation of the presumed mapping function approach as a model for turbulent mixing. ",
+      "html_url": "https://github.com/mikaem/PMFpack",
+      "license": {
+        "key": "lgpl-3.0",
+        "name": "GNU Lesser General Public License v3.0",
+        "spdx_id": "LGPL-3.0",
+        "url": "https://api.github.com/licenses/lgpl-3.0",
+        "node_id": "MDc6TGljZW5zZTEy"
+      },
+      "size": 402,
+      "fork": false,
+      "updated_at": "2026-07-28T15:51:40Z"
+    },
+    {
+      "full_name": "stevenhan1991/Few-Shot",
+      "description": null,
+      "html_url": "https://github.com/stevenhan1991/Few-Shot",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 67,
+      "fork": false,
+      "updated_at": "2026-01-05T15:10:15Z"
+    },
+    {
+      "full_name": "kimimgo/awesome-ai-cae",
+      "description": "A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers.",
+      "html_url": "https://github.com/kimimgo/awesome-ai-cae",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 1961,
+      "fork": false,
+      "updated_at": "2026-11-10T07:23:00Z"
+    },
+    {
+      "full_name": "Fkstone/chemkin2foam",
+      "description": "Easily convert Chemkin-format reaction mechanisms into OpenFOAM 8–13 chemistry files.",
+      "html_url": "https://github.com/Fkstone/chemkin2foam",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 74,
+      "fork": false,
+      "updated_at": "2026-11-06T07:00:31Z"
+    },
+    {
+      "full_name": "lizhihao2022/Awesome-AI4PDE",
+      "description": "Awesome AI4PDE is a curated list of resources and literature focusing on the intersection of Artificial Intelligence and Partial Differential Equations (PDEs).",
+      "html_url": "https://github.com/lizhihao2022/Awesome-AI4PDE",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 359,
+      "fork": false,
+      "updated_at": "2026-11-08T14:40:02Z"
+    },
+    {
+      "full_name": "tommasogallingani/droplet_evap_model",
+      "description": "This repository contains droplet-evap-model which is Python package where a 0-D model used for the simulation of a single droplet evaporation is contained. The model has been developed according to a diffusion model based on mass and energy balance well reported in literature .",
+      "html_url": "https://github.com/tommasogallingani/droplet_evap_model",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 264,
+      "fork": false,
+      "updated_at": "2026-07-22T20:38:24Z"
+    },
+    {
+      "full_name": "XikunHuang/daily_paper",
+      "description": "Automatically Update Papers Daily using Github Actions",
+      "html_url": "https://github.com/XikunHuang/daily_paper",
+      "license": null,
+      "size": 34754,
+      "fork": false,
+      "updated_at": "2026-01-26T02:20:38Z"
+    },
+    {
+      "full_name": "chizixin-688/FastMaxwellStefan-OpenFOAM-10",
+      "description": "An improved multicomponent transport model for OpenFOAM-10 to accelerates the Maxwell-Stefan Computation.",
+      "html_url": "https://github.com/chizixin-688/FastMaxwellStefan-OpenFOAM-10",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 1104,
+      "fork": false,
+      "updated_at": "2026-06-15T09:38:01Z"
+    },
+    {
+      "full_name": "isabecurtis023-lang/HarnessFOAM",
+      "description": "HarnessFOAM is An End‑to‑End Composable Multi‑Agent Framework for Automating CFD Simulation in OpenFOAM. Driven by LangGraph, MCP, and Vision-Language models.",
+      "html_url": "https://github.com/isabecurtis023-lang/HarnessFOAM",
+      "license": null,
+      "size": 5953,
+      "fork": false,
+      "updated_at": "2026-10-25T14:18:47Z"
+    },
+    {
+      "full_name": "arintanen/CanteraTransportFoam",
+      "description": null,
+      "html_url": "https://github.com/arintanen/CanteraTransportFoam",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 830,
+      "fork": false,
+      "updated_at": "2026-11-04T20:39:27Z"
+    },
+    {
+      "full_name": "Shaw-git/GenCompress",
+      "description": null,
+      "html_url": "https://github.com/Shaw-git/GenCompress",
+      "license": null,
+      "size": 42507,
+      "fork": false,
+      "updated_at": "2025-06-12T21:28:36Z"
+    },
+    {
+      "full_name": "Hashir-Aziz123/Fluid-and-Fire-Simulator-in-p5.js",
+      "description": null,
+      "html_url": "https://github.com/Hashir-Aziz123/Fluid-and-Fire-Simulator-in-p5.js",
+      "license": null,
+      "size": 44,
+      "fork": false,
+      "updated_at": "2026-01-05T11:47:11Z"
+    },
+    {
+      "full_name": "JinhyeokYun/JinhyeokYun",
+      "description": "Profile README",
+      "html_url": "https://github.com/JinhyeokYun/JinhyeokYun",
+      "license": null,
+      "size": 1,
+      "fork": false,
+      "updated_at": "2026-09-28T13:30:39Z"
+    },
+    {
+      "full_name": "er-rahul-agarwal/er-rahul-agarwal",
+      "description": null,
+      "html_url": "https://github.com/er-rahul-agarwal/er-rahul-agarwal",
+      "license": null,
+      "size": 59,
+      "fork": false,
+      "updated_at": "2026-07-09T03:01:54Z"
+    },
+    {
+      "full_name": "TSimona08/transport-case-study",
+      "description": null,
+      "html_url": "https://github.com/TSimona08/transport-case-study",
+      "license": null,
+      "size": 34922,
+      "fork": false,
+      "updated_at": "2025-12-10T09:41:55Z"
+    },
+    {
+      "full_name": "felixxxrrr8-afk/atoms-md",
+      "description": "Real-time molecular dynamics and chemistry sandbox in 3D — C++/OpenGL for Windows",
+      "html_url": "https://github.com/felixxxrrr8-afk/atoms-md",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 199515,
+      "fork": false,
+      "updated_at": "2026-10-02T15:53:57Z"
+    },
+    {
+      "full_name": "hanjuku-kaso/awesome-offline-rl",
+      "description": "An index of algorithms for offline reinforcement learning (offline-rl)",
+      "html_url": "https://github.com/hanjuku-kaso/awesome-offline-rl",
+      "license": null,
+      "size": 300,
+      "fork": false,
+      "updated_at": "2026-11-02T12:10:58Z"
+    },
+    {
+      "full_name": "JohnsonKlose/awesome-science-foundation-model",
+      "description": "Curated list of 1,000+ scientific foundation models spanning life sciences, chemistry, physics, medicine, and more.",
+      "html_url": "https://github.com/JohnsonKlose/awesome-science-foundation-model",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 3314,
+      "fork": false,
+      "updated_at": "2026-10-31T16:33:52Z"
+    },
+    {
+      "full_name": "dr-jppanda/CFD-Code-Hub",
+      "description": "A list of computational fluid dynamics codes.",
+      "html_url": "https://github.com/dr-jppanda/CFD-Code-Hub",
+      "license": null,
+      "size": 192,
+      "fork": false,
+      "updated_at": "2026-11-06T16:23:35Z"
+    },
+    {
+      "full_name": "ishitaajain22-tech/ishitaajain22-tech",
+      "description": null,
+      "html_url": "https://github.com/ishitaajain22-tech/ishitaajain22-tech",
+      "license": null,
+      "size": 19,
+      "fork": false,
+      "updated_at": "2026-10-08T20:09:51Z"
+    }
+  ]
+}

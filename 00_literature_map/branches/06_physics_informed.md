@@ -35,3 +35,4 @@ PINN、硬边界变换、分域/自适应残差采样、可微 ODE/PDE 与反向
 | 2024 | [Reconstructing soot fields in acoustically forced laminar sooting flames using physics-informed machine learning models](../../06_physics_informed/01_forward_inverse/Pd19bb828b9/README.md) | 物理信息学习与可微燃烧求解 | provisional_q1_q2 | 待核对 |
 | 2023 | [Application of a physics-informed neural network to solve the steady-state Bratu equation arising from solid biofuel combustion theory](../../06_physics_informed/01_forward_inverse/Pb552d55f67/README.md) | 物理信息学习与可微燃烧求解 | provisional_q1_q2 | 待核对 |
 | 2023 | [Physics-informed graph neural networks for predicting cetane number with systematic data quality analysis](../../06_physics_informed/01_forward_inverse/Pad01f0053d/README.md) | 物理信息学习与可微燃烧求解 | provisional_q1_q2 | 已核对链接 |
+| 2022 | [Physics-informed neural networks and functional interpolation for stiff chemical kinetics](../../06_physics_informed/01_forward_inverse/P42f2fcf650/README.md) | 物理信息学习与可微燃烧求解 | pending_jcr | 已核对链接 |

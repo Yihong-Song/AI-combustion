@@ -1,8 +1,8 @@
 {
   "date": "2026-11-11",
-  "retrieved_hits": 3775,
-  "unique_records": 2692,
-  "candidate_count": 428,
+  "retrieved_hits": 3803,
+  "unique_records": 2711,
+  "candidate_count": 456,
   "searches": [
     {
       "query": "deep learning",
@@ -413,8 +413,64 @@
     {
       "query": "known DOI from upstream README",
       "issn": null,
+      "url": "https://api.crossref.org/works/10.1016/j.cej.2023.143779",
+      "retrieved_at": "2026-11-11T16:51:48.500874+00:00",
+      "total_results": null
+    },
+    {
+      "query": "known DOI from upstream README",
+      "issn": null,
+      "url": "https://api.crossref.org/works/10.1016/j.cej.2024.149863",
+      "retrieved_at": "2026-11-11T16:51:47.565924+00:00",
+      "total_results": null
+    },
+    {
+      "query": "known DOI from upstream README",
+      "issn": null,
       "url": "https://api.crossref.org/works/10.1016/j.cej.2025.160402",
       "retrieved_at": "2026-11-11T13:16:44.577900+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Inferring unknown unknowns: Regularized bias-aware ensemble Kalman filter",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Inferring+unknown+unknowns%3A+Regularized+bias-aware+ensemble+Kalman+filter&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:32.056328+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Learning stiff chemical kinetics using extended deep neural operators",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Learning+stiff+chemical+kinetics+using+extended+deep+neural+operators&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:53:46.837300+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Adaptive chemistry via pre-partitioning of composition space and mechanism reduction",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Adaptive+chemistry+via+pre-partitioning+of+composition+space+and+mechanism+reduction&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:53:51.258829+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Chemistry reduction using machine learning trained from non-premixed micro-mixing modeling: Application to DNS of a syngas turbulent oxy-flame with side-wall effects",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Chemistry+reduction+using+machine+learning+trained+from+non-premixed+micro-mixing+modeling%3A+Application+to+DNS+of+a+syngas+turbulent+oxy-flame+with+side-wall+effects&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:42.011216+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Data-based instantaneous conditional progress variable dissipation rate modeling for turbulent premixed combustion",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Data-based+instantaneous+conditional+progress+variable+dissipation+rate+modeling+for+turbulent+premixed+combustion&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:53:39.077911+00:00",
+      "total_results": null
+    },
+    {
+      "query": "DeepFlame: A deep learning empowered open-source platform for reacting flow simulations",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=DeepFlame%3A+A+deep+learning+empowered+open-source+platform+for+reacting+flow+simulations&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:29.411993+00:00",
       "total_results": null
     },
     {
@@ -422,6 +478,83 @@
       "issn": null,
       "url": "https://api.crossref.org/works/10.1016/j.cpc.2025.109802",
       "retrieved_at": "2026-11-11T13:16:44.276682+00:00",
+      "total_results": null
+    },
+    {
+      "query": "DFODE-kit: Deep learning package for solving Flame chemical kinetics with high-dimensional stiff Ordinary Differential Equations",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=DFODE-kit%3A+Deep+learning+package+for+solving+Flame+chemical+kinetics+with+high-dimensional+stiff+Ordinary+Differential+Equations&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:28.117338+00:00",
+      "total_results": null
+    },
+    {
+      "query": "A Priori Uncertainty Quantification of Reacting Turbulence Closure Models using Bayesian Neural Networks",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=A+Priori+Uncertainty+Quantification+of+Reacting+Turbulence+Closure+Models+using+Bayesian+Neural+Networks&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:35.614136+00:00",
+      "total_results": null
+    },
+    {
+      "query": "known DOI from upstream README",
+      "issn": null,
+      "url": "https://api.crossref.org/works/10.1016/j.fuel.2026.138904",
+      "retrieved_at": "2026-11-11T16:51:47.331243+00:00",
+      "total_results": null
+    },
+    {
+      "query": "A machine learning based efficient and compact full-spectrum correlated k-distribution model",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=A+machine+learning+based+efficient+and+compact+full-spectrum+correlated+k-distribution+model&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:33.853485+00:00",
+      "total_results": null
+    },
+    {
+      "query": "A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=A+machine+learning+based+full-spectrum+correlated+k-distribution+model+for+nonhomogeneous+gas-soot+mixtures&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:53:22.416396+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Robust Identification of Flame Frequency Response via Multi-Fidelity Gaussian Process Approach",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Robust+Identification+of+Flame+Frequency+Response+via+Multi-Fidelity+Gaussian+Process+Approach&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:54:29.380583+00:00",
+      "total_results": null
+    },
+    {
+      "query": "SAGE: A machine learning model for primary particle segmentation in TEM images of soot aggregates",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=SAGE%3A+A+machine+learning+model+for+primary+particle+segmentation+in+TEM+images+of+soot+aggregates&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:33.128324+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Integrated Neural Network Approach for Autonomous Sensitivity Analysis and Optimization of Sectional Soot Kinetic Modeling",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Integrated+Neural+Network+Approach+for+Autonomous+Sensitivity+Analysis+and+Optimization+of+Sectional+Soot+Kinetic+Modeling&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:54:10.905244+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Deep learning for continuous lead-time prediction of thermoacoustic instabilities in an annular combustor",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Deep+learning+for+continuous+lead-time+prediction+of+thermoacoustic+instabilities+in+an+annular+combustor&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:44.110914+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Real-time thermoacoustic data assimilation",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Real-time+thermoacoustic+data+assimilation&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:31.309187+00:00",
+      "total_results": null
+    },
+    {
+      "query": "A real-time digital twin of azimuthal thermoacoustic instabilities",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=A+real-time+digital+twin+of+azimuthal+thermoacoustic+instabilities&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:31.999676+00:00",
       "total_results": null
     },
     {
@@ -446,10 +579,73 @@
       "total_results": null
     },
     {
+      "query": "Learning dominant physical processes with data-driven balance models",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Learning+dominant+physical+processes+with+data-driven+balance+models&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:54:03.380530+00:00",
+      "total_results": null
+    },
+    {
+      "query": "ChemKANs for combustion chemistry modeling and acceleration",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=ChemKANs+for+combustion+chemistry+modeling+and+acceleration&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:43.052866+00:00",
+      "total_results": null
+    },
+    {
       "query": "known DOI from upstream README",
       "issn": null,
       "url": "https://api.crossref.org/works/10.1063/5.0060697",
       "retrieved_at": "2026-11-11T13:16:45.967312+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Physics-informed neural networks and functional interpolation for stiff chemical kinetics",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Physics-informed+neural+networks+and+functional+interpolation+for+stiff+chemical+kinetics&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:44.402702+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Graphics processing unit/artificial neural network-accelerated large-eddy simulation of swirling premixed flames",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Graphics+processing+unit%2Fartificial+neural+network-accelerated+large-eddy+simulation+of+swirling+premixed+flames&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:28.118052+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Comprehensive deep learning for combustion chemistry integration: Multi-fuel generalization and a posteriori validation in reacting flow",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Comprehensive+deep+learning+for+combustion+chemistry+integration%3A+Multi-fuel+generalization+and+a+posteriori+validation+in+reacting+flow&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:52:49.948498+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Data-based filtered dissipation rate modelling for multi-modal turbulent combustion: Evaluating a priori model generalizability",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Data-based+filtered+dissipation+rate+modelling+for+multi-modal+turbulent+combustion%3A+Evaluating+a+priori+model+generalizability&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:40.278047+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Hard-constrained neural networks for modelling nonlinear acoustics",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Hard-constrained+neural+networks+for+modelling+nonlinear+acoustics&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:53:00.617903+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Data-driven computation of adjoint sensitivities without adjoint solvers: An application to thermoacoustics",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Data-driven+computation+of+adjoint+sensitivities+without+adjoint+solvers%3A+An+application+to+thermoacoustics&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:53:05.532303+00:00",
+      "total_results": null
+    },
+    {
+      "query": "Deep reinforcement learning for dynamic control of fuel injection timing in multi-pulse compression ignition engines",
+      "issn": null,
+      "url": "https://api.crossref.org/works?query.title=Deep+reinforcement+learning+for+dynamic+control+of+fuel+injection+timing+in+multi-pulse+compression+ignition+engines&rows=3&filter=type%3Ajournal-article",
+      "retrieved_at": "2026-11-11T16:51:35.061482+00:00",
       "total_results": null
     }
   ],
@@ -1058,7 +1254,7 @@
       "doi": "10.1007/s11069-023-06172-x",
       "title": "Mapping wildfire ignition probability and predictor sensitivity with ensemble-based machine learning",
       "journal": "Natural Hazards",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "excluded_landscape_wildfire_or_remote_sensing_by_user_scope"
     },
     {
       "doi": "10.1007/s11128-023-03867-9",
@@ -1703,6 +1899,12 @@
       "reason": "combustion_relevance_not_clear_from_title"
     },
     {
+      "doi": "10.1016/j.cej.2024.149863",
+      "title": "Global reaction neural networks with embedded stoichiometry and thermodynamics for learning kinetics from reactor data",
+      "journal": "Chemical Engineering Journal",
+      "reason": "combustion_relevance_not_clear_from_title"
+    },
+    {
       "doi": "10.1016/j.cej.2024.151149",
       "title": "Deep learning for kinetics parameters identification: A novel approach for multi-variate optimization",
       "journal": "Chemical Engineering Journal",
@@ -1829,52 +2031,46 @@
       "reason": "journal_outside_current_screening_list"
     },
     {
-      "doi": "10.1016/j.cma.2023.116674",
-      "title": "Learning stiff chemical kinetics using extended deep neural operators",
-      "journal": "Computer Methods in Applied Mechanics and Engineering",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
       "doi": "10.1016/j.cma.2024.116902",
       "title": "Bayesian reinforcement learning reliability analysis",
       "journal": "Computer Methods in Applied Mechanics and Engineering",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.cma.2024.117229",
       "title": "MODNO: Multi-Operator learning with Distributed Neural Operators",
       "journal": "Computer Methods in Applied Mechanics and Engineering",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.cma.2024.117540",
       "title": "Physics-Informed Geometry-Aware Neural Operator",
       "journal": "Computer Methods in Applied Mechanics and Engineering",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.cma.2025.118113",
       "title": "A resolution independent neural operator",
       "journal": "Computer Methods in Applied Mechanics and Engineering",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.cma.2025.118151",
       "title": "Generalizability of local neural operator: Example for elastodynamic problems",
       "journal": "Computer Methods in Applied Mechanics and Engineering",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.cma.2026.118989",
       "title": "NOWS: Neural Operator Warm Starts for accelerating iterative solvers",
       "journal": "Computer Methods in Applied Mechanics and Engineering",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.cma.2026.119228",
       "title": "Variationally correct operator learning: Reduced basis neural operator with a posteriori error estimation",
       "journal": "Computer Methods in Applied Mechanics and Engineering",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.cmpbup.2024.100166",
@@ -2067,6 +2263,12 @@
       "title": "Systematic assessment of the Method of Moments with Interpolative Closure and guidelines for its application to soot particle dynamics in laminar and turbulent flames",
       "journal": "Combustion and Flame",
       "reason": "no_explicit_ai_method_in_title"
+    },
+    {
+      "doi": "10.1016/j.combustflame.2020.02.007",
+      "title": "Learning-based prediction of wildfire spread with real-time rate of spread measurement",
+      "journal": "Combustion and Flame",
+      "reason": "excluded_landscape_wildfire_or_remote_sensing_by_user_scope"
     },
     {
       "doi": "10.1016/j.combustflame.2020.05.017",
@@ -2837,52 +3039,22 @@
       "reason": "no_explicit_ai_method_in_title"
     },
     {
-      "doi": "10.1016/j.engappai.2018.07.003",
-      "title": "ThermalNet: A deep reinforcement learning-based combustion optimization system for coal-fired boiler",
-      "journal": "Engineering Applications of Artificial Intelligence",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
       "doi": "10.1016/j.engappai.2023.106383",
       "title": "Soft-margin Ellipsoid generative adversarial networks",
       "journal": "Engineering Applications of Artificial Intelligence",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
-      "doi": "10.1016/j.engappai.2023.106772",
-      "title": "Detection of slight variations in combustion conditions with machine learning and computer vision",
-      "journal": "Engineering Applications of Artificial Intelligence",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
-      "doi": "10.1016/j.engappai.2024.109374",
-      "title": "Machine learning-based prediction of swirl combustor operation from flame imaging",
-      "journal": "Engineering Applications of Artificial Intelligence",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
-      "doi": "10.1016/j.engappai.2024.109388",
-      "title": "Learning thermoacoustic interactions in combustors using a physics-informed neural network",
-      "journal": "Engineering Applications of Artificial Intelligence",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
-      "doi": "10.1016/j.engappai.2025.110574",
-      "title": "Self-supervised combustion state diagnosis using a noise-augmented generative adversarial network and flame image sequences",
-      "journal": "Engineering Applications of Artificial Intelligence",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.engappai.2025.111567",
       "title": "Physics-informed partitioned coupled neural operator for complex networks",
       "journal": "Engineering Applications of Artificial Intelligence",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.engappai.2026.115286",
       "title": "Anatomy-guided deep learning for visceral fat segmentation in positron emission tomography–computed tomography",
       "journal": "Engineering Applications of Artificial Intelligence",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1016/j.engstruct.2025.121084",
@@ -6149,10 +6321,16 @@
       "reason": "journal_outside_current_screening_list"
     },
     {
+      "doi": "10.1016/j.jqsrt.2020.107199",
+      "title": "A machine learning based efficient and compact full-spectrum correlated k-distribution model",
+      "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+      "reason": "combustion_relevance_not_clear_from_title"
+    },
+    {
       "doi": "10.1016/j.jsv.2022.117245",
       "title": "Active control of combustion oscillation with active disturbance rejection control (ADRC) method",
       "journal": "Journal of Sound and Vibration",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "no_explicit_ai_method_in_title"
     },
     {
       "doi": "10.1016/j.jvs.2021.07.119",
@@ -7634,7 +7812,7 @@
       "doi": "10.1029/2026gl124075",
       "title": "Event‐Level Attribution of Wildfire Ignition Cause: A Machine‐Learning Approach",
       "journal": "Geophysical Research Letters",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "excluded_landscape_wildfire_or_remote_sensing_by_user_scope"
     },
     {
       "doi": "10.1037/rev0000639",
@@ -7844,7 +8022,7 @@
       "doi": "10.1038/s44172-025-00459-6",
       "title": "Leveraging satellite observations and machine learning for underwater sound speed estimation",
       "journal": "Communications Engineering",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "excluded_landscape_wildfire_or_remote_sensing_by_user_scope"
     },
     {
       "doi": "10.1038/scientificamerican1222-19",
@@ -7863,6 +8041,12 @@
       "title": "Efficient neural network models of chemical kinetics using a latent asinh rate transformation",
       "journal": "Reaction Chemistry & Engineering",
       "reason": "journal_outside_current_screening_list"
+    },
+    {
+      "doi": "10.1039/d5cp02009c",
+      "title": "ChemKANs for combustion chemistry modeling and acceleration",
+      "journal": "Physical Chemistry Chemical Physics",
+      "reason": "no_explicit_ai_method_in_title"
     },
     {
       "doi": "10.1039/d6cp02074g",
@@ -8015,12 +8199,6 @@
       "reason": "journal_outside_current_screening_list"
     },
     {
-      "doi": "10.1063/1.5120815",
-      "title": "Early detection of thermoacoustic combustion oscillations using a methodology combining statistical complexity and machine learning",
-      "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
       "doi": "10.1063/1.5126880",
       "title": "Thermoacoustic endoscopy",
       "journal": "Applied Physics Letters",
@@ -8033,12 +8211,6 @@
       "reason": "journal_outside_current_screening_list"
     },
     {
-      "doi": "10.1063/5.0038817",
-      "title": "Early detection of thermoacoustic instabilities in a cryogenic rocket thrust chamber using combustion noise features and machine learning",
-      "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
       "doi": "10.1063/5.0040100",
       "title": "Physics-informed machine learning model for bias temperature instability",
       "journal": "AIP Advances",
@@ -8048,13 +8220,7 @@
       "doi": "10.1063/5.0060697",
       "title": "Stiff neural ordinary differential equations",
       "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
-      "doi": "10.1063/5.0086649",
-      "title": "Physics-informed neural networks and functional interpolation for stiff chemical kinetics",
-      "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "combustion_relevance_not_clear_from_title"
     },
     {
       "doi": "10.1063/5.0097554",
@@ -10313,58 +10479,34 @@
       "reason": "journal_outside_current_screening_list"
     },
     {
-      "doi": "10.1177/1468087419833269",
-      "title": "Machine learning–based analysis of in-cylinder flow fields to predict combustion engine performance",
-      "journal": "International Journal of Engine Research",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
       "doi": "10.1177/1468087419872398",
       "title": "Spray characterization for engine combustion network Spray G injector using high-fidelity simulation with detailed injector geometry",
       "journal": "International Journal of Engine Research",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "no_explicit_ai_method_in_title"
     },
     {
       "doi": "10.1177/1468087419882247",
       "title": "Engine combustion network special issue",
       "journal": "International Journal of Engine Research",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "no_explicit_ai_method_in_title"
     },
     {
       "doi": "10.1177/1468087420960612",
       "title": "Coupled in-nozzle flow and spray simulation of Engine Combustion Network Spray-G injector",
       "journal": "International Journal of Engine Research",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
-      "doi": "10.1177/14680874241226580",
-      "title": "Reinforcement learning applied to dilute combustion control for increased fuel efficiency",
-      "journal": "International Journal of Engine Research",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "no_explicit_ai_method_in_title"
     },
     {
       "doi": "10.1177/14680874241260363",
       "title": "Influence of spray-to-spray interaction after wall impingement of spray flames on diesel combustion characteristics",
       "journal": "International Journal of Engine Research",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
-      "doi": "10.1177/14680874251377140",
-      "title": "Evaluation of machine learning models for optimization of internal combustion engines: A comparative study",
-      "journal": "International Journal of Engine Research",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "no_explicit_ai_method_in_title"
     },
     {
       "doi": "10.1177/14680874251410457",
       "title": "Multi-objective performance optimization of an active pre-chamber combustion engine",
       "journal": "International Journal of Engine Research",
-      "reason": "journal_outside_current_screening_list"
-    },
-    {
-      "doi": "10.1177/14680874261487974",
-      "title": "A physics–machine learning hybrid model for ignition-delay estimation considering negative temperature coefficient behavior",
-      "journal": "International Journal of Engine Research",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "no_explicit_ai_method_in_title"
     },
     {
       "doi": "10.1177/17568277221139974",
@@ -12656,7 +12798,7 @@
       "doi": "10.3390/fire9040138",
       "title": "Inferring Wildfire Ignition Causes in Spain Using Machine Learning and Explainable AI",
       "journal": "Fire",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "excluded_landscape_wildfire_or_remote_sensing_by_user_scope"
     },
     {
       "doi": "10.3390/fire9040149",
@@ -13082,7 +13224,7 @@
       "doi": "10.3724/j.1006-8775.2026.019",
       "title": "Neural Network-based Forward Operator for Visible Satellite Images",
       "journal": "Journal of Tropical Meteorology",
-      "reason": "journal_outside_current_screening_list"
+      "reason": "excluded_landscape_wildfire_or_remote_sensing_by_user_scope"
     },
     {
       "doi": "10.3724/sp.j.1089.2021.18457",

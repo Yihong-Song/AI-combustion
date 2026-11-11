@@ -1,0 +1,14 @@
+{
+  "repository": "deepcombustion/deepcombustion",
+  "url": "https://github.com/deepcombustion/deepcombustion",
+  "retrieved_at": "2026-11-11T16:49:28.653373+00:00",
+  "commit": "4ab841b4d9fdcbe68adca1dc5a96a475f246d99a",
+  "readme_path": "evidence/upstream/deepcombustion__deepcombustion.readme.txt",
+  "readme_url": "https://github.com/deepcombustion/deepcombustion/blob/4ab841b4d9fdcbe68adca1dc5a96a475f246d99a/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/deepcombustion__deepcombustion.license.txt",
+  "license_url": "https://github.com/deepcombustion/deepcombustion/blob/4ab841b4d9fdcbe68adca1dc5a96a475f246d99a/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:50.837083+00:00"
+}

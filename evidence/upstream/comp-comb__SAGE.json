@@ -1,0 +1,14 @@
+{
+  "repository": "comp-comb/SAGE",
+  "url": "https://github.com/comp-comb/SAGE",
+  "retrieved_at": "2026-11-11T16:48:47.934544+00:00",
+  "commit": "04ac7006840838da7e1d53c8546360f8afe23a1e",
+  "readme_path": "evidence/upstream/comp-comb__SAGE.readme.txt",
+  "readme_url": "https://github.com/comp-comb/SAGE/blob/04ac7006840838da7e1d53c8546360f8afe23a1e/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/comp-comb__SAGE.license.txt",
+  "license_url": "https://github.com/comp-comb/SAGE/blob/04ac7006840838da7e1d53c8546360f8afe23a1e/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "GPL-3.0",
+  "api_checked_at": "2026-11-11T16:48:58.837751+00:00"
+}

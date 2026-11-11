@@ -1,0 +1,423 @@
+{
+  "query": "combustion \"neural\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:45:57.800854+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 1131,
+  "url": "https://api.github.com/search/repositories?q=combustion+%22neural%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "DENG-MIT/CRNN",
+      "description": "Chemical Reaction Neural Network",
+      "html_url": "https://github.com/DENG-MIT/CRNN",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 40351,
+      "fork": false,
+      "updated_at": "2026-10-28T02:39:42Z"
+    },
+    {
+      "full_name": "mathworks/MATLAB-Simulink-Challenge-Project-Hub",
+      "description": "This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.",
+      "html_url": "https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 52513,
+      "fork": false,
+      "updated_at": "2026-11-11T13:12:15Z"
+    },
+    {
+      "full_name": "flameFoam/flameFoam",
+      "description": "Premixed turbulent combustion solver",
+      "html_url": "https://github.com/flameFoam/flameFoam",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 162,
+      "fork": false,
+      "updated_at": "2026-06-15T21:00:21Z"
+    },
+    {
+      "full_name": "JieSun-pku/detonationFoam",
+      "description": "detonationFoam: An open-source solver for simulation of gaseous detonation based on OpenFOAM.",
+      "html_url": "https://github.com/JieSun-pku/detonationFoam",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 8626,
+      "fork": false,
+      "updated_at": "2026-11-05T03:03:57Z"
+    },
+    {
+      "full_name": "PacktPublishing/Python-Machine-Learning-Cookbook-Second-Edition",
+      "description": null,
+      "html_url": "https://github.com/PacktPublishing/Python-Machine-Learning-Cookbook-Second-Edition",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 33280,
+      "fork": false,
+      "updated_at": "2026-09-04T13:09:12Z"
+    },
+    {
+      "full_name": "ZmengXu/Artificial-neural-network-FGM",
+      "description": "To simplify the Flamelet-Generated Manifold (FGM) combustion model tables using an artificial neural network (ANN).",
+      "html_url": "https://github.com/ZmengXu/Artificial-neural-network-FGM",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 20,
+      "fork": false,
+      "updated_at": "2026-09-10T18:29:59Z"
+    },
+    {
+      "full_name": "tianhanz/DNN-Models-for-Chemical-Kinetics",
+      "description": null,
+      "html_url": "https://github.com/tianhanz/DNN-Models-for-Chemical-Kinetics",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 32863,
+      "fork": false,
+      "updated_at": "2026-11-10T03:12:32Z"
+    },
+    {
+      "full_name": "lmmentel/awesome-python-chemistry",
+      "description": "A curated list of Python packages related to chemistry ",
+      "html_url": "https://github.com/lmmentel/awesome-python-chemistry",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 241,
+      "fork": false,
+      "updated_at": "2026-11-06T19:37:20Z"
+    },
+    {
+      "full_name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "html_url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 69,
+      "fork": false,
+      "updated_at": "2026-11-04T13:01:27Z"
+    },
+    {
+      "full_name": "axonyxquantum/novaturbo",
+      "description": "AI-Powered Micro Turbojet Engine Design System — Computational engineering for autonomous engine design",
+      "html_url": "https://github.com/axonyxquantum/novaturbo",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1188,
+      "fork": false,
+      "updated_at": "2026-10-26T01:57:40Z"
+    },
+    {
+      "full_name": "robmarkcole/fire-detection-from-images",
+      "description": "Detect fire in images using neural nets",
+      "html_url": "https://github.com/robmarkcole/fire-detection-from-images",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 138418,
+      "fork": false,
+      "updated_at": "2026-11-01T19:55:24Z"
+    },
+    {
+      "full_name": "PacktPublishing/Keras-2.x-Projects",
+      "description": "Published by Packt",
+      "html_url": "https://github.com/PacktPublishing/Keras-2.x-Projects",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 204,
+      "fork": false,
+      "updated_at": "2026-03-18T02:05:46Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "tongzhugroup/mddatasetbuilder",
+      "description": "A script to build reference datasets for training neural network potentials from given LAMMPS trajectories.",
+      "html_url": "https://github.com/tongzhugroup/mddatasetbuilder",
+      "license": {
+        "key": "lgpl-3.0",
+        "name": "GNU Lesser General Public License v3.0",
+        "spdx_id": "LGPL-3.0",
+        "url": "https://api.github.com/licenses/lgpl-3.0",
+        "node_id": "MDc6TGljZW5zZTEy"
+      },
+      "size": 338,
+      "fork": false,
+      "updated_at": "2026-09-29T12:01:00Z"
+    },
+    {
+      "full_name": "DENG-MIT/Biomass.jl",
+      "description": "Modeling Biomass Pyrolysis in Julia",
+      "html_url": "https://github.com/DENG-MIT/Biomass.jl",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 93,
+      "fork": false,
+      "updated_at": "2026-11-09T13:09:36Z"
+    },
+    {
+      "full_name": "zikribayraktar/Carbon_Capture_ML",
+      "description": "Survey of all published Carbon Capture ML papers, data, code and supplemental materials for the benefit of all humanity",
+      "html_url": "https://github.com/zikribayraktar/Carbon_Capture_ML",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 161,
+      "fork": false,
+      "updated_at": "2026-08-19T14:12:45Z"
+    },
+    {
+      "full_name": "Mohamedelrefaie/DrivAerNet",
+      "description": "A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks",
+      "html_url": "https://github.com/Mohamedelrefaie/DrivAerNet",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 1018,
+      "fork": false,
+      "updated_at": "2026-11-11T15:51:29Z"
+    },
+    {
+      "full_name": "yui-py/How-to-learn-Machine-Learning",
+      "description": null,
+      "html_url": "https://github.com/yui-py/How-to-learn-Machine-Learning",
+      "license": null,
+      "size": 51525,
+      "fork": false,
+      "updated_at": "2026-01-09T07:14:07Z"
+    },
+    {
+      "full_name": "pierremtb/POD-UQNN",
+      "description": "Uncertainty Quantification in the POD-NN framework",
+      "html_url": "https://github.com/pierremtb/POD-UQNN",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 9644,
+      "fork": false,
+      "updated_at": "2025-10-27T11:13:22Z"
+    },
+    {
+      "full_name": "Sulstice/Cheminformatics-Teaching-Material",
+      "description": "Resources, Code, and Other things I use to teach Cheminformatics. ",
+      "html_url": "https://github.com/Sulstice/Cheminformatics-Teaching-Material",
+      "license": null,
+      "size": 9144,
+      "fork": false,
+      "updated_at": "2026-11-09T16:54:23Z"
+    },
+    {
+      "full_name": "pswpswpsw/paper-nif",
+      "description": null,
+      "html_url": "https://github.com/pswpswpsw/paper-nif",
+      "license": null,
+      "size": 66919,
+      "fork": false,
+      "updated_at": "2026-07-12T03:36:28Z"
+    },
+    {
+      "full_name": "ArnauMiro/pyLowOrder",
+      "description": "High performance parallel reduced order Modelling library",
+      "html_url": "https://github.com/ArnauMiro/pyLowOrder",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 230435,
+      "fork": false,
+      "updated_at": "2026-10-17T19:59:15Z"
+    },
+    {
+      "full_name": "blutjens/awesome-MIT-ai-for-climate-change",
+      "description": "🌍 A curated list of MIT faculty that tackle climate change with machine learning for applying students, undergraduates, or others ",
+      "html_url": "https://github.com/blutjens/awesome-MIT-ai-for-climate-change",
+      "license": null,
+      "size": 188,
+      "fork": false,
+      "updated_at": "2026-09-04T13:47:16Z"
+    },
+    {
+      "full_name": "deepflame-ai/DFODE-kit",
+      "description": null,
+      "html_url": "https://github.com/deepflame-ai/DFODE-kit",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 86408,
+      "fork": false,
+      "updated_at": "2026-07-13T14:59:17Z"
+    },
+    {
+      "full_name": "leoxthomas/EngineFaultDB",
+      "description": "EngineFaultDB: A Novel Dataset for Automotive Engine Fault Classification and Baseline Results [IEEE Access]",
+      "html_url": "https://github.com/leoxthomas/EngineFaultDB",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 2288,
+      "fork": false,
+      "updated_at": "2026-10-14T09:12:00Z"
+    },
+    {
+      "full_name": "thw1021/Code4CFD",
+      "description": "A curated list of repositories related to fluid dynamics.",
+      "html_url": "https://github.com/thw1021/Code4CFD",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 135,
+      "fork": false,
+      "updated_at": "2026-10-24T03:07:28Z"
+    },
+    {
+      "full_name": "uqyge/neuralODE_combustion",
+      "description": "neural ode applied in combustion modelling",
+      "html_url": "https://github.com/uqyge/neuralODE_combustion",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 218000,
+      "fork": false,
+      "updated_at": "2025-10-30T14:30:33Z"
+    },
+    {
+      "full_name": "AI4Electricity/Awesome-AI-for-Electricity",
+      "description": "Awesome AI for Electricity",
+      "html_url": "https://github.com/AI4Electricity/Awesome-AI-for-Electricity",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3117,
+      "fork": false,
+      "updated_at": "2026-11-02T18:48:23Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-pinns",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 507,
+      "fork": false,
+      "updated_at": "2026-11-11T05:40:41Z"
+    }
+  ]
+}

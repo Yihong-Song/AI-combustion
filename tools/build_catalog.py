@@ -11,7 +11,7 @@ from direction_content import DIRECTIONS
 
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
-DATE = "2026-11-11"
+DATE = "2026-11-12"
 STATUS = {
     "provisional_q1_q2": "二级来源报告 Q1/Q2，JCR 版本待官方核实",
     "pending_jcr": "JCR 分区待核实",
@@ -66,6 +66,10 @@ def md(value):
 
 
 def license_name(text):
+    if "educational, research, and not-for-profit purposes" in text:
+        return "research-and-nonprofit-only (not OSI)", False
+    if "Clear BSD License" in text:
+        return "BSD-3-Clause-Clear", True
     if "Prosperity Public License" in text:
         return "Prosperity-3.0.0 (noncommercial; not OSI)", False
     if "PolyForm Noncommercial" in text:
@@ -84,7 +88,9 @@ def license_name(text):
 
 
 def packages(curated):
-    repositories = set(SUPPORT) | {item["repository"] for item in curated.values()}
+    support = dict(SUPPORT)
+    support.update(json.loads((ROOT / "literature/open_support_packages.json").read_text(encoding="utf-8")))
+    repositories = set(support) | {item["repository"] for item in curated.values()}
     output = []
     for repository in sorted(repositories, key=str.casefold):
         source = ROOT / "evidence/upstream" / (repository.replace("/", "__") + ".json")
@@ -92,7 +98,7 @@ def packages(curated):
             continue
         data = json.loads(source.read_text(encoding="utf-8"))
         key = repository.replace("/", "__")
-        entry = {"id": key, "repository": repository, "url": data["url"], "commit": data.get("commit"), "retrieved_at": data.get("api_checked_at", data.get("retrieved_at")), "relationship": "supporting_tool", "paper_dois": sorted(doi for doi, item in curated.items() if item["repository"] == repository), "note": SUPPORT.get(repository, "论文对应与入口见关联论文卡。"), "license": "not_located", "redistribution_enabled": False, "execution_status": "not_executed", "inspection_evidence": source.relative_to(ROOT).as_posix()}
+        entry = {"id": key, "repository": repository, "url": data["url"], "commit": data.get("commit"), "retrieved_at": data.get("api_checked_at", data.get("retrieved_at")), "relationship": "supporting_tool", "paper_dois": sorted(doi for doi, item in curated.items() if item["repository"] == repository), "note": support.get(repository, "论文对应与入口见关联论文卡。"), "license": "not_located", "redistribution_enabled": False, "execution_status": "not_executed", "inspection_evidence": source.relative_to(ROOT).as_posix()}
         if entry["paper_dois"]:
             entry["relationship"] = "paper_link_reviewed"
         if data.get("license_path"):
@@ -127,16 +133,22 @@ def packages(curated):
         if demo_path.exists() and repository == "TaoRen-Rad/WSGG-H2O-CO2-NH3":
             entry["execution_status"] = "author_demo_executed"
             entry["execution_evidence"] = demo_path.relative_to(ROOT).as_posix()
+        subcase_path = ROOT / "reproductions/C02_flamepinn_case1/results/metrics.json"
+        if subcase_path.exists() and repository == "CAME-THU/FlamePINN-1D":
+            entry["execution_status"] = "trained_preprint_subcase_compared"
+            entry["execution_evidence"] = subcase_path.relative_to(ROOT).as_posix()
         output.append(entry)
     return output
 
 
 def main():
     curated = json.loads((ROOT / "literature/curation.json").read_text(encoding="utf-8"))
+    curated.update(json.loads((ROOT / "literature/open_work_additions.json").read_text(encoding="utf-8")))
     candidate_source = ROOT / "literature/screened_candidates.json"
     if not candidate_source.exists():
         candidate_source = ROOT / "catalog/papers.json"
     candidates = json.loads(candidate_source.read_text(encoding="utf-8"))
+    candidates = [paper for paper in candidates if not re.search(r"wildfire|wildland|forest.fire|vegetation.fire|landscape.fire|burned.area|burnt.area|satellite|remote.sens|global.fire", paper["title"], re.I)]
     code_packages = packages(curated)
     package_index = {item["repository"]: item for item in code_packages}
     journals = {item["journal"]: item for path in (ROOT / "evidence/journals").glob("*.json") if (item := json.loads(path.read_text(encoding="utf-8")))}
@@ -163,6 +175,9 @@ def main():
         if package.get("execution_status") == "author_demo_executed":
             paper["reproduction"]["status"] = "author_demo_executed_not_paper_metric_reproduction"
             paper["reproduction"]["evidence"] = package["execution_evidence"]
+        if package.get("execution_status") == "trained_preprint_subcase_compared":
+            paper["reproduction"]["status"] = "trained_preprint_subcase_compared"
+            paper["reproduction"]["evidence"] = package["execution_evidence"]
         papers.append(paper)
     papers.sort(key=lambda item: (-item["year"], item["category"], item["doi"]))
     save_json("catalog/papers.json", papers)
@@ -170,6 +185,8 @@ def main():
     counts = collections.Counter(paper["jcr"]["status"] for paper in papers)
     stats = {"date": DATE, "candidate_papers": len(papers), "recent_2024_2026": sum(paper["year"] >= 2024 for paper in papers), "jcr_officially_verified": 0, "quartile_status": dict(counts), "reviewed_paper_code_links": sum(bool(paper["curated_note"]) for paper in papers), "code_packages": len(code_packages), "licensed_for_collection": sum(item["redistribution_enabled"] for item in code_packages), "archives_collected": sum(item["collection_status"] == "source_archive_collected" for item in code_packages), "executed_independent_baselines": 2, "published_paper_metrics_reproduced": 0}
     stats["executed_author_demos"] = sum(item["execution_status"] == "author_demo_executed" for item in code_packages)
+    stats["unique_packages_with_source"] = sum(item["collection_status"] in {"source_archive_collected", "partial_source_snapshot_collected"} for item in code_packages)
+    stats["trained_preprint_subcases"] = sum(item["execution_status"] == "trained_preprint_subcase_compared" for item in code_packages)
     stats["partial_source_snapshots_collected"] = sum(item.get("source_snapshot", {}).get("status") == "collected" for item in code_packages)
     save_json("catalog/stats.json", stats)
     csv_fields = ["id", "year", "title", "journal", "doi", "category", "subcategory", "jcr_status", "reported_best_quartile", "jcr_edition", "officially_verified", "reading_level", "code_status", "repository", "license", "path"]
@@ -191,7 +208,10 @@ def main():
         direction = DIRECTIONS[paper["category"]]
         author_text = "; ".join(paper["authors"])
         lines = ["# " + paper["title"], "", f"{paper['id']} · {paper['year']} · {paper['journal']}", "", f"作者：{author_text}", "", f"- DOI：[原文入口]({paper['doi_url']})", f"- 分类：{direction['name']} / {direction['sub'].get(paper['subcategory'], paper['subcategory'])}", f"- JCR：**{STATUS[paper['jcr']['status']]}**；报告最佳分区 {paper['jcr']['reported_best_quartile'] or '未知'}；版本未知；官方核实：否。", f"- 阅读深度：{'已核对元数据与上游 README，尚未完成全文精读' if paper['curated_note'] else '标题与元数据筛选，待摘要/全文复核'}。", "- 论文原始指标复现：**未执行**。", f"- [统一方法与证据等级]({back}docs/METHODOLOGY.md) · [方向说明]({back}{paper['category']}/README.md) · [全局地图]({back}00_literature_map/README.md)"]
-        if paper["reproduction"].get("evidence"):
+        lines = [line.replace("论文原始指标复现：**未执行**", "完整期刊论文复现：**尚未验收**") for line in lines]
+        if paper["reproduction"]["status"] == "trained_preprint_subcase_compared":
+            lines += ["", f"此前已完成预印本单工况训练：[C02 协议、误差和局限]({back}reproductions/C02_flamepinn_case1/README.md)。期刊全文指标复现仍未完成。"]
+        elif paper["reproduction"].get("evidence"):
             lines += ["", f"已执行作者演示：[命令、数值和适配记录]({back}reproductions/C01_wsgg_author_demo/README.md)；尚未重训或对照原文表格。"]
         if paper.get("metadata_warning"):
             lines += ["", "元数据提醒：题名含 Crossref 原始乱码；请以出版商页面核对，未擅自改写题名。"]

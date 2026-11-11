@@ -1,0 +1,60 @@
+{
+  "id": "P9b9c10a9d8",
+  "doi": "10.1016/j.cpc.2023.108842",
+  "title": "DeepFlame: A deep learning empowered open-source platform for reacting flow simulations",
+  "year": 2023,
+  "journal": "Computer Physics Communications",
+  "authors": [
+    "Runze Mao",
+    "Minqi Lin",
+    "Yan Zhang",
+    "Tianhan Zhang",
+    "Zhi-Qin John Xu",
+    "Zhi X. Chen"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/P9b9c10a9d8",
+  "doi_url": "https://doi.org/10.1016/j.cpc.2023.108842",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.cpc.2023.108842",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "not_located",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "deepflameCFD/deepflame-dev",
+    "relationship": "author_related_work_readme_explicit",
+    "commit": "29529093a73717fcac676f1f1ceed24c0cc932c7",
+    "license": "GPL-3.0 (inspect upstream terms)",
+    "package_id": "deepflameCFD__deepflame-dev",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "deepflameCFD/deepflame-dev",
+    "category": "01_chemistry_kinetics",
+    "subcategory": "01_surrogates_reduction",
+    "relationship": "author_related_work_readme_explicit",
+    "problem": "构建深度学习与传统反应流求解耦合的开源平台。",
+    "method": "DFODE-kit 的 Related papers 明确列此 DOI 对应的平台论文，并链接 DeepFlame。已固定的旧 deepflameCFD README 则给出平台引用而未列最终 DOI，因此保留生态相关实现关系，等待发表版与具体提交对齐。",
+    "entry": "先检查上游安装文档、bashrc、求解器和 tutorials，再选择一个与论文版本一致的典型反应流案例。",
+    "dependencies": "兼容的 OpenFOAM、Cantera、LibTorch、编译器和 MPI；旧提交的环境不能直接用本机 OpenFOAM 13 替代。",
+    "evaluation": "在相同网格、数值格式和化学误差阈值下，对比传统积分与 DNN 耦合的物理量、求解失败率和全链路耗时。",
+    "limitations": "部分网络权重上游说明需向作者申请；固定主分支不是自动等同论文发布版本。未执行本论文算例。"
+  }
+}

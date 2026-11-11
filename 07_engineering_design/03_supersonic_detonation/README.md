@@ -19,4 +19,5 @@
 | 2023 | [Reconstructing the flame in supersonic combustion flow by using the distribution of the wall pressure based on deep learning](P88fd4d65bd/README.md) | [10.1063/5.0155093](https://doi.org/10.1063/5.0155093) |
 | 2023 | [Predicting combustion behavior in rotating detonation engines using an interpretable deep learning method](P22eaaf5068/README.md) | [10.1063/5.0155991](https://doi.org/10.1063/5.0155991) |
 | 2022 | [A reconstruction method of detonation wave surface based on convolutional neural network](P16bb712d58/README.md) | [10.1016/j.fuel.2021.123068](https://doi.org/10.1016/j.fuel.2021.123068) |
+| 2021 | [Learning dominant physical processes with data-driven balance models](P3fe49a4002/README.md) | [10.1038/s41467-021-21331-z](https://doi.org/10.1038/s41467-021-21331-z) |
 | 2020 | [Reconstructing cellular surface of gaseous detonation based on artificial neural network and proper orthogonal decomposition](P88108ab606/README.md) | [10.1016/j.combustflame.2019.10.031](https://doi.org/10.1016/j.combustflame.2019.10.031) |

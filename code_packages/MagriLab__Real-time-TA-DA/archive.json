@@ -1,0 +1,11 @@
+{
+  "repository": "MagriLab/Real-time-TA-DA",
+  "commit": "5a4b485429a03596ece3581c36b43264d0308f25",
+  "source_url": "https://api.github.com/repos/MagriLab/Real-time-TA-DA/tarball/5a4b485429a03596ece3581c36b43264d0308f25",
+  "retrieved_at": "2026-11-11T17:00:12.602162+00:00",
+  "license": "MIT",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/MagriLab/Real-time-TA-DA/legacy.tar.gz/5a4b485429a03596ece3581c36b43264d0308f25",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.proci.2026.106558",
+  "title": "A reinforcement-learning framework for the control of fuel-vapour stratification via oscillating electric fields",
+  "query": "\"A reinforcement-learning framework for the control of fuel-vapour stratification via oscillating electric\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:47:34.782450+00:00",
+  "total_count": 0,
+  "items": []
+}

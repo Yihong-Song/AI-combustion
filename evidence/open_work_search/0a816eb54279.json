@@ -1,0 +1,369 @@
+{
+  "query": "ignition \"neural\" \"paper\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:48:04.120054+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 416,
+  "url": "https://api.github.com/search/repositories?q=ignition+%22neural%22+%22paper%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "gaia-solutions-on-demand/DFireDataset",
+      "description": "D-Fire: an image data set for fire and smoke detection.",
+      "html_url": "https://github.com/gaia-solutions-on-demand/DFireDataset",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 10627,
+      "fork": false,
+      "updated_at": "2026-11-10T08:26:40Z"
+    },
+    {
+      "full_name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 471615,
+      "fork": false,
+      "updated_at": "2026-11-11T16:42:00Z"
+    },
+    {
+      "full_name": "kengz/awesome-deep-rl",
+      "description": "A curated list of awesome Deep Reinforcement Learning resources.",
+      "html_url": "https://github.com/kengz/awesome-deep-rl",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 142,
+      "fork": false,
+      "updated_at": "2026-11-06T15:48:09Z"
+    },
+    {
+      "full_name": "Orion-AI-Lab/mesogeos",
+      "description": "A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean. Deep Learning models for wildfire modeling, e.g. danger forecasting, burned area prediction, etc",
+      "html_url": "https://github.com/Orion-AI-Lab/mesogeos",
+      "license": null,
+      "size": 13028,
+      "fork": false,
+      "updated_at": "2026-10-31T18:31:07Z"
+    },
+    {
+      "full_name": "jgvictores/awesome-deep-reinforcement-learning",
+      "description": "Curated list for Deep Reinforcement Learning (DRL): software frameworks, models, datasets, gyms, baselines...",
+      "html_url": "https://github.com/jgvictores/awesome-deep-reinforcement-learning",
+      "license": null,
+      "size": 3501,
+      "fork": false,
+      "updated_at": "2026-11-05T12:23:59Z"
+    },
+    {
+      "full_name": "ChanChiChoi/awesome-Face_Recognition",
+      "description": "papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval;",
+      "html_url": "https://github.com/ChanChiChoi/awesome-Face_Recognition",
+      "license": null,
+      "size": 468,
+      "fork": false,
+      "updated_at": "2026-11-11T09:32:28Z"
+    },
+    {
+      "full_name": "Ly0n/awesome-robotic-tooling",
+      "description": "Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.",
+      "html_url": "https://github.com/Ly0n/awesome-robotic-tooling",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 1911,
+      "fork": false,
+      "updated_at": "2026-11-11T04:41:58Z"
+    },
+    {
+      "full_name": "leoxthomas/EngineFaultDB",
+      "description": "EngineFaultDB: A Novel Dataset for Automotive Engine Fault Classification and Baseline Results [IEEE Access]",
+      "html_url": "https://github.com/leoxthomas/EngineFaultDB",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 2288,
+      "fork": false,
+      "updated_at": "2026-10-14T09:12:00Z"
+    },
+    {
+      "full_name": "theseus-labs-rsi/awesome-rsi",
+      "description": "A curated list of papers and resources on Recursive Self-Improvement (RSI) for AI.",
+      "html_url": "https://github.com/theseus-labs-rsi/awesome-rsi",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 3214,
+      "fork": false,
+      "updated_at": "2026-11-11T06:13:46Z"
+    },
+    {
+      "full_name": "thejoven/awesome-eliza",
+      "description": "A curated list of awesome things related to eliza framework.",
+      "html_url": "https://github.com/thejoven/awesome-eliza",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 962,
+      "fork": false,
+      "updated_at": "2026-11-01T20:37:58Z"
+    },
+    {
+      "full_name": "tlcdv/the_consciousness_ai",
+      "description": "The Consciousness AI",
+      "html_url": "https://github.com/tlcdv/the_consciousness_ai",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 57111,
+      "fork": false,
+      "updated_at": "2026-11-11T15:14:21Z"
+    },
+    {
+      "full_name": "xcaim04/wildfire-detector",
+      "description": "Final project in numerical mathematics",
+      "html_url": "https://github.com/xcaim04/wildfire-detector",
+      "license": null,
+      "size": 7015,
+      "fork": false,
+      "updated_at": "2026-10-18T13:22:50Z"
+    },
+    {
+      "full_name": "farzadhass/best-paper-and-high-citation",
+      "description": "AI Best Paper Awards and High Citation-",
+      "html_url": "https://github.com/farzadhass/best-paper-and-high-citation",
+      "license": null,
+      "size": 538,
+      "fork": false,
+      "updated_at": "2026-07-27T12:14:38Z"
+    },
+    {
+      "full_name": "engyasin/awesome-mechatronics",
+      "description": "A list of awesome mechatronics books, courses and software.",
+      "html_url": "https://github.com/engyasin/awesome-mechatronics",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 91,
+      "fork": false,
+      "updated_at": "2026-11-11T08:59:43Z"
+    },
+    {
+      "full_name": "infotiv-research/SIMLAN",
+      "description": "SIMLAN, Simulation for Multi-Camera Robotics",
+      "html_url": "https://github.com/infotiv-research/SIMLAN",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 207961,
+      "fork": false,
+      "updated_at": "2026-10-06T11:32:06Z"
+    },
+    {
+      "full_name": "mertyildiran/Plexus",
+      "description": "a novel object-oriented approach to the artificial neural networks inspired by synaptic plasticity between biological neurons",
+      "html_url": "https://github.com/mertyildiran/Plexus",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 346,
+      "fork": false,
+      "updated_at": "2026-11-07T01:18:24Z"
+    },
+    {
+      "full_name": "katopz/katgpt-rs",
+      "description": "A neuro-symbolic micro-Transformer with speculative decoding, constraint pruning, recurrent attention, and adaptive test-time scaling — built in Rust.",
+      "html_url": "https://github.com/katopz/katgpt-rs",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 202201,
+      "fork": false,
+      "updated_at": "2026-11-11T16:42:21Z"
+    },
+    {
+      "full_name": "HaoranLiu507/PulseShapeDiscrimination",
+      "description": "Comprehensive Pulse Shape Discrimination toolbox for radiation pulse signals separation, offering time- & frequency-domain, neural network, deep-learning, and machine-learning methods in Python + MATLAB with built-in preprocessing and evaluation utilities.",
+      "html_url": "https://github.com/HaoranLiu507/PulseShapeDiscrimination",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 950,
+      "fork": false,
+      "updated_at": "2026-06-27T13:56:18Z"
+    },
+    {
+      "full_name": "Wakjira-Tesama/Digital-Library-",
+      "description": null,
+      "html_url": "https://github.com/Wakjira-Tesama/Digital-Library-",
+      "license": null,
+      "size": 3255,
+      "fork": false,
+      "updated_at": "2026-10-07T18:55:25Z"
+    },
+    {
+      "full_name": "Picrew/awesome-rsi",
+      "description": "A curated collection of papers, research blogs, and open-source projects on recursive self-improvement (RSI), self-modifying agents, and iterative self-training.",
+      "html_url": "https://github.com/Picrew/awesome-rsi",
+      "license": null,
+      "size": 562,
+      "fork": false,
+      "updated_at": "2026-11-05T05:55:15Z"
+    },
+    {
+      "full_name": "tommytracey/DeepRL-P2-Continuous-Control",
+      "description": "Project 2 of Udacity's Deep Reinforcement Learning nanodegree program",
+      "html_url": "https://github.com/tommytracey/DeepRL-P2-Continuous-Control",
+      "license": null,
+      "size": 45583,
+      "fork": false,
+      "updated_at": "2026-03-14T17:17:37Z"
+    },
+    {
+      "full_name": "s88cj-stack/Lithicsoft-Trainer-Forge",
+      "description": "Professional Trainer Studio Generator Suite 2026 – Open Source AI Coaching Toolkit",
+      "html_url": "https://github.com/s88cj-stack/Lithicsoft-Trainer-Forge",
+      "license": null,
+      "size": 856,
+      "fork": false,
+      "updated_at": "2026-11-11T10:03:09Z"
+    },
+    {
+      "full_name": "sohamkarandikar391/multi_robot_task_allocation_env",
+      "description": "A Multi-Robot Task allocation project using RL for task allocation and Potential-Field based controller for collision avoidance with obstacles and other robots. Simulated using ROS2 and Gazebo.",
+      "html_url": "https://github.com/sohamkarandikar391/multi_robot_task_allocation_env",
+      "license": null,
+      "size": 792,
+      "fork": false,
+      "updated_at": "2026-08-03T05:16:53Z"
+    },
+    {
+      "full_name": "neurokinetikz/schumann",
+      "description": "Empirical discovery of φⁿ frequency organization in human neural oscillations, anchored to Schumann Resonance harmonics.",
+      "html_url": "https://github.com/neurokinetikz/schumann",
+      "license": null,
+      "size": 198526,
+      "fork": false,
+      "updated_at": "2026-11-10T03:30:06Z"
+    },
+    {
+      "full_name": "Orion-AI-Lab/WildFireSpread",
+      "description": "Code and Dataset for \"Wildfire Spread Forecast with Deep Learning\" paper",
+      "html_url": "https://github.com/Orion-AI-Lab/WildFireSpread",
+      "license": null,
+      "size": 1281586,
+      "fork": false,
+      "updated_at": "2026-11-02T08:19:54Z"
+    },
+    {
+      "full_name": "shaoxiang/awesome-unitree-robots",
+      "description": "A curated collection of open-source projects for Unitree robots (G1, Go2, B2, H1+), featuring ROS/ROS2, high-fidelity simulation (Isaac Sim, MuJoCo, Gazebo, PyBullet), motion control, RL, vision, and tutorials. The ultimate resource for researchers, developers, and enthusiasts building applications for Unitree humanoids and quadrupeds.",
+      "html_url": "https://github.com/shaoxiang/awesome-unitree-robots",
+      "license": null,
+      "size": 168,
+      "fork": false,
+      "updated_at": "2026-11-09T10:17:33Z"
+    },
+    {
+      "full_name": "yoursandeshshrestha/gemini-vibe-code",
+      "description": "build a prompt to one shot landing page in google ai studio",
+      "html_url": "https://github.com/yoursandeshshrestha/gemini-vibe-code",
+      "license": null,
+      "size": 172,
+      "fork": false,
+      "updated_at": "2026-11-05T03:37:02Z"
+    },
+    {
+      "full_name": "ishandutta2007/awesome-awesome-awesome",
+      "description": "😎 Awesome lists about all kinds of stuff for engineers and AI researchers 🌟 Star if you like it! 🌟",
+      "html_url": "https://github.com/ishandutta2007/awesome-awesome-awesome",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1308,
+      "fork": false,
+      "updated_at": "2026-11-09T23:54:11Z"
+    },
+    {
+      "full_name": "nheyr08/Embedded-Toy-Kart",
+      "description": null,
+      "html_url": "https://github.com/nheyr08/Embedded-Toy-Kart",
+      "license": null,
+      "size": 32,
+      "fork": false,
+      "updated_at": "2024-10-30T06:04:38Z"
+    },
+    {
+      "full_name": "ArminAzizi98/looped-lm-survey",
+      "description": null,
+      "html_url": "https://github.com/ArminAzizi98/looped-lm-survey",
+      "license": {
+        "key": "cc-by-4.0",
+        "name": "Creative Commons Attribution 4.0 International",
+        "spdx_id": "CC-BY-4.0",
+        "url": "https://api.github.com/licenses/cc-by-4.0",
+        "node_id": "MDc6TGljZW5zZTI1"
+      },
+      "size": 10653,
+      "fork": false,
+      "updated_at": "2026-10-27T14:07:30Z"
+    }
+  ]
+}

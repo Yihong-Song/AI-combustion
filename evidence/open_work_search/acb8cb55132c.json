@@ -1,0 +1,327 @@
+{
+  "query": "combustion \"active learning\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:47:20.077753+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 73,
+  "url": "https://api.github.com/search/repositories?q=combustion+%22active+learning%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "axonyxquantum/novaturbo",
+      "description": "AI-Powered Micro Turbojet Engine Design System — Computational engineering for autonomous engine design",
+      "html_url": "https://github.com/axonyxquantum/novaturbo",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1188,
+      "fork": false,
+      "updated_at": "2026-10-26T01:57:40Z"
+    },
+    {
+      "full_name": "flarecentury/mlpcopilot",
+      "description": "A vertical agent runtime for machine-learning-potential training.",
+      "html_url": "https://github.com/flarecentury/mlpcopilot",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 317670,
+      "fork": false,
+      "updated_at": "2026-11-05T11:08:41Z"
+    },
+    {
+      "full_name": "THGLab/H2Combustion_AL",
+      "description": null,
+      "html_url": "https://github.com/THGLab/H2Combustion_AL",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 197020,
+      "fork": false,
+      "updated_at": "2025-03-03T15:24:19Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "Abhichy18/ThermalEye",
+      "description": null,
+      "html_url": "https://github.com/Abhichy18/ThermalEye",
+      "license": null,
+      "size": 17082,
+      "fork": false,
+      "updated_at": "2026-09-30T17:30:27Z"
+    },
+    {
+      "full_name": "lz1025/AL-GA-combustion",
+      "description": "Active-learning genetic algorithm framework with CatBoost surrogate models for NH3/H2/n-heptane combustion mechanism    calibration",
+      "html_url": "https://github.com/lz1025/AL-GA-combustion",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3718,
+      "fork": false,
+      "updated_at": "2026-07-31T14:09:03Z"
+    },
+    {
+      "full_name": "Sala2Code/Active-Learning-Model-Comparison-Thermite-Nanomaterials",
+      "description": null,
+      "html_url": "https://github.com/Sala2Code/Active-Learning-Model-Comparison-Thermite-Nanomaterials",
+      "license": null,
+      "size": 20292,
+      "fork": false,
+      "updated_at": "2024-09-28T15:43:43Z"
+    },
+    {
+      "full_name": "MingshuoZhou/MingshuoZhou",
+      "description": "Config files for my GitHub profile.",
+      "html_url": "https://github.com/MingshuoZhou/MingshuoZhou",
+      "license": null,
+      "size": 2,
+      "fork": false,
+      "updated_at": "2026-09-01T06:30:49Z"
+    },
+    {
+      "full_name": "ShuaiGuo16/General-Risk-Analysis-Framework",
+      "description": "Project source code and data for ML-enhanced risk analysis framework for combustion instability prediction",
+      "html_url": "https://github.com/ShuaiGuo16/General-Risk-Analysis-Framework",
+      "license": null,
+      "size": 96819,
+      "fork": false,
+      "updated_at": "2022-04-28T14:16:03Z"
+    },
+    {
+      "full_name": "NickOmek/mof-co2-active-learning",
+      "description": "ML-accelerated screening of metal–organic frameworks for CO₂ capture using active learning",
+      "html_url": "https://github.com/NickOmek/mof-co2-active-learning",
+      "license": null,
+      "size": 2918,
+      "fork": false,
+      "updated_at": "2026-10-13T02:35:34Z"
+    },
+    {
+      "full_name": "flarecentury/Auto-MLP",
+      "description": null,
+      "html_url": "https://github.com/flarecentury/Auto-MLP",
+      "license": null,
+      "size": 334263,
+      "fork": false,
+      "updated_at": "2026-06-02T13:29:40Z"
+    },
+    {
+      "full_name": "bmsabry/smallgasturbine-gt05",
+      "description": "Login-gated interactive learning module for GT-05 Centrifugal Compressor (ProReadyEngineer Small Jet Engine Design Training).",
+      "html_url": "https://github.com/bmsabry/smallgasturbine-gt05",
+      "license": null,
+      "size": 91,
+      "fork": false,
+      "updated_at": "2026-07-02T11:58:46Z"
+    },
+    {
+      "full_name": "musyoku/papers",
+      "description": "実装するリスト",
+      "html_url": "https://github.com/musyoku/papers",
+      "license": null,
+      "size": 9,
+      "fork": false,
+      "updated_at": "2023-08-25T03:57:12Z"
+    },
+    {
+      "full_name": "dhruvapte26/mdid-project",
+      "description": "Subject project undertaken in Spring semester of 2016-17 for the subject Machine Design and Industrial Drafting",
+      "html_url": "https://github.com/dhruvapte26/mdid-project",
+      "license": null,
+      "size": 9,
+      "fork": false,
+      "updated_at": "2017-09-28T15:06:19Z"
+    },
+    {
+      "full_name": "Sobia020/combustion-kinetics-ml-surrogate",
+      "description": "A neural network surrogate for methane ignition delay and ignition dynamics, trained on Cantera-generated kinetics data and benchmarked against direct simulation. ⚗️⚡",
+      "html_url": "https://github.com/Sobia020/combustion-kinetics-ml-surrogate",
+      "license": null,
+      "size": 783,
+      "fork": false,
+      "updated_at": "2026-09-10T08:33:30Z"
+    },
+    {
+      "full_name": "Rifat19R/Rifat19R",
+      "description": "Config files for my GitHub profile.",
+      "html_url": "https://github.com/Rifat19R/Rifat19R",
+      "license": null,
+      "size": 29,
+      "fork": false,
+      "updated_at": "2026-11-09T21:02:25Z"
+    },
+    {
+      "full_name": "AmitPatel-analyst/AmitPatel-analyst",
+      "description": "Config files for my GitHub profile.",
+      "html_url": "https://github.com/AmitPatel-analyst/AmitPatel-analyst",
+      "license": null,
+      "size": 772,
+      "fork": false,
+      "updated_at": "2024-10-09T07:27:41Z"
+    },
+    {
+      "full_name": "deusrapha/CaNeSy-eNose-3",
+      "description": "MTL CaNeSy-eNose",
+      "html_url": "https://github.com/deusrapha/CaNeSy-eNose-3",
+      "license": null,
+      "size": 994,
+      "fork": false,
+      "updated_at": "2026-07-23T14:50:53Z"
+    },
+    {
+      "full_name": "ZeHeru/Awesome-ML-Force-Field-Long-Range",
+      "description": "Awesome list of machine learning force fields with long-range interactions",
+      "html_url": "https://github.com/ZeHeru/Awesome-ML-Force-Field-Long-Range",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1226,
+      "fork": false,
+      "updated_at": "2026-06-14T21:02:21Z"
+    },
+    {
+      "full_name": "WonbinLee067/AI810-Blog-Post-20223492-Paper-2",
+      "description": null,
+      "html_url": "https://github.com/WonbinLee067/AI810-Blog-Post-20223492-Paper-2",
+      "license": null,
+      "size": 3081,
+      "fork": false,
+      "updated_at": "2025-06-01T15:00:49Z"
+    },
+    {
+      "full_name": "zenggs05/zenggs05",
+      "description": null,
+      "html_url": "https://github.com/zenggs05/zenggs05",
+      "license": null,
+      "size": 2402,
+      "fork": false,
+      "updated_at": "2026-10-27T02:24:46Z"
+    },
+    {
+      "full_name": "lizhihao2022/Awesome-AI4PDE",
+      "description": "Awesome AI4PDE is a curated list of resources and literature focusing on the intersection of Artificial Intelligence and Partial Differential Equations (PDEs).",
+      "html_url": "https://github.com/lizhihao2022/Awesome-AI4PDE",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 359,
+      "fork": false,
+      "updated_at": "2026-11-08T14:40:02Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-pinns",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 507,
+      "fork": false,
+      "updated_at": "2026-11-11T05:40:41Z"
+    },
+    {
+      "full_name": "gbstack/AAAI-2022-papers",
+      "description": "AAAI 2022 papers with code",
+      "html_url": "https://github.com/gbstack/AAAI-2022-papers",
+      "license": null,
+      "size": 74,
+      "fork": false,
+      "updated_at": "2026-11-02T06:04:52Z"
+    },
+    {
+      "full_name": "liliu-avril/Awesome-Segment-Anything",
+      "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM). ",
+      "html_url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 6486,
+      "fork": false,
+      "updated_at": "2026-11-11T13:05:11Z"
+    },
+    {
+      "full_name": "dhruvtalmale435-lab/heatwatch",
+      "description": null,
+      "html_url": "https://github.com/dhruvtalmale435-lab/heatwatch",
+      "license": null,
+      "size": 1454,
+      "fork": false,
+      "updated_at": "2026-09-01T20:13:43Z"
+    },
+    {
+      "full_name": "bjoyce3/Curriculum_vitae",
+      "description": "The curriculum vitae of Blake Joyce, PhD",
+      "html_url": "https://github.com/bjoyce3/Curriculum_vitae",
+      "license": null,
+      "size": 18,
+      "fork": false,
+      "updated_at": "2016-02-22T20:10:09Z"
+    },
+    {
+      "full_name": "aobertas/astro-reference-list",
+      "description": "A list of recommended/suggested references for topics in astro/physics",
+      "html_url": "https://github.com/aobertas/astro-reference-list",
+      "license": null,
+      "size": 99,
+      "fork": false,
+      "updated_at": "2026-11-10T06:32:18Z"
+    },
+    {
+      "full_name": "ewdhp/molecular_physics",
+      "description": null,
+      "html_url": "https://github.com/ewdhp/molecular_physics",
+      "license": null,
+      "size": 75,
+      "fork": false,
+      "updated_at": "2025-11-19T04:49:24Z"
+    }
+  ]
+}

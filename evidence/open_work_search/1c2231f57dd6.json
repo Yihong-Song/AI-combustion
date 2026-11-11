@@ -1,0 +1,375 @@
+{
+  "query": "\"reaction kinetics\" \"symbolic\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:49:32.667834+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 94,
+  "url": "https://api.github.com/search/repositories?q=%22reaction+kinetics%22+%22symbolic%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "dowlinglab/pyomo-doe",
+      "description": "Workshop tutorials for Pyomo.DoE",
+      "html_url": "https://github.com/dowlinglab/pyomo-doe",
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "size": 670426,
+      "fork": false,
+      "updated_at": "2026-09-25T15:00:36Z"
+    },
+    {
+      "full_name": "DingyangLyu/MatClaw",
+      "description": "MatClaw: an open materials-science agent that turns natural-language tasks into reproducible simulation workflows.",
+      "html_url": "https://github.com/DingyangLyu/MatClaw",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 144795,
+      "fork": false,
+      "updated_at": "2026-11-09T19:47:34Z"
+    },
+    {
+      "full_name": "siva-viknesh/ADAM-SINDy",
+      "description": "Differentiable Optimization Methodology for Parameterized Nonlinear Dynamical System Identification",
+      "html_url": "https://github.com/siva-viknesh/ADAM-SINDy",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 31878,
+      "fork": false,
+      "updated_at": "2026-10-18T08:22:45Z"
+    },
+    {
+      "full_name": "JR-1991/Catalax",
+      "description": "🏍️ - JAX-based framework to model biological systems",
+      "html_url": "https://github.com/JR-1991/Catalax",
+      "license": null,
+      "size": 42744,
+      "fork": false,
+      "updated_at": "2026-11-07T01:29:12Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-mechanistic-interpretability",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Mechanistic Interpretability, a growing subfield in machine learning interpretability research that aims to reverse-engineer neural networks into understandable computational components.",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-mechanistic-interpretability",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 691,
+      "fork": false,
+      "updated_at": "2026-11-11T05:15:42Z"
+    },
+    {
+      "full_name": "amanbadave7/Mathcad-Engineering-Math-Suite",
+      "description": "Mathcad 2026 Engineering Math Setup for Windows 11 and 10: Install Guide",
+      "html_url": "https://github.com/amanbadave7/Mathcad-Engineering-Math-Suite",
+      "license": null,
+      "size": 592,
+      "fork": false,
+      "updated_at": "2026-11-11T11:29:47Z"
+    },
+    {
+      "full_name": "blaiszik/awesome-matchem-datasets",
+      "description": null,
+      "html_url": "https://github.com/blaiszik/awesome-matchem-datasets",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1976,
+      "fork": false,
+      "updated_at": "2026-11-11T16:08:43Z"
+    },
+    {
+      "full_name": "usmansafdarktk/EngTrace",
+      "description": "A new benchmark for engineering problems.",
+      "html_url": "https://github.com/usmansafdarktk/EngTrace",
+      "license": null,
+      "size": 37932,
+      "fork": false,
+      "updated_at": "2026-10-12T14:37:33Z"
+    },
+    {
+      "full_name": "Saun-JaySamuels/BME-MATLAB-PROJECTS",
+      "description": "MATLAB scripts from BME coursework at FGCU; cardiovascular simulation, kinematics, and optimization",
+      "html_url": "https://github.com/Saun-JaySamuels/BME-MATLAB-PROJECTS",
+      "license": null,
+      "size": 1352,
+      "fork": false,
+      "updated_at": "2026-04-10T15:58:17Z"
+    },
+    {
+      "full_name": "jiaruisu0218-cloud/STRIDE",
+      "description": null,
+      "html_url": "https://github.com/jiaruisu0218-cloud/STRIDE",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 16412,
+      "fork": false,
+      "updated_at": "2026-10-06T19:43:22Z"
+    },
+    {
+      "full_name": "OliverOlsen-Green/Chemical-Reactor-modelling",
+      "description": null,
+      "html_url": "https://github.com/OliverOlsen-Green/Chemical-Reactor-modelling",
+      "license": null,
+      "size": 15,
+      "fork": false,
+      "updated_at": "2026-02-28T18:17:00Z"
+    },
+    {
+      "full_name": "sjvrensburg/handwriting_ocr",
+      "description": "A Python package that combines shadow removal preprocessing with state-of-the-art OCR for accurate handwriting transcription. The package offers both local inference using MiniCPM-V and cloud-based transcription via Claude 3, with specialized support for academic content like mathematical notation, technical terminology, and structural elements.",
+      "html_url": "https://github.com/sjvrensburg/handwriting_ocr",
+      "license": null,
+      "size": 108,
+      "fork": false,
+      "updated_at": "2025-10-15T02:45:37Z"
+    },
+    {
+      "full_name": "YazidMubarok-ChemEng/Biodiesel-Yield-Simulation",
+      "description": "Simulation of Methanol and Oil concentration effects on Biodiesel yield using Python for transesterification process optimization.",
+      "html_url": "https://github.com/YazidMubarok-ChemEng/Biodiesel-Yield-Simulation",
+      "license": null,
+      "size": 708,
+      "fork": false,
+      "updated_at": "2026-05-09T03:32:36Z"
+    },
+    {
+      "full_name": "PEJpOhno/rxnfit",
+      "description": "Set up and solve reaction kinetics equations based on reaction formulas.",
+      "html_url": "https://github.com/PEJpOhno/rxnfit",
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "size": 9623,
+      "fork": false,
+      "updated_at": "2026-08-29T11:23:25Z"
+    },
+    {
+      "full_name": "KamiyaCl/project_code",
+      "description": "code for the project",
+      "html_url": "https://github.com/KamiyaCl/project_code",
+      "license": null,
+      "size": 440,
+      "fork": false,
+      "updated_at": "2026-03-17T22:57:03Z"
+    },
+    {
+      "full_name": "mathworks/EV-with-MATLAB-and-Simulink",
+      "description": "Collection of MATLAB and Simulink resources for students, educators, and researchers interested in electric vehicles and related systems and subsystems. ",
+      "html_url": "https://github.com/mathworks/EV-with-MATLAB-and-Simulink",
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "size": 1485,
+      "fork": false,
+      "updated_at": "2026-10-18T10:32:34Z"
+    },
+    {
+      "full_name": "Markes10/WOLFRAM-SCIENTIFIC-REASONING",
+      "description": "IT IS A DEMO PROJECT ",
+      "html_url": "https://github.com/Markes10/WOLFRAM-SCIENTIFIC-REASONING",
+      "license": null,
+      "size": 11,
+      "fork": false,
+      "updated_at": "2026-09-15T11:32:35Z"
+    },
+    {
+      "full_name": "scientific-intelligent-modelling/sim-datasets",
+      "description": null,
+      "html_url": "https://github.com/scientific-intelligent-modelling/sim-datasets",
+      "license": null,
+      "size": 92,
+      "fork": false,
+      "updated_at": "2026-04-26T14:57:59Z"
+    },
+    {
+      "full_name": "Kiran-1318/Fe2O3_kinetics",
+      "description": "Coupled Inverse PINN and SINDy pipeline for data-driven discovery of Fe₂O₃ reduction kinetics — Arrhenius identification and reaction model discovery without prior model assumption",
+      "html_url": "https://github.com/Kiran-1318/Fe2O3_kinetics",
+      "license": null,
+      "size": 577,
+      "fork": false,
+      "updated_at": "2026-10-21T06:04:44Z"
+    },
+    {
+      "full_name": "ppicazo97/Physics-Informed-Machine-Learning-for-Reaction-Kinetics-Identification-and-Modeling",
+      "description": null,
+      "html_url": "https://github.com/ppicazo97/Physics-Informed-Machine-Learning-for-Reaction-Kinetics-Identification-and-Modeling",
+      "license": null,
+      "size": 1329,
+      "fork": false,
+      "updated_at": "2026-08-06T16:18:03Z"
+    },
+    {
+      "full_name": "coscienza-research/.github",
+      "description": "Organization profile for Scuderia \"Cò'Scienza\" (Agliari-Barra Laboratory) at Sapienza University of Rome — statistical mechanics of disordered systems and neural architectures.",
+      "html_url": "https://github.com/coscienza-research/.github",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 26,
+      "fork": false,
+      "updated_at": "2026-11-11T15:16:54Z"
+    },
+    {
+      "full_name": "clarice-m04/rxnrate2",
+      "description": null,
+      "html_url": "https://github.com/clarice-m04/rxnrate2",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 50400,
+      "fork": false,
+      "updated_at": "2025-05-23T16:47:16Z"
+    },
+    {
+      "full_name": "yyods/Chemical-Kinetics-Python",
+      "description": "This repository contains Python code and resources accompanying the teaching material for Introduction to Python and SymPy for Chemical Kinetics. ",
+      "html_url": "https://github.com/yyods/Chemical-Kinetics-Python",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 1047,
+      "fork": false,
+      "updated_at": "2025-04-01T13:50:48Z"
+    },
+    {
+      "full_name": "GeneralReasoning/env-llmsr-bench-full",
+      "description": null,
+      "html_url": "https://github.com/GeneralReasoning/env-llmsr-bench-full",
+      "license": null,
+      "size": 165356,
+      "fork": false,
+      "updated_at": "2026-04-07T08:59:21Z"
+    },
+    {
+      "full_name": "AkbarTheAnalyst/numerical-analysis-portfolio",
+      "description": "A comprehensive collection of numerical analysis methods covering calculus, ODE solvers, PDE solvers, and computational implementations.",
+      "html_url": "https://github.com/AkbarTheAnalyst/numerical-analysis-portfolio",
+      "license": null,
+      "size": 7314,
+      "fork": false,
+      "updated_at": "2026-07-16T11:21:24Z"
+    },
+    {
+      "full_name": "ProfessorDong/RD-GKAN",
+      "description": "RD-GKAN: an interpretable, physics-constrained Graph Kolmogorov–Arnold Network that learns reaction–diffusion dynamics and recovers symbolic kinetics for molecular communication.",
+      "html_url": "https://github.com/ProfessorDong/RD-GKAN",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 206,
+      "fork": false,
+      "updated_at": "2026-09-30T17:03:22Z"
+    },
+    {
+      "full_name": "RemanenetSpy/GOD",
+      "description": "learners",
+      "html_url": "https://github.com/RemanenetSpy/GOD",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 6910,
+      "fork": false,
+      "updated_at": "2026-09-20T12:53:14Z"
+    },
+    {
+      "full_name": "bjzgcai/MatClaw",
+      "description": null,
+      "html_url": "https://github.com/bjzgcai/MatClaw",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 147669,
+      "fork": false,
+      "updated_at": "2026-04-13T07:11:32Z"
+    },
+    {
+      "full_name": "jkitchin/jax-ibart",
+      "description": "JAX-native reimplementation of iBART for symbolic descriptor discovery (faithful BART-G.SE + differentiable backends, dimensional analysis, UQ, SINDy/DAE)",
+      "html_url": "https://github.com/jkitchin/jax-ibart",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1624,
+      "fork": false,
+      "updated_at": "2026-10-20T18:20:24Z"
+    },
+    {
+      "full_name": "Deivulgaris66/Metamonism",
+      "description": "Ontological framework serving as a foundation for interdisciplinary science. Contains machine-readable specifications (YAML/JSON), axiomatic core, and derivative theories.",
+      "html_url": "https://github.com/Deivulgaris66/Metamonism",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 440,
+      "fork": false,
+      "updated_at": "2026-02-27T19:25:14Z"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "title_query": "ChemKANs for combustion chemistry modeling and acceleration",
+  "retrieved_at": "2026-11-11T16:51:43.052866+00:00",
+  "url": "https://api.crossref.org/works?query.title=ChemKANs+for+combustion+chemistry+modeling+and+acceleration&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1039/d5cp02009c",
+      "title": "ChemKANs for combustion chemistry modeling and acceleration",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/j.fuel.2024.131212",
+      "title": "Combustion chemistry acceleration with DeepONets",
+      "score": 0.6391752577319587
+    },
+    {
+      "doi": "10.1080/13647830903548834",
+      "title": "Acceleration of the chemistry solver for modeling DI engine combustion using dynamic adaptive chemistry (DAC) schemes",
+      "score": 0.1568627450980392
+    }
+  ],
+  "matched_doi": "10.1039/d5cp02009c"
+}

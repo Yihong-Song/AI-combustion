@@ -92,6 +92,7 @@
 | 2023 | [Reconstructing the flame in supersonic combustion flow by using the distribution of the wall pressure based on deep learning](../../07_engineering_design/03_supersonic_detonation/P88fd4d65bd/README.md) | 发动机、燃烧器与复杂推进系统设计 | pending_jcr | 待核对 |
 | 2023 | [Predicting combustion behavior in rotating detonation engines using an interpretable deep learning method](../../07_engineering_design/03_supersonic_detonation/P22eaaf5068/README.md) | 发动机、燃烧器与复杂推进系统设计 | pending_jcr | 待核对 |
 | 2022 | [A reconstruction method of detonation wave surface based on convolutional neural network](../../07_engineering_design/03_supersonic_detonation/P16bb712d58/README.md) | 发动机、燃烧器与复杂推进系统设计 | provisional_q1_q2 | 待核对 |
+| 2021 | [Learning dominant physical processes with data-driven balance models](../../07_engineering_design/03_supersonic_detonation/P3fe49a4002/README.md) | 发动机、燃烧器与复杂推进系统设计 | pending_jcr | 已核对链接 |
 | 2020 | [Reconstructing cellular surface of gaseous detonation based on artificial neural network and proper orthogonal decomposition](../../07_engineering_design/03_supersonic_detonation/P88108ab606/README.md) | 发动机、燃烧器与复杂推进系统设计 | provisional_q1_q2 | 待核对 |
 
 ## 喷雾、液滴与喷注

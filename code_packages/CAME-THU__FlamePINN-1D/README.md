@@ -5,7 +5,7 @@
 - [原始仓库](https://github.com/CAME-THU/FlamePINN-1D) · [固定版本](https://github.com/CAME-THU/FlamePINN-1D/tree/f7c0c0c3dc9b75d41d0bb090d265650a67999c45)
 - 提交：`f7c0c0c3dc9b75d41d0bb090d265650a67999c45`
 - 许可：**MIT**。
-- 收纳状态：`partial_source_snapshot_collected`；执行状态：`not_executed`。
+- 收纳状态：`partial_source_snapshot_collected`；执行状态：`trained_preprint_subcase_compared`。
 - 本包不自动安装、不自动运行。原始依赖、数据和子模块应在隔离环境逐项检查。
 
 ## 关联论文与入口

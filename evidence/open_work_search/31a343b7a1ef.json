@@ -1,0 +1,318 @@
+{
+  "query": "flame \"tomography\" \"neural\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:47:37.627186+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 83,
+  "url": "https://api.github.com/search/repositories?q=flame+%22tomography%22+%22neural%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-pinns",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 507,
+      "fork": false,
+      "updated_at": "2026-11-11T05:40:41Z"
+    },
+    {
+      "full_name": "PaoPaoRobot/IROS2019-paper-list",
+      "description": "IROS2019 paper list from PaopaoRobot",
+      "html_url": "https://github.com/PaoPaoRobot/IROS2019-paper-list",
+      "license": null,
+      "size": 401,
+      "fork": false,
+      "updated_at": "2026-10-03T01:20:01Z"
+    },
+    {
+      "full_name": "AI4Phys/Awesome-AI-for-Physics",
+      "description": "Official implementation for the paper \"Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI\"",
+      "html_url": "https://github.com/AI4Phys/Awesome-AI-for-Physics",
+      "license": null,
+      "size": 1205,
+      "fork": false,
+      "updated_at": "2026-11-02T00:23:51Z"
+    },
+    {
+      "full_name": "logangraham/arXausality",
+      "description": "A every-so-often-updated collection of every causality + machine learning paper submitted to arXiv in the recent past.",
+      "html_url": "https://github.com/logangraham/arXausality",
+      "license": null,
+      "size": 222,
+      "fork": false,
+      "updated_at": "2026-05-06T02:47:45Z"
+    },
+    {
+      "full_name": "Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting",
+      "description": "2024 Gaussian Splatting Paper List(Arxiv)",
+      "html_url": "https://github.com/Lee-JaeWon/2024-Arxiv-Paper-List-Gaussian-Splatting",
+      "license": null,
+      "size": 11003,
+      "fork": false,
+      "updated_at": "2026-11-11T09:07:54Z"
+    },
+    {
+      "full_name": "jm8/all-the-algorithms",
+      "description": "An implementation of all algorithms on Wikipedia's List of algorithms in Cython",
+      "html_url": "https://github.com/jm8/all-the-algorithms",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 170,
+      "fork": false,
+      "updated_at": "2025-01-05T10:32:59Z"
+    },
+    {
+      "full_name": "zhtjtcz/Mine-Arxiv",
+      "description": null,
+      "html_url": "https://github.com/zhtjtcz/Mine-Arxiv",
+      "license": null,
+      "size": 18927,
+      "fork": false,
+      "updated_at": "2025-12-26T03:25:48Z"
+    },
+    {
+      "full_name": "realabbas/list-of-algorithms",
+      "description": "A comprehensive curated list of  algorithms🤠 🏆",
+      "html_url": "https://github.com/realabbas/list-of-algorithms",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 84,
+      "fork": false,
+      "updated_at": "2026-10-21T07:35:00Z"
+    },
+    {
+      "full_name": "ff741333/Awesome-ML4tooth",
+      "description": null,
+      "html_url": "https://github.com/ff741333/Awesome-ML4tooth",
+      "license": null,
+      "size": 211,
+      "fork": false,
+      "updated_at": "2026-10-11T07:23:17Z"
+    },
+    {
+      "full_name": "archilM33/FLame-IITD",
+      "description": "Worked towards accelerating MENT flame tomography by replacing costly ray–voxel weight computation with ML surrogate models • Balanced the sparse exact weight matrix 50:50 against zero-bias; trained a fully connected Neural Network, CNN & 200-tree RF ",
+      "html_url": "https://github.com/archilM33/FLame-IITD",
+      "license": null,
+      "size": 6347,
+      "fork": false,
+      "updated_at": "2026-08-28T09:19:50Z"
+    },
+    {
+      "full_name": "Subham0822/VECC-project",
+      "description": null,
+      "html_url": "https://github.com/Subham0822/VECC-project",
+      "license": null,
+      "size": 11,
+      "fork": false,
+      "updated_at": "2026-06-11T07:20:53Z"
+    },
+    {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4geo",
+      "description": "🎓Automatically Update AI4Geo Papers Daily using Github Actions",
+      "html_url": "https://github.com/YuzeHao2023/daily-arxiv-ai4geo",
+      "license": null,
+      "size": 6220,
+      "fork": false,
+      "updated_at": "2026-11-09T17:59:44Z"
+    },
+    {
+      "full_name": "ChanChiChoi/awesome-GAN-papers",
+      "description": "papers and codes about GAN",
+      "html_url": "https://github.com/ChanChiChoi/awesome-GAN-papers",
+      "license": null,
+      "size": 3353,
+      "fork": false,
+      "updated_at": "2026-05-17T00:57:03Z"
+    },
+    {
+      "full_name": "XikunHuang/daily_paper",
+      "description": "Automatically Update Papers Daily using Github Actions",
+      "html_url": "https://github.com/XikunHuang/daily_paper",
+      "license": null,
+      "size": 34754,
+      "fork": false,
+      "updated_at": "2026-01-26T02:20:38Z"
+    },
+    {
+      "full_name": "zeleny-ondrej/STNN-Weekly-Arxiv",
+      "description": "Scraping repository of the most relevant topics with regards to Spatio-Temporal Neural Networks available in the arXiv archive. The repository and workflow is based on https://github.com/SpikingChen/SNN-Daily-Arxiv.",
+      "html_url": "https://github.com/zeleny-ondrej/STNN-Weekly-Arxiv",
+      "license": null,
+      "size": 4060,
+      "fork": false,
+      "updated_at": "2026-11-10T03:53:48Z"
+    },
+    {
+      "full_name": "ph7klw76/Advanced_Computational_Methods",
+      "description": null,
+      "html_url": "https://github.com/ph7klw76/Advanced_Computational_Methods",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 11169,
+      "fork": false,
+      "updated_at": "2026-10-16T13:11:41Z"
+    },
+    {
+      "full_name": "ryanbgriffiths/IROS2024PaperList",
+      "description": "IROS2024 Paper List",
+      "html_url": "https://github.com/ryanbgriffiths/IROS2024PaperList",
+      "license": null,
+      "size": 1326,
+      "fork": false,
+      "updated_at": "2026-10-12T01:42:04Z"
+    },
+    {
+      "full_name": "Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting",
+      "description": "📚 2025 Gaussian Splatting ArXiv Paper List — Updated Daily",
+      "html_url": "https://github.com/Lee-JaeWon/2025-Arxiv-Paper-List-Gaussian-Splatting",
+      "license": null,
+      "size": 19332,
+      "fork": false,
+      "updated_at": "2026-09-24T03:31:23Z"
+    },
+    {
+      "full_name": "liliu-avril/Awesome-Segment-Anything",
+      "description": "This repository is for the first comprehensive survey on Meta AI's Segment Anything Model (SAM). ",
+      "html_url": "https://github.com/liliu-avril/Awesome-Segment-Anything",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 6486,
+      "fork": false,
+      "updated_at": "2026-11-11T13:05:11Z"
+    },
+    {
+      "full_name": "liuzhenqi77/awesome-stars",
+      "description": "A curated list of my GitHub stars by stargazed",
+      "html_url": "https://github.com/liuzhenqi77/awesome-stars",
+      "license": null,
+      "size": 17628,
+      "fork": false,
+      "updated_at": "2026-11-08T06:33:16Z"
+    },
+    {
+      "full_name": "DoongLi/IROS2025-Paper-List",
+      "description": "IROS 2025 Paper List",
+      "html_url": "https://github.com/DoongLi/IROS2025-Paper-List",
+      "license": null,
+      "size": 2544,
+      "fork": false,
+      "updated_at": "2026-10-25T04:05:05Z"
+    },
+    {
+      "full_name": "ChunmingHe/awesome-multimodal-large-language-models-in-low-level-vision",
+      "description": null,
+      "html_url": "https://github.com/ChunmingHe/awesome-multimodal-large-language-models-in-low-level-vision",
+      "license": null,
+      "size": 169,
+      "fork": false,
+      "updated_at": "2026-10-22T02:05:03Z"
+    },
+    {
+      "full_name": "zhusiling/super-resolution-with-GAN",
+      "description": null,
+      "html_url": "https://github.com/zhusiling/super-resolution-with-GAN",
+      "license": null,
+      "size": 103,
+      "fork": false,
+      "updated_at": "2026-03-04T08:29:35Z"
+    },
+    {
+      "full_name": "iszhanjiawei/flow_matching_arxiv_daily",
+      "description": null,
+      "html_url": "https://github.com/iszhanjiawei/flow_matching_arxiv_daily",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 1645,
+      "fork": false,
+      "updated_at": "2026-11-11T04:52:50Z"
+    },
+    {
+      "full_name": "zwr-04/HPE-arxiv-daily",
+      "description": null,
+      "html_url": "https://github.com/zwr-04/HPE-arxiv-daily",
+      "license": null,
+      "size": 11000,
+      "fork": false,
+      "updated_at": "2026-05-13T02:50:16Z"
+    },
+    {
+      "full_name": "Yihong-Song/Combustion-Multifield-Prediction",
+      "description": "Combustion Multifield Prediction: a reproducible multi-field-conditioned radiation surrogate with auditable transfer constraints, improved from PMFR-Net.",
+      "html_url": "https://github.com/Yihong-Song/Combustion-Multifield-Prediction",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3327,
+      "fork": false,
+      "updated_at": "2026-11-07T04:27:21Z"
+    },
+    {
+      "full_name": "K-Dense-AI/scientific-agents",
+      "description": "Expert-thinking AGENTS.md profiles that teach AI agents to reason like senior scientists and engineers.",
+      "html_url": "https://github.com/K-Dense-AI/scientific-agents",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 16950,
+      "fork": false,
+      "updated_at": "2026-11-11T01:40:34Z"
+    },
+    {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4cheme",
+      "description": "🎓Automatically Update AI4Chemical-Engineering Papers Daily using Github Actions",
+      "html_url": "https://github.com/YuzeHao2023/daily-arxiv-ai4cheme",
+      "license": null,
+      "size": 2439,
+      "fork": false,
+      "updated_at": "2026-11-09T18:34:05Z"
+    }
+  ]
+}

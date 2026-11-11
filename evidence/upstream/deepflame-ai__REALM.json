@@ -1,0 +1,11 @@
+{
+  "repository": "deepflame-ai/REALM",
+  "url": "https://github.com/deepflame-ai/REALM",
+  "retrieved_at": "2026-11-11T16:47:41.700686+00:00",
+  "commit": "7d00523dbda7823efa03c20be36692c947a417b5",
+  "readme_path": "evidence/upstream/deepflame-ai__REALM.readme.txt",
+  "readme_url": "https://github.com/deepflame-ai/REALM/blob/7d00523dbda7823efa03c20be36692c947a417b5/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api_or_root_tree",
+  "api_checked_at": "2026-11-11T16:47:47.930914+00:00"
+}

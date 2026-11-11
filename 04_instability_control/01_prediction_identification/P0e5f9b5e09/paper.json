@@ -1,0 +1,58 @@
+{
+  "id": "P0e5f9b5e09",
+  "doi": "10.1017/jfm.2024.1052",
+  "title": "A real-time digital twin of azimuthal thermoacoustic instabilities",
+  "year": 2024,
+  "journal": "Journal of Fluid Mechanics",
+  "authors": [
+    "Andrea Nóvoa",
+    "Nicolas Noiray",
+    "James R. Dawson",
+    "Luca Magri"
+  ],
+  "category": "04_instability_control",
+  "subcategory": "01_prediction_identification",
+  "path": "04_instability_control/01_prediction_identification/P0e5f9b5e09",
+  "doi_url": "https://doi.org/10.1017/jfm.2024.1052",
+  "metadata_source": "https://api.crossref.org/works/10.1017/jfm.2024.1052",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "not_located",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "andreanovoa/real-time-bias-aware-DA",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "10d0a01fae5adf3c5e659231e9d4c0c2e68bce6a",
+    "license": "MIT",
+    "package_id": "andreanovoa__real-time-bias-aware-DA",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "andreanovoa/real-time-bias-aware-DA",
+    "category": "04_instability_control",
+    "subcategory": "01_prediction_identification",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "为环形燃烧室方位热声不稳定性构建随观测更新的数字孪生。",
+    "method": "固定 README 的 Journal papers 明确列本文 DOI，并指定 v1.0 发布版；当前代码已重构为 romda，提供物理模型、ESN 偏差模型及同化方法。",
+    "entry": "先定位 v1.0，再核对 examples/thermoacoustics 及相应配置；当前 tutorials 的热声章节用于理解软件。",
+    "dependencies": "Python 项目环境及 romda 所列 biasda/dynamodels 等依赖；实验信号和结果目录可能从外部取得，需逐项核实。",
+    "evaluation": "按不同实验爬升或工况留出，比较模态幅值、方位结构、参数后验、预测提前量与实时计算成本。",
+    "limitations": "MIT；主分支固定提交与论文 v1.0 不同，正式复现须补 v1.0 的准确提交。未执行。"
+  }
+}

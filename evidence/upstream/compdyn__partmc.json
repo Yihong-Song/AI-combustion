@@ -1,0 +1,14 @@
+{
+  "repository": "compdyn/partmc",
+  "url": "https://github.com/compdyn/partmc",
+  "retrieved_at": "2026-11-11T16:48:47.939540+00:00",
+  "commit": "155ed13925c94604778a649d85e9788b075047e9",
+  "readme_path": "evidence/upstream/compdyn__partmc.readme.txt",
+  "readme_url": "https://github.com/compdyn/partmc/blob/155ed13925c94604778a649d85e9788b075047e9/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/compdyn__partmc.license.txt",
+  "license_url": "https://github.com/compdyn/partmc/blob/155ed13925c94604778a649d85e9788b075047e9/COPYING",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "GPL-2.0",
+  "api_checked_at": "2026-11-11T16:49:12.804966+00:00"
+}

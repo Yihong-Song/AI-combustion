@@ -8,7 +8,7 @@ P69b4098fb3 · 2026 · Proceedings of the Combustion Institute
 - 分类：光学诊断、反演、烟炱与辐射 / 辐射与烟炱辐射诊断
 - JCR：**二级来源报告 Q1/Q2，JCR 版本待官方核实**；报告最佳分区 Q1；版本未知；官方核实：否。
 - 阅读深度：已核对元数据与上游 README，尚未完成全文精读。
-- 论文原始指标复现：**未执行**。
+- 完整期刊论文复现：**尚未验收**。
 - [统一方法与证据等级](../../../docs/METHODOLOGY.md) · [方向说明](../../../05_diagnostics_radiation/README.md) · [全局地图](../../../00_literature_map/README.md)
 
 已执行作者演示：[命令、数值和适配记录](../../../reproductions/C01_wsgg_author_demo/README.md)；尚未重训或对照原文表格。
@@ -54,4 +54,4 @@ python test.py；输入 data/profiles.npy、data/results.npy 和 PINN_WSGG/data/
 - 代码—论文版本一致性，数据及预训练权重是否齐全。
 - 论文指标同口径复现及差异分析。
 
-元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.proci.2026.106476)；本轮整理日期 2026-11-11。完整元数据见同目录 `paper.json`。
+元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.proci.2026.106476)；本轮整理日期 2026-11-12。完整元数据见同目录 `paper.json`。

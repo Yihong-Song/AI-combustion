@@ -8,7 +8,7 @@ P42e1959567 · 2022 · Applications in Energy and Combustion Science
 - 分类：综述、数据集与共性方法 / 综述与开放数据
 - JCR：**JCR 分区待核实**；报告最佳分区 Q1；版本未知；官方核实：否。
 - 阅读深度：已核对元数据与上游 README，尚未完成全文精读。
-- 论文原始指标复现：**未执行**。
+- 完整期刊论文复现：**尚未验收**。
 - [统一方法与证据等级](../../../docs/METHODOLOGY.md) · [方向说明](../../../10_reviews_methods/README.md) · [全局地图](../../../00_literature_map/README.md)
 
 分区线索：[二级来源](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=30136)。多类别期刊使用报告中的最佳类别作为候选信号，不能解释为所有类别均为 Q1。
@@ -52,4 +52,4 @@ Kaggle 运行环境、对应 BLASTNet 数据与各自许可；未登录运行，
 - 代码—论文版本一致性，数据及预训练权重是否齐全。
 - 论文指标同口径复现及差异分析。
 
-元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.jaecs.2022.100087)；本轮整理日期 2026-11-11。完整元数据见同目录 `paper.json`。
+元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.jaecs.2022.100087)；本轮整理日期 2026-11-12。完整元数据见同目录 `paper.json`。

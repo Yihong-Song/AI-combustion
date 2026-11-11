@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.fuel.2026.138640",
+  "title": "Multi-objective optimization for a spark ignition methanol marine engine based on multi-task learning and NSGA-II",
+  "query": "\"Multi-objective optimization for a spark ignition methanol marine engine based on multi-task\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:43:19.168358+00:00",
+  "total_count": 0,
+  "items": []
+}

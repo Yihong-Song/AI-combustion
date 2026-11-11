@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.fuel.2025.136475",
+  "title": "Physics-informed neural networks for modeling turbulent combustion",
+  "query": "\"Physics-informed neural networks for modeling turbulent combustion\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:42:11.513840+00:00",
+  "total_count": 0,
+  "items": []
+}

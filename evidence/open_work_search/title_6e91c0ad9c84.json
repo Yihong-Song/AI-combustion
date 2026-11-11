@@ -1,0 +1,23 @@
+{
+  "title_query": "A machine learning based efficient and compact full-spectrum correlated k-distribution model",
+  "retrieved_at": "2026-11-11T16:51:33.853485+00:00",
+  "url": "https://api.crossref.org/works?query.title=A+machine+learning+based+efficient+and+compact+full-spectrum+correlated+k-distribution+model&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.jqsrt.2020.107199",
+      "title": "A machine learning based efficient and compact full-spectrum correlated k-distribution model",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/j.jqsrt.2021.107628",
+      "title": "A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures",
+      "score": 0.7052023121387283
+    },
+    {
+      "doi": "10.1016/j.jqsrt.2018.04.002",
+      "title": "Efficient full-spectrum correlated-k-distribution look-up table",
+      "score": 0.6814814814814815
+    }
+  ],
+  "matched_doi": "10.1016/j.jqsrt.2020.107199"
+}

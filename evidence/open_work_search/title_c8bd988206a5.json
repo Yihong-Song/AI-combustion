@@ -1,0 +1,23 @@
+{
+  "title_query": "Deep reinforcement learning for dynamic control of fuel injection timing in multi-pulse compression ignition engines",
+  "retrieved_at": "2026-11-11T16:51:35.061482+00:00",
+  "url": "https://api.crossref.org/works?query.title=Deep+reinforcement+learning+for+dynamic+control+of+fuel+injection+timing+in+multi-pulse+compression+ignition+engines&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1177/14680874211019345",
+      "title": "Deep reinforcement learning for dynamic control of fuel injection timing in multi-pulse compression ignition engines",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1177/14680874231184002",
+      "title": "Deep reinforcement learning to discover multi-fuel injection strategies for compression ignition engines",
+      "score": 0.7668393782383419
+    },
+    {
+      "doi": "10.1016/j.ifacol.2022.10.267",
+      "title": "Model Predictive Control of Combustion Phasing in Compression Ignition Engines by Coordinating Fuel Injection Timing and Ignition Assist",
+      "score": 0.4818181818181818
+    }
+  ],
+  "matched_doi": "10.1177/14680874211019345"
+}

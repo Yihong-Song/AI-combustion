@@ -15,8 +15,8 @@
   "path": "01_chemistry_kinetics/01_surrogates_reduction/Pe1482ded9f",
   "doi_url": "https://doi.org/10.1016/j.combustflame.2020.06.008",
   "metadata_source": "https://api.crossref.org/works/10.1016/j.combustflame.2020.06.008",
-  "metadata_retrieved_date": "2026-11-11",
-  "reading_level": "title_screen_only_fulltext_pending",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
   "screening": "candidate_not_systematic_review_inclusion",
   "scope": "combustion_and_adjacent_thermal_conversion",
   "jcr": {
@@ -61,12 +61,12 @@
     "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
   },
   "code": {
-    "status": "searched_no_confirmed_match",
-    "repository": null,
-    "relationship": null,
-    "commit": null,
-    "license": null,
-    "package_id": null,
+    "status": "reviewed_paper_link",
+    "repository": "beroudiauxa/ORCh_2023",
+    "relationship": "author_related_work_readme_explicit",
+    "commit": "1a1b5175078340cbd4585f0ef597a821aa262de4",
+    "license": "BSD-3-Clause",
+    "package_id": "beroudiauxa__ORCh_2023",
     "search_hits": 0,
     "search_evidence": "evidence/code_search/e1482ded9f2a.json"
   },
@@ -74,5 +74,16 @@
     "status": "not_executed",
     "paper_metrics_reproduced": false
   },
-  "curated_note": null
+  "curated_note": {
+    "repository": "beroudiauxa/ORCh_2023",
+    "category": "01_chemistry_kinetics",
+    "subcategory": "01_surrogates_reduction",
+    "relationship": "author_related_work_readme_explicit",
+    "problem": "从非预混微混合模型生成训练状态，缩减合成气湍流氧燃烧化学。",
+    "method": "ORCh README 的 ANN/CNN 相关工作明确列本文；工具包含化学优化、缩减与神经学习流程，但该 2023 版本不是已确认的 2020 论文快照。",
+    "entry": "按 ORCh 环境与案例说明定位采样、缩减和 ANN/CNN 模块；先核对同一合成气机理与微混合设置。",
+    "dependencies": "旧 Cantera 2.4、SUNDIALS、Eigen、OpenCV、MPI、HDF5 及编译工具，路径集中配置，历史环境需隔离。",
+    "evaluation": "独立留出壁面与混合状态，对比详细化学、传统缩减和学习缩减，报告火焰/壁面相互作用、组分和热释放。",
+    "limitations": "BSD-3-Clause；相关工作引用不代表原文训练数据和全部 DNS 案例已收纳。"
+  }
 }

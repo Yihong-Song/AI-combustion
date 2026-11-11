@@ -1,0 +1,102 @@
+{
+  "id": "ZY-LHY__Machine_learning_based_FSCK_model_soot",
+  "repository": "ZY-LHY/Machine_learning_based_FSCK_model_soot",
+  "url": "https://github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot",
+  "commit": "12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+  "retrieved_at": "2026-11-11T16:48:58.517689+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.jqsrt.2021.107628"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/ZY-LHY__Machine_learning_based_FSCK_model_soot.json",
+  "license_url": "https://github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot/blob/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a/LICENSE",
+  "license_sha256": "c744bd6838ae512fc979dff17d603768a7eff16700162b02b84357be93d87715",
+  "pinned_url": "https://github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot/tree/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+  "archive_url": "https://api.github.com/repos/ZY-LHY/Machine_learning_based_FSCK_model_soot/tarball/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+  "readme_source": "https://github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot/blob/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a/readme.md",
+  "archive": {
+    "repository": "ZY-LHY/Machine_learning_based_FSCK_model_soot",
+    "commit": "12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+    "source_url": "https://api.github.com/repos/ZY-LHY/Machine_learning_based_FSCK_model_soot/tarball/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+    "retrieved_at": "2026-11-11T17:01:45.527326+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot/legacy.tar.gz/12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+    "status": "not_collected",
+    "error": "archive exceeds configured byte limit; use pinned upstream download"
+  },
+  "source_snapshot": {
+    "status": "collected",
+    "collection_type": "partial_source_snapshot",
+    "repository": "ZY-LHY/Machine_learning_based_FSCK_model_soot",
+    "commit": "12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+    "date": "2026-11-11",
+    "path": "code_packages/ZY-LHY__Machine_learning_based_FSCK_model_soot/12fea0f160bc-source-only.tar.gz",
+    "bytes": 4396,
+    "sha256": "216438f52e8714f9c3566243bd8ac8392f0e8a5d8d1144f4df7c3c2b6014a588",
+    "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+    "files": [
+      {
+        "path": "Fortran codes/MLP.f90",
+        "git_blob_sha": "f1404621c888bc23bd36efea22fa2682c2af94b3",
+        "sha256": "4d9c5dfe29eab578249191d27a2c02918d00cd27f2ab3bd0f7de49883ad62582",
+        "bytes": 8524
+      },
+      {
+        "path": "Fortran codes/MLP_layer.f90",
+        "git_blob_sha": "c825f6b845180c4fe0b6e0fea0f8499556224e89",
+        "sha256": "dd79443a28a468dc8bac36c6b32cab4a64248f65762435824537b67b899a0df8",
+        "bytes": 339
+      },
+      {
+        "path": "Fortran codes/MLP_network.f90",
+        "git_blob_sha": "ae7e3d5d358d3d2f2a820b987f75f832a5ea0ce0",
+        "sha256": "e804a08e77ffe67f8189c1df4f8ed51f6beaf06addf6aece2c7de2b4631986b2",
+        "bytes": 318
+      },
+      {
+        "path": "Fortran codes/Main.f90",
+        "git_blob_sha": "c18f7a15e94706080511ac345f24c7f7f4c58972",
+        "sha256": "511f91f3142eec4fa4a9c4fb5d43da114728eacc12c5e732c1e1f4aec8e69427",
+        "bytes": 1515
+      },
+      {
+        "path": "Fortran codes/commonData.f90",
+        "git_blob_sha": "52cd4956c143d7ad5401dce32ddfaa9e7f2845b6",
+        "sha256": "389f75e83ce63095b9a619b7b5d80de20bd79088bbec47e9e2579e3b8542ee3b",
+        "bytes": 566
+      },
+      {
+        "path": "Fortran codes/plot.py",
+        "git_blob_sha": "54ed40ca36ce705cb58d5bd9a8c9cda351ed5e8e",
+        "sha256": "848872ab6db05398a0ba68df78ff7245dd6ef1a083b94b0e66584acd14f31795",
+        "bytes": 762
+      },
+      {
+        "path": "LICENSE",
+        "git_blob_sha": "2b2105539d1b9beddd25865649c559e8466f5241",
+        "sha256": "c744bd6838ae512fc979dff17d603768a7eff16700162b02b84357be93d87715",
+        "bytes": 1063
+      },
+      {
+        "path": "readme.md",
+        "git_blob_sha": "2354d878fbaa32b33ebde6d05006bb399b8ba0b2",
+        "sha256": "716e64aaf6d1735fa7f39e91f158da5b859b6c4eaf7f53bf9f9c3b54335d67cf",
+        "bytes": 2768
+      }
+    ],
+    "excluded_paths": [
+      "Fortran codes",
+      "Fortran codes/Codes",
+      "Fortran codes/MLP_structure_1.f90",
+      "Fortran codes/MLP_structure_2.f90",
+      "Fortran codes/MLP_structure_3.f90",
+      "Fortran codes/makefile"
+    ]
+  },
+  "collection_status": "partial_source_snapshot_collected"
+}

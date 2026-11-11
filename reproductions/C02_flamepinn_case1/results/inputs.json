@@ -1,0 +1,71 @@
+{
+  "repository": "CAME-THU/FlamePINN-1D",
+  "commit": "f7c0c0c3dc9b75d41d0bb090d265650a67999c45",
+  "source_archive_sha256": "d441447015d9378a6ca0e58e90e16f0a96e784206d77e3ae7302e11616f63cb9",
+  "reference": "Author first-order finite-difference/bisection reference, 10000 grid points; not independently regenerated",
+  "input_files": [
+    {
+      "path": "freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/T.npy",
+      "git_blob_sha": "13eede4d9517361e7210dec9ed54db272cf84483",
+      "sha256": "da3774c56a5351a18d35f3b7113491c5ef57bdfb2e59f4b32c55213ba222af33",
+      "bytes": 80128,
+      "source_url": "https://github.com/CAME-THU/FlamePINN-1D/blob/f7c0c0c3dc9b75d41d0bb090d265650a67999c45/freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/T.npy"
+    },
+    {
+      "path": "freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/YF.npy",
+      "git_blob_sha": "1cac6ef6377bfd1bb2cae1e7751067756d34fa00",
+      "sha256": "97639bf72fa5f66607f1bfa1777d2591518c10f4777d55f80862d6f7526e1240",
+      "bytes": 80128,
+      "source_url": "https://github.com/CAME-THU/FlamePINN-1D/blob/f7c0c0c3dc9b75d41d0bb090d265650a67999c45/freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/YF.npy"
+    },
+    {
+      "path": "freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/gradT.npy",
+      "git_blob_sha": "4c46f916bf43d2692e6633addd5ec985bda3a799",
+      "sha256": "066340ebc25804e4fbc346fa28a2ce243fcea1516c69b06d0f2997058e1b3d55",
+      "bytes": 80128,
+      "source_url": "https://github.com/CAME-THU/FlamePINN-1D/blob/f7c0c0c3dc9b75d41d0bb090d265650a67999c45/freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/gradT.npy"
+    },
+    {
+      "path": "freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/omega.npy",
+      "git_blob_sha": "3397d6986179b6043ae24055f91ffb6fd3d7720c",
+      "sha256": "b3d06031f44f935ab9684775552b66b87b0290512b1103cfdff783f4f0f9708e",
+      "bytes": 80128,
+      "source_url": "https://github.com/CAME-THU/FlamePINN-1D/blob/f7c0c0c3dc9b75d41d0bb090d265650a67999c45/freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/omega.npy"
+    },
+    {
+      "path": "freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/p.npy",
+      "git_blob_sha": "ccc036b4609613020dbd75b1a3a521c15f47e9e3",
+      "sha256": "9e66f20d39a9e67a640064820e0b0e3636fdf613ba5182962a51ab0f3272d53a",
+      "bytes": 80128,
+      "source_url": "https://github.com/CAME-THU/FlamePINN-1D/blob/f7c0c0c3dc9b75d41d0bb090d265650a67999c45/freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/p.npy"
+    },
+    {
+      "path": "freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/rho.npy",
+      "git_blob_sha": "28d2e1a8dba6496f733e21f731573337cda73a03",
+      "sha256": "36aa108a6030e55f72fa4b240855a0f835bc90f0657de721921951999fab5e87",
+      "bytes": 80128,
+      "source_url": "https://github.com/CAME-THU/FlamePINN-1D/blob/f7c0c0c3dc9b75d41d0bb090d265650a67999c45/freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/rho.npy"
+    },
+    {
+      "path": "freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/sL.npy",
+      "git_blob_sha": "f52690cac521ba47da9b8e92c106139b245f3223",
+      "sha256": "36799543fa55caa122b8ff62c65f7f15c4a6c55a3aef35eb8ef05ee729957f66",
+      "bytes": 136,
+      "source_url": "https://github.com/CAME-THU/FlamePINN-1D/blob/f7c0c0c3dc9b75d41d0bb090d265650a67999c45/freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/sL.npy"
+    },
+    {
+      "path": "freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/u.npy",
+      "git_blob_sha": "d3e4610138b5c4d1c29f9ba7f110007d7ae79424",
+      "sha256": "e5433121f3070a87ed5f4225667cd9fbfff81296d58c1a83df8ee3119155aa17",
+      "bytes": 80128,
+      "source_url": "https://github.com/CAME-THU/FlamePINN-1D/blob/f7c0c0c3dc9b75d41d0bb090d265650a67999c45/freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/u.npy"
+    },
+    {
+      "path": "freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/x.npy",
+      "git_blob_sha": "1ac041a958c2fe5a510b073aa956ec63882daf54",
+      "sha256": "bd86b45f59102638ed8d09910307d949ca382c031781dc5f568122c59a180b53",
+      "bytes": 80128,
+      "source_url": "https://github.com/CAME-THU/FlamePINN-1D/blob/f7c0c0c3dc9b75d41d0bb090d265650a67999c45/freely_prop_simple/ref_solution/results/p1.00_T298_phi0.40/data/x.npy"
+    }
+  ]
+}

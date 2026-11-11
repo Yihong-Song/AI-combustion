@@ -1,0 +1,20 @@
+{
+  "id": "MagriLab__Adjoint-ESN",
+  "repository": "MagriLab/Adjoint-ESN",
+  "url": "https://github.com/MagriLab/Adjoint-ESN",
+  "commit": "8483399d9cae3b9ee83e03fc84107feb0d9e86ad",
+  "retrieved_at": "2026-11-11T16:47:57.789472+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1103/physrevfluids.9.103902"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/MagriLab__Adjoint-ESN.json",
+  "pinned_url": "https://github.com/MagriLab/Adjoint-ESN/tree/8483399d9cae3b9ee83e03fc84107feb0d9e86ad",
+  "archive_url": "https://api.github.com/repos/MagriLab/Adjoint-ESN/tarball/8483399d9cae3b9ee83e03fc84107feb0d9e86ad",
+  "readme_source": "https://github.com/MagriLab/Adjoint-ESN/blob/8483399d9cae3b9ee83e03fc84107feb0d9e86ad/README.md",
+  "collection_status": "link_only"
+}

@@ -14,8 +14,8 @@
   "path": "10_reviews_methods/01_reviews_datasets/Pb73c9cc517",
   "doi_url": "https://doi.org/10.1016/j.pecs.2022.101010",
   "metadata_source": "https://api.crossref.org/works/10.1016/j.pecs.2022.101010",
-  "metadata_retrieved_date": "2026-11-11",
-  "reading_level": "title_screen_only_fulltext_pending",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
   "screening": "candidate_not_systematic_review_inclusion",
   "scope": "combustion_and_adjacent_thermal_conversion",
   "jcr": {
@@ -54,12 +54,12 @@
     "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
   },
   "code": {
-    "status": "search_hits_unverified",
-    "repository": null,
-    "relationship": null,
-    "commit": null,
-    "license": null,
-    "package_id": null,
+    "status": "reviewed_paper_link",
+    "repository": "IhmeGroup/CombML_Tutorials",
+    "relationship": "author_supporting_tutorial_readme_explicit",
+    "commit": "f00cca1d03dd3fa115ab0ee3d6644a2710e126c0",
+    "license": "not_located",
+    "package_id": "IhmeGroup__CombML_Tutorials",
     "search_hits": 1,
     "search_evidence": "evidence/code_search/b73c9cc51735.json"
   },
@@ -67,5 +67,16 @@
     "status": "not_executed",
     "paper_metrics_reproduced": false
   },
-  "curated_note": null
+  "curated_note": {
+    "repository": "IhmeGroup/CombML_Tutorials",
+    "category": "10_reviews_methods",
+    "subcategory": "01_reviews_datasets",
+    "relationship": "author_supporting_tutorial_readme_explicit",
+    "problem": "为理解燃烧机器学习的主要范式提供可阅读的入门实现。",
+    "method": "README 明确要求引用本综述，提供监督、无监督学习教程与 Q-learning 接口。教程服务理解方法，不构成综述中所有论文的复现。",
+    "entry": "按上游目录逐个读取监督/无监督 notebook 与强化学习接口，先核对输入特征和示例数据。",
+    "dependencies": "各教程导入与环境需要单独核对；没有统一依赖锁文件的地方保留待办。",
+    "evaluation": "先说明学习任务、切分、基线和指标，再用它作为阅读具体燃烧论文的概念支撑。",
+    "limitations": "未定位许可文件，链接收纳；不把通用课堂例子计为燃烧 Q1 论文复现。"
+  }
 }

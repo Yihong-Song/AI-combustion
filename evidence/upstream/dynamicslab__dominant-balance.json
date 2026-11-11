@@ -1,0 +1,14 @@
+{
+  "repository": "dynamicslab/dominant-balance",
+  "url": "https://github.com/dynamicslab/dominant-balance",
+  "retrieved_at": "2026-11-11T16:49:28.652837+00:00",
+  "commit": "41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+  "readme_path": "evidence/upstream/dynamicslab__dominant-balance.readme.txt",
+  "readme_url": "https://github.com/dynamicslab/dominant-balance/blob/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/dynamicslab__dominant-balance.license.txt",
+  "license_url": "https://github.com/dynamicslab/dominant-balance/blob/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:47.627348+00:00"
+}

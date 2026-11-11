@@ -11,6 +11,7 @@
 | 2026 | [Error control of uncertainty-aware neural network-coupled binary trees for manifold-based combustion models](Pcc65cb53e0/README.md) | [10.1016/j.proci.2026.106660](https://doi.org/10.1016/j.proci.2026.106660) |
 | 2026 | [Generate reacting flow fields with flow matching neural operators on high-resolution grids](P8514c23cfb/README.md) | [10.1016/j.proci.2026.106795](https://doi.org/10.1016/j.proci.2026.106795) |
 | 2025 | [Single-snapshot-based dynamical mode prediction of a flickering flame via a Fourier-neural-operator network](P09e21465b5/README.md) | [10.1016/j.jaecs.2025.100380](https://doi.org/10.1016/j.jaecs.2025.100380) |
+| 2024 | [Learning stiff chemical kinetics using extended deep neural operators](P98c59b685b/README.md) | [10.1016/j.cma.2023.116674](https://doi.org/10.1016/j.cma.2023.116674) |
 | 2024 | [A co-kurtosis PCA based dimensionality reduction with nonlinear reconstruction using neural networks](P5277d1faad/README.md) | [10.1016/j.combustflame.2023.113192](https://doi.org/10.1016/j.combustflame.2023.113192) |
 | 2024 | [Learning transient evolution of multidimensional reacting flows by multiscale Fourier neural operators](Pd2e2c3f559/README.md) | [10.1016/j.proci.2024.105714](https://doi.org/10.1016/j.proci.2024.105714) |
 | 2023 | [Investigation of the generalization capability of a generative adversarial network for large eddy simulation of turbulent premixed reacting flows](P1ecbf73e07/README.md) | [10.1016/j.proci.2022.07.244](https://doi.org/10.1016/j.proci.2022.07.244) |

@@ -1,0 +1,57 @@
+{
+  "id": "P42f2fcf650",
+  "doi": "10.1063/5.0086649",
+  "title": "Physics-informed neural networks and functional interpolation for stiff chemical kinetics",
+  "year": 2022,
+  "journal": "Chaos: An Interdisciplinary Journal of Nonlinear Science",
+  "authors": [
+    "Mario De Florio",
+    "Enrico Schiassi",
+    "Roberto Furfaro"
+  ],
+  "category": "06_physics_informed",
+  "subcategory": "01_forward_inverse",
+  "path": "06_physics_informed/01_forward_inverse/P42f2fcf650",
+  "doi_url": "https://doi.org/10.1063/5.0086649",
+  "metadata_source": "https://api.crossref.org/works/10.1063/5.0086649",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "mariodeflorio/Stiff-Chemical-Kinetics",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "4dfbf580c0a2d5c3136f17e0cdbd45a03e9f959e",
+    "license": "not_located",
+    "package_id": "mariodeflorio__Stiff-Chemical-Kinetics",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "mariodeflorio/Stiff-Chemical-Kinetics",
+    "category": "06_physics_informed",
+    "subcategory": "01_forward_inverse",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "在刚性化学初值问题中比较物理约束神经解法与传统积分器。",
+    "method": "README 明确列本文 DOI，组合 Theory of Functional Connections 与 Extreme Learning Machines 得到 X-TFC；属于刚性动力学方法基础，不预设全部例题都是真实火焰。",
+    "entry": "按固定仓库各例题脚本核对初值、时间区间、分段策略和特征数；先与同精度传统 ODE 参考解对照。",
+    "dependencies": "从各脚本导入和作者环境提取依赖；例题性质与详细燃烧化学的外推范围需全文确认。",
+    "evaluation": "同误差容限下比较各物种、快瞬态、残差与总耗时，报告失败区间；随机特征多种子只计一个方法实验。",
+    "limitations": "未定位许可，仅链接；标为方法基础，不能以通用 ROBER 等小系统充当详细燃烧论文复现。"
+  }
+}

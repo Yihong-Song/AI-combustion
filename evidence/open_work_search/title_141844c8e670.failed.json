@@ -1,0 +1,5 @@
+{
+  "title_query": "Comprehensive deep learning for combustion chemistry integration: Multi-fuel generalization and a posteriori validation in reacting flow",
+  "retrieved_at": "2026-11-11T16:51:28.117719+00:00",
+  "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Comprehensive+deep+learning+for+combustion+chemistry+integration%3A+Multi-fuel+generalization+and+a+posteriori+validation+in+reacting+flow&rows=3&filter=type%3Ajournal-article"
+}

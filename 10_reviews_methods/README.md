@@ -2,7 +2,7 @@
 
 先建立全局坐标，再沿具体物理问题阅读；数据和评价协议同模型一样重要。
 
-本目录含 12 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
+本目录含 13 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
 
 [返回首页](../README.md) · [全局地图](../00_literature_map/README.md) · [方法与范围](../docs/METHODOLOGY.md)
 
@@ -45,15 +45,16 @@
 | 2025 | [Scientific machine learning in combustion for discovery, simulation, and control](01_reviews_datasets/Pebe9fe83d4/README.md) | Q1 | 待核对 |
 | 2022 | [BLASTNet: A call for community-involved big data in combustion machine learning](01_reviews_datasets/P42e1959567/README.md) | Q? | ✓ |
 | 2022 | [Modeling, diagnostics, optimization, and control of internal combustion engines via modern machine learning techniques: A review and future directions](01_reviews_datasets/Pec7a9b4537/README.md) | Q1 | 待核对 |
-| 2022 | [Combustion machine learning: Principles, progress and prospects](01_reviews_datasets/Pb73c9cc517/README.md) | Q1 | 待核对 |
+| 2022 | [Combustion machine learning: Principles, progress and prospects](01_reviews_datasets/Pb73c9cc517/README.md) | Q1 | ✓ |
 | 2021 | [Machine learning technology in biodiesel research: A review](01_reviews_datasets/P1c83a460e9/README.md) | Q1 | 待核对 |
 
-### [共性方法与待细分条目](02_crosscutting_methods/README.md)（7）
+### [共性方法与待细分条目](02_crosscutting_methods/README.md)（8）
 
 | 年份 | 论文 | 分区线索 | 代码 |
 |---|---|---|---|
 | 2025 | [Explainable machine learning for predicting thermogravimetric analysis of oxidatively torrefied spent coffee grounds combustion](02_crosscutting_methods/P6ea796cd51/README.md) | Q? | 待核对 |
 | 2025 | [Real-time combustion progress estimation using deep learning](02_crosscutting_methods/P602d1ac2e6/README.md) | Q? | 待核对 |
+| 2024 | [Graphics processing unit/artificial neural network-accelerated large-eddy simulation of swirling premixed flames](02_crosscutting_methods/P7d1151e9b2/README.md) | Q? | 待核对 |
 | 2023 | [Prediction of combustion promotion effect of high/low-frequency AC electric fields based on machine learning method](02_crosscutting_methods/P8619f56868/README.md) | Q1 | 待核对 |
 | 2022 | [Criteria to switch from tabulation to neural networks in computational combustion](02_crosscutting_methods/P1dcfd55c1e/README.md) | Q1 | 待核对 |
 | 2022 | [Investigation of co-combustion of sewage sludge and coffee industry residue by TG-FTIR and machine learning methods](02_crosscutting_methods/Pcd4389342d/README.md) | Q1 | 待核对 |

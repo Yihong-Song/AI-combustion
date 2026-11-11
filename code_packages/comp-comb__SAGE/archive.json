@@ -1,0 +1,11 @@
+{
+  "repository": "comp-comb/SAGE",
+  "commit": "04ac7006840838da7e1d53c8546360f8afe23a1e",
+  "source_url": "https://api.github.com/repos/comp-comb/SAGE/tarball/04ac7006840838da7e1d53c8546360f8afe23a1e",
+  "retrieved_at": "2026-11-11T16:58:33.953781+00:00",
+  "license": "GPL-3.0 (inspect upstream terms)",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/comp-comb/SAGE/legacy.tar.gz/04ac7006840838da7e1d53c8546360f8afe23a1e",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

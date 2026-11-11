@@ -1,0 +1,18 @@
+{
+  "doi": "10.1016/j.proci.2026.106166",
+  "title": "Integrated neural network approach for autonomous sensitivity analysis and optimization of sectional soot kinetic modeling",
+  "query": "\"Integrated neural network approach for autonomous sensitivity analysis and optimization of sectional\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:45:28.291755+00:00",
+  "total_count": 1,
+  "items": [
+    {
+      "full_name": "cfx18/NN4Soot",
+      "html_url": "https://github.com/cfx18/NN4Soot",
+      "description": "Integrated Neural Network Approach for Autonomous Sensitivity Analysis and Optimization of Sectional Soot Kinetic Modeling",
+      "license": null,
+      "size": 57894,
+      "fork": false
+    }
+  ]
+}

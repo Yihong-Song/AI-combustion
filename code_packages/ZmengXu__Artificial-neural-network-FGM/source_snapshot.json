@@ -1,0 +1,47 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "ZmengXu/Artificial-neural-network-FGM",
+  "commit": "1d63cea48e55397285cf811e6e16cbdab5609a14",
+  "date": "2026-11-11",
+  "path": "code_packages/ZmengXu__Artificial-neural-network-FGM/1d63cea48e55-source-only.tar.gz",
+  "bytes": 5833,
+  "sha256": "64a44d038437b83a303041c0967ee4a348704e77829641304db38e8fe2af6785",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": "2DsurfaceFitting_FGM_real_5layer.py",
+      "git_blob_sha": "1f82d480dac23a190e841373775a8508c506abf8",
+      "sha256": "ed3262f126da1697ed4b370db5bfabb9dbb5d87525b40c0ac0649922539a03c1",
+      "bytes": 8904
+    },
+    {
+      "path": "2In3Out.py",
+      "git_blob_sha": "ca046e3c05d1ae390075d94d573e62899c2ec6df",
+      "sha256": "55ba4d17162a9ed327ea9852a5fcd2f1e7c47dbe5f4defa5148e918e512bb104",
+      "bytes": 5292
+    },
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "c5f3cc94b3a5178279804c3a8985090c8cf6cb1c",
+      "sha256": "5bd392b1b395757a45bcd08151fb0f7c91abbb16f7fa1cdfae462b2ecf0dc723",
+      "bytes": 1062
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "fae0d76fd4d915d5669be299c2751b52aa23a732",
+      "sha256": "eb14af8f89da794947732df723dc91cc9caadc11b1a2b7153063bbf78caee539",
+      "bytes": 145
+    },
+    {
+      "path": "netTest.py",
+      "git_blob_sha": "99c87e1e1c7b93b74d923c3a9488658ab698734d",
+      "sha256": "8f03dc57b21231f03ce657852e9ca7c31ec3587dd9d94ecdca5ad0c8e3a7d575",
+      "bytes": 7034
+    }
+  ],
+  "excluded_paths": [
+    ".editorconfig",
+    ".gitignore"
+  ]
+}

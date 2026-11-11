@@ -1,0 +1,11 @@
+{
+  "repository": "MagriLab/Adjoint-ESN",
+  "url": "https://github.com/MagriLab/Adjoint-ESN",
+  "retrieved_at": "2026-11-11T16:47:41.702560+00:00",
+  "commit": "8483399d9cae3b9ee83e03fc84107feb0d9e86ad",
+  "readme_path": "evidence/upstream/MagriLab__Adjoint-ESN.readme.txt",
+  "readme_url": "https://github.com/MagriLab/Adjoint-ESN/blob/8483399d9cae3b9ee83e03fc84107feb0d9e86ad/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_status": "not_found_via_api_or_root_tree",
+  "api_checked_at": "2026-11-11T16:47:57.789472+00:00"
+}

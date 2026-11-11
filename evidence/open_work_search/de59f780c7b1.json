@@ -1,0 +1,207 @@
+{
+  "query": "combustion \"SINDy\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:46:35.929996+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 20,
+  "url": "https://api.github.com/search/repositories?q=combustion+%22SINDy%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "html_url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 69,
+      "fork": false,
+      "updated_at": "2026-11-04T13:01:27Z"
+    },
+    {
+      "full_name": "danieldeh/autoresearch-pde",
+      "description": "Autoresearch for governing equations: data in -> ODE/PDE, key steps, uncertainty and what to measure next (Claude agents + SINDy/weak-SINDy/PySR, tournament, red team, experiment design)",
+      "html_url": "https://github.com/danieldeh/autoresearch-pde",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 71406,
+      "fork": false,
+      "updated_at": "2026-10-04T14:23:29Z"
+    },
+    {
+      "full_name": "mig29-010/hev-pinn-sindy-emissions-",
+      "description": null,
+      "html_url": "https://github.com/mig29-010/hev-pinn-sindy-emissions-",
+      "license": null,
+      "size": 9045,
+      "fork": false,
+      "updated_at": "2026-07-21T19:07:41Z"
+    },
+    {
+      "full_name": "lhmbehnnam/lhmbehnnam",
+      "description": null,
+      "html_url": "https://github.com/lhmbehnnam/lhmbehnnam",
+      "license": null,
+      "size": 16,
+      "fork": false,
+      "updated_at": "2026-08-26T17:11:07Z"
+    },
+    {
+      "full_name": "JI-FDA-LAB/pysindy-flow",
+      "description": null,
+      "html_url": "https://github.com/JI-FDA-LAB/pysindy-flow",
+      "license": null,
+      "size": 187150,
+      "fork": false,
+      "updated_at": "2025-04-20T16:02:25Z"
+    },
+    {
+      "full_name": "weltall216/Neural-Dynamics",
+      "description": null,
+      "html_url": "https://github.com/weltall216/Neural-Dynamics",
+      "license": null,
+      "size": 29,
+      "fork": false,
+      "updated_at": "2026-06-15T12:04:57Z"
+    },
+    {
+      "full_name": "mandar-tabib-1/mandar-tabib-1",
+      "description": "Config files for my GitHub profile.",
+      "html_url": "https://github.com/mandar-tabib-1/mandar-tabib-1",
+      "license": null,
+      "size": 84757,
+      "fork": false,
+      "updated_at": "2026-10-08T10:28:30Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-kan",
+      "description": "A curated collection of KAN (Kolmogorov-Arnold Network) resources—libraries, projects, tutorials, papers, and more—for researchers and developers in the field.",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-kan",
+      "license": null,
+      "size": 970,
+      "fork": false,
+      "updated_at": "2026-11-11T04:40:34Z"
+    },
+    {
+      "full_name": "s3lvan/awesome-machine-learning-fluid-mechanics",
+      "description": null,
+      "html_url": "https://github.com/s3lvan/awesome-machine-learning-fluid-mechanics",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 26,
+      "fork": false,
+      "updated_at": "2023-08-26T08:27:22Z"
+    },
+    {
+      "full_name": "natemurthy/world-models",
+      "description": "A public study and examination of world models in applied AI research engineering",
+      "html_url": "https://github.com/natemurthy/world-models",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 954,
+      "fork": false,
+      "updated_at": "2026-11-02T08:38:59Z"
+    },
+    {
+      "full_name": "exopoiesis/arxiv-radar-physics",
+      "description": "Daily-curated physics-relevant papers from arXiv with abstracts, canonical tags, and generated Pages views.",
+      "html_url": "https://github.com/exopoiesis/arxiv-radar-physics",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 115302,
+      "fork": false,
+      "updated_at": "2026-11-11T04:58:08Z"
+    },
+    {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4cheme",
+      "description": "🎓Automatically Update AI4Chemical-Engineering Papers Daily using Github Actions",
+      "html_url": "https://github.com/YuzeHao2023/daily-arxiv-ai4cheme",
+      "license": null,
+      "size": 2439,
+      "fork": false,
+      "updated_at": "2026-11-09T18:34:05Z"
+    },
+    {
+      "full_name": "DoongLi/ICRA2026-Paper-List",
+      "description": "ICRA2025 Paper List",
+      "html_url": "https://github.com/DoongLi/ICRA2026-Paper-List",
+      "license": null,
+      "size": 3374,
+      "fork": false,
+      "updated_at": "2026-11-06T03:01:04Z"
+    },
+    {
+      "full_name": "shuoli9969/Professor-Research-Quick-Insights",
+      "description": "A quick-access repository of professors' research areas, presented in an easy-to-understand format through summaries of recent publications and Q&A insights with ChatGPT.",
+      "html_url": "https://github.com/shuoli9969/Professor-Research-Quick-Insights",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 12541,
+      "fork": false,
+      "updated_at": "2024-12-06T09:13:03Z"
+    },
+    {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4physics",
+      "description": "🎓Automatically Update AI4Physics Papers Daily using Github Actions",
+      "html_url": "https://github.com/YuzeHao2023/daily-arxiv-ai4physics",
+      "license": null,
+      "size": 21485,
+      "fork": false,
+      "updated_at": "2026-11-09T17:52:36Z"
+    },
+    {
+      "full_name": "Studeas/icra-2026-paper-list",
+      "description": "ICRA 2026 paper explorer: 2,951 papers, verified arXiv PDF links, search, filters and CSV export in one HTML file.",
+      "html_url": "https://github.com/Studeas/icra-2026-paper-list",
+      "license": null,
+      "size": 426,
+      "fork": false,
+      "updated_at": "2026-09-06T17:33:45Z"
+    },
+    {
+      "full_name": "Rook1echen/arxiv-daily",
+      "description": "每日爬取",
+      "html_url": "https://github.com/Rook1echen/arxiv-daily",
+      "license": null,
+      "size": 32271,
+      "fork": false,
+      "updated_at": "2026-11-02T17:52:01Z"
+    },
+    {
+      "full_name": "HighTideY/Every-English-Word-EVER-",
+      "description": "This is a .txt file that contains up-to 350K English words ever, size: 3.81MB",
+      "html_url": "https://github.com/HighTideY/Every-English-Word-EVER-",
+      "license": null,
+      "size": 1318,
+      "fork": false,
+      "updated_at": "2021-10-07T05:16:58Z"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.proci.2026.106424",
+  "title": "A generalizable deep learning model for thermoacoustic instability real-time prediction: FPGA implementation and cross-engine validation",
+  "query": "\"A generalizable deep learning model for thermoacoustic instability real-time prediction FPGA implementation\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:46:17.853749+00:00",
+  "total_count": 0,
+  "items": []
+}

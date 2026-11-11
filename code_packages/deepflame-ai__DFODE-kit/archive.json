@@ -1,0 +1,11 @@
+{
+  "repository": "deepflame-ai/DFODE-kit",
+  "commit": "bc65e84bc7644675b9996e3eea08f0d38cbceaad",
+  "source_url": "https://api.github.com/repos/deepflame-ai/DFODE-kit/tarball/bc65e84bc7644675b9996e3eea08f0d38cbceaad",
+  "retrieved_at": "2026-11-11T16:58:48.476363+00:00",
+  "license": "GPL-3.0 (inspect upstream terms)",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/deepflame-ai/DFODE-kit/legacy.tar.gz/bc65e84bc7644675b9996e3eea08f0d38cbceaad",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

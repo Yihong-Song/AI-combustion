@@ -1,0 +1,23 @@
+{
+  "title_query": "Chemistry reduction using machine learning trained from non-premixed micro-mixing modeling: Application to DNS of a syngas turbulent oxy-flame with side-wall effects",
+  "retrieved_at": "2026-11-11T16:51:42.011216+00:00",
+  "url": "https://api.crossref.org/works?query.title=Chemistry+reduction+using+machine+learning+trained+from+non-premixed+micro-mixing+modeling%3A+Application+to+DNS+of+a+syngas+turbulent+oxy-flame+with+side-wall+effects&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.combustflame.2020.06.008",
+      "title": "Chemistry reduction using machine learning trained from non-premixed micro-mixing modeling: Application to DNS of a syngas turbulent oxy-flame with side-wall effects",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/j.proci.2020.06.047",
+      "title": "Machine learning for detailed chemistry reduction in DNS of a syngas turbulent oxy-flame with side-wall effects",
+      "score": 0.5811965811965812
+    },
+    {
+      "doi": "10.1016/j.fuel.2014.04.011",
+      "title": "Near-field local flame extinction of oxy-syngas non-premixed jet flames: A DNS study",
+      "score": 0.3062200956937799
+    }
+  ],
+  "matched_doi": "10.1016/j.combustflame.2020.06.008"
+}

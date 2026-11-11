@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.proci.2026.106826",
+  "title": "Solver-in-the-loop training of deep learning closures for large-eddy simulation of turbulent premixed jet flames",
+  "query": "\"Solver-in-the-loop training of deep learning closures for large-eddy simulation of turbulent premixed\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:49:40.509664+00:00",
+  "total_count": 0,
+  "items": []
+}

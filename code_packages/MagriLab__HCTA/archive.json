@@ -1,0 +1,11 @@
+{
+  "repository": "MagriLab/HCTA",
+  "commit": "50bb41720424a732b28f06adf684e593c98fa0c7",
+  "source_url": "https://api.github.com/repos/MagriLab/HCTA/tarball/50bb41720424a732b28f06adf684e593c98fa0c7",
+  "retrieved_at": "2026-11-11T16:59:54.476542+00:00",
+  "license": "MIT",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/MagriLab/HCTA/legacy.tar.gz/50bb41720424a732b28f06adf684e593c98fa0c7",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

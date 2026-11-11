@@ -2,7 +2,7 @@
 
 用代理、优化和控制在效率、排放、稳定性和成本之间寻找可用工况。
 
-本目录含 73 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
+本目录含 74 条候选。分区与全文状态逐篇标注；自动分类以研究目标优先，交叉方法可在总库检索。
 
 [返回首页](../README.md) · [全局地图](../00_literature_map/README.md) · [方法与范围](../docs/METHODOLOGY.md)
 
@@ -91,7 +91,7 @@
 | 2020 | [Machine learning enabled high-throughput screening of hydrocarbon molecules for the design of next generation fuels](02_control_optimization/Pf939553d43/README.md) | Q1 | 待核对 |
 | 2020 | [Optimization of diesel engine operating parameters fueled with palm oil-diesel blend: Comparative evaluation between response surface methodology (RSM) and artificial neural network (ANN)](02_control_optimization/P2531341519/README.md) | Q1 | 待核对 |
 
-### [超声速燃烧与爆轰](03_supersonic_detonation/README.md)（14）
+### [超声速燃烧与爆轰](03_supersonic_detonation/README.md)（15）
 
 | 年份 | 论文 | 分区线索 | 代码 |
 |---|---|---|---|
@@ -108,6 +108,7 @@
 | 2023 | [Reconstructing the flame in supersonic combustion flow by using the distribution of the wall pressure based on deep learning](03_supersonic_detonation/P88fd4d65bd/README.md) | Q? | 待核对 |
 | 2023 | [Predicting combustion behavior in rotating detonation engines using an interpretable deep learning method](03_supersonic_detonation/P22eaaf5068/README.md) | Q? | 待核对 |
 | 2022 | [A reconstruction method of detonation wave surface based on convolutional neural network](03_supersonic_detonation/P16bb712d58/README.md) | Q1 | 待核对 |
+| 2021 | [Learning dominant physical processes with data-driven balance models](03_supersonic_detonation/P3fe49a4002/README.md) | Q? | ✓ |
 | 2020 | [Reconstructing cellular surface of gaseous detonation based on artificial neural network and proper orthogonal decomposition](03_supersonic_detonation/P88108ab606/README.md) | Q1 | 待核对 |
 
 ### [喷雾、液滴与喷注](04_sprays_injection/README.md)（16）

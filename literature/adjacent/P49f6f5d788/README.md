@@ -8,7 +8,7 @@ P49f6f5d788 · 2021 · Combustion Theory and Modelling
 - 分类：湍流燃烧闭合与流形模型 / 闭合、PDF 与热化学流形
 - JCR：**二级来源报告 Q3/Q4，不纳入 Q1/Q2 候选主集**；报告最佳分区 Q3；版本未知；官方核实：否。
 - 阅读深度：标题与元数据筛选，待摘要/全文复核。
-- 论文原始指标复现：**未执行**。
+- 完整期刊论文复现：**尚未验收**。
 - [统一方法与证据等级](../../../docs/METHODOLOGY.md) · [方向说明](../../../02_turbulence_closure/README.md) · [全局地图](../../../00_literature_map/README.md)
 
 分区线索：[二级来源](https://www.letpub.com/journal-selector/journal/1904)。多类别期刊使用报告中的最佳类别作为候选信号，不能解释为所有类别均为 Q1。
@@ -37,4 +37,4 @@ P49f6f5d788 · 2021 · Combustion Theory and Modelling
 - 代码—论文版本一致性，数据及预训练权重是否齐全。
 - 论文指标同口径复现及差异分析。
 
-元数据来源：[Crossref](https://api.crossref.org/works/10.1080/13647830.2021.1991595)；本轮整理日期 2026-11-11。完整元数据见同目录 `paper.json`。
+元数据来源：[Crossref](https://api.crossref.org/works/10.1080/13647830.2021.1991595)；本轮整理日期 2026-11-12。完整元数据见同目录 `paper.json`。

@@ -1,0 +1,72 @@
+{
+  "id": "P8e6b5f251a",
+  "doi": "10.1016/j.engappai.2018.07.003",
+  "title": "ThermalNet: A deep reinforcement learning-based combustion optimization system for coal-fired boiler",
+  "year": 2018,
+  "journal": "Engineering Applications of Artificial Intelligence",
+  "authors": [
+    "Yin Cheng",
+    "Yuexin Huang",
+    "Bo Pang",
+    "Weidong Zhang"
+  ],
+  "category": "08_solid_fuels_fire",
+  "subcategory": "01_kinetics_fire",
+  "path": "08_solid_fuels_fire/01_kinetics_fire/P8e6b5f251a",
+  "doi_url": "https://doi.org/10.1016/j.engappai.2018.07.003",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.engappai.2018.07.003",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "title_screen_only_fulltext_pending",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "AUTOMATION & CONTROL SYSTEMS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "9/88"
+      },
+      {
+        "category": "COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "30/210"
+      },
+      {
+        "category": "ENGINEERING, ELECTRICAL & ELECTRONIC",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "28/370"
+      },
+      {
+        "category": "ENGINEERING, MULTIDISCIPLINARY",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "6/179"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/2513",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "not_searched_per_doi",
+    "repository": null,
+    "relationship": null,
+    "commit": null,
+    "license": null,
+    "package_id": null,
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": null
+}

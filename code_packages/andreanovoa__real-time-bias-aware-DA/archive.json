@@ -1,0 +1,11 @@
+{
+  "repository": "andreanovoa/real-time-bias-aware-DA",
+  "commit": "10d0a01fae5adf3c5e659231e9d4c0c2e68bce6a",
+  "source_url": "https://api.github.com/repos/andreanovoa/real-time-bias-aware-DA/tarball/10d0a01fae5adf3c5e659231e9d4c0c2e68bce6a",
+  "retrieved_at": "2026-11-11T16:58:02.975006+00:00",
+  "license": "MIT",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/andreanovoa/real-time-bias-aware-DA/legacy.tar.gz/10d0a01fae5adf3c5e659231e9d4c0c2e68bce6a",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

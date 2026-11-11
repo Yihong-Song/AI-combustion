@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-12",
+  "reviewed_paper_links": 51,
+  "paper_relationship_counts": {
+    "author_implementation_readme_explicit": 37,
+    "author_related_work_readme_explicit": 4,
+    "title_match_repository_readme": 4,
+    "author_supporting_tool_readme_explicit": 1,
+    "author_supporting_tutorial_readme_explicit": 2,
+    "repository_reference_readme_explicit": 1,
+    "author_supporting_component_readme_explicit": 2
+  },
+  "papers_with_collected_source": 31,
+  "papers_link_only_or_no_archive": 20,
+  "unique_packages": 89,
+  "strict_paper_reproductions": 0,
+  "new_training_started_this_collection_stage": false
+}

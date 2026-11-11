@@ -10,13 +10,15 @@
 python tools/validate.py
 python tools/build_catalog.py
 python tools/build_overview.py
+python tools/build_open_work_index.py
+python tools/build_reproduction_queue.py
 python tools/validate.py
 python tools/check_offline_rebuild.py
 ```
 
 校验的 Python 端仅使用标准库；文件清单由 Git 取得，因此需安装 Git 并在克隆目录内执行。若原始检索缓存不在本机，建库器从已发布的 `catalog/papers.json` 重建；许可证使用包中保留的原文。发现过期分类文件时校验会失败，应核对 DOI 后移除旧卡片，再生成索引。建库器不会擅自清理用户写的笔记。
 
-离线重建检查会将可发布文件复制到临时目录，在没有忽略缓存的情况下执行两个建库器，逐文件比较字节，再自动清理临时目录。运行前应等所有下载和文件编辑结束，避免把同时新增的归档误判为重建差异。结果见 `evidence/offline_rebuild.json`。
+离线重建检查会将可发布文件复制到临时目录，在没有忽略缓存的情况下重建目录、概览、开源索引和复现队列，逐文件比较字节，再自动清理临时目录。运行前应等所有下载和文件编辑结束，避免把同时新增的归档误判为重建差异。结果见 `evidence/offline_rebuild.json`。
 
 ## 扩充一轮检索
 
@@ -30,9 +32,12 @@ python tools/check_offline_rebuild.py
 
 ## 收纳代码
 
+新增领域检索用 `expand_open_work.py`；顺序、带间隔的论文题名核对用 `retrieve_open_work_metadata.py`。检索命中仍需人工审查，不能自动认作作者实现。人工补充保存在 `literature/open_work_additions.json`，支撑软件说明保存在 `literature/open_support_packages.json`，与原 `curation.json` 一起合并生成。相关工作、题名匹配和教程均保留各自关系类型。
+
 ```powershell
 python tools/fetch_packages.py --package TaoRen-Rad__WSGG-H2O-CO2-NH3
 python tools/collect_source_subset.py --package CAME-THU__FlamePINN-1D
+python tools/collect_source_subset.py --all-uncollected
 ```
 
 第一条收纳固定提交的完整 GitHub 源归档；它仍可能缺 LFS、子模块或外部数据。第二条只收纳部分源码/配置/说明/许可，明确列出每个省略路径，不能充当完整可运行分发。两者均记录 SHA-256；部分源码额外验证 Git blob 哈希。下载工具不执行上游文件。
@@ -41,7 +46,7 @@ python tools/collect_source_subset.py --package CAME-THU__FlamePINN-1D
 
 先选择原文一张表或一幅图，提取完整设置，再审查源代码。每篇应独立环境，记录数据版本、机理、物性、单位、边界、随机种子、设备和总预算。基准训练/测试切分与原文不同时，应叫独立基线或改编实验。
 
-目前 B01/B02 是独立基线，C01 是固定提交的作者推理演示，均不是原始论文指标复现。C01 预存的 LBL 参考来自作者，本库未独立计算。校验器从保存的预测 CSV 重算误差，可以检测结果文件不一致，但不能证明物理模型正确，也不能从离散 CSV 验证 B02 自动微分残差。
+目前 B01/B02 是独立基线，C01 是固定提交的作者推理演示，C02 是预印本的单工况训练比较，均未验收为完整原始期刊论文复现。C01/C02 参考来自作者，本库未独立重算参考求解器。校验器从保存 CSV 重算误差，C02 另核对速度摘要；这不能证明物理模型正确，也不能从离散 CSV 验证 B02 自动微分残差。
 
 后续优先路线：C01 多工况辐射验证 → FlamePINN 的简化正逆问题 → SL-GPS 的自燃与组分筛选 → CMLM 的流形代理 → CRNN 的不确定度 → DeepFlame 的后验 CFD。每一步以数据、依赖和目标图表实际可获得为前提。
 

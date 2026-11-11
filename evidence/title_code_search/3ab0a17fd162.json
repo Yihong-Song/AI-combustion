@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.combustflame.2026.115246",
+  "title": "Time-resolved three-dimensional temperature field reconstruction of soot flames using physics-informed neural networks",
+  "query": "\"Time-resolved three-dimensional temperature field reconstruction of soot flames using physics-informed neural networks\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:41:17.075199+00:00",
+  "total_count": 0,
+  "items": []
+}

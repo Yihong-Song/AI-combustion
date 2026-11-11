@@ -1,0 +1,5 @@
+{
+  "title_query": "Data-driven computation of adjoint sensitivities without adjoint solvers: An application to thermoacoustics",
+  "retrieved_at": "2026-11-11T16:51:30.857386+00:00",
+  "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Data-driven+computation+of+adjoint+sensitivities+without+adjoint+solvers%3A+An+application+to+thermoacoustics&rows=3&filter=type%3Ajournal-article"
+}

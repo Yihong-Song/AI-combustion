@@ -1,0 +1,58 @@
+{
+  "id": "Pe01c5a5aac",
+  "doi": "10.1016/j.jqsrt.2021.107628",
+  "title": "A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures",
+  "year": 2021,
+  "journal": "Journal of Quantitative Spectroscopy and Radiative Transfer",
+  "authors": [
+    "Ya Zhou",
+    "Chaojun Wang",
+    "Tao Ren",
+    "Changying Zhao"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "02_radiation_soot",
+  "path": "05_diagnostics_radiation/02_radiation_soot/Pe01c5a5aac",
+  "doi_url": "https://doi.org/10.1016/j.jqsrt.2021.107628",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.jqsrt.2021.107628",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "ZY-LHY/Machine_learning_based_FSCK_model_soot",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "12fea0f160bcb2f4e32a586ae66ffe3b7b71775a",
+    "license": "MIT",
+    "package_id": "ZY-LHY__Machine_learning_based_FSCK_model_soot",
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/e01c5a5aac07.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "ZY-LHY/Machine_learning_based_FSCK_model_soot",
+    "category": "05_diagnostics_radiation",
+    "subcategory": "02_radiation_soot",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "用紧凑模型预测燃烧气体与烟炱混合物的全谱相关 k 分布。",
+    "method": "README 明确引用本文，说明将机器学习模型导出为可独立调用的 Fortran 模块；输入物理状态在 Main.f90 修改，输出 32 个求积点的 k 分布。",
+    "entry": "Main.f90 → make → ./rhs → python plot.py；先核对温度、压力、组分和烟炱体积分数的单位及范围。",
+    "dependencies": "GNU Fortran、make 与 Python 绘图依赖；训练表格和原始光谱数据库不因推理模块公开而自动齐备。",
+    "evaluation": "先对同状态的 FSCK 表格比较 k 分布，再比较热流/辐射源项及非均匀气体–烟炱火焰；不能把压缩率当作辐射精度。",
+    "limitations": "MIT；README 也列 2020 前作作为背景，不将当前气体–烟炱模块当作前作完整实现。未运行。"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "repository": "uqyge/neuralODE_combustion",
+  "url": "https://github.com/uqyge/neuralODE_combustion",
+  "retrieved_at": "2026-11-11T16:47:41.707208+00:00",
+  "commit": "58914ab85d2e83c7086c6ab8fa19307d49a81ab2",
+  "readme_status": "not_found_via_api",
+  "license_path": "evidence/upstream/uqyge__neuralODE_combustion.license.txt",
+  "license_url": "https://github.com/uqyge/neuralODE_combustion/blob/58914ab85d2e83c7086c6ab8fa19307d49a81ab2/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:48:11.302137+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "EvertBunschoten__MLPCpp",
+  "repository": "EvertBunschoten/MLPCpp",
+  "url": "https://github.com/EvertBunschoten/MLPCpp",
+  "commit": "d1bf7cded532a48d08e7d09cf117b99f1fc9ac23",
+  "retrieved_at": "2026-11-11T16:49:12.012677+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "C++ MLP 推理与集成工具，适合查看网络如何接入传统求解器。作为支撑基础设施；具体燃烧论文和训练协议待核。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/EvertBunschoten__MLPCpp.json",
+  "license_url": "https://github.com/EvertBunschoten/MLPCpp/blob/d1bf7cded532a48d08e7d09cf117b99f1fc9ac23/LICENSE",
+  "license_sha256": "58229b788eb8d6d7904b774b5b018d63c2838e570025ca2f3fb9cd84e3db39b1",
+  "pinned_url": "https://github.com/EvertBunschoten/MLPCpp/tree/d1bf7cded532a48d08e7d09cf117b99f1fc9ac23",
+  "archive_url": "https://api.github.com/repos/EvertBunschoten/MLPCpp/tarball/d1bf7cded532a48d08e7d09cf117b99f1fc9ac23",
+  "readme_source": "https://github.com/EvertBunschoten/MLPCpp/blob/d1bf7cded532a48d08e7d09cf117b99f1fc9ac23/README.md",
+  "archive": {
+    "repository": "EvertBunschoten/MLPCpp",
+    "commit": "d1bf7cded532a48d08e7d09cf117b99f1fc9ac23",
+    "source_url": "https://api.github.com/repos/EvertBunschoten/MLPCpp/tarball/d1bf7cded532a48d08e7d09cf117b99f1fc9ac23",
+    "retrieved_at": "2026-11-11T16:59:34.279467+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/EvertBunschoten/MLPCpp/legacy.tar.gz/d1bf7cded532a48d08e7d09cf117b99f1fc9ac23",
+    "status": "downloaded",
+    "path": "code_packages/EvertBunschoten__MLPCpp/d1bf7cded532.tar.gz",
+    "bytes": 1222297,
+    "sha256": "4b5277cfb88a2543bf5b5524d7ae4e14281603632fcad0a190cb4cd7254827a3"
+  },
+  "collection_status": "source_archive_collected"
+}

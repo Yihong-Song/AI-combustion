@@ -8,7 +8,7 @@ P8badc7f206 · 2025 · Flow, Turbulence and Combustion
 - 分类：湍流燃烧闭合与流形模型 / 闭合、PDF 与热化学流形
 - JCR：**JCR 分区待核实**；报告最佳分区 未知；版本未知；官方核实：否。
 - 阅读深度：已核对元数据与上游 README，尚未完成全文精读。
-- 论文原始指标复现：**未执行**。
+- 完整期刊论文复现：**尚未验收**。
 - [统一方法与证据等级](../../../docs/METHODOLOGY.md) · [方向说明](../../../02_turbulence_closure/README.md) · [全局地图](../../../00_literature_map/README.md)
 
 ## 研究问题
@@ -50,4 +50,4 @@ GPL-3.0；未执行论文实验。aPriori/aPrioriDNS 为更名相关入口，按
 - 代码—论文版本一致性，数据及预训练权重是否齐全。
 - 论文指标同口径复现及差异分析。
 
-元数据来源：[Crossref](https://api.crossref.org/works/10.1007/s10494-024-00626-3)；本轮整理日期 2026-11-11。完整元数据见同目录 `paper.json`。
+元数据来源：[Crossref](https://api.crossref.org/works/10.1007/s10494-024-00626-3)；本轮整理日期 2026-11-12。完整元数据见同目录 `paper.json`。

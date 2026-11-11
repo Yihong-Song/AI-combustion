@@ -1,0 +1,23 @@
+{
+  "title_query": "Graphics processing unit/artificial neural network-accelerated large-eddy simulation of swirling premixed flames",
+  "retrieved_at": "2026-11-11T16:51:28.118052+00:00",
+  "url": "https://api.crossref.org/works?query.title=Graphics+processing+unit%2Fartificial+neural+network-accelerated+large-eddy+simulation+of+swirling+premixed+flames&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1063/5.0202321",
+      "title": "Graphics processing unit/artificial neural network-accelerated large-eddy simulation of swirling premixed flames",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/j.proci.2006.07.251",
+      "title": "Large eddy simulation of bluff-body stabilized swirling non-premixed flames",
+      "score": 0.524390243902439
+    },
+    {
+      "doi": "10.5139/jksas.2006.34.7.079",
+      "title": "Large Eddy Simulation of Swirling Premixed Flames in a Model Gas Turbine Combustor",
+      "score": 0.5088757396449705
+    }
+  ],
+  "matched_doi": "10.1063/5.0202321"
+}

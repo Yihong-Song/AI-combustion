@@ -1,0 +1,14 @@
+{
+  "repository": "lz1025/AL-GA-combustion",
+  "url": "https://github.com/lz1025/AL-GA-combustion",
+  "retrieved_at": "2026-11-11T16:48:47.941025+00:00",
+  "commit": "1c3d7fdf4622d1c1895a69fab452b586d5fe1ebb",
+  "readme_path": "evidence/upstream/lz1025__AL-GA-combustion.readme.txt",
+  "readme_url": "https://github.com/lz1025/AL-GA-combustion/blob/1c3d7fdf4622d1c1895a69fab452b586d5fe1ebb/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/lz1025__AL-GA-combustion.license.txt",
+  "license_url": "https://github.com/lz1025/AL-GA-combustion/blob/1c3d7fdf4622d1c1895a69fab452b586d5fe1ebb/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:16.882115+00:00"
+}

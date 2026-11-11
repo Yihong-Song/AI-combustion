@@ -1,0 +1,5 @@
+{
+  "title_query": "Learning stiff chemical kinetics using extended deep neural operators",
+  "retrieved_at": "2026-11-11T16:51:40.465942+00:00",
+  "error": "429 Client Error: Too Many Requests for url: https://api.crossref.org/works?query.title=Learning+stiff+chemical+kinetics+using+extended+deep+neural+operators&rows=3&filter=type%3Ajournal-article"
+}

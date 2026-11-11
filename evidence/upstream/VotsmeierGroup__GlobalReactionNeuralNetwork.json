@@ -1,0 +1,14 @@
+{
+  "repository": "VotsmeierGroup/GlobalReactionNeuralNetwork",
+  "url": "https://github.com/VotsmeierGroup/GlobalReactionNeuralNetwork",
+  "retrieved_at": "2026-11-11T16:49:28.648013+00:00",
+  "commit": "42b6a4cc81303e0cc649a356c0f9354a0047988e",
+  "readme_path": "evidence/upstream/VotsmeierGroup__GlobalReactionNeuralNetwork.readme.txt",
+  "readme_url": "https://github.com/VotsmeierGroup/GlobalReactionNeuralNetwork/blob/42b6a4cc81303e0cc649a356c0f9354a0047988e/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/VotsmeierGroup__GlobalReactionNeuralNetwork.license.txt",
+  "license_url": "https://github.com/VotsmeierGroup/GlobalReactionNeuralNetwork/blob/42b6a4cc81303e0cc649a356c0f9354a0047988e/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:32.978246+00:00"
+}

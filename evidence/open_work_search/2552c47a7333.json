@@ -1,0 +1,417 @@
+{
+  "query": "flame \"operator\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:46:10.123778+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 4225,
+  "url": "https://api.github.com/search/repositories?q=flame+%22operator%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "flame-engine/awesome-flame",
+      "description": "An awesome list that curates the best Flame games, projects, libraries, tools, tutorials, articles and more.",
+      "html_url": "https://github.com/flame-engine/awesome-flame",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 257,
+      "fork": false,
+      "updated_at": "2026-11-11T07:50:23Z"
+    },
+    {
+      "full_name": "pixie-io/pixie",
+      "description": "Instant Kubernetes-Native Application Observability",
+      "html_url": "https://github.com/pixie-io/pixie",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 121875,
+      "fork": false,
+      "updated_at": "2026-11-11T05:01:50Z"
+    },
+    {
+      "full_name": "scottdraves/flam3",
+      "description": "the original fractal flame renderer and genetic language",
+      "html_url": "https://github.com/scottdraves/flam3",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 1568,
+      "fork": false,
+      "updated_at": "2026-11-07T06:55:47Z"
+    },
+    {
+      "full_name": "mks0601/Hand4Whole_RELEASE",
+      "description": "Official PyTorch implementation of \"Accurate 3D Hand Pose Estimation for Whole-Body 3D Human Mesh Estimation\", CVPRW 2022 (Oral.)",
+      "html_url": "https://github.com/mks0601/Hand4Whole_RELEASE",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 10181,
+      "fork": false,
+      "updated_at": "2026-10-28T07:19:38Z"
+    },
+    {
+      "full_name": "IDEA-Research/OSX",
+      "description": "[CVPR 2023] Official implementation of the paper \"One-Stage 3D Whole-Body Mesh Recovery with Component Aware Transformer\"",
+      "html_url": "https://github.com/IDEA-Research/OSX",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 12532,
+      "fork": false,
+      "updated_at": "2026-11-10T06:57:23Z"
+    },
+    {
+      "full_name": "MrWardKKHS/flame",
+      "description": null,
+      "html_url": "https://github.com/MrWardKKHS/flame",
+      "license": null,
+      "size": 3594,
+      "fork": false,
+      "updated_at": "2026-06-28T08:16:41Z"
+    },
+    {
+      "full_name": "Anashost/HA-Animated-cards",
+      "description": "Take your Home Assistant dashboard to the next level with dynamic, customizable animated cards that bring your smart home dashboard to life.",
+      "html_url": "https://github.com/Anashost/HA-Animated-cards",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 905,
+      "fork": false,
+      "updated_at": "2026-11-10T19:25:53Z"
+    },
+    {
+      "full_name": "prograd-org/lab-flames",
+      "description": null,
+      "html_url": "https://github.com/prograd-org/lab-flames",
+      "license": null,
+      "size": 6390,
+      "fork": false,
+      "updated_at": "2020-09-09T14:06:39Z"
+    },
+    {
+      "full_name": "intel/gprofiler-performance-studio",
+      "description": "The local version of the backend and UI for the gProfiler agent, featuring advanced flamegraph analysis tools.",
+      "html_url": "https://github.com/intel/gprofiler-performance-studio",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 5588,
+      "fork": false,
+      "updated_at": "2026-11-11T05:43:35Z"
+    },
+    {
+      "full_name": "dhamaniasad/awesome-postgres",
+      "description": "A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql",
+      "html_url": "https://github.com/dhamaniasad/awesome-postgres",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 771,
+      "fork": false,
+      "updated_at": "2026-11-11T16:14:27Z"
+    },
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "mlc-ai/pith-train",
+      "description": "Compact and Agent-Native MoE Training System",
+      "html_url": "https://github.com/mlc-ai/pith-train",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 1629,
+      "fork": false,
+      "updated_at": "2026-11-06T06:50:48Z"
+    },
+    {
+      "full_name": "signalapp/ContactDiscoveryService",
+      "description": null,
+      "html_url": "https://github.com/signalapp/ContactDiscoveryService",
+      "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+      },
+      "size": 3013,
+      "fork": false,
+      "updated_at": "2026-09-26T23:21:02Z"
+    },
+    {
+      "full_name": "acuoci/laminarSMOKE",
+      "description": "CFD solver (based on OpenFOAM) for laminar reacting flow with detailed kinetic mechanisms based on OpenSMOKE++",
+      "html_url": "https://github.com/acuoci/laminarSMOKE",
+      "license": null,
+      "size": 1633,
+      "fork": false,
+      "updated_at": "2026-09-26T16:42:02Z"
+    },
+    {
+      "full_name": "CliMA/ClimaCore.jl",
+      "description": "GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools",
+      "html_url": "https://github.com/CliMA/ClimaCore.jl",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 86832,
+      "fork": false,
+      "updated_at": "2026-11-11T00:12:11Z"
+    },
+    {
+      "full_name": "flaree/flare-cogs",
+      "description": "Various cogs written for Red-DiscordBot",
+      "html_url": "https://github.com/flaree/flare-cogs",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 18585,
+      "fork": false,
+      "updated_at": "2026-10-20T15:40:44Z"
+    },
+    {
+      "full_name": "BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "html_url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "license": {
+        "key": "agpl-3.0",
+        "name": "GNU Affero General Public License v3.0",
+        "spdx_id": "AGPL-3.0",
+        "url": "https://api.github.com/licenses/agpl-3.0",
+        "node_id": "MDc6TGljZW5zZTE="
+      },
+      "size": 16879,
+      "fork": false,
+      "updated_at": "2026-11-11T16:09:31Z"
+    },
+    {
+      "full_name": "rollbear/strong_type",
+      "description": "An additive strong typedef library for C++14/17/20 ",
+      "html_url": "https://github.com/rollbear/strong_type",
+      "license": {
+        "key": "bsl-1.0",
+        "name": "Boost Software License 1.0",
+        "spdx_id": "BSL-1.0",
+        "url": "https://api.github.com/licenses/bsl-1.0",
+        "node_id": "MDc6TGljZW5zZTI4"
+      },
+      "size": 282,
+      "fork": false,
+      "updated_at": "2026-11-11T13:56:11Z"
+    },
+    {
+      "full_name": "mkurman/zorai",
+      "description": "Zorai is a persistent, multi-agent, auditable, learning execution platform where the daemon owns work, memory, approvals, tools, and long-running goals.",
+      "html_url": "https://github.com/mkurman/zorai",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 53738,
+      "fork": false,
+      "updated_at": "2026-11-11T11:20:02Z"
+    },
+    {
+      "full_name": "openresty/stapxx",
+      "description": "Simple macro language extentions to systemtap",
+      "html_url": "https://github.com/openresty/stapxx",
+      "license": null,
+      "size": 327,
+      "fork": false,
+      "updated_at": "2026-10-13T06:35:55Z"
+    },
+    {
+      "full_name": "widgrensit/asobi",
+      "description": "Game backend platform built on Nova/OTP",
+      "html_url": "https://github.com/widgrensit/asobi",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 7577,
+      "fork": false,
+      "updated_at": "2026-11-09T23:57:19Z"
+    },
+    {
+      "full_name": "MotrixLab/SMPLer-X",
+      "description": "[NeurIPS 2023] Official Code for \"SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation\"",
+      "html_url": "https://github.com/MotrixLab/SMPLer-X",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 144181,
+      "fork": false,
+      "updated_at": "2026-11-03T12:11:53Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "boonproject/boon",
+      "description": "Simple opinionated Java for the novice to expert level Java Programmer.  Low Ceremony. High Productivity.",
+      "html_url": "https://github.com/boonproject/boon",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 7402,
+      "fork": false,
+      "updated_at": "2026-11-10T10:19:30Z"
+    },
+    {
+      "full_name": "thunil/Physics-Based-Deep-Learning",
+      "description": "Links to works on deep learning algorithms for physics problems, TUM-I15 and beyond",
+      "html_url": "https://github.com/thunil/Physics-Based-Deep-Learning",
+      "license": null,
+      "size": 356,
+      "fork": false,
+      "updated_at": "2026-11-09T18:47:02Z"
+    },
+    {
+      "full_name": "onnxsim/onnxsim",
+      "description": "Simplify your onnx model",
+      "html_url": "https://github.com/onnxsim/onnxsim",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 91336,
+      "fork": false,
+      "updated_at": "2026-11-10T22:02:28Z"
+    },
+    {
+      "full_name": "dumann089/TheatricalExtraLights",
+      "description": "Extra stuff for the Theatrical mod",
+      "html_url": "https://github.com/dumann089/TheatricalExtraLights",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 16046,
+      "fork": false,
+      "updated_at": "2026-11-07T23:29:13Z"
+    },
+    {
+      "full_name": "xarray-contrib/xarray-spatial",
+      "description": "Spatial analysis algorithms for xarray implemented in numba",
+      "html_url": "https://github.com/xarray-contrib/xarray-spatial",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 324586,
+      "fork": false,
+      "updated_at": "2026-11-10T10:29:21Z"
+    },
+    {
+      "full_name": "grafana/alloy-scenarios",
+      "description": "A collection of working Alloy scenarios",
+      "html_url": "https://github.com/grafana/alloy-scenarios",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 5354,
+      "fork": false,
+      "updated_at": "2026-11-09T13:09:43Z"
+    },
+    {
+      "full_name": "TsinghuaDatabaseGroup/DB-GPT",
+      "description": "An LLM Based Diagnosis System  (https://arxiv.org/pdf/2312.01454.pdf)",
+      "html_url": "https://github.com/TsinghuaDatabaseGroup/DB-GPT",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 375214,
+      "fork": false,
+      "updated_at": "2026-11-01T09:16:51Z"
+    }
+  ]
+}

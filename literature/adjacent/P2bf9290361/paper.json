@@ -1,0 +1,84 @@
+{
+  "id": "P2bf9290361",
+  "doi": "10.1080/13647830.2026.2621012",
+  "title": "Data-based filtered dissipation rate modelling for multi-modal turbulent combustion: evaluating a priori model generalizability",
+  "year": 2026,
+  "journal": "Combustion Theory and Modelling",
+  "authors": [
+    "Cristian E. Lacey",
+    "Bruno S. Soriano",
+    "Martin Rieth",
+    "Michael E. Mueller",
+    "Jacqueline H. Chen"
+  ],
+  "category": "02_turbulence_closure",
+  "subcategory": "01_closures_manifolds",
+  "path": "literature/adjacent/P2bf9290361",
+  "doi_url": "https://doi.org/10.1080/13647830.2026.2621012",
+  "metadata_source": "https://api.crossref.org/works/10.1080/13647830.2026.2621012",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "adjacent_q3_q4",
+    "reported_best_quartile": "Q3",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q4",
+        "rank": "167/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "134/183"
+      },
+      {
+        "category": "MATHEMATICS, INTERDISCIPLINARY APPLICATIONS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "78/137"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "55/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/1904",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "cristianlacey/data-based-multi-modal-filtered-dissipation-rates",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "77f216e703d1d97edfc16a981d4046c2da97db14",
+    "license": "not_located",
+    "package_id": "cristianlacey__data-based-multi-modal-filtered-dissipation-rates",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "cristianlacey/data-based-multi-modal-filtered-dissipation-rates",
+    "category": "02_turbulence_closure",
+    "subcategory": "01_closures_manifolds",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "在多模态湍流燃烧流形模型中闭合混合分数、交叉及进度变量的滤波耗散率。",
+    "method": "README 明确列本文 DOI 与 TensorFlow 模型，面向三类耗散率闭合；题名中的 a priori 泛化检验不能解释为后验 LES 验证。",
+    "entry": "按 tf-gpu.yml 与 README 输入定义读取模型，分别核对 chi_ZZ、chi_ZLambda 和 chi_LambdaLambda 的符号、尺度和过滤定义。",
+    "dependencies": "TensorFlow 2.4.1 的独立环境、适配的 DNS/流形数据和预处理；未确认训练数据全量可用。",
+    "evaluation": "按燃烧模态和完整模拟留出，对比各源项、交叉项符号、未见状态误差和物理可实现性。",
+    "limitations": "当前二级分区线索为 Q3，保留在相邻附录，不计入 Q1/Q2。未定位许可文件，仅固定链接。"
+  }
+}

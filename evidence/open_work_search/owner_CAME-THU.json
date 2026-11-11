@@ -1,0 +1,98 @@
+{
+  "owner": "CAME-THU",
+  "retrieved_at": "2026-11-11T16:47:12.812084+00:00",
+  "items": [
+    {
+      "full_name": "CAME-THU/FlamePINN-1D",
+      "description": "Physics-informed neural networks to solve forward and inverse problems of 1D laminar flames",
+      "html_url": "https://github.com/CAME-THU/FlamePINN-1D",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 21228
+    },
+    {
+      "full_name": "CAME-THU/FGM-Table-Program",
+      "description": "The program to create tables for FGM model to simulate turbulent combustion",
+      "html_url": "https://github.com/CAME-THU/FGM-Table-Program",
+      "fork": false,
+      "license": null,
+      "size": 32
+    },
+    {
+      "full_name": "CAME-THU/VLT-PINN",
+      "description": "Variable linear transformation improved physics-informed neural networks (VLT-PINNs) for thin-layer flow problems",
+      "html_url": "https://github.com/CAME-THU/VLT-PINN",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 980
+    },
+    {
+      "full_name": "CAME-THU/KH-PINN",
+      "description": "Physics-informed neural networks to solve inverse problems of Kelvin-Helmholtz instability (KHI) flows",
+      "html_url": "https://github.com/CAME-THU/KH-PINN",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 712425
+    },
+    {
+      "full_name": "CAME-THU/Wake-prediction-model-PFNEC",
+      "description": "wake prediction by data driven method and advanced neural network based on error classification",
+      "html_url": "https://github.com/CAME-THU/Wake-prediction-model-PFNEC",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 6838
+    },
+    {
+      "full_name": "CAME-THU/Scalar-Transport-Model",
+      "description": "Scalar transport sover can be enbeded in SOWFA solver to evaluate wake recovry in wind turbine flows.",
+      "html_url": "https://github.com/CAME-THU/Scalar-Transport-Model",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 19
+    },
+    {
+      "full_name": "CAME-THU/Scalar-Tansport-Model",
+      "description": "Scalar transport sover can be enbeded in SOWFA solver to evaluate wake recovry in wind turbine flows.",
+      "html_url": "https://github.com/CAME-THU/Scalar-Tansport-Model",
+      "fork": false,
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 21
+    }
+  ]
+}

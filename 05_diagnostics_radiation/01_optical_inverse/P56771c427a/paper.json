@@ -1,0 +1,85 @@
+{
+  "id": "P56771c427a",
+  "doi": "10.1016/j.proci.2025.105821",
+  "title": "SAGE: A machine learning model for primary particle segmentation in TEM images of soot aggregates",
+  "year": 2025,
+  "journal": "Proceedings of the Combustion Institute",
+  "authors": [
+    "Timothy P. Day",
+    "Khaled Mosharraf Mukut",
+    "Luke Klacik",
+    "Ryan O’Donnell",
+    "James Wasilewski",
+    "Somesh P. Roy"
+  ],
+  "category": "05_diagnostics_radiation",
+  "subcategory": "01_optical_inverse",
+  "path": "05_diagnostics_radiation/01_optical_inverse/P56771c427a",
+  "doi_url": "https://doi.org/10.1016/j.proci.2025.105821",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.proci.2025.105821",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ENERGY & FUELS",
+        "collection": "SCIE",
+        "quartile": "Q3",
+        "rank": "104/191"
+      },
+      {
+        "category": "ENGINEERING, CHEMICAL",
+        "collection": "SCIE",
+        "quartile": "Q2",
+        "rank": "65/183"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "37/184"
+      },
+      {
+        "category": "THERMODYNAMICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "18/78"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/6861",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "comp-comb/SAGE",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "04ac7006840838da7e1d53c8546360f8afe23a1e",
+    "license": "GPL-3.0 (inspect upstream terms)",
+    "package_id": "comp-comb__SAGE",
+    "search_hits": 0,
+    "search_evidence": "evidence/code_search/56771c427a80.json"
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "comp-comb/SAGE",
+    "category": "05_diagnostics_radiation",
+    "subcategory": "01_optical_inverse",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "从烟炱 TEM 图像自动分割初级颗粒，减少人工形貌测量负担。",
+    "method": "README 明确列题名与 DOI。基于 Mask R-CNN，先使用合成 TEM 图像训练，再以人工标注真实图像微调；列出 SAGE0/1/2 与 COCO 初始化对照。",
+    "entry": "SAGE_train.ipynb 训练/微调；SAGE_ANALYZE.ipynb 推理、模型比较及颗粒几何量提取；权重从 Releases 或 notebook 下载。",
+    "dependencies": "requirements.yml 的独立环境、Mask R-CNN 依赖、对应分割数据和权重。上游使用 Tesla K80，现代 TensorFlow/CUDA 版本需另核。",
+    "evaluation": "按图像来源和烟炱类型留出，比较实例分割精度、颗粒尺度分布、重叠颗粒和人工标注不确定度；合成与真实数据分开报告。",
+    "limitations": "GPL-3.0；源码许可不自动覆盖权重与图像。原 README 的兼容性建议不是本库实际验证。"
+  }
+}

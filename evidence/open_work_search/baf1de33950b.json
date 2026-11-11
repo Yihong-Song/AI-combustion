@@ -1,0 +1,333 @@
+{
+  "query": "thermoacoustic \"learning\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:46:19.350460+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 63,
+  "url": "https://api.github.com/search/repositories?q=thermoacoustic+%22learning%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "pierrelux/rlbook",
+      "description": "A graduate-level introduction to reinforcement learning as a framework for modeling, optimization, and control, connecting dynamic models, data, and applications beyond standard benchmarks.",
+      "html_url": "https://github.com/pierrelux/rlbook",
+      "license": null,
+      "size": 2104103,
+      "fork": false,
+      "updated_at": "2026-11-10T02:57:15Z"
+    },
+    {
+      "full_name": "ThomasMBury/deep-early-warnings-pnas",
+      "description": "Repository to accompany the publication 'Deep learning for early warning signals of tipping points', PNAS (2021)",
+      "html_url": "https://github.com/ThomasMBury/deep-early-warnings-pnas",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 269678,
+      "fork": false,
+      "updated_at": "2026-08-04T17:49:41Z"
+    },
+    {
+      "full_name": "andreanovoa/real-time-bias-aware-DA",
+      "description": null,
+      "html_url": "https://github.com/andreanovoa/real-time-bias-aware-DA",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 802797,
+      "fork": false,
+      "updated_at": "2026-11-10T12:46:59Z"
+    },
+    {
+      "full_name": "IPASC/standardised-image-reconstruction",
+      "description": "The IPASC standardised image reconstruction project.",
+      "html_url": "https://github.com/IPASC/standardised-image-reconstruction",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3813,
+      "fork": false,
+      "updated_at": "2026-09-11T13:31:02Z"
+    },
+    {
+      "full_name": "maxlwang/mtl-sos-recon",
+      "description": null,
+      "html_url": "https://github.com/maxlwang/mtl-sos-recon",
+      "license": null,
+      "size": 13349,
+      "fork": false,
+      "updated_at": "2023-05-07T08:17:37Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "Yazdan-Babazadeh/DL-model-EWS-coloured-noise",
+      "description": null,
+      "html_url": "https://github.com/Yazdan-Babazadeh/DL-model-EWS-coloured-noise",
+      "license": null,
+      "size": 2562,
+      "fork": false,
+      "updated_at": "2026-09-12T17:46:57Z"
+    },
+    {
+      "full_name": "ShuaiGuo16/Data-driven-High-dimensional-UQ-Analysis",
+      "description": "Project source code and data for uncertainty quantification on combustion instability prediction using a machine-learning-enhanced strategy",
+      "html_url": "https://github.com/ShuaiGuo16/Data-driven-High-dimensional-UQ-Analysis",
+      "license": null,
+      "size": 43126,
+      "fork": false,
+      "updated_at": "2026-07-02T01:56:26Z"
+    },
+    {
+      "full_name": "Amogh-Kulkarni/tvc-thermoacoustic-ml",
+      "description": "ML classification of 5 nonlinear thermoacoustic regimes in a trapped vortex combustor. Classical ML, deep learning, ensembles with cross-condition generalization.",
+      "html_url": "https://github.com/Amogh-Kulkarni/tvc-thermoacoustic-ml",
+      "license": null,
+      "size": 3232,
+      "fork": false,
+      "updated_at": "2026-04-21T14:45:12Z"
+    },
+    {
+      "full_name": "zhugchzo/dl_occurrence_tipping",
+      "description": "Repository to accompany the article \"Deep learning for the occurrence of tipping points\"",
+      "html_url": "https://github.com/zhugchzo/dl_occurrence_tipping",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1052991,
+      "fork": false,
+      "updated_at": "2025-07-26T07:09:53Z"
+    },
+    {
+      "full_name": "Runtime-Slayers/Martian-Thermoacoustic-Engine-CO2-Atmosphere-Power",
+      "description": "P53: Martian thermoacoustic engine CO2 low-pressure atmosphere power NASA Mars NIST CO2",
+      "html_url": "https://github.com/Runtime-Slayers/Martian-Thermoacoustic-Engine-CO2-Atmosphere-Power",
+      "license": null,
+      "size": 215,
+      "fork": false,
+      "updated_at": "2026-07-18T08:41:09Z"
+    },
+    {
+      "full_name": "Runtime-Slayers/Thermoacoustic-Wearable-Cooler-40kHz-Solid-State",
+      "description": "P50: Thermoacoustic wearable cooler 40kHz solid-state no moving parts Swift-Rott model",
+      "html_url": "https://github.com/Runtime-Slayers/Thermoacoustic-Wearable-Cooler-40kHz-Solid-State",
+      "license": null,
+      "size": 222,
+      "fork": false,
+      "updated_at": "2026-07-18T08:40:50Z"
+    },
+    {
+      "full_name": "ShuaiGuo16/General-Risk-Analysis-Framework",
+      "description": "Project source code and data for ML-enhanced risk analysis framework for combustion instability prediction",
+      "html_url": "https://github.com/ShuaiGuo16/General-Risk-Analysis-Framework",
+      "license": null,
+      "size": 96819,
+      "fork": false,
+      "updated_at": "2022-04-28T14:16:03Z"
+    },
+    {
+      "full_name": "MagriLab/IN22-Bias-aware-TADA",
+      "description": "Bias-aware real-time thermoacoustic Data Assimilation. ",
+      "html_url": "https://github.com/MagriLab/IN22-Bias-aware-TADA",
+      "license": null,
+      "size": 56765,
+      "fork": false,
+      "updated_at": "2022-11-21T20:49:10Z"
+    },
+    {
+      "full_name": "mohammedbasra-star/thermoacoustic-instability-helmholtz-pinn",
+      "description": null,
+      "html_url": "https://github.com/mohammedbasra-star/thermoacoustic-instability-helmholtz-pinn",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1077,
+      "fork": false,
+      "updated_at": "2026-10-22T19:50:51Z"
+    },
+    {
+      "full_name": "oren-speiser/critical-slowing-down",
+      "description": null,
+      "html_url": "https://github.com/oren-speiser/critical-slowing-down",
+      "license": null,
+      "size": 83,
+      "fork": false,
+      "updated_at": "2026-07-04T15:54:46Z"
+    },
+    {
+      "full_name": "robtheminnie/TASHE_off_grid",
+      "description": "Thermoacoustic engine development and learning",
+      "html_url": "https://github.com/robtheminnie/TASHE_off_grid",
+      "license": null,
+      "size": 1214,
+      "fork": false,
+      "updated_at": "2026-05-04T21:06:12Z"
+    },
+    {
+      "full_name": "juannat7/tipbox",
+      "description": "JAX-based collection of models, dataset, and indicators for studying tipping points",
+      "html_url": "https://github.com/juannat7/tipbox",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 8659,
+      "fork": false,
+      "updated_at": "2026-11-07T01:05:12Z"
+    },
+    {
+      "full_name": "hperedo/ML-thermoacoustic-model",
+      "description": "Machine Learning Approach for Thermoacoustic COP Optimization",
+      "html_url": "https://github.com/hperedo/ML-thermoacoustic-model",
+      "license": null,
+      "size": 39,
+      "fork": false,
+      "updated_at": "2025-12-16T12:34:13Z"
+    },
+    {
+      "full_name": "Sam-MARTis/Sam-MARTis",
+      "description": null,
+      "html_url": "https://github.com/Sam-MARTis/Sam-MARTis",
+      "license": null,
+      "size": 61903,
+      "fork": false,
+      "updated_at": "2026-10-25T16:28:34Z"
+    },
+    {
+      "full_name": "vida-lashani/CNN-Transformer",
+      "description": "CNN-Transformer for Flame Nonlinear Response Reconstruction",
+      "html_url": "https://github.com/vida-lashani/CNN-Transformer",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 17,
+      "fork": false,
+      "updated_at": "2024-10-11T12:36:09Z"
+    },
+    {
+      "full_name": "ganji759/ganji759",
+      "description": "My profile",
+      "html_url": "https://github.com/ganji759/ganji759",
+      "license": null,
+      "size": 6065,
+      "fork": false,
+      "updated_at": "2026-11-10T23:52:32Z"
+    },
+    {
+      "full_name": "energyscholar/abcre-validation",
+      "description": null,
+      "html_url": "https://github.com/energyscholar/abcre-validation",
+      "license": null,
+      "size": 3648,
+      "fork": false,
+      "updated_at": "2026-03-10T00:11:47Z"
+    },
+    {
+      "full_name": "HeavenlyCloudz/Hypoxify-Annotation-Suite",
+      "description": "A physics-informed segmentation platform that embeds microwave and thermoacoustic signal properties directly into SAM's neural pathways. This enables accurate annotation on blurry, artifact-ridden MITT data where standard models fail.",
+      "html_url": "https://github.com/HeavenlyCloudz/Hypoxify-Annotation-Suite",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 2347,
+      "fork": false,
+      "updated_at": "2026-08-13T20:48:38Z"
+    },
+    {
+      "full_name": "lakshanmuruganandam/lakshanmuruganandam",
+      "description": "Config files for my GitHub profile.",
+      "html_url": "https://github.com/lakshanmuruganandam/lakshanmuruganandam",
+      "license": null,
+      "size": 39,
+      "fork": false,
+      "updated_at": "2026-04-20T15:18:39Z"
+    },
+    {
+      "full_name": "Arvind007n/combustion-instability-detection",
+      "description": "CFD Signal Analysis + SVR for Combustion Instability Detection",
+      "html_url": "https://github.com/Arvind007n/combustion-instability-detection",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 6159,
+      "fork": false,
+      "updated_at": "2026-07-28T16:09:31Z"
+    },
+    {
+      "full_name": "Predictive-Intelligent-Systems-Lab/instability_prediction_algorithm",
+      "description": null,
+      "html_url": "https://github.com/Predictive-Intelligent-Systems-Lab/instability_prediction_algorithm",
+      "license": null,
+      "size": 88,
+      "fork": false,
+      "updated_at": "2025-12-16T00:08:19Z"
+    },
+    {
+      "full_name": "i4mGr0ot/i4mGr0ot",
+      "description": null,
+      "html_url": "https://github.com/i4mGr0ot/i4mGr0ot",
+      "license": null,
+      "size": 354,
+      "fork": false,
+      "updated_at": "2026-11-11T11:57:56Z"
+    },
+    {
+      "full_name": "Anirudha-Shinde/Anirudha-Shinde",
+      "description": "Data Science Portfolio to showcase my projects",
+      "html_url": "https://github.com/Anirudha-Shinde/Anirudha-Shinde",
+      "license": null,
+      "size": 7538,
+      "fork": false,
+      "updated_at": "2026-09-13T06:09:32Z"
+    },
+    {
+      "full_name": "Anirudha-Shinde/Bayesian-NN-ME228",
+      "description": "This our ML project for ME 228 Applied data Science and Machine learning Course.",
+      "html_url": "https://github.com/Anirudha-Shinde/Bayesian-NN-ME228",
+      "license": null,
+      "size": 3005,
+      "fork": false,
+      "updated_at": "2024-07-13T10:56:53Z"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "P67741bfd8c",
+  "doi": "10.1016/j.jsv.2021.116083",
+  "title": "Robust identification of flame frequency response via multi-fidelity Gaussian process approach",
+  "year": 2021,
+  "journal": "Journal of Sound and Vibration",
+  "authors": [
+    "Shuai Guo",
+    "Camilo F. Silva",
+    "Wolfgang Polifke"
+  ],
+  "category": "04_instability_control",
+  "subcategory": "01_prediction_identification",
+  "path": "04_instability_control/01_prediction_identification/P67741bfd8c",
+  "doi_url": "https://doi.org/10.1016/j.jsv.2021.116083",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.jsv.2021.116083",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "provisional_q1_q2",
+    "reported_best_quartile": "Q1",
+    "edition": null,
+    "officially_verified": false,
+    "categories": [
+      {
+        "category": "ACOUSTICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "2/41"
+      },
+      {
+        "category": "ENGINEERING, MECHANICAL",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "26/184"
+      },
+      {
+        "category": "MECHANICS",
+        "collection": "SCIE",
+        "quartile": "Q1",
+        "rank": "19/172"
+      }
+    ],
+    "source_url": "https://www.letpub.com/journal-selector/journal/5164",
+    "source_type": "secondary_crowdsourced_letpub",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "ShuaiGuo16/Multi-Fidelity-ML",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "3cf5f232cedd21e60cdb159f03d094380a814863",
+    "license": "not_located",
+    "package_id": "ShuaiGuo16__Multi-Fidelity-ML",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "ShuaiGuo16/Multi-Fidelity-ML",
+    "category": "04_instability_control",
+    "subcategory": "01_prediction_identification",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "融合低成本宽带识别与高保真谐波识别，提高火焰频率响应估计的鲁棒性。",
+    "method": "README 明确列题名、作者与 Journal of Sound and Vibration；多保真 Gaussian Process 聚合低/高保真响应，并展示实验台数据。",
+    "entry": "MatlabScripts 中 BroadbandForcing、HarmonicForcing、Ref_FIR、SNR1_gain 与 SNR1_phase，按论文章节定位制图代码。",
+    "dependencies": "MATLAB 与高斯过程相关依赖、输入/热释放信号；README 谐波频率采用离散网格是实现选择，需与原文核对。",
+    "evaluation": "固定计算/实验预算比较单保真与融合策略，分别看增益、相位误差及置信区间；保留不同噪声比与频率留出。",
+    "limitations": "未定位许可证，仅链接；火焰传递函数误差还需传播至稳定性分析。"
+  }
+}

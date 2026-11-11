@@ -1,0 +1,56 @@
+{
+  "id": "P9903dd056c",
+  "doi": "10.1103/physrevfluids.9.103902",
+  "title": "Data-driven computation of adjoint sensitivities without adjoint solvers: An application to thermoacoustics",
+  "year": 2024,
+  "journal": "Physical Review Fluids",
+  "authors": [
+    "Defne E. Ozan",
+    "Luca Magri"
+  ],
+  "category": "04_instability_control",
+  "subcategory": "02_control",
+  "path": "04_instability_control/02_control/P9903dd056c",
+  "doi_url": "https://doi.org/10.1103/physrevfluids.9.103902",
+  "metadata_source": "https://api.crossref.org/works/10.1103/physrevfluids.9.103902",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "not_located",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "MagriLab/Adjoint-ESN",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "8483399d9cae3b9ee83e03fc84107feb0d9e86ad",
+    "license": "not_located",
+    "package_id": "MagriLab__Adjoint-ESN",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "MagriLab/Adjoint-ESN",
+    "category": "04_instability_control",
+    "subcategory": "02_control",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "在缺少完整伴随求解器时，用数据模型估计热声系统目标量的参数敏感度。",
+    "method": "README 明确列出本文，使用参数化 ESN，并为 Rijke 管引入热声时滞结构；另有 Lorenz 63 通用示例，不能把它独立算作燃烧论文。",
+    "entry": "tutorial_rijke.ipynb 从数据生成、训练、验证到敏感度计算；src 中独立脚本与配置支撑批量实验。",
+    "dependencies": "依赖与配置从固定提交提取；保留 Rijke 管参数、时间离散和扰动幅值，Lorenz 教程用于理解代码。",
+    "evaluation": "对比解析/数值伴随和有限差分，分别评估状态预测与目标函数梯度；跨参数检验梯度方向、幅值和优化效果。",
+    "limitations": "未定位明确根许可证，链接收纳；相同仓库还对应会议论文，会议不计作 JCR 期刊。"
+  }
+}

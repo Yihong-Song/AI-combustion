@@ -1,0 +1,641 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "NatLabRockies/MPRL",
+  "commit": "d54229e8290d5229b3ae9971ca75a07e7386c5c4",
+  "date": "2026-11-11",
+  "path": "code_packages/NatLabRockies__MPRL/d54229e8290d-source-only.tar.gz",
+  "bytes": 35657,
+  "sha256": "093df6fe0a701a651239c0c32d5011e05f9243d6e77661d8ed39ae8a534fe4c9",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": ".github/workflows/python-package-conda.yml",
+      "git_blob_sha": "69bb29c0558c0ed3d37c57acd7c9d9b7064a8334",
+      "sha256": "f5260c50e968e1a104e26dcb3149ed4e1c77ea24fd3e1000ae791f216d7cc7dc",
+      "bytes": 951
+    },
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "f23913ad1dbbffbfbd84284ffa6e0f6b789d1d95",
+      "sha256": "3c58f2c47311f4996069a9c7acf481a9ce460313b2d32061004190b369806cb8",
+      "bytes": 11366
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "c570ad6039b5e44da6201534d56da6ac1b07c3be",
+      "sha256": "5feee7b5183028b8982e2cdf81f7bf67d321e9b9e893d514accac14810afa857",
+      "bytes": 764
+    },
+    {
+      "path": "environment-ci.yaml",
+      "git_blob_sha": "7f07cb786b15cec0a32fca527a9f47afbdef1e78",
+      "sha256": "a1675d2926be8e0c9f86a87970390e58223c7b0840a1225a7fb6f6c84fb345c3",
+      "bytes": 2369
+    },
+    {
+      "path": "environment.yaml",
+      "git_blob_sha": "c9cec209deb8d6f29a006e7dd41db1bfbb9d9bf1",
+      "sha256": "38c9f7b4fde0227c40deabba8d90f8f429806c27ceba346c76d3992f57112656",
+      "bytes": 484
+    },
+    {
+      "path": "mprl/actiontypes.py",
+      "git_blob_sha": "ff66327d121fc26a659066f9390ec99a71d4dd67",
+      "sha256": "9d1e575a8ff0ebe63831aed2f79ab1d34962091725500d2b34376b65ece6b813",
+      "bytes": 4626
+    },
+    {
+      "path": "mprl/agents.py",
+      "git_blob_sha": "ecf3f8a7bd2d81109bf6422c2ccc622e0a7cf0db",
+      "sha256": "4afcff5ee77170eab77a8e8544326a2837d18bc8ac6157673649cbd33cf1fbb2",
+      "bytes": 6976
+    },
+    {
+      "path": "mprl/engines.py",
+      "git_blob_sha": "df77bdfc8deed5412988d711f5e7131d232d43d8",
+      "sha256": "0119abced4c71a7617e8208be7e41d90d8508d8f84bdc66b9d188a5d046b4fb3",
+      "bytes": 45639
+    },
+    {
+      "path": "mprl/inputs.py",
+      "git_blob_sha": "7837d62e5f023d206e288c53640456aafbbb44ab",
+      "sha256": "5342911d5a70ff0b39c4ba0f91471860857665b96b983cc445b9dc76b4e51620",
+      "bytes": 6702
+    },
+    {
+      "path": "mprl/reward.py",
+      "git_blob_sha": "a0885997e3ff8d0e1603e41e4b750a9f3c16c234",
+      "sha256": "29ae4e8530c150f2ef901359ec4c5fc53d595341899fcfc1e5afbdbb51f91e0e",
+      "bytes": 10657
+    },
+    {
+      "path": "mprl/utilities.py",
+      "git_blob_sha": "4d5ad09acae2dc5384201f18c1df6f814d6d6797",
+      "sha256": "522aabaad4cd45eb07a85a6b607bdc09748e96d961bb712e2ec66b4231a95fe8",
+      "bytes": 21187
+    },
+    {
+      "path": "requirements.txt",
+      "git_blob_sha": "cce8762412e747ff4cf6a0164f8019dfe830e767",
+      "sha256": "dff1f97e29e89b038f49add166e6ea2a15613f9a4fc29b09a6dc696c6e31f696",
+      "bytes": 85
+    },
+    {
+      "path": "scripts/complex-reward-example/input.toml",
+      "git_blob_sha": "a90dc0c619e02f86a1853a14cf2e5160203c2c45",
+      "sha256": "25ca7de5b574a0de856fae190c8934bd4852ea1321169df9a054188fc39b5d79",
+      "bytes": 397
+    },
+    {
+      "path": "scripts/drl-ijer-2021/constrained-exhaustive-equilibrate/input.toml",
+      "git_blob_sha": "e6dd8bcb162d9ccacef4eac9ab86a58a1ee529b9",
+      "sha256": "549112ec5d83dd18103a18fbd52ace1274a97af3c1ad883dc7fa897dfe8689c7",
+      "bytes": 322
+    },
+    {
+      "path": "scripts/drl-ijer-2021/constrained-exhaustive-reactor/input.toml",
+      "git_blob_sha": "5bc0eb8f6c0497086416cbcb2028584b7466deb3",
+      "sha256": "a55685ef05fbe08cf2ce20b07b5a7226a9fb610ebda0e523a37de6f76d15983e",
+      "bytes": 327
+    },
+    {
+      "path": "scripts/drl-ijer-2021/constrained-exhaustive-twozone/input.toml",
+      "git_blob_sha": "08b88b544e132463e7d40389d91e59a4644b4a9f",
+      "sha256": "ef4f2c963543686082cbf990a250693f579cd4e117e844cc4b5ec80a100118fd",
+      "bytes": 327
+    },
+    {
+      "path": "scripts/drl-ijer-2021/constrained-ppo-equilibrate-to-reactor/input.toml",
+      "git_blob_sha": "e37ef4bf5689e1ef9a121ac50c2d98cfb42b9b29",
+      "sha256": "04781460ebcdca8210cbbcb08b1e36eca266081118a8162711339cd48bd2f91c",
+      "bytes": 429
+    },
+    {
+      "path": "scripts/drl-ijer-2021/constrained-ppo-equilibrate/input.toml",
+      "git_blob_sha": "56100b6845e2b098d29492badb42d74d3457b353",
+      "sha256": "d004b409dccf4ecbc17bfa07d9b8b90123c54b98ee8e3cf4e8707315519fa493",
+      "bytes": 349
+    },
+    {
+      "path": "scripts/drl-ijer-2021/constrained-ppo-reactor/input.toml",
+      "git_blob_sha": "da0c81bba15ac63fa90fe2fd2119c12e4fbc90f9",
+      "sha256": "53f69f910cb56431bfa2fec5e03ac01c1764904eea2a6f4ff924d491ad0f3855",
+      "bytes": 354
+    },
+    {
+      "path": "scripts/drl-ijer-2021/constrained-ppo-twozone-to-equilibrate/input.toml",
+      "git_blob_sha": "9ed8c95e0a73244ab8663802a58df6e8e25367df",
+      "sha256": "6bc700951262bcd12bb1f2d7019ccf646606a2be4a6b27a79802157cc9fd46ad",
+      "bytes": 420
+    },
+    {
+      "path": "scripts/drl-ijer-2021/constrained-ppo-twozone-to-reactor/input.toml",
+      "git_blob_sha": "8de8e90d251ca3d2710c594902e220d2bb8ee6ae",
+      "sha256": "8fea9934a19df24e38229de85401a7e9dd1ef8e24c33d67ea6363cef0f9cc124",
+      "bytes": 425
+    },
+    {
+      "path": "scripts/drl-ijer-2021/constrained-ppo-twozone/input.toml",
+      "git_blob_sha": "2ff8fedce682a2d72bd69dac1715b4aca3579e67",
+      "sha256": "be46790994a63b213440ced035a659f2c7aad38902be843f7f845f517eb9be88",
+      "bytes": 354
+    },
+    {
+      "path": "scripts/drl-ijer-2021/exhaustive-equilibrate/input.toml",
+      "git_blob_sha": "5c5e21c6662cc7dc5c97c7d2a1eac36ea1dedbbd",
+      "sha256": "4dfe364c36f0b6e64c226036afb08b05a2618038be5234cf237b4f55ca6f7700",
+      "bytes": 267
+    },
+    {
+      "path": "scripts/drl-ijer-2021/exhaustive-reactor/input.toml",
+      "git_blob_sha": "aeffffe3ec3363608fa08dfc9c17c73c24c407c4",
+      "sha256": "0ffa7822bb28d11068d43413510bac303501f3484a7afa5f04156f68adbc3d21",
+      "bytes": 272
+    },
+    {
+      "path": "scripts/drl-ijer-2021/exhaustive-twozone/input.toml",
+      "git_blob_sha": "313c008eda1c19c4fc8a469504558a5ae5c11321",
+      "sha256": "fc177b3492ef5e0c24ea20ba674186e8383e0fc754e6d08e188cdde37e0a27b6",
+      "bytes": 272
+    },
+    {
+      "path": "scripts/drl-ijer-2021/hp-sensitivity/baseline/input.toml",
+      "git_blob_sha": "5178a6c100e0188241c0beec21451e01c4e0a721",
+      "sha256": "0599db0ce91282c9957e76f17656584445fd709d1bb630166c1aa972effe333f",
+      "bytes": 329
+    },
+    {
+      "path": "scripts/drl-ijer-2021/hp-sensitivity/high-lr/input.toml",
+      "git_blob_sha": "4efca894e615b3bba1e72f80f57c05dc2a853706",
+      "sha256": "5b83233f139907585e885c84cc7032642c0511e2d1b95c498262b14e2271defb",
+      "bytes": 350
+    },
+    {
+      "path": "scripts/drl-ijer-2021/hp-sensitivity/high-nup/input.toml",
+      "git_blob_sha": "45dc2c9f1d63e0d8eef0d8236635f0a272a6f40f",
+      "sha256": "69b0d0aec4f3e84c6476a935d5dc7964d18bbb83274f12d335203be5fa43e78e",
+      "bytes": 329
+    },
+    {
+      "path": "scripts/drl-ijer-2021/hp-sensitivity/low-gamma/input.toml",
+      "git_blob_sha": "43a9c4b1fe7e42c7396d682286e4ab48a94324be",
+      "sha256": "06f1cf24dc896377ac8175ac19d66af610673b30244338cc30f08b9181d435c4",
+      "bytes": 342
+    },
+    {
+      "path": "scripts/drl-ijer-2021/hp-sensitivity/low-lr/input.toml",
+      "git_blob_sha": "fa19a86dbca1ecbf503fc6238a74f7ee6bd0fea7",
+      "sha256": "b00dc77b3985ab759678da702e8c4e02d56dd28a49e0a667e04bb78387f5c06a",
+      "bytes": 352
+    },
+    {
+      "path": "scripts/drl-ijer-2021/hp-sensitivity/low-nup/input.toml",
+      "git_blob_sha": "1babda7bf11aabd3b5a9a21347a4c3a503b8be7a",
+      "sha256": "e8338c3feff04761692d25671f7652210bbea46d3d99b88b4ff07a7c299648c4",
+      "bytes": 328
+    },
+    {
+      "path": "scripts/drl-ijer-2021/manual-equilibrate/input.toml",
+      "git_blob_sha": "68e1e2c113e99f7c259bfff41b6db6a7e1b7cc0b",
+      "sha256": "893b29b93f33c7d0a178512f855d292a253c76c0199e38b1c611c420d37fd582",
+      "bytes": 629
+    },
+    {
+      "path": "scripts/drl-ijer-2021/manual-reactor/input.toml",
+      "git_blob_sha": "5a994fa26e52202cfc5472f3d9ea85038d71bbe7",
+      "sha256": "dda146322d4f4a354ff9c8362a830eba9a2d6ab01096fd58c7a93c6d6b1dfda7",
+      "bytes": 634
+    },
+    {
+      "path": "scripts/drl-ijer-2021/manual-twozone/input.toml",
+      "git_blob_sha": "95589b265e9235e79727a9200f99d50acb0e2d8e",
+      "sha256": "47e8f6147347625c99a9b582f3de55e38cafe907ddb2f2f3e7f179c388b06b30",
+      "bytes": 634
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/a/input.toml",
+      "git_blob_sha": "66d62df4e97dcf4ee8ca2ada86e054a04ea2d4b7",
+      "sha256": "f9168c4428394e7c8b7133ece58f680d53599344906e493b16badf64ee9ab150",
+      "bytes": 364
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/b/input.toml",
+      "git_blob_sha": "d002876110cfa31ad8aad6661b3b81973a869f2f",
+      "sha256": "070ec3fbe06f2b4f8258e47b9532139b83524e9875889ac310c311d59af07927",
+      "bytes": 365
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/c/input.toml",
+      "git_blob_sha": "5a3aa64891797bf21c2a8618c40b0b5627f0e03a",
+      "sha256": "e55b3dfabcdea2ac38301bb241d2420590e1d493304c0a58c739cf10b039b97e",
+      "bytes": 400
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/d/input.toml",
+      "git_blob_sha": "c6cb11295abef8d7c8ecf09b3531948e7f15dff0",
+      "sha256": "462913bbafa34e8dc9c6713d28e95c38561f562cd18c5ec6e11f87ee43614f59",
+      "bytes": 365
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/e/input.toml",
+      "git_blob_sha": "f1f87bd56ceffa61eeabcc0956bb07912206b751",
+      "sha256": "217c2435e6efc3336c450db74a294af9ce360ce16d16b5a1a85a07ceac88eeba",
+      "bytes": 365
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-equilibrate/input.toml",
+      "git_blob_sha": "5178a6c100e0188241c0beec21451e01c4e0a721",
+      "sha256": "0599db0ce91282c9957e76f17656584445fd709d1bb630166c1aa972effe333f",
+      "bytes": 329
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-reactor/input.toml",
+      "git_blob_sha": "1838c182fded7c318ba53e98c02d7b2442b9ff44",
+      "sha256": "d787451195eae4916f2d119c8c534dbe4f627263c26ccd3a2618bec9da547cb3",
+      "bytes": 334
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-twozone-to-equilibrate/input.toml",
+      "git_blob_sha": "ab2cc3b4763b9703ceed0b3be838157ee2e75082",
+      "sha256": "305c39d7af6fec3b1b7242269345c02363e54a2b76407fa552ee674d967c1439",
+      "bytes": 387
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-twozone-to-reactor/input.toml",
+      "git_blob_sha": "71af02a21d5aea9f553f762e2094dec266866037",
+      "sha256": "eeb14617990d976260f2343de1de5b46cd60985fd5b2de46422084f1703a3e92",
+      "bytes": 393
+    },
+    {
+      "path": "scripts/drl-ijer-2021/ppo-twozone/input.toml",
+      "git_blob_sha": "a1b17623f6ab077a1a7d253663ac9e2d264c49e0",
+      "sha256": "f56f3226960b7549f734cee5cfc8335814cd49ad5c3f576d1f94270cdc00f511",
+      "bytes": 299
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/a/input.toml",
+      "git_blob_sha": "652e13f5d78baa4c76b874954dabe59df7d65420",
+      "sha256": "4827ea7d8676bbf42a95c0b0fb2acdc22716ab66c34733c705399c077f187d5c",
+      "bytes": 399
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/b/input.toml",
+      "git_blob_sha": "b8281c207d5991816321e2de60d53e767bb44a34",
+      "sha256": "d4ba30464349b24390edaa0059956d17b56cf4638c5da0e362603c382b8a6836",
+      "bytes": 401
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/c/input.toml",
+      "git_blob_sha": "479401968552c8ddae38f7d029f8875590300c90",
+      "sha256": "842237ed08f0b9c1e045f6ea9ecd11a40dd5e89f2a6321d4987b469a8e1f0005",
+      "bytes": 399
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/d/input.toml",
+      "git_blob_sha": "ae978c66c5729f02f43668138f5b4382f3607511",
+      "sha256": "fa7f3a1dcf4bdbd15422fd8fd8459a39949e11851a1de2139e3f472403a52a45",
+      "bytes": 401
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/e/input.toml",
+      "git_blob_sha": "3a70852d094da6df8681045f2c0df109c66d0a31",
+      "sha256": "8d17a9719bfd413e644e6d37c0d447d5ff123d800da61e9531e4dc950bf0f96f",
+      "bytes": 399
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/pp_tl.py",
+      "git_blob_sha": "ece10e69b825c7ac073f9ab2ea6833fd352e4b2d",
+      "sha256": "e9d658a9c236bfaf283c587cf4a839bd145398b384e20da555009edffa5e78df",
+      "bytes": 1199
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/r/input.toml",
+      "git_blob_sha": "667dcd9ed15049071c5fb5cd355fcf7d29a868e6",
+      "sha256": "2ed72225e8562d999d57e92f4ef319d39f3913b14875b5d9f73d34ecc135b507",
+      "bytes": 424
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/rr/input.toml",
+      "git_blob_sha": "b8824db4006d9017b30cad99c7433b54be239485",
+      "sha256": "5edd357e758d2c5280bf9c839c8c3bdc434f0b335011d3963c515bea89899d17",
+      "bytes": 425
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/a2b/input.toml",
+      "git_blob_sha": "b6717c51b1bb0305e7bb6f3b7c6ed77563ba838d",
+      "sha256": "116e506a10f76dc3e26d9e6bce052aef89f4663d8cc59e8a7b6c8283eb0e63a4",
+      "bytes": 440
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/a2c/input.toml",
+      "git_blob_sha": "d9942f752007b09d1975978850676df06101dcd0",
+      "sha256": "5221a84e8559aeab49f6d082b16ee0d6291f76ef05ce9ab45189ffb6dd723956",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/a2d/input.toml",
+      "git_blob_sha": "a4bcb9ae9d42f2e6c0143b6badf5457ebfdb1eec",
+      "sha256": "70c7120d4c3e3699a5634181b0a2948d3c2fdda78ef7304663d35c773bc42327",
+      "bytes": 440
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/a2e/input.toml",
+      "git_blob_sha": "688ed3af460ebf99246bf502db11c1f91800b787",
+      "sha256": "2b2c0bd92504900f84491bb4a278b78f6db7f5c2e73cc45c9709d9428effef88",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/b2a/input.toml",
+      "git_blob_sha": "c661e036c19df174c3e96dcd45df64f3ef7c7d60",
+      "sha256": "669df6ab38bef62d7fcf0fb99d99110713195f3d55d06bda7b2651ee5ff0dcc9",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/b2c/input.toml",
+      "git_blob_sha": "3fe1fd95e47bdc7fb83df31e0ef0a28f28a32024",
+      "sha256": "41cdd8edd51d3e16c7d53f2120a035cfdd0e4e9506a1c76992f9194efee268bc",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/b2d/input.toml",
+      "git_blob_sha": "150b52a09ed85cdd9627e9cceb4cfbd104e691ca",
+      "sha256": "27fb7b1e183051b7e11b1ebcd5a875c48026a815bfc13d1c7f5496a9c799dab2",
+      "bytes": 440
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/b2e/input.toml",
+      "git_blob_sha": "187df6604a4400ba36094351a9e3279354b92399",
+      "sha256": "70d3608e89dce2072b0b8a893d6fc32aa0fe0217a31935fd004c5a2e5c672115",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/c2a/input.toml",
+      "git_blob_sha": "8ee7e1868eda7eab68828b1a59ce40f3ba03bd12",
+      "sha256": "21d24767b32cbcf82be30f30c2ed58c69f137a199cd37a5de0b04655a597e791",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/c2b/input.toml",
+      "git_blob_sha": "2aa3a58d4e94526a3c61b3ebe5facaffe01939c7",
+      "sha256": "7a813101ac433411ec16148e315b1cd50668ca89667bc7ab1a9d561ddc9c4127",
+      "bytes": 440
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/c2d/input.toml",
+      "git_blob_sha": "4118399a58da16902b566ecab0b78bad6c888b36",
+      "sha256": "708448f4834add8a7868b381aae6474eccc1fbc1b466b7ea0194306b7f92504e",
+      "bytes": 440
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/c2e/input.toml",
+      "git_blob_sha": "664911d3f193708215a1909fd3b4360683d3959e",
+      "sha256": "493b60341ffdf1b11ce85f2533617d6fe642dda80a406cfb9f157714f91c19e3",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/d2a/input.toml",
+      "git_blob_sha": "4d9b01884cbd6177f874c015ecbc6ededa52f366",
+      "sha256": "bac5b2cb07ee9d3c19cbf36981a8f507f84b63107a32d1e9f49a863a49a319a2",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/d2b/input.toml",
+      "git_blob_sha": "19da4b03c68d2aab83236b9e7d2c1f652d80f496",
+      "sha256": "51c8c0630535d83c701111e721c8336c1a0cb0b6cc24ff30e4bd0fd155486e46",
+      "bytes": 440
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/d2c/input.toml",
+      "git_blob_sha": "c0d4814477820e500f347884c5683690e40bc8ec",
+      "sha256": "79b15f95ce5afd8e399fff657dd77ddb012070d8372d1aabe5b7c10204dcd0ca",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/d2e/input.toml",
+      "git_blob_sha": "a0febc694db0548010aba3cab515c9af435009d7",
+      "sha256": "ab3e8bf0d850126935ba7f23278d1b9089579ae2b41b9e6cbf1b544e74a63918",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/e2a/input.toml",
+      "git_blob_sha": "330cdcb021c5a23ecccc0072e8cc3410b679589b",
+      "sha256": "d0fddb9b1b72ff96e452a95af99176dc2e4219a24ab2a227f172f0d9fc151773",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/e2b/input.toml",
+      "git_blob_sha": "63b83f56c6a2560d6ed492cd489d413ad7367dc6",
+      "sha256": "5f56ffecf728027fe5ed139c98305a96c759510925df408f8dbd0e5e6ada2932",
+      "bytes": 440
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/e2c/input.toml",
+      "git_blob_sha": "88f86fa1cb414bcc81c99ae4c9f0bafbc7fc5737",
+      "sha256": "3457096f75d8fcfd1def872ffea1ef4897e9ba06bf862d808431301eeeb9d9de",
+      "bytes": 438
+    },
+    {
+      "path": "scripts/drl-ijer-2021/reward-ppo/tl/e2d/input.toml",
+      "git_blob_sha": "036a15ebc164f8eeb81a3215a10b03ded2436598",
+      "sha256": "3310109b7ce2eee90b79cf5bde2b1173d130a76144e98b48194438e02b963242",
+      "bytes": 440
+    },
+    {
+      "path": "scripts/main.py",
+      "git_blob_sha": "3c5f0fb038382ca12426ab0455f7947be0abe509",
+      "sha256": "a1e5c262309bed119800e0b84fde9a2c35bdd0ad535258ef66098037e0bf08d9",
+      "bytes": 10589
+    },
+    {
+      "path": "scripts/plot_actions.py",
+      "git_blob_sha": "c1b02e4a5f5a3f0f0f72875d270c20f12dc9cf75",
+      "sha256": "62378f60388e8290f987d1640a000d40c158201bf1358b9d1bf4fea9e46ee5c1",
+      "bytes": 1551
+    },
+    {
+      "path": "scripts/plot_tb.py",
+      "git_blob_sha": "7d92cfcbdc4259c0a6cce2a13d8d2e8ae22f48cc",
+      "sha256": "b7d05c20dd412ba8fa8760dcaf86b0fb355d7cd80e5565654be5f7e3c1dc166d",
+      "bytes": 1908
+    },
+    {
+      "path": "scripts/plotter.py",
+      "git_blob_sha": "f8ee10867bf00a79cc8b75f6a81b1c2ef848f1d5",
+      "sha256": "4a17b69128444e8e0f2fed5fda00c5285b12c3a5de80a54c264c5b1e8724a5af",
+      "bytes": 6701
+    },
+    {
+      "path": "scripts/pp_tb.py",
+      "git_blob_sha": "a97aa0f01cfdb80beb4e8f75a7415c4fa4ae4e19",
+      "sha256": "af7f0406e26e6b9bdef68d3b8dedd6b014f7b68f63325330ff9a0a2b3c834058",
+      "bytes": 2488
+    },
+    {
+      "path": "scripts/ppo-example/input.toml",
+      "git_blob_sha": "216cb4db9f0bb952db2af7f87129a172c1c3e1dc",
+      "sha256": "9c71174480f44fda355e83f2d102dd8fc0b82ea3db77f79fbbe7d1e99d741b3b",
+      "bytes": 257
+    },
+    {
+      "path": "scripts/scorpion-example/input.toml",
+      "git_blob_sha": "5e7c709cd261adcf133273239e22c15e8118f211",
+      "sha256": "ee736c7b1925114f273962376eb1e9e06ac4de207319474d37101f4cd778ef5e",
+      "bytes": 282
+    },
+    {
+      "path": "scripts/set_eagle_environment.sh",
+      "git_blob_sha": "47e83ec4c33365172fed3d33e24973747e78ba43",
+      "sha256": "d613e361583640cbeb7402b34bc686ce3194590385ba44890d3940acda531d5d",
+      "bytes": 789
+    },
+    {
+      "path": "tests/test_mprl.py",
+      "git_blob_sha": "c171a46b206f942ffb003c5ea72a9aa90634e8e4",
+      "sha256": "257a16966a6fbf7b4fdb11c4403072a46e0722260dc9e100d6ebe5e36b7186c0",
+      "bytes": 21041
+    }
+  ],
+  "excluded_paths": [
+    ".github",
+    ".github/workflows",
+    ".gitignore",
+    "mprl",
+    "mprl/__init.py__",
+    "mprl/datafiles",
+    "mprl/datafiles/Isooctane_MBT_DI_50C_Summ.xlsx",
+    "mprl/datafiles/NOx_soot_dodecane_lu_nox.npz",
+    "mprl/datafiles/Scorpion.xlsx",
+    "mprl/datafiles/calibrated_data.csv",
+    "mprl/datafiles/dodecane_lu.cti",
+    "mprl/datafiles/dodecane_lu_nox.cti",
+    "mprl/datafiles/dodecane_mars.cti",
+    "mprl/datafiles/llnl_gasoline_surrogate_323.xml",
+    "scripts",
+    "scripts/complex-reward-example",
+    "scripts/drl-ijer-2021",
+    "scripts/drl-ijer-2021/constrained-exhaustive-equilibrate",
+    "scripts/drl-ijer-2021/constrained-exhaustive-equilibrate/submit.batch",
+    "scripts/drl-ijer-2021/constrained-exhaustive-reactor",
+    "scripts/drl-ijer-2021/constrained-exhaustive-reactor/submit.batch",
+    "scripts/drl-ijer-2021/constrained-exhaustive-twozone",
+    "scripts/drl-ijer-2021/constrained-exhaustive-twozone/submit.batch",
+    "scripts/drl-ijer-2021/constrained-ppo-equilibrate",
+    "scripts/drl-ijer-2021/constrained-ppo-equilibrate-to-reactor",
+    "scripts/drl-ijer-2021/constrained-ppo-equilibrate-to-reactor/submit.batch",
+    "scripts/drl-ijer-2021/constrained-ppo-equilibrate/submit.batch",
+    "scripts/drl-ijer-2021/constrained-ppo-reactor",
+    "scripts/drl-ijer-2021/constrained-ppo-reactor/submit.batch",
+    "scripts/drl-ijer-2021/constrained-ppo-twozone",
+    "scripts/drl-ijer-2021/constrained-ppo-twozone-to-equilibrate",
+    "scripts/drl-ijer-2021/constrained-ppo-twozone-to-equilibrate/submit.batch",
+    "scripts/drl-ijer-2021/constrained-ppo-twozone-to-reactor",
+    "scripts/drl-ijer-2021/constrained-ppo-twozone-to-reactor/submit.batch",
+    "scripts/drl-ijer-2021/constrained-ppo-twozone/submit.batch",
+    "scripts/drl-ijer-2021/exhaustive-equilibrate",
+    "scripts/drl-ijer-2021/exhaustive-equilibrate/submit.batch",
+    "scripts/drl-ijer-2021/exhaustive-reactor",
+    "scripts/drl-ijer-2021/exhaustive-reactor/submit.batch",
+    "scripts/drl-ijer-2021/exhaustive-twozone",
+    "scripts/drl-ijer-2021/exhaustive-twozone/submit.batch",
+    "scripts/drl-ijer-2021/figures.org",
+    "scripts/drl-ijer-2021/hp-sensitivity",
+    "scripts/drl-ijer-2021/hp-sensitivity/baseline",
+    "scripts/drl-ijer-2021/hp-sensitivity/baseline/submit.batch",
+    "scripts/drl-ijer-2021/hp-sensitivity/high-lr",
+    "scripts/drl-ijer-2021/hp-sensitivity/high-lr/submit.batch",
+    "scripts/drl-ijer-2021/hp-sensitivity/high-nup",
+    "scripts/drl-ijer-2021/hp-sensitivity/high-nup/submit.batch",
+    "scripts/drl-ijer-2021/hp-sensitivity/low-gamma",
+    "scripts/drl-ijer-2021/hp-sensitivity/low-gamma/submit.batch",
+    "scripts/drl-ijer-2021/hp-sensitivity/low-lr",
+    "scripts/drl-ijer-2021/hp-sensitivity/low-lr/submit.batch",
+    "scripts/drl-ijer-2021/hp-sensitivity/low-nup",
+    "scripts/drl-ijer-2021/hp-sensitivity/low-nup/submit.batch",
+    "scripts/drl-ijer-2021/manual-equilibrate",
+    "scripts/drl-ijer-2021/manual-reactor",
+    "scripts/drl-ijer-2021/manual-twozone",
+    "scripts/drl-ijer-2021/ppo-equilibrate",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/a",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/a/submit.batch",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/b",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/b/submit.batch",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/c",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/c/submit.batch",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/d",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/d/submit.batch",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/e",
+    "scripts/drl-ijer-2021/ppo-equilibrate-to-reactor/e/submit.batch",
+    "scripts/drl-ijer-2021/ppo-equilibrate/submit.batch",
+    "scripts/drl-ijer-2021/ppo-reactor",
+    "scripts/drl-ijer-2021/ppo-reactor/submit.batch",
+    "scripts/drl-ijer-2021/ppo-twozone",
+    "scripts/drl-ijer-2021/ppo-twozone-to-equilibrate",
+    "scripts/drl-ijer-2021/ppo-twozone-to-equilibrate/submit.batch",
+    "scripts/drl-ijer-2021/ppo-twozone-to-reactor",
+    "scripts/drl-ijer-2021/ppo-twozone-to-reactor/submit.batch",
+    "scripts/drl-ijer-2021/ppo-twozone/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo",
+    "scripts/drl-ijer-2021/reward-ppo/a",
+    "scripts/drl-ijer-2021/reward-ppo/a/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/b",
+    "scripts/drl-ijer-2021/reward-ppo/b/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/c",
+    "scripts/drl-ijer-2021/reward-ppo/c/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/d",
+    "scripts/drl-ijer-2021/reward-ppo/d/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/e",
+    "scripts/drl-ijer-2021/reward-ppo/e/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/r",
+    "scripts/drl-ijer-2021/reward-ppo/r/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/rr",
+    "scripts/drl-ijer-2021/reward-ppo/rr/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl",
+    "scripts/drl-ijer-2021/reward-ppo/tl/a2b",
+    "scripts/drl-ijer-2021/reward-ppo/tl/a2b/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/a2c",
+    "scripts/drl-ijer-2021/reward-ppo/tl/a2c/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/a2d",
+    "scripts/drl-ijer-2021/reward-ppo/tl/a2d/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/a2e",
+    "scripts/drl-ijer-2021/reward-ppo/tl/a2e/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/b2a",
+    "scripts/drl-ijer-2021/reward-ppo/tl/b2a/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/b2c",
+    "scripts/drl-ijer-2021/reward-ppo/tl/b2c/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/b2d",
+    "scripts/drl-ijer-2021/reward-ppo/tl/b2d/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/b2e",
+    "scripts/drl-ijer-2021/reward-ppo/tl/b2e/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/c2a",
+    "scripts/drl-ijer-2021/reward-ppo/tl/c2a/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/c2b",
+    "scripts/drl-ijer-2021/reward-ppo/tl/c2b/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/c2d",
+    "scripts/drl-ijer-2021/reward-ppo/tl/c2d/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/c2e",
+    "scripts/drl-ijer-2021/reward-ppo/tl/c2e/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/d2a",
+    "scripts/drl-ijer-2021/reward-ppo/tl/d2a/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/d2b",
+    "scripts/drl-ijer-2021/reward-ppo/tl/d2b/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/d2c",
+    "scripts/drl-ijer-2021/reward-ppo/tl/d2c/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/d2e",
+    "scripts/drl-ijer-2021/reward-ppo/tl/d2e/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/e2a",
+    "scripts/drl-ijer-2021/reward-ppo/tl/e2a/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/e2b",
+    "scripts/drl-ijer-2021/reward-ppo/tl/e2b/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/e2c",
+    "scripts/drl-ijer-2021/reward-ppo/tl/e2c/submit.batch",
+    "scripts/drl-ijer-2021/reward-ppo/tl/e2d",
+    "scripts/drl-ijer-2021/reward-ppo/tl/e2d/submit.batch",
+    "scripts/ppo-example",
+    "scripts/ppo-example/submit.batch",
+    "scripts/scorpion-example",
+    "tests",
+    "tests/__init.py__"
+  ]
+}

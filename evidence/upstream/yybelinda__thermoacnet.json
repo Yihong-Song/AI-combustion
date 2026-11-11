@@ -1,0 +1,14 @@
+{
+  "repository": "yybelinda/thermoacnet",
+  "url": "https://github.com/yybelinda/thermoacnet",
+  "retrieved_at": "2026-11-11T16:51:39.221197+00:00",
+  "commit": "d99ce24f6faab4f0e1116f79373e0b000c7e956f",
+  "readme_path": "evidence/upstream/yybelinda__thermoacnet.readme.txt",
+  "readme_url": "https://github.com/yybelinda/thermoacnet/blob/d99ce24f6faab4f0e1116f79373e0b000c7e956f/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/yybelinda__thermoacnet.license.txt",
+  "license_url": "https://github.com/yybelinda/thermoacnet/blob/d99ce24f6faab4f0e1116f79373e0b000c7e956f/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:51:44.044085+00:00"
+}

@@ -1,0 +1,11 @@
+{
+  "repository": "dynamicslab/dominant-balance",
+  "commit": "41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+  "source_url": "https://api.github.com/repos/dynamicslab/dominant-balance/tarball/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+  "retrieved_at": "2026-11-11T16:59:09.845421+00:00",
+  "license": "MIT",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/dynamicslab/dominant-balance/legacy.tar.gz/41ac6d2e1feccb8f3a71591d4d1f9dcbfcd1e299",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

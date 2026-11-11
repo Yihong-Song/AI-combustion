@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.proci.2026.106063",
+  "title": "Zero-shot prediction of thermoacoustic instability precursors via phase-space reconstruction and CNN-based recurrence learning",
+  "query": "\"Zero-shot prediction of thermoacoustic instability precursors via phase-space reconstruction and CNN-based recurrence\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:44:51.539411+00:00",
+  "total_count": 0,
+  "items": []
+}

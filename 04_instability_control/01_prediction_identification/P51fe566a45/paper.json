@@ -13,8 +13,8 @@
   "path": "04_instability_control/01_prediction_identification/P51fe566a45",
   "doi_url": "https://doi.org/10.1016/j.proci.2026.106547",
   "metadata_source": "https://api.crossref.org/works/10.1016/j.proci.2026.106547",
-  "metadata_retrieved_date": "2026-11-11",
-  "reading_level": "title_screen_only_fulltext_pending",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
   "screening": "candidate_not_systematic_review_inclusion",
   "scope": "combustion_and_adjacent_thermal_conversion",
   "jcr": {
@@ -53,12 +53,12 @@
     "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
   },
   "code": {
-    "status": "searched_no_confirmed_match",
-    "repository": null,
-    "relationship": null,
-    "commit": null,
-    "license": null,
-    "package_id": null,
+    "status": "reviewed_paper_link",
+    "repository": "Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "f6f07bed28fc350a698a56012796ca7a16abe626",
+    "license": "MIT",
+    "package_id": "Predictive-Intelligent-Systems-Lab__TTE-TAI-PROCI-paper",
     "search_hits": 0,
     "search_evidence": "evidence/code_search/51fe566a453d.json"
   },
@@ -66,5 +66,16 @@
     "status": "not_executed",
     "paper_metrics_reproduced": false
   },
-  "curated_note": null
+  "curated_note": {
+    "repository": "Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper",
+    "category": "04_instability_control",
+    "subcategory": "01_prediction_identification",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "从环形燃烧室压力信号连续预测距离热声失稳还有多久。",
+    "method": "README 明确对应本文，比较因果 Transformer、单向 LSTM 与 XGBoost；说明按完整合成轨迹切分，并进行实验数据零样本评价。上游给出的轨迹数和种子仅作为配置线索，未由本库重算。",
+    "entry": "synthetic_gen.py 生成轨迹；label_exp_onset.py 标注实验起振；trans_train.py、lstm_train.py、XGBoost_train.py 对照；common.py 与 preprocess_mod.py 核对标签和窗口。",
+    "dependencies": "Python≥3.10、PyTorch、SciPy、pandas、scikit-learn、XGBoost；实验数据入口 Zenodo 23091955 已定位，未下载验证。",
+    "evaluation": "整条实验爬升/轨迹留出，统一起振定义、输入窗口、时间单位与提前量；报告误差随失稳距离变化、跨随机种子及假警率。",
+    "limitations": "MIT；合成轨迹多种子不是多篇复现。原论文正式训练与实验零样本结果尚未执行。"
+  }
 }

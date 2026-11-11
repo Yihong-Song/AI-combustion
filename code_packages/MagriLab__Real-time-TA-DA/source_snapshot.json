@@ -1,0 +1,654 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "MagriLab/Real-time-TA-DA",
+  "commit": "5a4b485429a03596ece3581c36b43264d0308f25",
+  "date": "2026-11-11",
+  "path": "code_packages/MagriLab__Real-time-TA-DA/5a4b485429a0-source-only.tar.gz",
+  "bytes": 119997,
+  "sha256": "f2c2c45067138989006b4e0beb2a223441a35d80a628067c0b1592d5f5cd700d",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "da555dee1304badd9fd46c6b508abf392011d4fd",
+      "sha256": "fc744f9ce1909fe47a4c6f0c8a0906e804c36b32cdb8193aed57f482e2ce83bf",
+      "bytes": 1065
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "93e9d77fdfe3b6f36ed0a2e91ccf31ca4c3c8791",
+      "sha256": "7be097cb2e997473984dfb4200af7c558c7d9216dcb2a476c44804fb9770d4e5",
+      "bytes": 494
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/ARFM_ami.m",
+      "git_blob_sha": "75da6f404abbcc9071fa02f7a6167eb12e58678a",
+      "sha256": "5dcfe4dc5ad86a3c1cea1b542ec22a6fe9031fead613f08cc97ac81c8cb3a512",
+      "bytes": 3035
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/ARFM_cao.m",
+      "git_blob_sha": "246e538fec20489a55552e3df0e7a1aa741d297b",
+      "sha256": "7a3e1954255722434ae89cc8d1f6ba6b7e59bbfe1565b3aca914ee1b3a22b8dd",
+      "bytes": 4294
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/ARFM_delay_vec.m",
+      "git_blob_sha": "4603a26298abf55dbeb03109fddcc24aecf489fc",
+      "sha256": "2f454c99b7efb1774852e7045a79264f2b7cba6eaa172b54c5f7b1bd9917e95e",
+      "bytes": 1035
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/ARFM_fnn.m",
+      "git_blob_sha": "b35b5965dbe3096f1a72046caf45ea2b23ff9063",
+      "sha256": "2e881456771f76585e5795843cf2b890e090089c3a9654d32d6fdd36a433835b",
+      "bytes": 5016
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/ARFM_recurrence_plot.m",
+      "git_blob_sha": "93e869e734601c2a4f60256ab841e5c63be672b7",
+      "sha256": "b9640352354eb123596316af9382b1b4209270ca0eaa5a7ac6cf507169862205",
+      "bytes": 3130
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/ARFM_return_map.m",
+      "git_blob_sha": "4c3b4cd31af581d1760d792ea37282e6ab3636c9",
+      "sha256": "84441079ba83ee6472e01fcc7e913fa18cee92581cf8a7fc2df14890a438311b",
+      "bytes": 2785
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/ARFM_visibility_algorithm.m",
+      "git_blob_sha": "81e958b67458694c949531e6fbd14e4190c15aed",
+      "sha256": "9b73441a73480b6217ee906cb588301e5f11fcc76916a5ae8e15d1e2a07f65a6",
+      "bytes": 5382
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/LICENSE",
+      "git_blob_sha": "1a058308a0e8f3d09a7032bbb042c9be35f2d555",
+      "sha256": "47d2a72f883407fae21db65ee57174e87270edc79e8e2665ccec457acec93528",
+      "bytes": 1510
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/README.md",
+      "git_blob_sha": "c6e68de7dd38924deedccd64e1fdf9259f3aa0be",
+      "sha256": "1627897e2bb9506233ae98e01771b892492c626f362d43b1dbd2a3af644212ab",
+      "bytes": 22732
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/append_pdfs.m",
+      "git_blob_sha": "79011fcc28884eebdbbe3824a2d5041c757d7a36",
+      "sha256": "d32da47ff38057f4bd898cb4d6fba42c32ebc9dc954aa365d30388e3e8722d58",
+      "bytes": 2678
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/copyfig.m",
+      "git_blob_sha": "6871b1e8fbb8b5f258dfa9feb47b994a235940fa",
+      "sha256": "c9e0364e85204e0990f23f10a775e666f9cefec84470f3ae9efcc8f057468378",
+      "bytes": 1678
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/crop_borders.m",
+      "git_blob_sha": "25efdae53f495c054ff3cae290306c79d09835b9",
+      "sha256": "1cf6c00c3fa503fb3bef9c2585db6ef05ccf6d36d620d0967006221bc83f425e",
+      "bytes": 4976
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/eps2pdf.m",
+      "git_blob_sha": "65a1d5a5fb5b16b61a377846e3b16bb951f61b0f",
+      "sha256": "3caec260049f4379e48472485f6daeac1a638e3c601f00d5d662753194eaf3db",
+      "bytes": 8435
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/export_fig.m",
+      "git_blob_sha": "05f788c72769aecb1c2c08563adea12bb6222b18",
+      "sha256": "32bbc3ea7e4bf81e1851a584bab8214237529d2302d1770cef4bea3f0d3d5f19",
+      "bytes": 59349
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/fix_lines.m",
+      "git_blob_sha": "5990b97c184d4b34a5efa06c18ffd5eb29259c08",
+      "sha256": "170d2f25cfc7c632166d2e5f159f322ba8d86ad3891dd3c5c763e90003b5f482",
+      "bytes": 6290
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/ghostscript.m",
+      "git_blob_sha": "5b1ff2e47812f73117be2bb5690c14feac9a5243",
+      "sha256": "9f3550defe1f699195b50b0a12ac14c37a89b7f49c104191db89f5bf5831eefb",
+      "bytes": 7706
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/im2gif.m",
+      "git_blob_sha": "92b514577dde0db9bb66d0a496e6db4b24a0cd30",
+      "sha256": "427e36f7fc087eeb4d9f05a8887317520a7400cd74e02e32148d6301fefcbe45",
+      "bytes": 6048
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/isolate_axes.m",
+      "git_blob_sha": "b23d4dff8b4eea54c8b72431d93939729208a276",
+      "sha256": "aa99af755300893635de43e1959da24a14ed1e143b7c0598cc1cd6751ffe6fb5",
+      "bytes": 4721
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/pdf2eps.m",
+      "git_blob_sha": "660a0810210491cde5af62197b757fcfb2f307cd",
+      "sha256": "427e067c9e98f2aed893dfd321eedfa667a761c3c56c450547a74066b008eb03",
+      "bytes": 1471
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/pdftops.m",
+      "git_blob_sha": "2303a85ef47bc64cadb30692fffadb56403613f3",
+      "sha256": "8debbb01d42937914579862fa6d3ba310e646d05ca0a2ecba80bf471567e9665",
+      "bytes": 5378
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/print2array.m",
+      "git_blob_sha": "06d0b374338946bdac96f0fa8595d955c7c005e8",
+      "sha256": "90a18639291d48a554731b6d7ebb58bf71905d229db36961e85cdf73c477e6ea",
+      "bytes": 9369
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/print2eps.m",
+      "git_blob_sha": "15487fd9c9eeb30ea73f5bc87c0424095ded2cff",
+      "sha256": "f45216d4d7e044d1ba7bc785c7113b33913704cde341b555dedff92d67c16392",
+      "bytes": 26205
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/read_write_entire_textfile.m",
+      "git_blob_sha": "c7f11fecc25bc653ef727fd19afeba588979360e",
+      "sha256": "b8ddad6de14e4cd679c50d28317697359043e9f66bf0a92051c10b75be5fe312",
+      "bytes": 924
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/user_string.m",
+      "git_blob_sha": "8d35b3d505fb4548066185d256861a498c7c1bc9",
+      "sha256": "bcd192c9880dfa588d6da5be08c04c5e3edaa3f3e7910a0a12c7a6688a45a74e",
+      "bytes": 3549
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/using_hg2.m",
+      "git_blob_sha": "7fc3fa5ccceab197f2196f864aeed2ffc05df0e1",
+      "sha256": "64a17d20178927fe5b163e366d3221761d5dab1a0534db7a5b867ab83e15e7f3",
+      "bytes": 1064
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/quick_start.m",
+      "git_blob_sha": "e29577ee5ad7473ad7ae6377860d3ade0628cdac",
+      "sha256": "3d490f88c82c4878eb651029027478620c15ea94cb734373c0ebc6a6f7130ea6",
+      "bytes": 7204
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/ARFM_Functions/zoomPlot.m",
+      "git_blob_sha": "d4e6f7df4f8d87c22dda3b69740fcc6e26de2ba9",
+      "sha256": "5b57c4f673bd1afe5841bae4462020846206b61d112e465a120bc6fe8e1cce0f",
+      "bytes": 1465
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/EnSRKF.m",
+      "git_blob_sha": "74764248de01d1a2f310eaa8d31de68422460432",
+      "sha256": "d0178334a69c263266817db5c79e15a3fb1667d38932e121200353a4758fab45",
+      "bytes": 2099
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/EnSRKF_Galerkin.m",
+      "git_blob_sha": "7df1b884aefd7e794ff937f867b4e60a1f41cfa8",
+      "sha256": "7b4dd8f3a0be44998c205366319f1a9c097d88fa719f96384a9570834596889b",
+      "bytes": 7491
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/EnSRKF_Galerkin_backup.m",
+      "git_blob_sha": "67d50fa8e97f923b681a2d8081580b407244cf6e",
+      "sha256": "5d172bb35315e71af2f3838dfefac96ceda626a3e53d46ce975d754f75e890af",
+      "bytes": 7503
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/EnSRKF_Galerkin_backup_0204.m",
+      "git_blob_sha": "86f176961b4c7acdbc1c1f377f610d0cf11e6bed",
+      "sha256": "200ed032094a7c8dc516ec6bf1a9149d55ad52187b022a77b2dc7c89487c9d9b",
+      "bytes": 6770
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/EnSRKF_Galerkin_ensemble_ESN.m",
+      "git_blob_sha": "9f8658549ebdd1869ad5df493257a166cc5cb360",
+      "sha256": "8983cd34aa6b6b1a035482f419fb83137b46b95cca0e5d965cd1d58784adb829",
+      "bytes": 7808
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/EnSRKF_Wave.m",
+      "git_blob_sha": "bf602c9c68ec2d04614f73d50157fd6df0b69269",
+      "sha256": "4f1a11565d091296edda83e7aa742950d169ac1564fea58dee69a860c8aaef41",
+      "bytes": 6227
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/fn_analysis_ESN.m",
+      "git_blob_sha": "4b3f24e13f02e5bd2aa857bb7c0c14c3a2abf0c4",
+      "sha256": "9af260734f8eee75c9e01a1550e7f512063612c4e6005c139d14c0ac62fc289b",
+      "bytes": 4050
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/fn_analysis_ESN_new.m",
+      "git_blob_sha": "258073d0f096d786b7365f122f507ac6ea72094d",
+      "sha256": "728de84e4bd25557184a98422d0a70486d9888e40769babce663695996e3dae7",
+      "bytes": 2834
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/fn_analysis_wave.m",
+      "git_blob_sha": "9c271f9f9c5a456bc35a987df0ffe20a0281494a",
+      "sha256": "f16b9d2f85577eb08643c82b2d7623a06c2072a65dde93844c4f2f4a37a48722",
+      "bytes": 8127
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/fn_create_augmented_Af.m",
+      "git_blob_sha": "a61ab436cc6e42354834f3787b693c338cf950bf",
+      "sha256": "7d07662660b56c7dc954a21de8dd86e2f9b8474f578db5fda3bf47cd4299c187",
+      "bytes": 1164
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/fn_define_observation_indices.m",
+      "git_blob_sha": "5f01941fb525b6c865906a58ee4ff8c345c716a2",
+      "sha256": "49e6ee9a6d0c0b5304dcd76cb01d3b2b47ee5f8c9e411ea2b0b4482796ece35f",
+      "bytes": 2725
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/fn_forecast_ESN.m",
+      "git_blob_sha": "53b7a015abbce7b06c0d0d574f48c9638bfd39ca",
+      "sha256": "f06a73995a754ccf093c4f4b2665d01c60cbc45c464a3c55dc0188364d5481c6",
+      "bytes": 571
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/fn_forecast_wave.m",
+      "git_blob_sha": "df9dda1934bc01ed3ac0dd36875259fb674cb337",
+      "sha256": "6b1c28890680839d70a00c67f0e2fb8f44353d9ab1ee85c2697c88bfcc01b66a",
+      "bytes": 4253
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/fn_init_filter.m",
+      "git_blob_sha": "8f4b968b0c92bf69cf1342a0b4c64d83acc35e5d",
+      "sha256": "fb22022edc736275ce55ee41b8031fa0d5b459afa16e1d13dbd6af79a6a933fa",
+      "bytes": 3184
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/fun_PSD.m",
+      "git_blob_sha": "26f51e711da81d327191e1ef5eaba4de7a6b8715",
+      "sha256": "e62a3740591e945c88f49b56edc0c7ef1d9ceed1d65ea97457d5f251348925e3",
+      "bytes": 933
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/init_ensemble.m",
+      "git_blob_sha": "aa7f90d38b949ad091b6c5756bc43751a2627156",
+      "sha256": "d2e5248d565f2cd875b573a2318e9e96e1ba9207a4193fe3346ece4f9da75199",
+      "bytes": 2224
+    },
+    {
+      "path": "bias-aware_simulations/fn_DA/print_assimilation_type.m",
+      "git_blob_sha": "44092db06844fee38cbb8468e3338a308e0c3655",
+      "sha256": "6e1d2cafbf1f1736024b4548e7e088a976d021b4caf575ccf9b383cf440cf70f",
+      "bytes": 1309
+    },
+    {
+      "path": "bias-aware_simulations/fn_ESN/ESN_RVC_validation.py",
+      "git_blob_sha": "b33699af9e4c65f796446b0916689733818bf915",
+      "sha256": "3b4d7d3a5d5ea942fee6ff733ec1e9e55f582f03a3603b45dc6dc1652732e792",
+      "bytes": 13842
+    },
+    {
+      "path": "bias-aware_simulations/fn_ESN/Functions.py",
+      "git_blob_sha": "1f78c9576054a1ad106070216b6e94a95f71cf12",
+      "sha256": "e0a6250d7ea2b27c83f5422db8b1c1261c53bdc47d3ad05b8f66a4ad2c24f300",
+      "bytes": 5576
+    },
+    {
+      "path": "bias-aware_simulations/fn_ESN/advance_ESN.m",
+      "git_blob_sha": "31e672fc7e218138994afe1de253b42bba233119",
+      "sha256": "7f5ef07147445863668c448aff85dcd76ae0d50e1f8199d3d7cf17f41f147326",
+      "bytes": 3109
+    },
+    {
+      "path": "bias-aware_simulations/fn_ESN/create_washout.m",
+      "git_blob_sha": "ea5f7cfeaf91111cdb654220c60142e2a731085c",
+      "sha256": "adcf828417b78b01593486ce06c77cbb3df80334d8601b91db7e9905b11408cc",
+      "bytes": 551
+    },
+    {
+      "path": "bias-aware_simulations/fn_ESN/fn_check_esn.m",
+      "git_blob_sha": "ac1533f483d2bea499692f216375db996503281c",
+      "sha256": "a98e43049076fa8d4426ea68bb3f7070ae04d1c72ed4e3b2acf99dbea7751424",
+      "bytes": 1553
+    },
+    {
+      "path": "bias-aware_simulations/fn_ESN/fn_plot_bias.m",
+      "git_blob_sha": "5c3600b9b5ae6a19474a014d297799f4357e56f1",
+      "sha256": "bd46f2e4295ea8268494a41476a8424875c27094f3fe6df0138cc8e5c306e30f",
+      "bytes": 1852
+    },
+    {
+      "path": "bias-aware_simulations/fn_Galerkin/RK4_solver.m",
+      "git_blob_sha": "f80a1f3ed30a1208698c40e51525ccd76d145397",
+      "sha256": "f50a00f908fd43185b7c8284c4dc0a1e716ba6ff676e9627094795a259614dd9",
+      "bytes": 850
+    },
+    {
+      "path": "bias-aware_simulations/fn_Galerkin/fn_extract_Sim_properties.m",
+      "git_blob_sha": "49cecb102f132f231253ec2324c68634d1a25452",
+      "sha256": "f75068ee0e4b3b5732c930c7290084ca6f7b83fc6843795ec9124d5df1c02ba4",
+      "bytes": 2162
+    },
+    {
+      "path": "bias-aware_simulations/fn_Galerkin/fn_obtain_omega.m",
+      "git_blob_sha": "e07e1d0e5df02ace4f0bb18200accd05296b2bf4",
+      "sha256": "f881f10620f1f6c06bc1daffdb22c5978cef959de4cde48d4e7314626fc5e88a",
+      "bytes": 1941
+    },
+    {
+      "path": "bias-aware_simulations/fn_Galerkin/gov_eqns_dim.m",
+      "git_blob_sha": "89a1864e28e9fa765524e42685dc997603ac7f0f",
+      "sha256": "eea0596bb678179da96afb3d978128018bdf1c356003f895e03d4bf91d17428b",
+      "bytes": 3542
+    },
+    {
+      "path": "bias-aware_simulations/fn_Galerkin/plot_xf.m",
+      "git_blob_sha": "5f33c260e6ad7a449e8152a84ab454477c5f5697",
+      "sha256": "47a9e6ae7beaac128dca39329c008d60f978b8b6cf91941016193f44db3828ba",
+      "bytes": 2029
+    },
+    {
+      "path": "bias-aware_simulations/fn_Galerkin/psi_to_pu.m",
+      "git_blob_sha": "97a8b1bc57044e8caefc81b3ea5cf040e7206049",
+      "sha256": "719c714d7694ea9dc652098f6d42c35d8bb6c9d984f23ef7023b7b1a45c191ff",
+      "bytes": 707
+    },
+    {
+      "path": "bias-aware_simulations/fn_Galerkin/setup_P_dim.m",
+      "git_blob_sha": "997782ab07b69b95476936c64a94eb9fe073e48a",
+      "sha256": "f80da19250596f6e96659fec937acf1ededc8d4887026b6f1a30d88b2eb42257",
+      "bytes": 1664
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/GH_to_pu.m",
+      "git_blob_sha": "a7019993347efe3f3c35dc1148bc630ec842cc36",
+      "sha256": "3bf53030e5298d37766c64977fb341de548bcd7b0aca06101ed917d9903a2865",
+      "bytes": 1198
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/G_eqn/fn_dxi_dr.m",
+      "git_blob_sha": "27ba97bf92bfa50a347097627616bc344d0f0830",
+      "sha256": "95e902b7a4adb9807b462b6255dd47012ca2c19b6c5072a097c86f43b72e3d32",
+      "bytes": 404
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/G_eqn/fn_flame_front.m",
+      "git_blob_sha": "7ab643d624ae1b5358d9e6fc3c809a953178ec4f",
+      "sha256": "c38b3f7792bc2ede467756d4665c2687fc48b8d8ebce20b853c6b68cdee99829",
+      "bytes": 860
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/G_eqn/fn_flame_front_hist.m",
+      "git_blob_sha": "2ba1fc745e494a43031f532eac043c10f23f0f1c",
+      "sha256": "09724937a9fe01fb326d7169cf71723df051e6c9732d00d88d3a8d704a877017",
+      "bytes": 546
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/G_eqn/fn_flame_holder_vel.m",
+      "git_blob_sha": "09611841bfa2a96e64fb7dffe70f63645fe035a8",
+      "sha256": "19b18320be09a7e99fb0ac49fed44b52d6fb49105a5c089c1591e790f142c440",
+      "bytes": 586
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/G_eqn/fn_spatial_disc.m",
+      "git_blob_sha": "e6faf9dea8fe0e21d3d5039fb9c2022f1285174a",
+      "sha256": "fec476c4a2373ebd33e02242409bc3519c229fc2e54b347c2059c03a8b974b2d",
+      "bytes": 850
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fn_4thRunge_Kutta.m",
+      "git_blob_sha": "166a19582ce86f403f6a609420a3c9d07040be5c",
+      "sha256": "f2f9dc4e28cd7a06036951419d3cff99692a1a9494154c87f1afbae366969ea1",
+      "bytes": 293
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fn_create_observations.m",
+      "git_blob_sha": "ab4f2a8ff0518886e84b2b1ef6d3f471fd45d923",
+      "sha256": "d87539a52fcb4eb51148ada5312fe53b0af83ff65a5573ddab86ea535fc4c639",
+      "bytes": 3110
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fn_define_geometry.m",
+      "git_blob_sha": "d64aadd3dcd944b0e8a7542728b33a2da5ea7e98",
+      "sha256": "3d45598dee2de441efaaec68dfb406cf5706caf95784644131ae2050154f0c5d",
+      "bytes": 824
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fn_hist.m",
+      "git_blob_sha": "d97182031c628a89d154a072096662125b820d21",
+      "sha256": "0aff4e6e98d70840cdcc87853032f0381c5553c5e65d3a38b32ec8990800a252",
+      "bytes": 829
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fn_mean_flow.m",
+      "git_blob_sha": "0dae7fdd717d0b76ad68af7801c061fa49e7a474",
+      "sha256": "811022ec71c60cc5ff27ccd48f9fadeecec135ea37984a76dcc5ca5467de32e0",
+      "bytes": 6575
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fn_modehshapes.m",
+      "git_blob_sha": "d261369ee25433a06241644c63cb90b11339f571",
+      "sha256": "f7b991dfa637aac6eac3ab37469588b0eb2c36f7ea0d8ac609dd2ad0a65c327f",
+      "bytes": 1908
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fn_p_from_GH.m",
+      "git_blob_sha": "a2393f64f68f1755845c38c194a4bfd479a57017",
+      "sha256": "84d6c84e910db52b2dc245f9efa22bfec217f1f7904b3113d4489893421ee75c",
+      "bytes": 2412
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fn_time_marching.m",
+      "git_blob_sha": "6572cf8770d650fe3f56744efecbf6bd2534fd5a",
+      "sha256": "d97920d9c8717fc0cb4d9a3315aa0cf3414571532a6a89a0da94fa179a30c12f",
+      "bytes": 1864
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fun_wavefun.m",
+      "git_blob_sha": "24f54bc00aafeebc6706fb3a76d05f6b5da03e04",
+      "sha256": "7cb6e7a48b49816ad599387565b21ed331c6de8242769942d5cc30111b091ee1",
+      "bytes": 3913
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/fwavfun_hist.m",
+      "git_blob_sha": "e0c8a8991132a8f305a887bbefefb5aaf5afee9f",
+      "sha256": "2d1ee0d500bac64bbc07e93c2ef79286cc3fbf86775c9f8857217eaebb66202e",
+      "bytes": 606
+    },
+    {
+      "path": "bias-aware_simulations/fn_Wave/setup_sim.m",
+      "git_blob_sha": "6c4c81a3d6ae845f4b16414976ec9a4dea5db969",
+      "sha256": "b7870efcdfbf64312de1b9d3e17a0df2f9f7d7d7c3ccba42fd1b24ecae7fb513",
+      "bytes": 3904
+    },
+    {
+      "path": "bias-aware_simulations/fn_plots/ARFM_ami.m",
+      "git_blob_sha": "75da6f404abbcc9071fa02f7a6167eb12e58678a",
+      "sha256": "5dcfe4dc5ad86a3c1cea1b542ec22a6fe9031fead613f08cc97ac81c8cb3a512",
+      "bytes": 3035
+    },
+    {
+      "path": "bias-aware_simulations/fn_plots/ARFM_delay_vec.m",
+      "git_blob_sha": "4603a26298abf55dbeb03109fddcc24aecf489fc",
+      "sha256": "2f454c99b7efb1774852e7045a79264f2b7cba6eaa172b54c5f7b1bd9917e95e",
+      "bytes": 1035
+    },
+    {
+      "path": "bias-aware_simulations/fn_plots/ARFM_fnn.m",
+      "git_blob_sha": "b35b5965dbe3096f1a72046caf45ea2b23ff9063",
+      "sha256": "2e881456771f76585e5795843cf2b890e090089c3a9654d32d6fdd36a433835b",
+      "bytes": 5016
+    },
+    {
+      "path": "bias-aware_simulations/fn_plots/fn_plot_mean_std.m",
+      "git_blob_sha": "e4e3fed5a1a9f08caac75d8493c7c9b96c12ce33",
+      "sha256": "279eaeafe693c997557988aafa346674a29f5f3863edd9a952ce230b6274e6b2",
+      "bytes": 419
+    },
+    {
+      "path": "bias-aware_simulations/fn_plots/fn_plot_results.m",
+      "git_blob_sha": "4d57e207f61caa3e820efa036d1a33cacddffc59",
+      "sha256": "d0a6089c8de93304ad36bf23061400ce102e9eeaa7c5d869afa7030447dc80a1",
+      "bytes": 6655
+    },
+    {
+      "path": "bias-aware_simulations/fn_plots/fn_save_pdf_fig.m",
+      "git_blob_sha": "751c97ffa2f7e9be4504189cb757c5412713fd6c",
+      "sha256": "8ec9914f9bbd68487adbe21b3db37dc559d6de353eca4b96b4e4cc1afcbfa442",
+      "bytes": 248
+    },
+    {
+      "path": "bias-aware_simulations/fn_plots/plot_portraits.m",
+      "git_blob_sha": "28a8abcab104c92d0ab867945ae9d7cf37af1734",
+      "sha256": "f1946af3e88c1a2b9b99671af897c6dc1a50743250d0fec07e2cef968549e9e1",
+      "bytes": 3456
+    },
+    {
+      "path": "bias-aware_simulations/fn_plots/plot_xmic.m",
+      "git_blob_sha": "66c3444dcc9ab8ed275b2287c126fd045f2cad1e",
+      "sha256": "dfec420971145adf1a1644b1fbdc367908f6c2bdc79a0d049871b90a242c716f",
+      "bytes": 1485
+    },
+    {
+      "path": "bias-aware_simulations/higher_fidelity_simulations.m",
+      "git_blob_sha": "1b53f83989e5cf942a3b3d5800258c86270f2859",
+      "sha256": "52bfa097bf7c9def67e64fc21e6dae53cd1c74efd4afaf03896e2c24f7a8646e",
+      "bytes": 2826
+    },
+    {
+      "path": "main.m",
+      "git_blob_sha": "b4ea5e6162778f1b541f2cc4522b2d56a19a5d38",
+      "sha256": "46880599f0844983aed2f961147dccd38c0254c30bf2272fd97a52109918f224",
+      "bytes": 443
+    },
+    {
+      "path": "twin_experiments/functions/Cheb.m",
+      "git_blob_sha": "18a408fd2cb24d6e510a0b09194f2e56445930d6",
+      "sha256": "669ba0c63f844dd641933786d59672ddafaabba185e3f78891b826ac9b4edff2",
+      "bytes": 372
+    },
+    {
+      "path": "twin_experiments/functions/DA_paper_data.m",
+      "git_blob_sha": "5a1d7a70d3ee370ac4646a2f8d9df1c55f5db15f",
+      "sha256": "0f65a72a8099312f380923486451cf4d040e8968ad2a65c1736fa4a33debb9ac",
+      "bytes": 10662
+    },
+    {
+      "path": "twin_experiments/functions/DA_paper_params.m",
+      "git_blob_sha": "99258e6db75583dbdeaa046dd4c874d0dd5264fd",
+      "sha256": "ce458b2b4d44146a58ed6735a24f11daa80a68b049628de77326769dc73badb3",
+      "bytes": 3208
+    },
+    {
+      "path": "twin_experiments/functions/EnSRKF_parfor.m",
+      "git_blob_sha": "3803e60760ffb8399c2a4faab5d2ac6638cc6d4d",
+      "sha256": "62312d8c3cdbc241c4ad7ca33ba879732026d5200a197f983ede81100710d823",
+      "bytes": 9327
+    },
+    {
+      "path": "twin_experiments/functions/Figures.m",
+      "git_blob_sha": "93cdfcee9b95c653112fb0f1b5252349a989e1a3",
+      "sha256": "097a9754427459d3f86e91ab500031abde4bce2d94bccffb9032012383abc095",
+      "bytes": 8949
+    },
+    {
+      "path": "twin_experiments/functions/create_comparison_solution.m",
+      "git_blob_sha": "d6a5a48ecc4afd2b0129188cfa6af92f6deeeced",
+      "sha256": "fe146a9873f7177b6b9b897f586a9e6e3520d566fa265b2e0711aa769a0c9c12",
+      "bytes": 452
+    },
+    {
+      "path": "twin_experiments/functions/create_reference_solution.m",
+      "git_blob_sha": "4ba792a06476ae32da898003f4552848c5823a49",
+      "sha256": "b3d441e0e75b93a32280574bb6b62182ba171f2489920dd3c5f53dc50000244b",
+      "bytes": 929
+    },
+    {
+      "path": "twin_experiments/functions/define_parameters.m",
+      "git_blob_sha": "d0408916f8ba83cf0b82f6a6e9ed82fe4a552d82",
+      "sha256": "c1fb75c93013f81cb0aee25261732644d66e4a74f0cbb39c70250cf50c4ba3e1",
+      "bytes": 2338
+    },
+    {
+      "path": "twin_experiments/functions/fun_PSD.m",
+      "git_blob_sha": "ff9ed81005f2eb332a4763cafd88bd728119fdaa",
+      "sha256": "f2691310f88c379eeb5513e900807f4e5c5a5e86595b0dcc5a893f45f9c150d6",
+      "bytes": 969
+    },
+    {
+      "path": "twin_experiments/functions/gov_eqns_adv_PE.m",
+      "git_blob_sha": "41ae4218cb41df7f6cfb04bdbdf5c256e18932a9",
+      "sha256": "fba412393d06042544709f4b9e43a16849e7a419f0c11f9a636d3944d78af3fd",
+      "bytes": 1460
+    },
+    {
+      "path": "twin_experiments/functions/obtain_sol_vecs.m",
+      "git_blob_sha": "7f6c456f332834aa8b7d2ea9646dfae92f6b6b3e",
+      "sha256": "2e64a96aefd3f9acab31dc1097bbf6c4702ceaa196923a967b79af7edff93335",
+      "bytes": 1952
+    },
+    {
+      "path": "twin_experiments/functions/plot_settings.m",
+      "git_blob_sha": "aad914f0d364bb187348f6a51cf5d5312cd087b4",
+      "sha256": "d33770771a4b49abb939e6f72671e86966e17b24c8244882a21a4cfe08b8f7b9",
+      "bytes": 1695
+    },
+    {
+      "path": "twin_experiments/functions/portraits.m",
+      "git_blob_sha": "e3851604e26175e16fb8e1ff6a32e3d40811f64f",
+      "sha256": "b9355ca4c3b34b5e55b8ff13106ab5f3065c3769215c282db33fbc72e024ee7a",
+      "bytes": 3726
+    },
+    {
+      "path": "twin_experiments/twin_experiments.m",
+      "git_blob_sha": "0e74a5d4b58fe2707a3d8caaf1f1ee100482ddac",
+      "sha256": "4197fa7d0b4dc6c3c9f2bb8f0694142410ced88f396c262f1f697d139c965d62",
+      "bytes": 7644
+    }
+  ],
+  "excluded_paths": [
+    ".gitattributes",
+    ".gitignore",
+    "bias-aware_simulations",
+    "bias-aware_simulations/Figures",
+    "bias-aware_simulations/Figures/Matlab_SE_bias_ESN.pdf",
+    "bias-aware_simulations/Figures/Matlab_SE_bias_portrait.pdf",
+    "bias-aware_simulations/Figures/Matlab_SE_bias_timeseries.pdf",
+    "bias-aware_simulations/Figures/Matlab_SPE_bias_ESN.pdf",
+    "bias-aware_simulations/Figures/Matlab_SPE_bias_portrait.pdf",
+    "bias-aware_simulations/Figures/Matlab_SPE_bias_timeseries.pdf",
+    "bias-aware_simulations/fn_DA",
+    "bias-aware_simulations/fn_DA/ARFM_Functions",
+    "bias-aware_simulations/fn_DA/ARFM_Functions/D.csv",
+    "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig",
+    "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/.gitignore",
+    "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/ImageSelection.class",
+    "bias-aware_simulations/fn_DA/ARFM_Functions/export_fig/ImageSelection.java",
+    "bias-aware_simulations/fn_ESN",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/BIAS_Galerkin_low_sqrt_mod_Galerkin_low_sqrt.mat",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/BIAS_Galerkin_low_tan_Galerkin_low_sqrt.mat",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/BIAS_Galerkin_low_tan_Galerkin_low_sqrt_mod.mat",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/BIAS_Wave_high-G_eqn_+_Galerkin_low-sqrt.mat",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/ESN_Galerkin_low_sqrt_mod_Galerkin_low_sqrt_RVC50.mat",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/ESN_Galerkin_low_tan_Galerkin_low_sqrt_RVC50.mat",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/ESN_Wave_high-G_eqn_+_Galerkin_low-sqrt.mat",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/ESN_Wave_high_G_eqn_Galerkin_low_sqrt_Noise50.mat",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/Hyperparameter_search_Wave_high-G_eqn_+_Galerkin_low-sqrt.pdf",
+    "bias-aware_simulations/fn_ESN/ESN_bias_data/Test_run_Wave_high-G_eqn_+_Galerkin_low-sqrt.pdf",
+    "bias-aware_simulations/fn_Galerkin",
+    "bias-aware_simulations/fn_Wave",
+    "bias-aware_simulations/fn_Wave/G_eqn",
+    "bias-aware_simulations/fn_plots",
+    "twin_experiments",
+    "twin_experiments/data_twin",
+    "twin_experiments/data_twin/Fig14.mat",
+    "twin_experiments/data_twin/Fig15.mat",
+    "twin_experiments/functions",
+    "twin_experiments/twin_experiments.asv"
+  ]
+}

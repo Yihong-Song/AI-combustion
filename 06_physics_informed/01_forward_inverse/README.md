@@ -15,3 +15,4 @@
 | 2024 | [Reconstructing soot fields in acoustically forced laminar sooting flames using physics-informed machine learning models](Pd19bb828b9/README.md) | [10.1016/j.proci.2024.105314](https://doi.org/10.1016/j.proci.2024.105314) |
 | 2023 | [Application of a physics-informed neural network to solve the steady-state Bratu equation arising from solid biofuel combustion theory](Pb552d55f67/README.md) | [10.1016/j.fuel.2022.125908](https://doi.org/10.1016/j.fuel.2022.125908) |
 | 2023 | [Physics-informed graph neural networks for predicting cetane number with systematic data quality analysis](Pad01f0053d/README.md) | [10.1016/j.proci.2022.09.059](https://doi.org/10.1016/j.proci.2022.09.059) |
+| 2022 | [Physics-informed neural networks and functional interpolation for stiff chemical kinetics](P42f2fcf650/README.md) | [10.1063/5.0086649](https://doi.org/10.1063/5.0086649) |

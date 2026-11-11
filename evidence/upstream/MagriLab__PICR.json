@@ -1,0 +1,14 @@
+{
+  "repository": "MagriLab/PICR",
+  "url": "https://github.com/MagriLab/PICR",
+  "retrieved_at": "2026-11-11T16:48:47.942579+00:00",
+  "commit": "8fb862968583c4ded952bf58300799fa06d90781",
+  "readme_path": "evidence/upstream/MagriLab__PICR.readme.txt",
+  "readme_url": "https://github.com/MagriLab/PICR/blob/8fb862968583c4ded952bf58300799fa06d90781/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/MagriLab__PICR.license.txt",
+  "license_url": "https://github.com/MagriLab/PICR/blob/8fb862968583c4ded952bf58300799fa06d90781/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:24.501625+00:00"
+}

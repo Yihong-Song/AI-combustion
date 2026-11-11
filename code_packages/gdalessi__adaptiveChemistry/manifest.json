@@ -1,0 +1,20 @@
+{
+  "id": "gdalessi__adaptiveChemistry",
+  "repository": "gdalessi/adaptiveChemistry",
+  "url": "https://github.com/gdalessi/adaptiveChemistry",
+  "commit": "391004914401dc2f887c280640a898f88041d7c9",
+  "retrieved_at": "2026-11-11T16:49:38.676777+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.combustflame.2019.09.010"
+  ],
+  "note": "OpenFOAM/laminarSMOKE/edcSMOKE 的自适应化学分类与缩减，README 列三篇相关工作。未定位许可，仅链接；同一工具链不按引用数声称多个完整实现。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/gdalessi__adaptiveChemistry.json",
+  "pinned_url": "https://github.com/gdalessi/adaptiveChemistry/tree/391004914401dc2f887c280640a898f88041d7c9",
+  "archive_url": "https://api.github.com/repos/gdalessi/adaptiveChemistry/tarball/391004914401dc2f887c280640a898f88041d7c9",
+  "readme_source": "https://github.com/gdalessi/adaptiveChemistry/blob/391004914401dc2f887c280640a898f88041d7c9/README.md",
+  "collection_status": "link_only"
+}

@@ -1,0 +1,111 @@
+{
+  "id": "Predictive-Intelligent-Systems-Lab__TTE-TAI-PROCI-paper",
+  "repository": "Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper",
+  "url": "https://github.com/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper",
+  "commit": "f6f07bed28fc350a698a56012796ca7a16abe626",
+  "retrieved_at": "2026-11-11T16:48:54.060462+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.proci.2026.106547"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/Predictive-Intelligent-Systems-Lab__TTE-TAI-PROCI-paper.json",
+  "license_url": "https://github.com/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper/blob/f6f07bed28fc350a698a56012796ca7a16abe626/LICENSE",
+  "license_sha256": "f62d778e9b1793c89195dc718a7bb94064bf26b99550bbd7a59ee36829980212",
+  "pinned_url": "https://github.com/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper/tree/f6f07bed28fc350a698a56012796ca7a16abe626",
+  "archive_url": "https://api.github.com/repos/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper/tarball/f6f07bed28fc350a698a56012796ca7a16abe626",
+  "readme_source": "https://github.com/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper/blob/f6f07bed28fc350a698a56012796ca7a16abe626/README.md",
+  "archive": {
+    "repository": "Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper",
+    "commit": "f6f07bed28fc350a698a56012796ca7a16abe626",
+    "source_url": "https://api.github.com/repos/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper/tarball/f6f07bed28fc350a698a56012796ca7a16abe626",
+    "retrieved_at": "2026-11-11T17:00:51.293217+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper/legacy.tar.gz/f6f07bed28fc350a698a56012796ca7a16abe626",
+    "status": "downloaded",
+    "path": "code_packages/Predictive-Intelligent-Systems-Lab__TTE-TAI-PROCI-paper/f6f07bed28fc.tar.gz",
+    "bytes": 37914,
+    "sha256": "804f963a9f0929afb80b5ba6fd1db94d1d8d36ae27f177a61970d5ef19e48044"
+  },
+  "collection_status": "source_archive_collected",
+  "source_snapshot": {
+    "status": "collected",
+    "collection_type": "partial_source_snapshot",
+    "repository": "Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper",
+    "commit": "f6f07bed28fc350a698a56012796ca7a16abe626",
+    "date": "2026-11-11",
+    "path": "code_packages/Predictive-Intelligent-Systems-Lab__TTE-TAI-PROCI-paper/f6f07bed28fc-source-only.tar.gz",
+    "bytes": 37554,
+    "sha256": "5faa19f36d7d6f6f217c6c2694ed6f0e429f404eac234012f6cf81ae22957da4",
+    "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+    "files": [
+      {
+        "path": "LICENSE",
+        "git_blob_sha": "8a01b21beec1fb43ca54f73be7901280ba2a7273",
+        "sha256": "f62d778e9b1793c89195dc718a7bb94064bf26b99550bbd7a59ee36829980212",
+        "bytes": 1104
+      },
+      {
+        "path": "README.md",
+        "git_blob_sha": "ebd06f96ab19543edbbeee71b237266eff74232f",
+        "sha256": "db2a96548a950a2951b5588edc61d4895799293307cf8d1698d76535142bab38",
+        "bytes": 10438
+      },
+      {
+        "path": "XGBoost_train.py",
+        "git_blob_sha": "f46ff07c061a46c0c0c06b58e3e43d24b7ffe5a0",
+        "sha256": "201e31bafaf5a0dd7ffcf35e9d983f0fd84d12750fe3ddeec73ae0f751677ed7",
+        "bytes": 21890
+      },
+      {
+        "path": "common.py",
+        "git_blob_sha": "c04b6abc43e2617ceaf35c412105ef49ed9f3a5a",
+        "sha256": "c916ef7dd3bd8cbe06154b8608a1638f3d519f8ea621b8d19bee1f3215b899cd",
+        "bytes": 7001
+      },
+      {
+        "path": "label_exp_onset.py",
+        "git_blob_sha": "034c946f71974356ddb464308d87b8f523f940b0",
+        "sha256": "bdefafef70842b37b21ac33d3eaa4de1191ede3a38c9f9f027d5eb22587c3f5d",
+        "bytes": 4322
+      },
+      {
+        "path": "lstm_train.py",
+        "git_blob_sha": "d0d0ec63228dc8029791402ba27ac7b929f25ad7",
+        "sha256": "7376a3df16c5177380990d28701518c11f6f88cd7bf4b0129d9eef5e120d06a1",
+        "bytes": 26809
+      },
+      {
+        "path": "model.py",
+        "git_blob_sha": "d681544c1a7a8b2a15a85b113520eaf4d63c12d1",
+        "sha256": "59169f803acfb9cd61aa75ab34aac802ab498dc6e7708f1eb8204fa25a5b7941",
+        "bytes": 4936
+      },
+      {
+        "path": "preprocess_mod.py",
+        "git_blob_sha": "641a0306862cc18d8877064ec3394532c51bb5b4",
+        "sha256": "d1bc3ec5353c6e485a0df7da7a5fb74fad164dcefa15a4f6bb555861c3247f2b",
+        "bytes": 13180
+      },
+      {
+        "path": "synthetic_gen.py",
+        "git_blob_sha": "f357514a593e0c3f1b67ff4b38b258607e3916c6",
+        "sha256": "a69a1ad11595a40f34dba2880c47171cbd536b28fe22c95f0dbaf1f9992722bf",
+        "bytes": 19590
+      },
+      {
+        "path": "trans_train.py",
+        "git_blob_sha": "b645acbdd8bfb32c29ad53ab7013b1f185d9d8df",
+        "sha256": "cc841c4a37dc2e700bf57c799632440de2e6577887cf829f34650f180dce2e04",
+        "bytes": 39529
+      }
+    ],
+    "excluded_paths": [
+      "CITATION.cff"
+    ]
+  }
+}

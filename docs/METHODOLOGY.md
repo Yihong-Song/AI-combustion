@@ -1,6 +1,6 @@
 # 检索、证据与纳入方法
 
-整理截止：2026-11-11。主要检索窗口为 2018-01-01 至截止日；必要的更早方法通过代码工具卡补充。这里只采用 **JCR / Journal Impact Factor 类别分区**，不把中科院分区、SJR、JCI 或影响因子高低换算成 JCR。
+整理截止：2026-11-12。主要检索窗口为 2018-01-01 至截止日；必要的更早方法通过代码工具卡补充。这里只采用 **JCR / Journal Impact Factor 类别分区**，不把中科院分区、SJR、JCI 或影响因子高低换算成 JCR。
 
 ## 先读这个边界
 
@@ -13,6 +13,7 @@
 - 反应动力学、湍流燃烧、热声、诊断、辐射、燃料性质、发动机/燃烧器、喷雾与爆轰。
 - 生物质热解、煤、火灾、电池热失控作为相邻热转化/安全方向，逐篇复核与燃烧的联系。
 - 通用可微化学、Neural ODE、数据访问软件以支撑工具形式收纳；会议和预印本不赋 JCR 分区。
+- 按用户范围排除全球/大区域野火扩散、遥感火点、灾情及气候分析；保留实验室火焰、反应机理、建筑火灾及装置研究。标题含这些词而被排除的记录保存原因供复核。
 - 排除明确的燃料电池、制氢生产、燃烧后碳捕集、与燃烧无关的加氢脱硫/脱氮及部分综合能源系统。
 - 自动标题筛选仍可能纳入生物油生产、燃料材料等边界文章；候选身份不等于最终纳入。`catalog/papers.json` 的 screening 字段保留此限制。
 
@@ -61,6 +62,7 @@ Applications in Energy and Combustion Science 的二级表存在与其他期刊�
 ## 论文—代码关系
 
 - `author_implementation_readme_explicit`：上游明确写本论文及 DOI/题名；保留固定 README 来源。未对 GitHub 账户与作者身份做独立认证。
+- `author_related_work_readme_explicit`：作者软件生态的 Related papers 明确列该论文，或后续工具 README 明确相关引用；不等于本篇全部实验代码已提供。
 - `title_match_repository_readme`：题名相符但未见明确 DOI 归属，证据较弱。
 - `supporting_tool`：有用的支撑软件，不假定是某篇期刊的完整官方实现。
 - `author_supporting_component_readme_explicit` / `author_supporting_tool_readme_explicit`：README 明确连接论文，但仅确认数据构建、通用处理等组件，不能当作完整实验代码。

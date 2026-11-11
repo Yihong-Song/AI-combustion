@@ -1,0 +1,11 @@
+{
+  "repository": "NatLabRockies/mluq-prop",
+  "commit": "a4e0ae008fc6edb343967388bab5c7166dd98944",
+  "source_url": "https://api.github.com/repos/NatLabRockies/mluq-prop/tarball/a4e0ae008fc6edb343967388bab5c7166dd98944",
+  "retrieved_at": "2026-11-11T17:00:38.885302+00:00",
+  "license": "BSD-3-Clause-Clear",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/NatLabRockies/mluq-prop/legacy.tar.gz/a4e0ae008fc6edb343967388bab5c7166dd98944",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

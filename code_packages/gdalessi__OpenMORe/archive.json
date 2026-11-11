@@ -1,0 +1,11 @@
+{
+  "repository": "gdalessi/OpenMORe",
+  "commit": "101ca4b461f7b25b55cbed05e6724702774eec43",
+  "source_url": "https://api.github.com/repos/gdalessi/OpenMORe/tarball/101ca4b461f7b25b55cbed05e6724702774eec43",
+  "retrieved_at": "2026-11-11T16:59:45.818440+00:00",
+  "license": "MIT",
+  "execution": "not_executed",
+  "resolved_source_url": "https://codeload.github.com/gdalessi/OpenMORe/legacy.tar.gz/101ca4b461f7b25b55cbed05e6724702774eec43",
+  "status": "not_collected",
+  "error": "archive exceeds configured byte limit; use pinned upstream download"
+}

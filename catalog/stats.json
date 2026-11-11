@@ -1,19 +1,21 @@
 {
-  "date": "2026-11-11",
-  "candidate_papers": 428,
-  "recent_2024_2026": 238,
+  "date": "2026-11-12",
+  "candidate_papers": 456,
+  "recent_2024_2026": 254,
   "jcr_officially_verified": 0,
   "quartile_status": {
-    "pending_jcr": 49,
-    "provisional_q1_q2": 368,
-    "adjacent_q3_q4": 11
+    "pending_jcr": 61,
+    "provisional_q1_q2": 378,
+    "adjacent_q3_q4": 17
   },
-  "reviewed_paper_code_links": 27,
-  "code_packages": 52,
-  "licensed_for_collection": 29,
-  "archives_collected": 16,
+  "reviewed_paper_code_links": 51,
+  "code_packages": 89,
+  "licensed_for_collection": 51,
+  "archives_collected": 28,
   "executed_independent_baselines": 2,
   "published_paper_metrics_reproduced": 0,
   "executed_author_demos": 1,
-  "partial_source_snapshots_collected": 13
+  "unique_packages_with_source": 51,
+  "trained_preprint_subcases": 1,
+  "partial_source_snapshots_collected": 30
 }

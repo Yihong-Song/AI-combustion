@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.fuel.2026.138340",
+  "title": "A GWO-GA-EL neural network approach for predicting the laminar burning velocity of RP-3 aviation kerosene and its blends",
+  "query": "\"A GWO-GA-EL neural network approach for predicting the laminar burning velocity of\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:43:04.581802+00:00",
+  "total_count": 0,
+  "items": []
+}

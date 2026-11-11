@@ -1,0 +1,23 @@
+{
+  "title_query": "A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures",
+  "retrieved_at": "2026-11-11T16:53:22.416396+00:00",
+  "url": "https://api.crossref.org/works?query.title=A+machine+learning+based+full-spectrum+correlated+k-distribution+model+for+nonhomogeneous+gas-soot+mixtures&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.jqsrt.2021.107628",
+      "title": "A machine learning based full-spectrum correlated k-distribution model for nonhomogeneous gas-soot mixtures",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/j.jqsrt.2016.02.007",
+      "title": "Full-spectrum k-distribution look-up table for nonhomogeneous gas–soot mixtures",
+      "score": 0.7329192546583851
+    },
+    {
+      "doi": "10.1115/1.2909612",
+      "title": "Hybrid Full-Spectrum Correlated k-Distribution Method for Radiative Transfer in Nonhomogeneous Gas Mixtures",
+      "score": 0.7379679144385026
+    }
+  ],
+  "matched_doi": "10.1016/j.jqsrt.2021.107628"
+}

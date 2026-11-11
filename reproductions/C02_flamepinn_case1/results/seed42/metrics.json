@@ -1,0 +1,110 @@
+{
+  "status": "trained_preprint_subcase_compared",
+  "strict_q1_accepted": false,
+  "paper_metrics_reproduced": false,
+  "date": "2026-11-12",
+  "paper_doi": "10.1016/j.combustflame.2025.113964",
+  "target": "arXiv:2406.09071v1 Section 3.1.1 / Figure 3 first condition; final journal version not checked",
+  "p_atm": 1.0,
+  "Tin_K": 298.0,
+  "phi": 0.4,
+  "source_commit": "f7c0c0c3dc9b75d41d0bb090d265650a67999c45",
+  "source_archive_sha256": "d441447015d9378a6ca0e58e90e16f0a96e784206d77e3ae7302e11616f63cb9",
+  "seed": 42,
+  "device": "cpu",
+  "dtype": "float64",
+  "network": [
+    1,
+    64,
+    64,
+    64,
+    1
+  ],
+  "warmup_iterations": 1000,
+  "pde_iterations": 30000,
+  "domain_points": 1001,
+  "evaluation_points": 5001,
+  "sampling": "fixed uniform as preprint Table 3; source default Hammersley changed",
+  "reference": "Author first-order finite-difference/bisection reference, 10000 grid points; not independently regenerated",
+  "fields": {
+    "T": {
+      "relative_L2": 0.0014880557204289108,
+      "mae": 3.040596654022399,
+      "max_absolute_error": 19.272491321978123
+    },
+    "YF": {
+      "relative_L2": 0.002429632372372008,
+      "mae": 6.081193308044799e-05,
+      "max_absolute_error": 0.00038544982643955866
+    },
+    "u": {
+      "relative_L2": 0.0015637557369603135,
+      "mae": 0.003268296911674492,
+      "max_absolute_error": 0.017721662982552733
+    },
+    "rho": {
+      "relative_L2": 0.0026359254213268314,
+      "mae": 0.0006549052704823107,
+      "max_absolute_error": 0.0033900858586085603
+    },
+    "omega": {
+      "relative_L2": 0.012367132638489573,
+      "mae": 0.2310586978515629,
+      "max_absolute_error": 2.8596727846117034
+    },
+    "p": {
+      "relative_L2": 0.0018548240504387217,
+      "mae": 0.001317180400225711,
+      "max_absolute_error": 0.005874639129615389
+    }
+  },
+  "preprint_reported": {
+    "T_relative_L2": 0.0013,
+    "omega_relative_L2": 0.0108,
+    "maximum_sL_absolute_relative_error_across_12_conditions": 0.0003
+  },
+  "python": "3.13.9",
+  "environment": {
+    "torch": "2.13.0",
+    "numpy": "2.5.2",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.1",
+    "scikit-learn": "1.9.0"
+  },
+  "deepxde_version": "1.15.0 (isolated vendor dependencies)",
+  "deviations_and_limits": [
+    "Preprint v1 rather than verified final published article",
+    "Single stated seed, paper seed unspecified",
+    "Reference arrays supplied by author, not independently regenerated",
+    "Fixed uniform sampling matches preprint but differs from pinned code default",
+    "CPU and dependency versions differ",
+    "First training finished; wrapper initially referenced wrong output filenames and failed in summary export. This evaluator reads actual saved upstream arrays without retraining.",
+    "Only one of 12 forward conditions, no inverse case or full-paper validation",
+    "Official annual JCR Q1 evidence pending"
+  ],
+  "output_hashes": {
+    "T_1D_reference.npy": "d6f9ef570426bf81f25f1d4cdbc3acd2d40c17079c0b179db13ccd749935ce07",
+    "T_1D_predicted.npy": "ac87db92027011ee607d87a1bfb8534db4fc4998ca4b7c56f576afbb48d7a66e",
+    "YF_1D_reference.npy": "665e04eadb8a0aa456bb8eb684d1d662d8425ce200494c4017075255fbb7dbe4",
+    "YF_1D_predicted.npy": "22994ba452df5ef097a021b6f6cf8fae4f937c2f08c50b9d52585c3f2706bf3a",
+    "u_1D_reference.npy": "5c08a78581631d07e26b2e24373a3aa294ed409d4b9c7f570380bb220ad0edf5",
+    "u_1D_predicted.npy": "8691c264bd358250cdd6c632bb1401db52b606f24546cfec6b11013f1fbafa9b",
+    "rho_1D_reference.npy": "95d091c6d68d78075f6690fc186311115807b51ca5501309abfa13a31e212341",
+    "rho_1D_predicted.npy": "fc2c749e8c7e1c35f70b78a6ee78c34297ce85886d5018fd6204dfb1c0509cbd",
+    "omega_1D_reference.npy": "15003c02a9b075311b6d777d5aa1a2a66beabc4ac4b16075a142842b0f81aee4",
+    "omega_1D_predicted.npy": "d1cd6564f1525c62abf2f71609fb270c8dbffe90225689c6cecd42406c181393",
+    "p_1D_reference.npy": "4930dfd0ee32e813af768840b86dcffa471fdc522d17d8736f9057c2862c462c",
+    "p_1D_predicted.npy": "13f396965b33404dc70af93db0cec7fa05c8ca929fd4c0e89d8f0effc94be673"
+  },
+  "sL_relative_error_from_upstream_summary": -0.000179,
+  "best_saved_epoch": 29900,
+  "preprint_value_differences": {
+    "T": 0.00018805572042891088,
+    "omega": 0.0015671326384895726
+  },
+  "meets_preprint_broad_single_condition_field_bounds": true,
+  "upstream_training_times_s": [
+    1.07,
+    220.43
+  ]
+}

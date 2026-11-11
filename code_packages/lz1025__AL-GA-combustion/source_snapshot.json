@@ -1,0 +1,150 @@
+{
+  "status": "collected",
+  "collection_type": "partial_source_snapshot",
+  "repository": "lz1025/AL-GA-combustion",
+  "commit": "1c3d7fdf4622d1c1895a69fab452b586d5fe1ebb",
+  "date": "2026-11-11",
+  "path": "code_packages/lz1025__AL-GA-combustion/1c3d7fdf4622-source-only.tar.gz",
+  "bytes": 70867,
+  "sha256": "a5e84cc0e3b52843a7876ec7d58afa70e6c25d1158163b6eb85583fb77cf4731",
+  "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+  "files": [
+    {
+      "path": "LICENSE",
+      "git_blob_sha": "b77bf2ab726c6e7cb5a81a9d3b7dc38266ebfd3d",
+      "sha256": "06dcddbb6908a0c6dd4a9e8ec822eea41d5a460a53089fecccc8a68049e99241",
+      "bytes": 1056
+    },
+    {
+      "path": "README.md",
+      "git_blob_sha": "d61e830f1aaeaacf7272bf8929b259bc086f7a3f",
+      "sha256": "23070d9bfb467340a7a7bf0f6c98b7846049fe1a81eff915af61f79867b6454b",
+      "bytes": 2151
+    },
+    {
+      "path": "framework/src/workflows/01_generate_conditions.py",
+      "git_blob_sha": "884c7c4ca2b32a3292fd2d85f39d58a0b5989036",
+      "sha256": "ba074a11eb8712ee461c76ecd15cc1a290229480f5c8d5497bf370f8c5418956",
+      "bytes": 9177
+    },
+    {
+      "path": "framework/src/workflows/03_run_compute.py",
+      "git_blob_sha": "03b01d3e8e0f5c6a6e0408944e905d3174c37dc0",
+      "sha256": "0214c30c885d2c1e212658d9406a343a0fcec6a9bef50e69aaf3b5e61c0d8190",
+      "bytes": 31631
+    },
+    {
+      "path": "framework/src/workflows/04_train_xgboost.py",
+      "git_blob_sha": "e37088d13a65bd95108a211a50ed365d4f367f0c",
+      "sha256": "7317de4cd555bba421762ef4a07b407274005ec91046dcad9df5ce19e48e3662",
+      "bytes": 34202
+    },
+    {
+      "path": "framework/src/workflows/04c_train_catboost.py",
+      "git_blob_sha": "7d03a4d3583f67a720361a50b94ba6bb8ab61628",
+      "sha256": "ef62d57ef72033ba58ed0b049331bf4a01ebdf35c2fc21f8c4a957eae2777bf4",
+      "bytes": 17369
+    },
+    {
+      "path": "framework/src/workflows/05_prepare_ground_truth.py",
+      "git_blob_sha": "2f6898c6f2c66664ee13616bf8132a97eed2a19f",
+      "sha256": "f0a1a045cc931515e24c0c9702a8e66bbc2f45e37ac71df4b49759a4306e26cd",
+      "bytes": 9152
+    },
+    {
+      "path": "framework/src/workflows/06_lambda_selection.py",
+      "git_blob_sha": "63ccba06ed341e7599bad9a984c2181e44f8efde",
+      "sha256": "271afc7e0ec562c408b3a43b3e2db752547692699715ff1c318b67c0b4a84e98",
+      "bytes": 17422
+    },
+    {
+      "path": "framework/src/workflows/07_active_learning_ga.py",
+      "git_blob_sha": "8028b09496975dde6549970f3113e96bdd4dc65d",
+      "sha256": "fcaff6841b7f44c073585fbc5728e58afa7c8329efaa96f771fdea6223371bd0",
+      "bytes": 39642
+    },
+    {
+      "path": "framework/src/workflows/07b_active_learning_catboost.py",
+      "git_blob_sha": "647268e8b9bf1264451edb13d1a6e89f81789bde",
+      "sha256": "71d27c25aedb68f18db11f926d09a3899b594c30193efa499c1e5ca39c0bf0a8",
+      "bytes": 79902
+    },
+    {
+      "path": "framework/src/workflows/08_analyze_model_errors.py",
+      "git_blob_sha": "685717b24d15d2fe0d1a02c85a598f78e54f0c83",
+      "sha256": "0cb49f7bc26b58166002f9427ec2371a89ff5a40a1fa967ad5530be9c320eff6",
+      "bytes": 12181
+    },
+    {
+      "path": "framework/src/workflows/08_baseline_ga_experiment.py",
+      "git_blob_sha": "7ea4739474ea5f7347d9182621bde539a36c776c",
+      "sha256": "2f5cd670a2b8eca26afeca48065252aa87a90c55023e503e90628a8d209c3e4c",
+      "bytes": 16591
+    },
+    {
+      "path": "framework/src/workflows/09_analyze_optimization_results.py",
+      "git_blob_sha": "1a8aa39d00dba532fb62f6b5b7ebff710b55a714",
+      "sha256": "68da42716653643e5a98e4dfbd8184459a605928c7d7ab4aa688dd353a763a2f",
+      "bytes": 7573
+    },
+    {
+      "path": "framework/src/workflows/__init__.py",
+      "git_blob_sha": "58032e6865c08a43559363c29829a9893e659de6",
+      "sha256": "a25c5f444e8dfa545af3c2d6cd14a31ae704061ec9854d6662581ebed6050642",
+      "bytes": 44
+    },
+    {
+      "path": "framework/tests/__init__.py",
+      "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "path": "framework/tests/test_e2e_optimization.py",
+      "git_blob_sha": "9dc1df6a82741c31dde4eb55060c5e44d960b5ae",
+      "sha256": "c42a62462e8e2c4fd0052aa9904630803ec5a31f0e51a4f3cab803a23e84fc47",
+      "bytes": 11471
+    },
+    {
+      "path": "framework/tests/test_lfs_subprocess.py",
+      "git_blob_sha": "e1828c90cd41b8ef1d44dc263bb13c5f1688bdbf",
+      "sha256": "abcd08214a2d22a7eb9e20fb4a019815b1da61699fba72c34c1494ce4c2d8061",
+      "bytes": 3649
+    },
+    {
+      "path": "framework/tests/test_lfs_worker.py",
+      "git_blob_sha": "e8024ff3e6f46a49bce203c94675a612a8021287",
+      "sha256": "0507d16b7399e84ca789e57b389c8422bb064762a41ed0ad189280e9c43b4c2a",
+      "bytes": 9272
+    },
+    {
+      "path": "framework/tests/test_sobol_reproducibility.py",
+      "git_blob_sha": "ed671b361f388993f2ce133f245f4c6111ca7053",
+      "sha256": "537f16758de940aa73b2a44cce99a91be62c599bbba48e9875dbad2865485c7f",
+      "bytes": 5124
+    },
+    {
+      "path": "framework/tests/test_validation_error.py",
+      "git_blob_sha": "4e73aa7eb2262a4f0410b50322fdbd61c8df63a1",
+      "sha256": "2af58652765673e0441eef0c94d919b072c65eb03105926d915021d5d1d3d1c6",
+      "bytes": 6556
+    },
+    {
+      "path": "requirements.txt",
+      "git_blob_sha": "533202a3ed86159f7d98f44b6fc84c75c66ffd40",
+      "sha256": "6c0ba46d373ecb02dcdb1c2ebc58534a752e70e0b15958f1e4f10c227f7550c5",
+      "bytes": 1741
+    }
+  ],
+  "excluded_paths": [
+    ".gitignore",
+    "CITATION.cff",
+    "framework",
+    "framework/data",
+    "framework/data/idt_det_reference_v2.csv",
+    "framework/data/lfs_exp_reference_v2.csv",
+    "framework/src",
+    "framework/src/workflows",
+    "framework/tests"
+  ]
+}

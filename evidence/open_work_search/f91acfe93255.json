@@ -1,0 +1,345 @@
+{
+  "query": "detonation \"machine learning\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:47:55.297229+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 313,
+  "url": "https://api.github.com/search/repositories?q=detonation+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "Azure/Azure-Sentinel-Notebooks",
+      "description": "Interactive Azure Sentinel Notebooks provides security insights and actions to investigate anomalies and hunt for malicious behaviors.",
+      "html_url": "https://github.com/Azure/Azure-Sentinel-Notebooks",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 31855,
+      "fork": false,
+      "updated_at": "2026-11-11T08:00:07Z"
+    },
+    {
+      "full_name": "dynamicslab/dominant-balance",
+      "description": "Methods and code for J. L. Callaham, J. N. Kutz, B. W. Brunton, and S. L. Brunton (2020)",
+      "html_url": "https://github.com/dynamicslab/dominant-balance",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 17693,
+      "fork": false,
+      "updated_at": "2026-09-07T01:45:26Z"
+    },
+    {
+      "full_name": "delton137/Machine-Learning-Energetic-Molecules-Notebooks",
+      "description": "Python Jupyter Notebooks to reproduce the results in our paper, \"Applying machine learning techniques to predict the properties of energetic materials\"",
+      "html_url": "https://github.com/delton137/Machine-Learning-Energetic-Molecules-Notebooks",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1115,
+      "fork": false,
+      "updated_at": "2026-07-13T01:03:57Z"
+    },
+    {
+      "full_name": "thw1021/Code4CFD",
+      "description": "A curated list of repositories related to fluid dynamics.",
+      "html_url": "https://github.com/thw1021/Code4CFD",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 135,
+      "fork": false,
+      "updated_at": "2026-10-24T03:07:28Z"
+    },
+    {
+      "full_name": "pyxelr/recommendations-for-engineers",
+      "description": "📚 All of my recommendations for aspiring engineers in a single place, coming from various areas of interest.",
+      "html_url": "https://github.com/pyxelr/recommendations-for-engineers",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 398,
+      "fork": false,
+      "updated_at": "2026-10-23T07:12:34Z"
+    },
+    {
+      "full_name": "CrowdStrike/cloud-storage-protection",
+      "description": "Examples showcasing how to leverage QuickScan Pro APIs to help protect cloud storage",
+      "html_url": "https://github.com/CrowdStrike/cloud-storage-protection",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 211,
+      "fork": false,
+      "updated_at": "2026-08-24T12:45:31Z"
+    },
+    {
+      "full_name": "webworn/openfoam-mcp-server",
+      "description": "LLM-powered OpenFOAM MCP server for intelligent CFD education with Socratic questioning and expert error resolution",
+      "html_url": "https://github.com/webworn/openfoam-mcp-server",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 25684,
+      "fork": false,
+      "updated_at": "2026-11-11T05:09:43Z"
+    },
+    {
+      "full_name": "deepflame-ai/REALM",
+      "description": "A comprehensive benchmark for machine learning multiphysics flows",
+      "html_url": "https://github.com/deepflame-ai/REALM",
+      "license": null,
+      "size": 6068,
+      "fork": false,
+      "updated_at": "2026-10-11T03:02:46Z"
+    },
+    {
+      "full_name": "RDrahul123/DRONA",
+      "description": "Drone- An Unmanned Aerial Vehicle (UAV) based on Artificial Intelligence and Machine Learning (AIML) represents the next level of innovation in bomb detection and neutralization technology.",
+      "html_url": "https://github.com/RDrahul123/DRONA",
+      "license": null,
+      "size": 12620,
+      "fork": false,
+      "updated_at": "2025-10-02T14:19:06Z"
+    },
+    {
+      "full_name": "Harshi-coder17/SCYTHE",
+      "description": null,
+      "html_url": "https://github.com/Harshi-coder17/SCYTHE",
+      "license": null,
+      "size": 3481,
+      "fork": false,
+      "updated_at": "2026-11-10T07:31:11Z"
+    },
+    {
+      "full_name": "yogsec/Hacking-Tools",
+      "description": "A curated list of 900+ penetration testing and ethical hacking tools.",
+      "html_url": "https://github.com/yogsec/Hacking-Tools",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 1491,
+      "fork": false,
+      "updated_at": "2026-11-11T12:56:15Z"
+    },
+    {
+      "full_name": "vanshs1/ML_DetonationCells_SootFoil",
+      "description": "This algorithm is designed to accurately extract cellular patterns from soot foils",
+      "html_url": "https://github.com/vanshs1/ML_DetonationCells_SootFoil",
+      "license": {
+        "key": "lgpl-2.1",
+        "name": "GNU Lesser General Public License v2.1",
+        "spdx_id": "LGPL-2.1",
+        "url": "https://api.github.com/licenses/lgpl-2.1",
+        "node_id": "MDc6TGljZW5zZTEx"
+      },
+      "size": 13779,
+      "fork": false,
+      "updated_at": "2025-07-17T00:33:00Z"
+    },
+    {
+      "full_name": "k8pl3r-sh/mw-classifier",
+      "description": "Machine Learning research on malware detection and attribution",
+      "html_url": "https://github.com/k8pl3r-sh/mw-classifier",
+      "license": null,
+      "size": 716134,
+      "fork": false,
+      "updated_at": "2026-10-07T21:42:32Z"
+    },
+    {
+      "full_name": "Smarshal-Verse/Nukes",
+      "description": "The Nuclear Detonation Detector App is a mobile application designed for advanced detection of potential nuclear detonations. Utilizing a machine learning model trained on satellite imagery and Twitter data, The app efficiently manages alerts and enables real-time communication with integrated controllers, AlarmManager, and Ktor.",
+      "html_url": "https://github.com/Smarshal-Verse/Nukes",
+      "license": null,
+      "size": 236,
+      "fork": false,
+      "updated_at": "2026-05-04T20:47:26Z"
+    },
+    {
+      "full_name": "Serjikey/detonation_genome",
+      "description": "Machine learning platform for prediction of energetic material detonation properties",
+      "html_url": "https://github.com/Serjikey/detonation_genome",
+      "license": null,
+      "size": 1017,
+      "fork": false,
+      "updated_at": "2026-08-04T17:14:49Z"
+    },
+    {
+      "full_name": "wyndollin/Valorant-pro-match-predictor",
+      "description": "This is a simple pro Valorant match predictor which uses simple classifiers to predict possible outcomes of matchups, based on past data. It's as simple as it gets, map, team_1, team_2 and Won. It has Region loc, but you just need to combine datasets to make it internatioinal.",
+      "html_url": "https://github.com/wyndollin/Valorant-pro-match-predictor",
+      "license": null,
+      "size": 127,
+      "fork": false,
+      "updated_at": "2025-07-27T18:39:03Z"
+    },
+    {
+      "full_name": "mukti-sys/sentinel-antivirus",
+      "description": "Lightweight open-source antivirus engine for Windows with YARA scanning, PE ML classifier, and kernel minifilter driver",
+      "html_url": "https://github.com/mukti-sys/sentinel-antivirus",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 4765,
+      "fork": false,
+      "updated_at": "2026-11-06T15:48:16Z"
+    },
+    {
+      "full_name": "Sm-bello/PHI-Twin-RDE-An-Open-Benchmark-Machine-Learning-Fidelity-Analysis-for-Rotating-Detonation-Engine",
+      "description": null,
+      "html_url": "https://github.com/Sm-bello/PHI-Twin-RDE-An-Open-Benchmark-Machine-Learning-Fidelity-Analysis-for-Rotating-Detonation-Engine",
+      "license": null,
+      "size": 17,
+      "fork": false,
+      "updated_at": "2026-05-21T18:05:10Z"
+    },
+    {
+      "full_name": "wadie-majidi/SentriX",
+      "description": "Developed a malware analysis and forensics pipeline using Cuckoo sandbox, ML-based classification, and automated artifact collection for deeper investigation.",
+      "html_url": "https://github.com/wadie-majidi/SentriX",
+      "license": null,
+      "size": 168,
+      "fork": false,
+      "updated_at": "2025-12-30T11:50:06Z"
+    },
+    {
+      "full_name": "maskati/azure-icons",
+      "description": "Azure Icons",
+      "html_url": "https://github.com/maskati/azure-icons",
+      "license": null,
+      "size": 45022,
+      "fork": false,
+      "updated_at": "2026-11-11T11:50:13Z"
+    },
+    {
+      "full_name": "gaahrdner/starred",
+      "description": "A curated list of my GitHub stars!",
+      "html_url": "https://github.com/gaahrdner/starred",
+      "license": null,
+      "size": 1886,
+      "fork": false,
+      "updated_at": "2026-11-09T07:07:30Z"
+    },
+    {
+      "full_name": "mohamed-hossam28/Neruscan",
+      "description": null,
+      "html_url": "https://github.com/mohamed-hossam28/Neruscan",
+      "license": null,
+      "size": 1351,
+      "fork": false,
+      "updated_at": "2026-05-16T13:31:30Z"
+    },
+    {
+      "full_name": "Ahmedsami1355/Neruscan",
+      "description": null,
+      "html_url": "https://github.com/Ahmedsami1355/Neruscan",
+      "license": null,
+      "size": 1351,
+      "fork": false,
+      "updated_at": "2026-07-28T19:32:28Z"
+    },
+    {
+      "full_name": "Abdelrazekk04/Neruscan",
+      "description": null,
+      "html_url": "https://github.com/Abdelrazekk04/Neruscan",
+      "license": null,
+      "size": 1494,
+      "fork": false,
+      "updated_at": "2026-05-16T13:58:06Z"
+    },
+    {
+      "full_name": "fgvangessel-umd/ml-eos",
+      "description": "Machine learning-based equation of state",
+      "html_url": "https://github.com/fgvangessel-umd/ml-eos",
+      "license": null,
+      "size": 10247,
+      "fork": false,
+      "updated_at": "2026-08-18T14:43:53Z"
+    },
+    {
+      "full_name": "DrSuppe/DrSuppe",
+      "description": "Config files for my GitHub profile.",
+      "html_url": "https://github.com/DrSuppe/DrSuppe",
+      "license": null,
+      "size": 0,
+      "fork": false,
+      "updated_at": "2022-02-07T17:03:43Z"
+    },
+    {
+      "full_name": "Hadyhesham7/Dynamic-Sandbox",
+      "description": null,
+      "html_url": "https://github.com/Hadyhesham7/Dynamic-Sandbox",
+      "license": null,
+      "size": 43581,
+      "fork": false,
+      "updated_at": "2026-07-23T14:28:45Z"
+    },
+    {
+      "full_name": "nitin-210/PhishGuard",
+      "description": "AI model to Detect Phishing Emails",
+      "html_url": "https://github.com/nitin-210/PhishGuard",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 103,
+      "fork": false,
+      "updated_at": "2026-10-09T17:16:07Z"
+    },
+    {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4chem",
+      "description": "🎓Automatically Update AI4Chem Papers Daily using Github Actions",
+      "html_url": "https://github.com/YuzeHao2023/daily-arxiv-ai4chem",
+      "license": null,
+      "size": 12415,
+      "fork": false,
+      "updated_at": "2026-11-09T18:22:28Z"
+    },
+    {
+      "full_name": "cybersky007/Malware-Analysis-LAB",
+      "description": null,
+      "html_url": "https://github.com/cybersky007/Malware-Analysis-LAB",
+      "license": null,
+      "size": 18,
+      "fork": false,
+      "updated_at": "2024-07-10T11:18:53Z"
+    }
+  ]
+}

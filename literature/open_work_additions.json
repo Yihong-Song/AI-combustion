@@ -1,0 +1,235 @@
+{
+  "10.1177/14680874211019345": {
+    "repository": "NatLabRockies/MPRL", "category": "07_engineering_design", "subcategory": "02_control_optimization", "relationship": "author_implementation_readme_explicit",
+    "problem": "通过强化学习选择多次喷射压燃发动机的喷油时刻。",
+    "method": "README 明确列本论文题名、作者与 International Journal of Engine Research，提供发动机环境和 PPO 示例；奖励、动作和状态定义需要从输入配置与原文逐项确认。",
+    "entry": "scripts/ppo-example 下以 python ../main.py --fname input.toml 启动；先阅读 environment.yaml 和环境模型。",
+    "dependencies": "按 environment.yaml 建独立环境，检查发动机模型、机理和数值依赖；README 的 nosetests 是上游测试入口，本轮未执行。",
+    "evaluation": "相同发动机模型、初始状态与动作预算比较规则控制及优化基线；同时考察热效率、排放、约束违反和跨工况稳定性。",
+    "limitations": "Apache-2.0；仿真训练收益不等于真实发动机闭环验证，JCR 年份/类别仍待确认。"
+  },
+  "10.1016/j.engappai.2024.109821": {
+    "repository": "NatLabRockies/mluq-prop", "category": "02_turbulence_closure", "subcategory": "01_closures_manifolds", "relationship": "title_match_repository_readme",
+    "problem": "用贝叶斯神经网络估计预混湍流闭合预测及认知/随机不确定度。",
+    "method": "README 引用 arXiv:2402.18729，题名与 Crossref 期刊版一致；明确以亚滤波进度变量耗散率为目标。保留预印本到正式版配置核对待办。",
+    "entry": "从项目安装和模型/训练配置开始，核对变分推断、网络参数分布与预测采样；Python 3.10 环境为上游建议。",
+    "dependencies": "项目 Python 依赖与 HPC/MPI 配置需依固定提交核查；预混 DNS 数据及预处理不因源码可见而视为齐备。",
+    "evaluation": "除均方误差外，比较预测区间覆盖、校准、域外不确定度与区间宽度；按独立火焰和滤波尺度划分。",
+    "limitations": "BSD-3-Clause-Clear；先验不确定度表现不能直接证明后验 LES 安全或模型已校准。"
+  },
+  "10.1016/j.combustflame.2019.09.010": {
+    "repository": "gdalessi/adaptiveChemistry", "category": "01_chemistry_kinetics", "subcategory": "01_surrogates_reduction", "relationship": "author_implementation_readme_explicit",
+    "problem": "将热化学组成空间分区并配置局部缩减机理，降低 CFD 化学计算量。",
+    "method": "README 的 How to cite 明确列本文题名和卷页，说明实现 OpenFOAM 求解器的在线分类与自适应化学配置；分类器和局部机理构建需与原文对照。",
+    "entry": "SPARC 对 laminarSMOKE/edcSMOKE 的扩展；先建立传统化学基准，再查看组成空间分类和局部机理选择接口。",
+    "dependencies": "OpenFOAM、laminarSMOKE/edcSMOKE、所需缩减机理及分类器；OpenMORe 是相关降阶工具，版本应单独固定。",
+    "evaluation": "比较分类开销、机理切换、点火/火焰特性与 CFD 总耗时；在未见热化学区域记录回退与失败。",
+    "limitations": "未定位许可证，只保留固定链接。预分区误差与局部机理误差需要分开归因。"
+  },
+  "10.1016/j.combustflame.2020.06.008": {
+    "repository": "beroudiauxa/ORCh_2023", "category": "01_chemistry_kinetics", "subcategory": "01_surrogates_reduction", "relationship": "author_related_work_readme_explicit",
+    "problem": "从非预混微混合模型生成训练状态，缩减合成气湍流氧燃烧化学。",
+    "method": "ORCh README 的 ANN/CNN 相关工作明确列本文；工具包含化学优化、缩减与神经学习流程，但该 2023 版本不是已确认的 2020 论文快照。",
+    "entry": "按 ORCh 环境与案例说明定位采样、缩减和 ANN/CNN 模块；先核对同一合成气机理与微混合设置。",
+    "dependencies": "旧 Cantera 2.4、SUNDIALS、Eigen、OpenCV、MPI、HDF5 及编译工具，路径集中配置，历史环境需隔离。",
+    "evaluation": "独立留出壁面与混合状态，对比详细化学、传统缩减和学习缩减，报告火焰/壁面相互作用、组分和热释放。",
+    "limitations": "BSD-3-Clause；相关工作引用不代表原文训练数据和全部 DNS 案例已收纳。"
+  },
+  "10.1038/s41467-021-21331-z": {
+    "repository": "dynamicslab/dominant-balance", "category": "07_engineering_design", "subcategory": "03_supersonic_detonation", "relationship": "author_implementation_readme_explicit",
+    "problem": "从方程项数据识别不同区域的主导物理平衡，并在旋转爆轰简化模型中解释反应与输运竞争。",
+    "method": "README 明确链接同题预印本，提供多物理例题；第七项是旋转爆轰发动机的 Majda–Burgers 简化模型。燃烧方向只对应这个子例，其余例题属于通用方法背景。",
+    "entry": "先阅读 Burgers 的解释性 notebook，再定位 Rotating detonation engine analogue；生成 RDE 数据需 pyclaw。",
+    "dependencies": "scikit-learn、NumPy、SciPy、Matplotlib、seaborn；pyclaw 用于 RDE 数值数据，其他例题可能需要 pymech 或 MATLAB。",
+    "evaluation": "检验聚类/稀疏识别的稳定性、噪声敏感度和物理分区解释；不能把简化模型结果推广为详细多组分爆轰验证。",
+    "limitations": "MIT；期刊正式版与预印本对应以题名核对，燃烧案例仅是跨领域方法论文的一部分。"
+  },
+  "10.1016/j.jsv.2021.116083": {
+    "repository": "ShuaiGuo16/Multi-Fidelity-ML", "category": "04_instability_control", "subcategory": "01_prediction_identification", "relationship": "author_implementation_readme_explicit",
+    "problem": "融合低成本宽带识别与高保真谐波识别，提高火焰频率响应估计的鲁棒性。",
+    "method": "README 明确列题名、作者与 Journal of Sound and Vibration；多保真 Gaussian Process 聚合低/高保真响应，并展示实验台数据。",
+    "entry": "MatlabScripts 中 BroadbandForcing、HarmonicForcing、Ref_FIR、SNR1_gain 与 SNR1_phase，按论文章节定位制图代码。",
+    "dependencies": "MATLAB 与高斯过程相关依赖、输入/热释放信号；README 谐波频率采用离散网格是实现选择，需与原文核对。",
+    "evaluation": "固定计算/实验预算比较单保真与融合策略，分别看增益、相位误差及置信区间；保留不同噪声比与频率留出。",
+    "limitations": "未定位许可证，仅链接；火焰传递函数误差还需传播至稳定性分析。"
+  },
+  "10.1063/5.0086649": {
+    "repository": "mariodeflorio/Stiff-Chemical-Kinetics", "category": "06_physics_informed", "subcategory": "01_forward_inverse", "relationship": "author_implementation_readme_explicit",
+    "problem": "在刚性化学初值问题中比较物理约束神经解法与传统积分器。",
+    "method": "README 明确列本文 DOI，组合 Theory of Functional Connections 与 Extreme Learning Machines 得到 X-TFC；属于刚性动力学方法基础，不预设全部例题都是真实火焰。",
+    "entry": "按固定仓库各例题脚本核对初值、时间区间、分段策略和特征数；先与同精度传统 ODE 参考解对照。",
+    "dependencies": "从各脚本导入和作者环境提取依赖；例题性质与详细燃烧化学的外推范围需全文确认。",
+    "evaluation": "同误差容限下比较各物种、快瞬态、残差与总耗时，报告失败区间；随机特征多种子只计一个方法实验。",
+    "limitations": "未定位许可，仅链接；标为方法基础，不能以通用 ROBER 等小系统充当详细燃烧论文复现。"
+  },
+  "10.1016/j.cpc.2025.110013": {
+    "repository": "deepflame-ai/DFODE-kit",
+    "category": "01_chemistry_kinetics", "subcategory": "01_surrogates_reduction", "relationship": "author_implementation_readme_explicit",
+    "problem": "用神经网络替代详细燃烧化学的刚性 ODE 积分，同时保留与 CFD 的接口。",
+    "method": "固定 README 把本篇列为 DFODE-kit 软件论文，给出生成典型火焰、采样、数据增广、Cantera 标注及训练的连续工作流。输入热化学状态与短时间步输出必须按模型配置核对，不能将点火延迟回归当作化学积分器。",
+    "entry": "dfode_kit/cli/main.py；config → init → run-case → sample → augment → label → train；先阅读 docs 中 data-workflow 与各命令说明。",
+    "dependencies": "Python、Cantera、HDF5、模型训练依赖；运行 CFD 案例还需 OpenFOAM、DeepFlame 及本机路径配置。归档不代表外部求解器、机理或全量训练数据齐备。",
+    "evaluation": "按独立反应器轨迹和火焰工况划分数据；比较温度/组分轨迹、着火与放热、守恒误差、长时积分和后验 CFD 稳定性，计入数据生成与模型装载成本。",
+    "limitations": "GPL-3.0。当前提交经过重构，需与论文发表时版本对照；本轮收录，不执行训练。"
+  },
+  "10.1016/j.fuel.2026.138904": {
+    "repository": "deepflame-ai/DFODE-kit",
+    "category": "01_chemistry_kinetics", "subcategory": "01_surrogates_reduction", "relationship": "author_related_work_readme_explicit",
+    "problem": "改善氨/天然气燃烧化学学习中状态覆盖与不同时间尺度的处理。",
+    "method": "DFODE-kit 固定 README 在 Physics-aware data augmentation and scale separation 部分明确列出本文题名、作者、Fuel 卷和文章号。该证据确认同一软件生态的相关工作，不保证论文的增广配置与尺度分离消融完整包含在当前默认流程。",
+    "entry": "从 augment、label、train 三个命令及数据变换配置入手；逐项比对原文的状态扰动、筛选准则与尺度分离方式。",
+    "dependencies": "同 DFODE-kit 的基础依赖；另需原文所用氨/天然气机理、混合物定义、训练状态与后验反应流算例。",
+    "evaluation": "在固定数据预算下分别消融物理筛选、增广和尺度分离；独立保留混合比、压力及温度，比较痕量组分、守恒和滚动误差。",
+    "limitations": "关联类型为 related work，不能计为全文实验已打包；与 DFODE 软件论文共享一个包。"
+  },
+  "10.1063/5.0248582": {
+    "repository": "deepflame-ai/DFODE-kit",
+    "category": "01_chemistry_kinetics", "subcategory": "01_surrogates_reduction", "relationship": "author_related_work_readme_explicit",
+    "problem": "评估燃烧化学神经积分器跨燃料泛化及耦合反应流后的实际表现。",
+    "method": "README 在 Multi-fuel generalization and a posteriori validation 小节明确列出本文。当前工具提供数据与训练管线，但本文各燃料模型、权重和 CFD 验证配置是否完整需逐文件确认。",
+    "entry": "沿 canonical_cases、数据生成/增广/标注及 training 配置查找各燃料设置，再核对 DeepFlame 的模型部署接口。",
+    "dependencies": "Python/Cantera/DeepFlame/OpenFOAM 及每个燃料的机理；不能把换用新机理所得实验写作原文复现。",
+    "evaluation": "按燃料与独立流场留出，分别报告逐步拟合与长时后验结果，保持化学时间步、误差控制与硬件相同。",
+    "limitations": "只确认相关软件关系，尚未核验完整原文实验；多个燃料不能重复计为多篇论文。"
+  },
+  "10.1016/j.cpc.2023.108842": {
+    "repository": "deepflameCFD/deepflame-dev",
+    "category": "01_chemistry_kinetics", "subcategory": "01_surrogates_reduction", "relationship": "author_related_work_readme_explicit",
+    "problem": "构建深度学习与传统反应流求解耦合的开源平台。",
+    "method": "DFODE-kit 的 Related papers 明确列此 DOI 对应的平台论文，并链接 DeepFlame。已固定的旧 deepflameCFD README 则给出平台引用而未列最终 DOI，因此保留生态相关实现关系，等待发表版与具体提交对齐。",
+    "entry": "先检查上游安装文档、bashrc、求解器和 tutorials，再选择一个与论文版本一致的典型反应流案例。",
+    "dependencies": "兼容的 OpenFOAM、Cantera、LibTorch、编译器和 MPI；旧提交的环境不能直接用本机 OpenFOAM 13 替代。",
+    "evaluation": "在相同网格、数值格式和化学误差阈值下，对比传统积分与 DNN 耦合的物理量、求解失败率和全链路耗时。",
+    "limitations": "部分网络权重上游说明需向作者申请；固定主分支不是自动等同论文发布版本。未执行本论文算例。"
+  },
+  "10.1103/physrevfluids.8.103201": {
+    "repository": "MagriLab/HCTA",
+    "category": "04_instability_control", "subcategory": "01_prediction_identification", "relationship": "author_implementation_readme_explicit",
+    "problem": "从有限压力测点重建非线性声场与热声速度场，并外推振荡。",
+    "method": "README 明确对应 Physical Review Fluids 论文，利用硬约束和软约束把声学结构加入神经网络；提供极限环、准周期和混沌 Rijke 管数据生成方案。",
+    "entry": "python -m hcta.rijke_galerkin.generate 生成合成数据；python -m hcta.experiment --config_path src/configs/config.yml 运行；figures 中脚本对应论文图。",
+    "dependencies": "按项目依赖安装独立 Python 环境；作者另提供 Zenodo 10021355 数据与 figure_data 配置/权重。数据链接已定位，本轮未下载。",
+    "evaluation": "按传感器数、噪声与未见动力学状态评估；比较完整压力/速度场、时间外推、频谱及硬约束消融，不能只看训练点拟合。",
+    "limitations": "MIT。README 明说图 13/14 的模型数据未打包，需要重做 robustness_sensor.py 与 robustness_noise.py 扫描。"
+  },
+  "10.1103/physrevfluids.9.103902": {
+    "repository": "MagriLab/Adjoint-ESN",
+    "category": "04_instability_control", "subcategory": "02_control", "relationship": "author_implementation_readme_explicit",
+    "problem": "在缺少完整伴随求解器时，用数据模型估计热声系统目标量的参数敏感度。",
+    "method": "README 明确列出本文，使用参数化 ESN，并为 Rijke 管引入热声时滞结构；另有 Lorenz 63 通用示例，不能把它独立算作燃烧论文。",
+    "entry": "tutorial_rijke.ipynb 从数据生成、训练、验证到敏感度计算；src 中独立脚本与配置支撑批量实验。",
+    "dependencies": "依赖与配置从固定提交提取；保留 Rijke 管参数、时间离散和扰动幅值，Lorenz 教程用于理解代码。",
+    "evaluation": "对比解析/数值伴随和有限差分，分别评估状态预测与目标函数梯度；跨参数检验梯度方向、幅值和优化效果。",
+    "limitations": "未定位明确根许可证，链接收纳；相同仓库还对应会议论文，会议不计作 JCR 期刊。"
+  },
+  "10.1017/jfm.2022.653": {
+    "repository": "MagriLab/Real-time-TA-DA",
+    "category": "04_instability_control", "subcategory": "01_prediction_identification", "relationship": "author_implementation_readme_explicit",
+    "problem": "用实时数据同化修正热声模型状态，并结合储备池学习处理模型偏差。",
+    "method": "README 声明仓库包含论文制图代码与数据。Part I 为 Rijke 管孪生实验；Part II 结合更高保真数据、数据同化与储备池计算。",
+    "entry": "main.m 按论文图号选择目标图；先检查 Part I 的状态估计，再阅读 Part II 的高保真同化。",
+    "dependencies": "MATLAB 及代码需要的工具箱；不要将迁移后的 Python romda 默认参数视作本篇原始 MATLAB 配置。",
+    "evaluation": "比较开环、仅同化和包含偏差模型的状态/参数误差；保存在线更新频率、噪声设定和计算延迟。",
+    "limitations": "MIT；本轮归档不运行。维护后的软件另见 andreanovoa/real-time-bias-aware-DA，旧版与新版按版本区分。"
+  },
+  "10.1017/jfm.2024.1052": {
+    "repository": "andreanovoa/real-time-bias-aware-DA",
+    "category": "04_instability_control", "subcategory": "01_prediction_identification", "relationship": "author_implementation_readme_explicit",
+    "problem": "为环形燃烧室方位热声不稳定性构建随观测更新的数字孪生。",
+    "method": "固定 README 的 Journal papers 明确列本文 DOI，并指定 v1.0 发布版；当前代码已重构为 romda，提供物理模型、ESN 偏差模型及同化方法。",
+    "entry": "先定位 v1.0，再核对 examples/thermoacoustics 及相应配置；当前 tutorials 的热声章节用于理解软件。",
+    "dependencies": "Python 项目环境及 romda 所列 biasda/dynamodels 等依赖；实验信号和结果目录可能从外部取得，需逐项核实。",
+    "evaluation": "按不同实验爬升或工况留出，比较模态幅值、方位结构、参数后验、预测提前量与实时计算成本。",
+    "limitations": "MIT；主分支固定提交与论文 v1.0 不同，正式复现须补 v1.0 的准确提交。未执行。"
+  },
+  "10.1016/j.cma.2023.116502": {
+    "repository": "MagriLab/rBA-EnKF",
+    "category": "04_instability_control", "subcategory": "01_prediction_identification", "relationship": "author_implementation_readme_explicit",
+    "problem": "在热声等动力系统同化中，同时处理状态不确定性与未知模型偏差。",
+    "method": "README 明确指定本文 DOI，并说明正则化偏差感知集合 Kalman 方法的实现及勘误。该通用方法在本库按热声应用阅读。",
+    "entry": "先读仓库 Erratum.pdf 与实现，再定位热声配置；新维护版入口为 andreanovoa/real-time-bias-aware-DA。",
+    "dependencies": "固定旧版依赖与对应实验设置；新版 API、模块布局和默认参数已变化，不能混用。",
+    "evaluation": "同一观测噪声和集合预算下比较不校正偏差、普通 EnKF 与正则偏差校正，报告状态误差、偏差估计和稳定性。",
+    "limitations": "MIT。README 明说原文式(15)–(16)有排版错误，仓库及勘误为更正依据；必须在复现报告中说明。"
+  },
+  "10.1016/j.proci.2025.105821": {
+    "repository": "comp-comb/SAGE",
+    "category": "05_diagnostics_radiation", "subcategory": "01_optical_inverse", "relationship": "author_implementation_readme_explicit",
+    "problem": "从烟炱 TEM 图像自动分割初级颗粒，减少人工形貌测量负担。",
+    "method": "README 明确列题名与 DOI。基于 Mask R-CNN，先使用合成 TEM 图像训练，再以人工标注真实图像微调；列出 SAGE0/1/2 与 COCO 初始化对照。",
+    "entry": "SAGE_train.ipynb 训练/微调；SAGE_ANALYZE.ipynb 推理、模型比较及颗粒几何量提取；权重从 Releases 或 notebook 下载。",
+    "dependencies": "requirements.yml 的独立环境、Mask R-CNN 依赖、对应分割数据和权重。上游使用 Tesla K80，现代 TensorFlow/CUDA 版本需另核。",
+    "evaluation": "按图像来源和烟炱类型留出，比较实例分割精度、颗粒尺度分布、重叠颗粒和人工标注不确定度；合成与真实数据分开报告。",
+    "limitations": "GPL-3.0；源码许可不自动覆盖权重与图像。原 README 的兼容性建议不是本库实际验证。"
+  },
+  "10.1016/j.jqsrt.2021.107628": {
+    "repository": "ZY-LHY/Machine_learning_based_FSCK_model_soot",
+    "category": "05_diagnostics_radiation", "subcategory": "02_radiation_soot", "relationship": "author_implementation_readme_explicit",
+    "problem": "用紧凑模型预测燃烧气体与烟炱混合物的全谱相关 k 分布。",
+    "method": "README 明确引用本文，说明将机器学习模型导出为可独立调用的 Fortran 模块；输入物理状态在 Main.f90 修改，输出 32 个求积点的 k 分布。",
+    "entry": "Main.f90 → make → ./rhs → python plot.py；先核对温度、压力、组分和烟炱体积分数的单位及范围。",
+    "dependencies": "GNU Fortran、make 与 Python 绘图依赖；训练表格和原始光谱数据库不因推理模块公开而自动齐备。",
+    "evaluation": "先对同状态的 FSCK 表格比较 k 分布，再比较热流/辐射源项及非均匀气体–烟炱火焰；不能把压缩率当作辐射精度。",
+    "limitations": "MIT；README 也列 2020 前作作为背景，不将当前气体–烟炱模块当作前作完整实现。未运行。"
+  },
+  "10.1016/j.proci.2026.106547": {
+    "repository": "Predictive-Intelligent-Systems-Lab/TTE-TAI-PROCI-paper",
+    "category": "04_instability_control", "subcategory": "01_prediction_identification", "relationship": "author_implementation_readme_explicit",
+    "problem": "从环形燃烧室压力信号连续预测距离热声失稳还有多久。",
+    "method": "README 明确对应本文，比较因果 Transformer、单向 LSTM 与 XGBoost；说明按完整合成轨迹切分，并进行实验数据零样本评价。上游给出的轨迹数和种子仅作为配置线索，未由本库重算。",
+    "entry": "synthetic_gen.py 生成轨迹；label_exp_onset.py 标注实验起振；trans_train.py、lstm_train.py、XGBoost_train.py 对照；common.py 与 preprocess_mod.py 核对标签和窗口。",
+    "dependencies": "Python≥3.10、PyTorch、SciPy、pandas、scikit-learn、XGBoost；实验数据入口 Zenodo 23091955 已定位，未下载验证。",
+    "evaluation": "整条实验爬升/轨迹留出，统一起振定义、输入窗口、时间单位与提前量；报告误差随失稳距离变化、跨随机种子及假警率。",
+    "limitations": "MIT；合成轨迹多种子不是多篇复现。原论文正式训练与实验零样本结果尚未执行。"
+  },
+  "10.1016/j.proci.2026.106166": {
+    "repository": "cfx18/NN4Soot",
+    "category": "05_diagnostics_radiation", "subcategory": "03_soot_formation", "relationship": "title_match_repository_readme",
+    "problem": "对分段烟炱动力学模型进行快速敏感度分析和参数优化。",
+    "method": "README 题名与 Crossref 期刊文章吻合，列出 MLP 预测粒径分布、自动微分、主动子空间及软谷值分析。README 仍写 under review，因此保留题名匹配关系，不提升为已确认最终发表版官方代码。",
+    "entry": "scripts/01_train_from_config.py 到 05_run_optimization.py；reproduce_all.py 和跳过预训练入口；先检查 configs 与数据列定义。",
+    "dependencies": "requirements.txt、PyTorch 模型及数据/预训练目录；文件是否包含实际全部数据和权重尚待清点。",
+    "evaluation": "比较各粒径箱误差、双峰谷位置、敏感度置信区间和参数拟合；按独立参数区域及实验工况留出。",
+    "limitations": "README 声称 MIT，但固定提交未定位许可文件，因此只保留链接。出版版与 under-review 代码的对应待核。"
+  },
+  "10.1016/j.combustflame.2023.113139": {
+    "repository": "cristianlacey/data-based-dissipation-rates",
+    "category": "02_turbulence_closure", "subcategory": "01_closures_manifolds", "relationship": "author_implementation_readme_explicit",
+    "problem": "在预混湍流流形模型中预测瞬时条件进度变量耗散率剖面。",
+    "method": "README 明确给出作者、题名、Combustion and Flame 卷和文章号，模型输出进度变量空间中 32 点归一化耗散率剖面；输入为滤波进度变量、方差、梯度、应变和其他局部量。",
+    "entry": "先从 tf-gpu.yml 建立旧环境；依 README 的输入列名对齐特征，核对归一化参考点 Lambda_ref=0.5 与模型输出变换。",
+    "dependencies": "Python、TensorFlow 2.4.1 和固定 Anaconda 环境；训练 DNS 数据、模型文件与特征生成需分别清点。",
+    "evaluation": "跨滤波尺度、湍流条件及火焰工况留出；比较剖面与积分误差、条件平均和后验稳定性，避免随机拆分相邻 DNS 体素。",
+    "limitations": "Clear BSD 许可，包含不授予专利权的条款，保留原文；未执行模型。"
+  },
+  "10.1080/13647830.2026.2621012": {
+    "repository": "cristianlacey/data-based-multi-modal-filtered-dissipation-rates",
+    "category": "02_turbulence_closure", "subcategory": "01_closures_manifolds", "relationship": "author_implementation_readme_explicit",
+    "problem": "在多模态湍流燃烧流形模型中闭合混合分数、交叉及进度变量的滤波耗散率。",
+    "method": "README 明确列本文 DOI 与 TensorFlow 模型，面向三类耗散率闭合；题名中的 a priori 泛化检验不能解释为后验 LES 验证。",
+    "entry": "按 tf-gpu.yml 与 README 输入定义读取模型，分别核对 chi_ZZ、chi_ZLambda 和 chi_LambdaLambda 的符号、尺度和过滤定义。",
+    "dependencies": "TensorFlow 2.4.1 的独立环境、适配的 DNS/流形数据和预处理；未确认训练数据全量可用。",
+    "evaluation": "按燃烧模态和完整模拟留出，对比各源项、交叉项符号、未见状态误差和物理可实现性。",
+    "limitations": "当前二级分区线索为 Q3，保留在相邻附录，不计入 Q1/Q2。未定位许可文件，仅固定链接。"
+  },
+  "10.1016/j.cma.2023.116674": {
+    "repository": "somdattagoswami/Approximating-StiffKinetics",
+    "category": "03_operators_reconstruction", "subcategory": "01_operators_rom", "relationship": "author_implementation_readme_explicit",
+    "problem": "用扩展深度神经算子近似多时间尺度的刚性化学动力学。",
+    "method": "README 明确写本论文题名、作者与期刊，AE-DeepONet 文件夹提供有限 Example 3 数据；完整数据上游明确尚未提供，可用 Cantera 重建实验。",
+    "entry": "先检查 AE-DeepONet 示例与各方法子目录，按原文例题建立初值、时间采样、编码器及算子输入的映射。",
+    "dependencies": "各子目录的框架与依赖需独立提取；Cantera 数据重生成必须固定机理、初始工况与采样。",
+    "evaluation": "按初始条件及轨迹留出，检验快慢尺度、尖峰、长期组分守恒，比较相同数据预算下常规 DeepONet 与扩展方案。",
+    "limitations": "完整数据不可得；未定位许可，只提供固定链接。不能把有限示例运行当作全文结果。"
+  },
+  "10.1016/j.pecs.2022.101010": {
+    "repository": "IhmeGroup/CombML_Tutorials",
+    "category": "10_reviews_methods", "subcategory": "01_reviews_datasets", "relationship": "author_supporting_tutorial_readme_explicit",
+    "problem": "为理解燃烧机器学习的主要范式提供可阅读的入门实现。",
+    "method": "README 明确要求引用本综述，提供监督、无监督学习教程与 Q-learning 接口。教程服务理解方法，不构成综述中所有论文的复现。",
+    "entry": "按上游目录逐个读取监督/无监督 notebook 与强化学习接口，先核对输入特征和示例数据。",
+    "dependencies": "各教程导入与环境需要单独核对；没有统一依赖锁文件的地方保留待办。",
+    "evaluation": "先说明学习任务、切分、基线和指标，再用它作为阅读具体燃烧论文的概念支撑。",
+    "limitations": "未定位许可文件，链接收纳；不把通用课堂例子计为燃烧 Q1 论文复现。"
+  }
+}

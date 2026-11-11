@@ -8,8 +8,10 @@ P1cf521f2c6 · 2025 · Combustion and Flame
 - 分类：物理信息学习与可微燃烧求解 / 正逆问题与可微求解
 - JCR：**二级来源报告 Q1/Q2，JCR 版本待官方核实**；报告最佳分区 Q1；版本未知；官方核实：否。
 - 阅读深度：已核对元数据与上游 README，尚未完成全文精读。
-- 论文原始指标复现：**未执行**。
+- 完整期刊论文复现：**尚未验收**。
 - [统一方法与证据等级](../../../docs/METHODOLOGY.md) · [方向说明](../../../06_physics_informed/README.md) · [全局地图](../../../00_literature_map/README.md)
+
+此前已完成预印本单工况训练：[C02 协议、误差和局限](../../../reproductions/C02_flamepinn_case1/README.md)。期刊全文指标复现仍未完成。
 
 分区线索：[二级来源](https://www.letpub.com/index.php?page=journalapp&view=detail&journalid=1901)。多类别期刊使用报告中的最佳类别作为候选信号，不能解释为所有类别均为 Q1。
 
@@ -52,4 +54,4 @@ P1cf521f2c6 · 2025 · Combustion and Flame
 - 代码—论文版本一致性，数据及预训练权重是否齐全。
 - 论文指标同口径复现及差异分析。
 
-元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.combustflame.2025.113964)；本轮整理日期 2026-11-11。完整元数据见同目录 `paper.json`。
+元数据来源：[Crossref](https://api.crossref.org/works/10.1016/j.combustflame.2025.113964)；本轮整理日期 2026-11-12。完整元数据见同目录 `paper.json`。

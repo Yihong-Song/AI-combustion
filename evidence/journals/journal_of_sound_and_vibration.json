@@ -1,0 +1,36 @@
+{
+  "journal": "Journal of Sound and Vibration",
+  "retrieved_at": "2026-11-11T16:58:39.927920+00:00",
+  "source_type": "secondary_crowdsourced_letpub",
+  "jcr_edition": null,
+  "jif_year": null,
+  "edition_note": "Source does not explicitly identify the JCR edition; do not infer it from retrieval date or self-citation year.",
+  "officially_verified": false,
+  "search_url": "https://www.letpub.com/journal-selector?view=search&initsub=1&title=Journal+of+Sound+and+Vibration",
+  "page_title": "LetPub - Scientific Journal Selector | JOURNAL OF SOUND AND VIBRATION - Review, Submission, Impact Factor, Acceptance, Speed",
+  "source_url": "https://www.letpub.com/journal-selector/journal/5164",
+  "journal_id": "5164",
+  "identity_in_page": true,
+  "jif_evidence_text": "Collection Quartile Rank Percentage Category: ACOUSTICS SCIE Q1 2/41 Category: ENGINEERING, MECHANICAL SCIE Q1 26/184 Category: MECHANICS SCIE Q1 19/172",
+  "categories": [
+    {
+      "category": "ACOUSTICS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "2/41"
+    },
+    {
+      "category": "ENGINEERING, MECHANICAL",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "26/184"
+    },
+    {
+      "category": "MECHANICS",
+      "collection": "SCIE",
+      "quartile": "Q1",
+      "rank": "19/172"
+    }
+  ],
+  "reported_best_quartile": "Q1"
+}

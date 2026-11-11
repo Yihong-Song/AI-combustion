@@ -1,0 +1,24 @@
+{
+  "doi": "10.1016/j.proci.2026.106249",
+  "title": "Adaptive learning of data assimilated combustion reaction model",
+  "query": "\"Adaptive learning of data assimilated combustion reaction model\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:45:37.168533+00:00",
+  "total_count": 1,
+  "items": [
+    {
+      "full_name": "dongwd016/FFCM2_Website",
+      "html_url": "https://github.com/dongwd016/FFCM2_Website",
+      "description": "Website of FFCM-2, a data-assimilated, uncertainty-minimized reaction model for H2, CO, and C1-C4 hydrocarbon combustion",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 491518,
+      "fork": false
+    }
+  ]
+}

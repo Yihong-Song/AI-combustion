@@ -1,0 +1,136 @@
+{
+  "id": "MagriLab__rBA-EnKF",
+  "repository": "MagriLab/rBA-EnKF",
+  "url": "https://github.com/MagriLab/rBA-EnKF",
+  "commit": "641e422240f360300dcbd6fe6d543da358ece74c",
+  "retrieved_at": "2026-11-11T16:48:01.878155+00:00",
+  "relationship": "paper_link_reviewed",
+  "paper_dois": [
+    "10.1016/j.cma.2023.116502"
+  ],
+  "note": "论文对应与入口见关联论文卡。",
+  "license": "MIT",
+  "redistribution_enabled": true,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/MagriLab__rBA-EnKF.json",
+  "license_url": "https://github.com/MagriLab/rBA-EnKF/blob/641e422240f360300dcbd6fe6d543da358ece74c/LICENSE",
+  "license_sha256": "d0279ebc68676de5e257efad14d2597b1c130af08d229648a8f1ee500e4dbf3e",
+  "pinned_url": "https://github.com/MagriLab/rBA-EnKF/tree/641e422240f360300dcbd6fe6d543da358ece74c",
+  "archive_url": "https://api.github.com/repos/MagriLab/rBA-EnKF/tarball/641e422240f360300dcbd6fe6d543da358ece74c",
+  "readme_source": "https://github.com/MagriLab/rBA-EnKF/blob/641e422240f360300dcbd6fe6d543da358ece74c/README.md",
+  "archive": {
+    "repository": "MagriLab/rBA-EnKF",
+    "commit": "641e422240f360300dcbd6fe6d543da358ece74c",
+    "source_url": "https://api.github.com/repos/MagriLab/rBA-EnKF/tarball/641e422240f360300dcbd6fe6d543da358ece74c",
+    "retrieved_at": "2026-11-11T17:00:07.534039+00:00",
+    "license": "MIT",
+    "execution": "not_executed",
+    "resolved_source_url": "https://codeload.github.com/MagriLab/rBA-EnKF/legacy.tar.gz/641e422240f360300dcbd6fe6d543da358ece74c",
+    "status": "downloaded",
+    "path": "code_packages/MagriLab__rBA-EnKF/641e422240f3.tar.gz",
+    "bytes": 247111,
+    "sha256": "ea685de910cfd03047949e2bced65b15ace00dfb468bcd00a9895a541070f016"
+  },
+  "collection_status": "source_archive_collected",
+  "source_snapshot": {
+    "status": "collected",
+    "collection_type": "partial_source_snapshot",
+    "repository": "MagriLab/rBA-EnKF",
+    "commit": "641e422240f360300dcbd6fe6d543da358ece74c",
+    "date": "2026-11-11",
+    "path": "code_packages/MagriLab__rBA-EnKF/641e422240f3-source-only.tar.gz",
+    "bytes": 42892,
+    "sha256": "063674e7a278236fdb9dcf9ced6d092f8c2f5af38a74cfcb505188db6121c771",
+    "limitations": "Selected source/config/README/license only; excludes large files, data, images, weights and some unselected file types. Not a complete upstream distribution or execution claim.",
+    "files": [
+      {
+        "path": "Bias.py",
+        "git_blob_sha": "033dad7611052e4a9f5777b99d173497b6aacba0",
+        "sha256": "f2ba3bcdea0aaa31a7c7991248432a9e6031ff00a499165dc56877fd8443cd39",
+        "bytes": 13112
+      },
+      {
+        "path": "DA.py",
+        "git_blob_sha": "f28cc3137743954d7ed95c2123585484239a5134",
+        "sha256": "00f25aa9a2398c70abd49ec7a4873bf00877a85a93b174fb5d27425aace3a6b8",
+        "bytes": 14926
+      },
+      {
+        "path": "LICENSE",
+        "git_blob_sha": "5d19cd592ee9c8e145b2411f83abc6662cdf1b92",
+        "sha256": "d0279ebc68676de5e257efad14d2597b1c130af08d229648a8f1ee500e4dbf3e",
+        "bytes": 1065
+      },
+      {
+        "path": "README.md",
+        "git_blob_sha": "d0b821625532f3be28436a3699c67ee7c3f79128",
+        "sha256": "f9b05a4ed98bfcd4ad05b2456f47f15e5e54e9788526fecff2acd35e39a086c1",
+        "bytes": 945
+      },
+      {
+        "path": "TAModels.py",
+        "git_blob_sha": "a874fb58a17530059793c129a562d46ea3e09292",
+        "sha256": "2db2ec7c9be63f8629ac80f72811a837f48d4f17b1d03b65f94f6e62585a7f09",
+        "bytes": 24698
+      },
+      {
+        "path": "Util.py",
+        "git_blob_sha": "cf61e995021438254e8ed7800ebd74eb487e483f",
+        "sha256": "859e500c7521b5c045d0559317527134a097e50e2068bf055fe05419ccd13fb5",
+        "bytes": 9307
+      },
+      {
+        "path": "fns_training.py",
+        "git_blob_sha": "eb4afe4985ab9580133f84c31ed180a608a01b26",
+        "sha256": "447301ac28f883343f2f94af563a7cb6b43f5e4b33256debf9598f3304bd6a0d",
+        "bytes": 6652
+      },
+      {
+        "path": "main_Rijke.py",
+        "git_blob_sha": "a5c600f3a3706febe62d05e22115de2bc09e0756",
+        "sha256": "c38ea318791ee91edc4a009223ece4fde1ac1bd0b5d8320e43d345c01286e74e",
+        "bytes": 7028
+      },
+      {
+        "path": "main_Rijke_noise.py",
+        "git_blob_sha": "b17b1c60c6d1b815e21128b79dfc833ee448894d",
+        "sha256": "d2e74c2109e67ff2c792c42d1970a6206d86c9c1e97d8e5ea25c0efa994fe522",
+        "bytes": 6077
+      },
+      {
+        "path": "main_VdP.py",
+        "git_blob_sha": "69a255eb339e50025e13f66068e97643c5698eb8",
+        "sha256": "fe9b310621b89b43856f17a6c8b4a315c727513335a7e6c3c5bd705dda3fdf29",
+        "bytes": 6961
+      },
+      {
+        "path": "main_training.py",
+        "git_blob_sha": "96c405c4dfad58e44caef05dc97a998d78f6bb0c",
+        "sha256": "72951956067c398c1f356988553e9a3a35cdfab4b7037bc96aa12c637185c586",
+        "bytes": 15514
+      },
+      {
+        "path": "plotResults.py",
+        "git_blob_sha": "a920d2f62af779a02cc36ed6de3fcd96887a6143",
+        "sha256": "f53635bac83b583c18b59341d26a5ac30344751b0116acebddd4553ef643e5ad",
+        "bytes": 42413
+      },
+      {
+        "path": "requirements.txt",
+        "git_blob_sha": "e0c91708afded7394def8727467dbdbadbe8e01d",
+        "sha256": "36de95e9a5dbc9f5ed6309edba8a1b3243a1b42c91994d2e42270ad22544abe6",
+        "bytes": 81
+      },
+      {
+        "path": "run.py",
+        "git_blob_sha": "72db493cad593fb3c57603632f50dbd922c5000c",
+        "sha256": "32ce0e589b06ea0ab29325c64f707f688e07a5dffd6dade1a57bd691ca6bddd0",
+        "bytes": 21037
+      }
+    ],
+    "excluded_paths": [
+      ".gitignore",
+      "Erratum.pdf"
+    ]
+  }
+}

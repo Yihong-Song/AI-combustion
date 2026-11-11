@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.combustflame.2024.113876",
+  "title": "Machine learned compact kinetic model for liquid fuel combustion",
+  "query": "\"Machine learned compact kinetic model for liquid fuel combustion\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:51:11.415231+00:00",
+  "total_count": 0,
+  "items": []
+}

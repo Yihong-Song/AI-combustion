@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.combustflame.2026.114998",
+  "title": "A machine learning method to predict rate constants in ammonium dinitramide combustion kinetic model",
+  "query": "\"A machine learning method to predict rate constants in ammonium dinitramide combustion\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:40:38.588408+00:00",
+  "total_count": 0,
+  "items": []
+}

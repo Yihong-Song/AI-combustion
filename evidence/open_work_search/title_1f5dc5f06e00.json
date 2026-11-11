@@ -1,0 +1,23 @@
+{
+  "title_query": "Integrated Neural Network Approach for Autonomous Sensitivity Analysis and Optimization of Sectional Soot Kinetic Modeling",
+  "retrieved_at": "2026-11-11T16:54:10.905244+00:00",
+  "url": "https://api.crossref.org/works?query.title=Integrated+Neural+Network+Approach+for+Autonomous+Sensitivity+Analysis+and+Optimization+of+Sectional+Soot+Kinetic+Modeling&rows=3&filter=type%3Ajournal-article",
+  "candidates": [
+    {
+      "doi": "10.1016/j.proci.2026.106166",
+      "title": "Integrated neural network approach for autonomous sensitivity analysis and optimization of sectional soot kinetic modeling",
+      "score": 1.0
+    },
+    {
+      "doi": "10.1016/s0951-8320(98)00057-x",
+      "title": "Neural network approach to sensitivity and uncertainty analysis",
+      "score": 0.5121951219512195
+    },
+    {
+      "doi": "10.1016/j.ijhydene.2026.158495",
+      "title": "Integrated Global Sensitivity Analysis and Deep Neural Network Surrogate Modeling for Alkaline Water Electrolysis Performance Prediction and Multi-Objective Optimization",
+      "score": 0.35658914728682173
+    }
+  ],
+  "matched_doi": "10.1016/j.proci.2026.106166"
+}

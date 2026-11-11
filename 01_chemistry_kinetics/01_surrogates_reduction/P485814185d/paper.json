@@ -1,0 +1,61 @@
+{
+  "id": "P485814185d",
+  "doi": "10.1016/j.cpc.2025.110013",
+  "title": "DFODE-Kit: Deep learning package for solving flame chemical kinetics with high-dimensional stiff ordinary differential equations",
+  "year": 2026,
+  "journal": "Computer Physics Communications",
+  "authors": [
+    "Han Li",
+    "Ke Xiao",
+    "Yangchen Xu",
+    "Haoze Zhang",
+    "Zhenyi Chen",
+    "Runze Mao",
+    "Zhi X. Chen"
+  ],
+  "category": "01_chemistry_kinetics",
+  "subcategory": "01_surrogates_reduction",
+  "path": "01_chemistry_kinetics/01_surrogates_reduction/P485814185d",
+  "doi_url": "https://doi.org/10.1016/j.cpc.2025.110013",
+  "metadata_source": "https://api.crossref.org/works/10.1016/j.cpc.2025.110013",
+  "metadata_retrieved_date": "2026-11-12",
+  "reading_level": "metadata_and_upstream_readme",
+  "screening": "candidate_not_systematic_review_inclusion",
+  "scope": "combustion_and_adjacent_thermal_conversion",
+  "jcr": {
+    "status": "pending_jcr",
+    "reported_best_quartile": null,
+    "edition": null,
+    "officially_verified": false,
+    "categories": [],
+    "source_url": null,
+    "source_type": "not_located",
+    "caution": "JCR edition unknown; best of reported categories; not necessarily Q1 in Energy & Fuels."
+  },
+  "code": {
+    "status": "reviewed_paper_link",
+    "repository": "deepflame-ai/DFODE-kit",
+    "relationship": "author_implementation_readme_explicit",
+    "commit": "bc65e84bc7644675b9996e3eea08f0d38cbceaad",
+    "license": "GPL-3.0 (inspect upstream terms)",
+    "package_id": "deepflame-ai__DFODE-kit",
+    "search_hits": null,
+    "search_evidence": null
+  },
+  "reproduction": {
+    "status": "not_executed",
+    "paper_metrics_reproduced": false
+  },
+  "curated_note": {
+    "repository": "deepflame-ai/DFODE-kit",
+    "category": "01_chemistry_kinetics",
+    "subcategory": "01_surrogates_reduction",
+    "relationship": "author_implementation_readme_explicit",
+    "problem": "用神经网络替代详细燃烧化学的刚性 ODE 积分，同时保留与 CFD 的接口。",
+    "method": "固定 README 把本篇列为 DFODE-kit 软件论文，给出生成典型火焰、采样、数据增广、Cantera 标注及训练的连续工作流。输入热化学状态与短时间步输出必须按模型配置核对，不能将点火延迟回归当作化学积分器。",
+    "entry": "dfode_kit/cli/main.py；config → init → run-case → sample → augment → label → train；先阅读 docs 中 data-workflow 与各命令说明。",
+    "dependencies": "Python、Cantera、HDF5、模型训练依赖；运行 CFD 案例还需 OpenFOAM、DeepFlame 及本机路径配置。归档不代表外部求解器、机理或全量训练数据齐备。",
+    "evaluation": "按独立反应器轨迹和火焰工况划分数据；比较温度/组分轨迹、着火与放热、守恒误差、长时积分和后验 CFD 稳定性，计入数据生成与模型装载成本。",
+    "limitations": "GPL-3.0。当前提交经过重构，需与论文发表时版本对照；本轮收录，不执行训练。"
+  }
+}

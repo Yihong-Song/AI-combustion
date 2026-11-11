@@ -1,0 +1,14 @@
+{
+  "repository": "DENG-MIT/StiffNet-Benchmark",
+  "url": "https://github.com/DENG-MIT/StiffNet-Benchmark",
+  "retrieved_at": "2026-11-11T16:48:47.943053+00:00",
+  "commit": "1f06e3c804161edfb45889d7e79bd5dfcd716095",
+  "readme_path": "evidence/upstream/DENG-MIT__StiffNet-Benchmark.readme.txt",
+  "readme_url": "https://github.com/DENG-MIT/StiffNet-Benchmark/blob/1f06e3c804161edfb45889d7e79bd5dfcd716095/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/DENG-MIT__StiffNet-Benchmark.license.txt",
+  "license_url": "https://github.com/DENG-MIT/StiffNet-Benchmark/blob/1f06e3c804161edfb45889d7e79bd5dfcd716095/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:25.517359+00:00"
+}

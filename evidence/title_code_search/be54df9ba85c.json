@@ -1,0 +1,9 @@
+{
+  "doi": "10.1016/j.fuel.2025.136238",
+  "title": "Machine learning and SHapley Additive exPlanations to predict product characteristics from coal and plastic co-pyrolysis",
+  "query": "\"Machine learning and SHapley Additive exPlanations to predict product characteristics from coal\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:41:56.911362+00:00",
+  "total_count": 0,
+  "items": []
+}

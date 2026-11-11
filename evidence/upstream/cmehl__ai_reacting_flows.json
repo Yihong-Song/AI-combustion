@@ -1,0 +1,14 @@
+{
+  "repository": "cmehl/ai_reacting_flows",
+  "url": "https://github.com/cmehl/ai_reacting_flows",
+  "retrieved_at": "2026-11-11T16:49:28.649114+00:00",
+  "commit": "80196ba3f6211fe1f35c6e76ed1da1ee15e7d8d8",
+  "readme_path": "evidence/upstream/cmehl__ai_reacting_flows.readme.txt",
+  "readme_url": "https://github.com/cmehl/ai_reacting_flows/blob/80196ba3f6211fe1f35c6e76ed1da1ee15e7d8d8/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/cmehl__ai_reacting_flows.license.txt",
+  "license_url": "https://github.com/cmehl/ai_reacting_flows/blob/80196ba3f6211fe1f35c6e76ed1da1ee15e7d8d8/LICENCE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "NOASSERTION",
+  "api_checked_at": "2026-11-11T16:49:37.807088+00:00"
+}

@@ -1,0 +1,369 @@
+{
+  "query": "combustion \"DeepONet\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:46:44.887748+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 41,
+  "url": "https://api.github.com/search/repositories?q=combustion+%22DeepONet%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "WillDreamer/Awesome-AI4CFD",
+      "description": "Recent Advances on Machine Learning for Computational Fluid Dynamics: A Survey",
+      "html_url": "https://github.com/WillDreamer/Awesome-AI4CFD",
+      "license": null,
+      "size": 6446,
+      "fork": false,
+      "updated_at": "2026-11-06T08:47:05Z"
+    },
+    {
+      "full_name": "AI4Science-WestlakeU/RealPDEBench",
+      "description": "[🔥ICLR26 Oral] RealPDEBench: A Benchmark for Complex Physical Systems with Paired Real-World and Simulated Data",
+      "html_url": "https://github.com/AI4Science-WestlakeU/RealPDEBench",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 3938,
+      "fork": false,
+      "updated_at": "2026-11-11T12:36:47Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "pswpswpsw/paper-nif",
+      "description": null,
+      "html_url": "https://github.com/pswpswpsw/paper-nif",
+      "license": null,
+      "size": 66919,
+      "fork": false,
+      "updated_at": "2026-07-12T03:36:28Z"
+    },
+    {
+      "full_name": "deepflame-ai/REALM",
+      "description": "A comprehensive benchmark for machine learning multiphysics flows",
+      "html_url": "https://github.com/deepflame-ai/REALM",
+      "license": null,
+      "size": 6068,
+      "fork": false,
+      "updated_at": "2026-10-11T03:02:46Z"
+    },
+    {
+      "full_name": "DENG-MIT/StiffNet-Benchmark",
+      "description": "Benchmark for learning stiff problems using physics-informed machine learning",
+      "html_url": "https://github.com/DENG-MIT/StiffNet-Benchmark",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 9,
+      "fork": false,
+      "updated_at": "2026-03-26T20:15:06Z"
+    },
+    {
+      "full_name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "html_url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 69,
+      "fork": false,
+      "updated_at": "2026-11-04T13:01:27Z"
+    },
+    {
+      "full_name": "kimimgo/awesome-ai-cae",
+      "description": "A curated list of 100+ AI-ready tools for Computer-Aided Engineering, ranked by an AI-Readiness Score (agent-callability: MCP, Python API, CLI, pip). CFD, FEA, SPH, DEM, differentiable simulation, neural operators, PINNs, MCP servers.",
+      "html_url": "https://github.com/kimimgo/awesome-ai-cae",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 1961,
+      "fork": false,
+      "updated_at": "2026-11-10T07:23:00Z"
+    },
+    {
+      "full_name": "lizhihao2022/Awesome-AI4PDE",
+      "description": "Awesome AI4PDE is a curated list of resources and literature focusing on the intersection of Artificial Intelligence and Partial Differential Equations (PDEs).",
+      "html_url": "https://github.com/lizhihao2022/Awesome-AI4PDE",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 359,
+      "fork": false,
+      "updated_at": "2026-11-08T14:40:02Z"
+    },
+    {
+      "full_name": "huwenfeng1128/POD-PINO",
+      "description": "A POD-PINO Approach for Identifying Governing Parameters of a Phenomenological Model for Liquid Rocket Engine Combustion Instability",
+      "html_url": "https://github.com/huwenfeng1128/POD-PINO",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 797,
+      "fork": false,
+      "updated_at": "2026-09-13T10:11:49Z"
+    },
+    {
+      "full_name": "bnkglu/chemkan-tuwien",
+      "description": null,
+      "html_url": "https://github.com/bnkglu/chemkan-tuwien",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 438066,
+      "fork": false,
+      "updated_at": "2026-11-08T15:23:34Z"
+    },
+    {
+      "full_name": "Dynobite/piml-synthetic-data-engine",
+      "description": "MOC Dataset Generator - Physics-Informed ML Synthetic Data Engine",
+      "html_url": "https://github.com/Dynobite/piml-synthetic-data-engine",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3360,
+      "fork": false,
+      "updated_at": "2026-07-11T19:09:53Z"
+    },
+    {
+      "full_name": "small-dumpling/Foundation-Neural-Operators-A-Survey",
+      "description": "A curated paper list for \"Foundation Neural Operators: A Survey on Pretraining Methods, Data Ecosystems, and Efficient Adaptation\".",
+      "html_url": "https://github.com/small-dumpling/Foundation-Neural-Operators-A-Survey",
+      "license": null,
+      "size": 54,
+      "fork": false,
+      "updated_at": "2026-10-22T12:14:42Z"
+    },
+    {
+      "full_name": "huwenfeng1128/POD-PINO-Data",
+      "description": "A POD-PINO Approach for Identifying Governing Parameters of a Phenomenological Model for Liquid Rocket Engine Combustion Instability",
+      "html_url": "https://github.com/huwenfeng1128/POD-PINO-Data",
+      "license": null,
+      "size": 6394,
+      "fork": false,
+      "updated_at": "2026-09-13T12:06:39Z"
+    },
+    {
+      "full_name": "adityaIyerramesh98/adityaIyerramesh98",
+      "description": "This repo just entails all my basic info from what drives me to be awake all night to what I do in my spare-time.",
+      "html_url": "https://github.com/adityaIyerramesh98/adityaIyerramesh98",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 217,
+      "fork": false,
+      "updated_at": "2025-12-28T15:37:05Z"
+    },
+    {
+      "full_name": "hxh5159/realm",
+      "description": "multi-physics-benchmark",
+      "html_url": "https://github.com/hxh5159/realm",
+      "license": null,
+      "size": 6050,
+      "fork": false,
+      "updated_at": "2026-08-03T08:56:34Z"
+    },
+    {
+      "full_name": "mohammedbasra-star/mohammedbasra-star",
+      "description": null,
+      "html_url": "https://github.com/mohammedbasra-star/mohammedbasra-star",
+      "license": null,
+      "size": 15,
+      "fork": false,
+      "updated_at": "2026-10-24T17:25:20Z"
+    },
+    {
+      "full_name": "Einie-ai/CFD-workspace",
+      "description": "Personal CFD research workspace — External/Internal Flow, Propulsion Numerics, SciML CFD",
+      "html_url": "https://github.com/Einie-ai/CFD-workspace",
+      "license": null,
+      "size": 100493,
+      "fork": false,
+      "updated_at": "2026-09-17T19:07:43Z"
+    },
+    {
+      "full_name": "gtdu1/unet",
+      "description": "在unet中探索",
+      "html_url": "https://github.com/gtdu1/unet",
+      "license": null,
+      "size": 2610,
+      "fork": false,
+      "updated_at": "2026-05-27T10:19:38Z"
+    },
+    {
+      "full_name": "gtdu1/unet_change",
+      "description": null,
+      "html_url": "https://github.com/gtdu1/unet_change",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 3772,
+      "fork": false,
+      "updated_at": "2026-06-03T02:44:56Z"
+    },
+    {
+      "full_name": "XiangCHEN-dvi/awesome-PDE-foundation-model-papers",
+      "description": null,
+      "html_url": "https://github.com/XiangCHEN-dvi/awesome-PDE-foundation-model-papers",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 19,
+      "fork": false,
+      "updated_at": "2026-07-07T02:50:10Z"
+    },
+    {
+      "full_name": "lhz099/CFD-Learn",
+      "description": "A comprehensive repository for self-learning fluid dynamics programming",
+      "html_url": "https://github.com/lhz099/CFD-Learn",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 302,
+      "fork": false,
+      "updated_at": "2026-10-10T05:14:31Z"
+    },
+    {
+      "full_name": "H-Jaylani/Pan-2023-NIF_Paper",
+      "description": "Taken as a fork and is used to test the results found in Pan's paper on Neural Implicit Flow.",
+      "html_url": "https://github.com/H-Jaylani/Pan-2023-NIF_Paper",
+      "license": null,
+      "size": 66919,
+      "fork": false,
+      "updated_at": "2025-05-22T01:42:37Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-pinns",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 507,
+      "fork": false,
+      "updated_at": "2026-11-11T05:40:41Z"
+    },
+    {
+      "full_name": "pswpswpsw/pswpswpsw",
+      "description": "readme",
+      "html_url": "https://github.com/pswpswpsw/pswpswpsw",
+      "license": null,
+      "size": 47,
+      "fork": false,
+      "updated_at": "2026-03-14T18:28:52Z"
+    },
+    {
+      "full_name": "Data-Driven-Computational-Geotechnics/PhysGuard",
+      "description": "PhysGuard (NeurIPS 2026): Fisher-Guided Gradient Projection for Sim-to-Real Neural PDE Surrogates",
+      "html_url": "https://github.com/Data-Driven-Computational-Geotechnics/PhysGuard",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 4395,
+      "fork": false,
+      "updated_at": "2026-11-07T01:17:43Z"
+    },
+    {
+      "full_name": "weltall216/Neural-Dynamics",
+      "description": null,
+      "html_url": "https://github.com/weltall216/Neural-Dynamics",
+      "license": null,
+      "size": 29,
+      "fork": false,
+      "updated_at": "2026-06-15T12:04:57Z"
+    },
+    {
+      "full_name": "cosmos2w/PhyCoFlow-MultiFieldReconstruction",
+      "description": "Multi-field physical-state reconstruction and physical-coherence post-training research framework",
+      "html_url": "https://github.com/cosmos2w/PhyCoFlow-MultiFieldReconstruction",
+      "license": null,
+      "size": 74659,
+      "fork": false,
+      "updated_at": "2026-10-29T21:03:35Z"
+    },
+    {
+      "full_name": "natrask/SEACROGS_review2024",
+      "description": null,
+      "html_url": "https://github.com/natrask/SEACROGS_review2024",
+      "license": null,
+      "size": 120677,
+      "fork": false,
+      "updated_at": "2026-08-24T17:04:22Z"
+    },
+    {
+      "full_name": "RamtinMoslemi/KAN-Papers",
+      "description": "A complete list of papers on Kolmogorov-Arnold Networks (KANs) extracted from arXiv",
+      "html_url": "https://github.com/RamtinMoslemi/KAN-Papers",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 86060,
+      "fork": false,
+      "updated_at": "2026-10-26T07:33:33Z"
+    }
+  ]
+}

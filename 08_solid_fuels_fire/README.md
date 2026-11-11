@@ -112,13 +112,13 @@ TGA/DSC、升温速率、气氛、燃料组成、热流与火焰图像；记录�
 | 2022 | [Co–pyrolysis of de–alkalized lignin and coconut shell via TG/DTG–FTIR and machine learning methods: pyrolysis characteristics, gas products, and thermo–kinetics](01_kinetics_fire/Pd8586b4c1b/README.md) | Q1 | 待核对 |
 | 2021 | [Thermodynamics, kinetics, gas emissions and artificial neural network modeling of co-pyrolysis of sewage sludge and peanut shell](01_kinetics_fire/P5a1322fc5e/README.md) | Q1 | 待核对 |
 | 2021 | [Investigation of the co-pyrolysis of coal slime and coffee industry residue based on machine learning methods and TG-FTIR: Synergistic effect, kinetics and thermodynamic](01_kinetics_fire/Pbbe2924e9f/README.md) | Q1 | 待核对 |
-| 2020 | [Learning-based prediction of wildfire spread with real-time rate of spread measurement](01_kinetics_fire/Pa23de912d3/README.md) | Q1 | 待核对 |
 | 2020 | [Classification of solid fuels with machine learning](01_kinetics_fire/P53dcbe4b04/README.md) | Q1 | ✓ |
 | 2020 | [Pyrolysis of biological wastes for bioenergy production: Thermo-kinetic studies with machine-learning method and Py-GC/MS analysis](01_kinetics_fire/P5c34bdff3c/README.md) | Q1 | 待核对 |
 | 2020 | [Machine learning for predictive coal combustion CFD simulations—From detailed kinetics to HDMR Reduced-Order models](01_kinetics_fire/Pdd14baf067/README.md) | Q1 | 待核对 |
 | 2019 | [A comparison of random forest and support vector machine approaches to predict coal spontaneous combustion in gob](01_kinetics_fire/Pf1021f79aa/README.md) | Q1 | 待核对 |
 | 2019 | [Predicting kinetic parameters for coal devolatilization by means of Artificial Neural Networks](01_kinetics_fire/P0b8e2b7d28/README.md) | Q1 | 待核对 |
 | 2018 | [Prediction of product distributions in coal devolatilization by an artificial neural network model](01_kinetics_fire/P9dbc7c7b55/README.md) | Q1 | 待核对 |
+| 2018 | [ThermalNet: A deep reinforcement learning-based combustion optimization system for coal-fired boiler](01_kinetics_fire/P8e6b5f251a/README.md) | Q1 | 待核对 |
 
 ### [金属燃料与固体推进剂](02_metals_propellants/README.md)（6）
 

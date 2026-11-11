@@ -1,0 +1,393 @@
+{
+  "query": "soot \"machine learning\" in:name,description,readme",
+  "retrieved_at": "2026-11-11T16:47:46.133403+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 222,
+  "url": "https://api.github.com/search/repositories?q=soot+%22machine+learning%22+in%3Aname%2Cdescription%2Creadme&per_page=30",
+  "items": [
+    {
+      "full_name": "secure-software-engineering/SuSi",
+      "description": "SuSi - our tool to automatically discover sources and sinks in the Android framework",
+      "html_url": "https://github.com/secure-software-engineering/SuSi",
+      "license": null,
+      "size": 11247,
+      "fork": false,
+      "updated_at": "2026-07-17T10:59:40Z"
+    },
+    {
+      "full_name": "danielyule/hearthbreaker",
+      "description": "A Hearthstone: Heroes of WarCraft Simulator for the purposes of Machine Learning and Data Mining",
+      "html_url": "https://github.com/danielyule/hearthbreaker",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 33079,
+      "fork": false,
+      "updated_at": "2026-08-21T13:11:05Z"
+    },
+    {
+      "full_name": "graphcode2vec/graphcode2vec",
+      "description": null,
+      "html_url": "https://github.com/graphcode2vec/graphcode2vec",
+      "license": {
+        "key": "bsl-1.0",
+        "name": "Boost Software License 1.0",
+        "spdx_id": "BSL-1.0",
+        "url": "https://api.github.com/licenses/bsl-1.0",
+        "node_id": "MDc6TGljZW5zZTI4"
+      },
+      "size": 39996,
+      "fork": false,
+      "updated_at": "2025-06-03T09:46:03Z"
+    },
+    {
+      "full_name": "prince381/air-pollution",
+      "description": "Predicting the amount of Particulate Matter (PM2.5) content in the air ",
+      "html_url": "https://github.com/prince381/air-pollution",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 13922,
+      "fork": false,
+      "updated_at": "2026-05-19T01:48:19Z"
+    },
+    {
+      "full_name": "Reza-saeedi/Malware-Detection-Tools",
+      "description": "A list of awesome malware detection tools",
+      "html_url": "https://github.com/Reza-saeedi/Malware-Detection-Tools",
+      "license": null,
+      "size": 109,
+      "fork": false,
+      "updated_at": "2026-09-25T12:01:27Z"
+    },
+    {
+      "full_name": "comp-comb/SAGE",
+      "description": "Soot Aggregate Geometry Extraction: A Machine Learning Based Approach for Primary Particle Segmentation in TEM Images of Soot Aggregates",
+      "html_url": "https://github.com/comp-comb/SAGE",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 109385,
+      "fork": false,
+      "updated_at": "2026-11-03T11:46:03Z"
+    },
+    {
+      "full_name": "tsipkens/atems",
+      "description": "A MATLAB codebase to analyze TEM images of soot, which includes new methods associated with this project and a compilation of other pre-existing methods into a single package.",
+      "html_url": "https://github.com/tsipkens/atems",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 240005,
+      "fork": false,
+      "updated_at": "2026-08-01T22:41:37Z"
+    },
+    {
+      "full_name": "ZY-LHY/Machine_learning_based_FSCK_model_soot",
+      "description": null,
+      "html_url": "https://github.com/ZY-LHY/Machine_learning_based_FSCK_model_soot",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 19673,
+      "fork": false,
+      "updated_at": "2026-02-18T11:31:38Z"
+    },
+    {
+      "full_name": "szkafander/lattice_fringe",
+      "description": "hrtem lattice fringe image analysis algorithms - developed for carbon nanostructure analysis",
+      "html_url": "https://github.com/szkafander/lattice_fringe",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 2626,
+      "fork": false,
+      "updated_at": "2026-01-09T21:22:00Z"
+    },
+    {
+      "full_name": "ArimaKausik/Vehicular_Emission_Model",
+      "description": "Machine learning framework to optimize emissions of a Volvo diesel engine",
+      "html_url": "https://github.com/ArimaKausik/Vehicular_Emission_Model",
+      "license": null,
+      "size": 6,
+      "fork": false,
+      "updated_at": "2022-03-14T08:22:26Z"
+    },
+    {
+      "full_name": "compdyn/partmc",
+      "description": "Particle-resolved stochastic atmospheric aerosol model",
+      "html_url": "https://github.com/compdyn/partmc",
+      "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdx_id": "GPL-2.0",
+        "url": "https://api.github.com/licenses/gpl-2.0",
+        "node_id": "MDc6TGljZW5zZTg="
+      },
+      "size": 181352,
+      "fork": false,
+      "updated_at": "2026-10-21T16:20:24Z"
+    },
+    {
+      "full_name": "aziz79-source/semetrics-android-malware",
+      "description": "Android malware detection using software-engineering metrics and ML classifiers (course project, ISEC 363)",
+      "html_url": "https://github.com/aziz79-source/semetrics-android-malware",
+      "license": null,
+      "size": 992,
+      "fork": false,
+      "updated_at": "2026-10-31T22:06:53Z"
+    },
+    {
+      "full_name": "walbermr/android-srm-ml-evaluation",
+      "description": "Code for Security Relevant Methods of Android’s API Classification: A Machine Learning Empirical Evaluation",
+      "html_url": "https://github.com/walbermr/android-srm-ml-evaluation",
+      "license": null,
+      "size": 11783,
+      "fork": false,
+      "updated_at": "2023-10-23T13:08:39Z"
+    },
+    {
+      "full_name": "jiweiqi/CombustionNet",
+      "description": "Design a Benchmark Dataset for Deep Learning in Combustion Research Inspired by ImageNet",
+      "html_url": "https://github.com/jiweiqi/CombustionNet",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 4,
+      "fork": false,
+      "updated_at": "2023-12-25T02:47:37Z"
+    },
+    {
+      "full_name": "blutjens/awesome-earth-system-ml",
+      "description": "🌎 A curated list of Earth system datasets for the machine learning and weather, climate, ice, ocean, etc. community.",
+      "html_url": "https://github.com/blutjens/awesome-earth-system-ml",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 373,
+      "fork": false,
+      "updated_at": "2026-05-25T08:57:40Z"
+    },
+    {
+      "full_name": "sat-group/sypet",
+      "description": "Program synthesis tool.",
+      "html_url": "https://github.com/sat-group/sypet",
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "size": 60943,
+      "fork": false,
+      "updated_at": "2024-10-02T06:31:02Z"
+    },
+    {
+      "full_name": "tsipkens/py-atems",
+      "description": "A Python codebase to analyze TEM images of soot, which includes new methods associated with this project and a compilation of other pre-existing methods into a single package.",
+      "html_url": "https://github.com/tsipkens/py-atems",
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdx_id": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "node_id": "MDc6TGljZW5zZTk="
+      },
+      "size": 33711,
+      "fork": false,
+      "updated_at": "2026-10-05T19:36:44Z"
+    },
+    {
+      "full_name": "asgcfigueiredo/MERLIN",
+      "description": "MERLIN is a tool capable of detecting security vulnerabilities in web applications written in multiple programming languages.",
+      "html_url": "https://github.com/asgcfigueiredo/MERLIN",
+      "license": null,
+      "size": 19598,
+      "fork": false,
+      "updated_at": "2025-05-21T12:02:01Z"
+    },
+    {
+      "full_name": "sola-da/TSFinder",
+      "description": "TSFinder is a machine learning based framework to infer thread-safety of Java classes.",
+      "html_url": "https://github.com/sola-da/TSFinder",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 44104,
+      "fork": false,
+      "updated_at": "2021-11-30T13:44:55Z"
+    },
+    {
+      "full_name": "EL1088/soot",
+      "description": "Machine Learning-based Approximation of Soot Temperature and Volume Fraction Profiles in Combustion Diagnostics",
+      "html_url": "https://github.com/EL1088/soot",
+      "license": null,
+      "size": 85990,
+      "fork": false,
+      "updated_at": "2025-08-20T09:10:46Z"
+    },
+    {
+      "full_name": "gaoxiang9430/Android-Related-Paper",
+      "description": null,
+      "html_url": "https://github.com/gaoxiang9430/Android-Related-Paper",
+      "license": null,
+      "size": 53858,
+      "fork": false,
+      "updated_at": "2021-06-05T14:05:58Z"
+    },
+    {
+      "full_name": "Djack1010/GrapPa",
+      "description": null,
+      "html_url": "https://github.com/Djack1010/GrapPa",
+      "license": null,
+      "size": 147770,
+      "fork": false,
+      "updated_at": "2023-12-02T13:22:20Z"
+    },
+    {
+      "full_name": "singh-yash129/DFS-Load-Prediction-Assignment",
+      "description": "Machine Learning ",
+      "html_url": "https://github.com/singh-yash129/DFS-Load-Prediction-Assignment",
+      "license": null,
+      "size": 1213,
+      "fork": false,
+      "updated_at": "2026-08-27T15:38:03Z"
+    },
+    {
+      "full_name": "vanshs1/ML_DetonationCells_SootFoil",
+      "description": "This algorithm is designed to accurately extract cellular patterns from soot foils",
+      "html_url": "https://github.com/vanshs1/ML_DetonationCells_SootFoil",
+      "license": {
+        "key": "lgpl-2.1",
+        "name": "GNU Lesser General Public License v2.1",
+        "spdx_id": "LGPL-2.1",
+        "url": "https://api.github.com/licenses/lgpl-2.1",
+        "node_id": "MDc6TGljZW5zZTEx"
+      },
+      "size": 13779,
+      "fork": false,
+      "updated_at": "2025-07-17T00:33:00Z"
+    },
+    {
+      "full_name": "beroudiauxa/ORCh_2023",
+      "description": null,
+      "html_url": "https://github.com/beroudiauxa/ORCh_2023",
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "size": 14490,
+      "fork": false,
+      "updated_at": "2026-08-19T10:04:33Z"
+    },
+    {
+      "full_name": "uhub/awesome-java",
+      "description": "A curated list of awesome Java frameworks, libraries and software.",
+      "html_url": "https://github.com/uhub/awesome-java",
+      "license": null,
+      "size": 1398,
+      "fork": false,
+      "updated_at": "2026-11-10T10:18:43Z"
+    },
+    {
+      "full_name": "francktchafa/Supervised-ML-PhD-Research",
+      "description": "A collection of projects using supervised machine learning techniques to analyze the effects of various factors on antenna sensors.",
+      "html_url": "https://github.com/francktchafa/Supervised-ML-PhD-Research",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 12527,
+      "fork": false,
+      "updated_at": "2025-02-19T16:28:40Z"
+    },
+    {
+      "full_name": "lucvervisch/ORCh_2022",
+      "description": "ORCh is a package to reduce and optimise large chemical systems for CFD.",
+      "html_url": "https://github.com/lucvervisch/ORCh_2022",
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdx_id": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "node_id": "MDc6TGljZW5zZTU="
+      },
+      "size": 3906,
+      "fork": false,
+      "updated_at": "2024-03-22T13:23:41Z"
+    },
+    {
+      "full_name": "Infrasity-Labs/awesome-tech-newsletter",
+      "description": "A curated, community-driven list of the best tech, software engineering, and developer marketing newsletters. Stay up-to-date with top-tier insights across AI, DevOps, Frontend, and more.",
+      "html_url": "https://github.com/Infrasity-Labs/awesome-tech-newsletter",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 21663,
+      "fork": false,
+      "updated_at": "2026-11-11T12:38:58Z"
+    },
+    {
+      "full_name": "nijamudheen/CheMLFlow",
+      "description": "Configuration-driven, reproducible ML workflows for molecules and materials, with DOE, auditable artifacts and agent-assisted execution.",
+      "html_url": "https://github.com/nijamudheen/CheMLFlow",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 3137,
+      "fork": false,
+      "updated_at": "2026-10-05T06:09:15Z"
+    }
+  ]
+}

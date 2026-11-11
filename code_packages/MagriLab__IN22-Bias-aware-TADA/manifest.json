@@ -1,0 +1,18 @@
+{
+  "id": "MagriLab__IN22-Bias-aware-TADA",
+  "repository": "MagriLab/IN22-Bias-aware-TADA",
+  "url": "https://github.com/MagriLab/IN22-Bias-aware-TADA",
+  "commit": "54aa55fa0dfdfcccd18b451ede1258503101c603",
+  "retrieved_at": "2026-11-11T16:47:58.554909+00:00",
+  "relationship": "supporting_tool",
+  "paper_dois": [],
+  "note": "2022 Internoise 会议热声偏差感知数据同化；main.m 对应图 4，MATLAB 2022a 及三个工具箱。会议资料单列，不计 JCR。",
+  "license": "not_located",
+  "redistribution_enabled": false,
+  "execution_status": "not_executed",
+  "inspection_evidence": "evidence/upstream/MagriLab__IN22-Bias-aware-TADA.json",
+  "pinned_url": "https://github.com/MagriLab/IN22-Bias-aware-TADA/tree/54aa55fa0dfdfcccd18b451ede1258503101c603",
+  "archive_url": "https://api.github.com/repos/MagriLab/IN22-Bias-aware-TADA/tarball/54aa55fa0dfdfcccd18b451ede1258503101c603",
+  "readme_source": "https://github.com/MagriLab/IN22-Bias-aware-TADA/blob/54aa55fa0dfdfcccd18b451ede1258503101c603/README.md",
+  "collection_status": "link_only"
+}

@@ -1,0 +1,14 @@
+{
+  "repository": "JackBeerman/G-PARC",
+  "url": "https://github.com/JackBeerman/G-PARC",
+  "retrieved_at": "2026-11-11T16:48:47.936573+00:00",
+  "commit": "49bc5f721a25260fdece18852f495dcded4da7ac",
+  "readme_path": "evidence/upstream/JackBeerman__G-PARC.readme.txt",
+  "readme_url": "https://github.com/JackBeerman/G-PARC/blob/49bc5f721a25260fdece18852f495dcded4da7ac/README.md",
+  "readme_status": "retrieved_at_pinned_commit",
+  "license_path": "evidence/upstream/JackBeerman__G-PARC.license.txt",
+  "license_url": "https://github.com/JackBeerman/G-PARC/blob/49bc5f721a25260fdece18852f495dcded4da7ac/LICENSE",
+  "license_status": "retrieved_at_pinned_commit",
+  "license_spdx": "MIT",
+  "api_checked_at": "2026-11-11T16:49:03.072102+00:00"
+}

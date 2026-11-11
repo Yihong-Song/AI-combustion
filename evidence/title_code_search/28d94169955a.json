@@ -1,0 +1,24 @@
+{
+  "doi": "10.1016/j.combustflame.2026.115223",
+  "title": "Autonomous adaptive solver selection for chemistry integration via reinforcement learning",
+  "query": "\"Autonomous adaptive solver selection for chemistry integration via reinforcement learning\" in:readme",
+  "search_type": "github_readme_title_phrase_candidates_not_implementation_confirmation",
+  "retrieved_at": "2026-11-11T16:41:09.674745+00:00",
+  "total_count": 1,
+  "items": [
+    {
+      "full_name": "exopoiesis/arxiv-radar-chem-eng",
+      "html_url": "https://github.com/exopoiesis/arxiv-radar-chem-eng",
+      "description": "Daily-curated chemical engineering-relevant papers from arXiv with abstracts, canonical tags, and generated Pages views.",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 8640,
+      "fork": false
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "query": "\"chemistry\" \"neural ODE\" \"combustion\" in:readme",
+  "retrieved_at": "2026-11-11T16:49:58.681820+00:00",
+  "purpose": "repository discovery only; hits are not confirmed paper implementations",
+  "total_count": 24,
+  "url": "https://api.github.com/search/repositories?q=%22chemistry%22+%22neural+ODE%22+%22combustion%22+in%3Areadme&per_page=30",
+  "items": [
+    {
+      "full_name": "DENG-MIT/CRNN",
+      "description": "Chemical Reaction Neural Network",
+      "html_url": "https://github.com/DENG-MIT/CRNN",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 40351,
+      "fork": false,
+      "updated_at": "2026-10-28T02:39:42Z"
+    },
+    {
+      "full_name": "blutjens/awesome-MIT-ai-for-climate-change",
+      "description": "🌍 A curated list of MIT faculty that tackle climate change with machine learning for applying students, undergraduates, or others ",
+      "html_url": "https://github.com/blutjens/awesome-MIT-ai-for-climate-change",
+      "license": null,
+      "size": 188,
+      "fork": false,
+      "updated_at": "2026-09-04T13:47:16Z"
+    },
+    {
+      "full_name": "bitzhangcy/Neural-PDE-Solver",
+      "description": null,
+      "html_url": "https://github.com/bitzhangcy/Neural-PDE-Solver",
+      "license": null,
+      "size": 336,
+      "fork": false,
+      "updated_at": "2026-11-10T08:23:34Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-pinns",
+      "description": "A carefully curated collection of high-quality libraries, projects, tutorials, research papers, and other essential resources focused on Physics-Informed Machine Learning (PIML) and Physics-Informed Neural Networks (PINNs).",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-pinns",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 507,
+      "fork": false,
+      "updated_at": "2026-11-11T05:40:41Z"
+    },
+    {
+      "full_name": "Sayan2k3/Neural_ODEs",
+      "description": null,
+      "html_url": "https://github.com/Sayan2k3/Neural_ODEs",
+      "license": null,
+      "size": 9503,
+      "fork": false,
+      "updated_at": "2025-07-17T20:09:54Z"
+    },
+    {
+      "full_name": "Vassiliki-Mancoridis/iw-spring-2023",
+      "description": null,
+      "html_url": "https://github.com/Vassiliki-Mancoridis/iw-spring-2023",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 74,
+      "fork": false,
+      "updated_at": "2023-02-26T20:51:38Z"
+    },
+    {
+      "full_name": "Saakaarb/AE-NODE-StiffnessReduction",
+      "description": "Autoencoder Neural ODEs with stiffness reduction for surrogate modeling of stiff time series data",
+      "html_url": "https://github.com/Saakaarb/AE-NODE-StiffnessReduction",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 11395,
+      "fork": false,
+      "updated_at": "2026-08-05T05:32:20Z"
+    },
+    {
+      "full_name": "mohammedbasra-star/mohammedbasra-star",
+      "description": null,
+      "html_url": "https://github.com/mohammedbasra-star/mohammedbasra-star",
+      "license": null,
+      "size": 15,
+      "fork": false,
+      "updated_at": "2026-10-24T17:25:20Z"
+    },
+    {
+      "full_name": "bnkglu/chemkan-tuwien",
+      "description": null,
+      "html_url": "https://github.com/bnkglu/chemkan-tuwien",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 438066,
+      "fork": false,
+      "updated_at": "2026-11-08T15:23:34Z"
+    },
+    {
+      "full_name": "Saakaarb/Thermal_runaway_modeling_AI",
+      "description": "Learning physically consistent battery cell thermal runaway models using AI to accurately predict battery pack fires",
+      "html_url": "https://github.com/Saakaarb/Thermal_runaway_modeling_AI",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 427,
+      "fork": false,
+      "updated_at": "2026-10-04T14:56:42Z"
+    },
+    {
+      "full_name": "modelscript/modelscript",
+      "description": "One compiler for every engineering model: SysML v2, Modelica, STEP, and legacy proprietary formats, running in your browser.",
+      "html_url": "https://github.com/modelscript/modelscript",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 100488,
+      "fork": false,
+      "updated_at": "2026-11-11T10:54:58Z"
+    },
+    {
+      "full_name": "sodhanimanav-source/FireOps-SIH2026-private",
+      "description": null,
+      "html_url": "https://github.com/sodhanimanav-source/FireOps-SIH2026-private",
+      "license": null,
+      "size": 36264,
+      "fork": false,
+      "updated_at": "2026-09-21T18:12:20Z"
+    },
+    {
+      "full_name": "OB-1997/pfr-reactor-simulation",
+      "description": "Finite-volume simulator of a tubular chemical reactor: Fortran 2018 stiff-ODE solvers (2,000 coupled equations) + reproducible Python experiment pipeline. Bachelor thesis, UCT Prague.",
+      "html_url": "https://github.com/OB-1997/pfr-reactor-simulation",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 13371,
+      "fork": false,
+      "updated_at": "2026-09-22T14:09:15Z"
+    },
+    {
+      "full_name": "AI-in-Transportation-Lab/awesome-kan",
+      "description": "A curated collection of KAN (Kolmogorov-Arnold Network) resources—libraries, projects, tutorials, papers, and more—for researchers and developers in the field.",
+      "html_url": "https://github.com/AI-in-Transportation-Lab/awesome-kan",
+      "license": null,
+      "size": 970,
+      "fork": false,
+      "updated_at": "2026-11-11T04:40:34Z"
+    },
+    {
+      "full_name": "KrunalPanchal1995/pan-iit-oss",
+      "description": "Openfirststeps: small open teaching repos, three sessions each, with a Target to aim for (Hello FOSS / PAN IIT OSS)",
+      "html_url": "https://github.com/KrunalPanchal1995/pan-iit-oss",
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdx_id": "NOASSERTION",
+        "url": null,
+        "node_id": "MDc6TGljZW5zZTA="
+      },
+      "size": 229710,
+      "fork": false,
+      "updated_at": "2026-11-07T11:34:40Z"
+    },
+    {
+      "full_name": "RamtinMoslemi/KAN-Papers",
+      "description": "A complete list of papers on Kolmogorov-Arnold Networks (KANs) extracted from arXiv",
+      "html_url": "https://github.com/RamtinMoslemi/KAN-Papers",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdx_id": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "node_id": "MDc6TGljZW5zZTEz"
+      },
+      "size": 86060,
+      "fork": false,
+      "updated_at": "2026-10-26T07:33:33Z"
+    },
+    {
+      "full_name": "exopoiesis/arxiv-radar-chem-eng",
+      "description": "Daily-curated chemical engineering-relevant papers from arXiv with abstracts, canonical tags, and generated Pages views.",
+      "html_url": "https://github.com/exopoiesis/arxiv-radar-chem-eng",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "node_id": "MDc6TGljZW5zZTI="
+      },
+      "size": 8640,
+      "fork": false,
+      "updated_at": "2026-11-11T05:41:07Z"
+    },
+    {
+      "full_name": "natemurthy/world-models",
+      "description": "A public study and examination of world models in applied AI research engineering",
+      "html_url": "https://github.com/natemurthy/world-models",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 954,
+      "fork": false,
+      "updated_at": "2026-11-02T08:38:59Z"
+    },
+    {
+      "full_name": "lewisbakkero/sparsis",
+      "description": null,
+      "html_url": "https://github.com/lewisbakkero/sparsis",
+      "license": {
+        "key": "cc0-1.0",
+        "name": "Creative Commons Zero v1.0 Universal",
+        "spdx_id": "CC0-1.0",
+        "url": "https://api.github.com/licenses/cc0-1.0",
+        "node_id": "MDc6TGljZW5zZTY="
+      },
+      "size": 4521,
+      "fork": false,
+      "updated_at": "2026-06-24T14:34:35Z"
+    },
+    {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4cheme",
+      "description": "🎓Automatically Update AI4Chemical-Engineering Papers Daily using Github Actions",
+      "html_url": "https://github.com/YuzeHao2023/daily-arxiv-ai4cheme",
+      "license": null,
+      "size": 2439,
+      "fork": false,
+      "updated_at": "2026-11-09T18:34:05Z"
+    },
+    {
+      "full_name": "YuzeHao2023/daily-arxiv-ai4physics",
+      "description": "🎓Automatically Update AI4Physics Papers Daily using Github Actions",
+      "html_url": "https://github.com/YuzeHao2023/daily-arxiv-ai4physics",
+      "license": null,
+      "size": 21485,
+      "fork": false,
+      "updated_at": "2026-11-09T17:52:36Z"
+    },
+    {
+      "full_name": "XikunHuang/daily_paper",
+      "description": "Automatically Update Papers Daily using Github Actions",
+      "html_url": "https://github.com/XikunHuang/daily_paper",
+      "license": null,
+      "size": 34754,
+      "fork": false,
+      "updated_at": "2026-01-26T02:20:38Z"
+    }
+  ]
+}
